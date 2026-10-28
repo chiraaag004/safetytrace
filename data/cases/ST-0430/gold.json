@@ -1,0 +1,238 @@
+{
+  "case_id": "ST-0430",
+  "facts": [
+    {
+      "field": "study_id",
+      "value": "SFT-301",
+      "doc": "physician_note_scanned.pdf",
+      "page": 1,
+      "quote": "Study: SFT-301"
+    },
+    {
+      "field": "site_id",
+      "value": "104",
+      "doc": "physician_note_scanned.pdf",
+      "page": 1,
+      "quote": "Site: 104, Mumbai"
+    },
+    {
+      "field": "subject_id",
+      "value": "104-0217",
+      "doc": "physician_note_scanned.pdf",
+      "page": 1,
+      "quote": "Subject ID: 104-0217"
+    },
+    {
+      "field": "patient_initials",
+      "value": "R.K.",
+      "doc": "physician_note_scanned.pdf",
+      "page": 1,
+      "quote": "Initials: R.K."
+    },
+    {
+      "field": "patient_age",
+      "value": "54",
+      "doc": "physician_note_scanned.pdf",
+      "page": 1,
+      "quote": "Age: 54 years"
+    },
+    {
+      "field": "patient_sex",
+      "value": "Female",
+      "doc": "physician_note_scanned.pdf",
+      "page": 1,
+      "quote": "Sex: Female"
+    },
+    {
+      "field": "relevant_history",
+      "value": "Hypertension",
+      "doc": "physician_note_scanned.pdf",
+      "page": 1,
+      "quote": "Hypertension, controlled on amlodipine 5 mg once daily"
+    },
+    {
+      "field": "concomitant_meds",
+      "value": "amlodipine 5 mg once daily",
+      "doc": "physician_note_scanned.pdf",
+      "page": 1,
+      "quote": "amlodipine 5 mg once daily"
+    },
+    {
+      "field": "drug_name",
+      "value": "Velorantib",
+      "doc": "physician_note_scanned.pdf",
+      "page": 1,
+      "quote": "Velorantib 50 mg orally once daily"
+    },
+    {
+      "field": "dose",
+      "value": "50 mg",
+      "doc": "physician_note_scanned.pdf",
+      "page": 1,
+      "quote": "Velorantib 50 mg orally once daily"
+    },
+    {
+      "field": "route",
+      "value": "orally",
+      "doc": "physician_note_scanned.pdf",
+      "page": 1,
+      "quote": "Velorantib 50 mg orally once daily"
+    },
+    {
+      "field": "frequency",
+      "value": "once daily",
+      "doc": "physician_note_scanned.pdf",
+      "page": 1,
+      "quote": "Velorantib 50 mg orally once daily"
+    },
+    {
+      "field": "indication",
+      "value": "moderate-to-severe plaque psoriasis",
+      "doc": "physician_note_scanned.pdf",
+      "page": 1,
+      "quote": "Velorantib in moderate-to-severe plaque psoriasis"
+    },
+    {
+      "field": "start_date",
+      "value": "02-Mar-2026",
+      "doc": "physician_note_scanned.pdf",
+      "page": 1,
+      "quote": "started on 02-Mar-2026"
+    },
+    {
+      "field": "event_verbatim",
+      "value": "erythematous maculopapular rash, grade 3, on trunk and arms",
+      "doc": "physician_note_scanned.pdf",
+      "page": 1,
+      "quote": "erythematous maculopapular rash, grade 3, on trunk and arms"
+    },
+    {
+      "field": "event_onset_date",
+      "value": "14-Mar-2026",
+      "doc": "physician_note_scanned.pdf",
+      "page": 1,
+      "quote": "Rash first noted on 14-Mar-2026"
+    },
+    {
+      "field": "seriousness_criteria",
+      "value": "hospitalisation",
+      "doc": "physician_note_scanned.pdf",
+      "page": 2,
+      "quote": "Seriousness: hospitalisation."
+    },
+    {
+      "field": "action_taken",
+      "value": "drug interrupted",
+      "doc": "physician_note_scanned.pdf",
+      "page": 2,
+      "quote": "Study drug interrupted on 16-Mar-2026"
+    },
+    {
+      "field": "stop_date",
+      "value": "15-Mar-2026",
+      "doc": "physician_note_scanned.pdf",
+      "page": 2,
+      "quote": "last dose 15-Mar-2026"
+    },
+    {
+      "field": "treatment_given",
+      "value": "IV methylprednisolone 40 mg daily",
+      "doc": "physician_note_scanned.pdf",
+      "page": 2,
+      "quote": "IV methylprednisolone 40 mg daily"
+    },
+    {
+      "field": "treatment_given",
+      "value": "oral cetirizine 10 mg once daily",
+      "doc": "physician_note_scanned.pdf",
+      "page": 2,
+      "quote": "oral cetirizine 10 mg once daily"
+    },
+    {
+      "field": "outcome",
+      "value": "not recovered",
+      "doc": "physician_note_scanned.pdf",
+      "page": 2,
+      "quote": "Outcome at time of report: not yet recovered."
+    },
+    {
+      "field": "reporter_name_or_role",
+      "value": "Dr. Anjali Mehta, Principal Investigator",
+      "doc": "physician_note_scanned.pdf",
+      "page": 2,
+      "quote": "Dr. Anjali Mehta, Principal Investigator, Site 104"
+    },
+    {
+      "field": "reporter_type",
+      "value": "investigator",
+      "doc": "physician_note_scanned.pdf",
+      "page": 2,
+      "quote": "Investigator: Dr. Anjali Mehta, Principal Investigator"
+    },
+    {
+      "field": "case_receipt_date",
+      "value": "16-Mar-2026",
+      "doc": "physician_note_scanned.pdf",
+      "page": 2,
+      "quote": "Received by sponsor drug safety: 16-Mar-2026"
+    },
+    {
+      "field": "subject_id",
+      "value": "104-0217",
+      "doc": "patient_diary.txt",
+      "page": 1,
+      "quote": "Subject 104-0217"
+    },
+    {
+      "field": "event_onset_date",
+      "value": "12 Mar 2026",
+      "doc": "patient_diary.txt",
+      "page": 1,
+      "quote": "12 Mar 2026: Took tablet. Itchy red spots started on my stomach in the evening."
+    },
+    {
+      "field": "event_verbatim",
+      "value": "itchy red spots",
+      "doc": "patient_diary.txt",
+      "page": 1,
+      "quote": "Itchy red spots started on my stomach"
+    },
+    {
+      "field": "subject_id",
+      "value": "104-0217",
+      "doc": "lab_report.txt",
+      "page": 1,
+      "quote": "Subject: 104-0217"
+    },
+    {
+      "field": "relevant_labs",
+      "value": "Eosinophils 1.2 x10^9/L (ref 0.0-0.5) HIGH",
+      "doc": "lab_report.txt",
+      "page": 1,
+      "quote": "Eosinophils 1.2 x10^9/L (ref 0.0-0.5) HIGH"
+    },
+    {
+      "field": "relevant_labs",
+      "value": "ALT 38 U/L (ref 7-56)",
+      "doc": "lab_report.txt",
+      "page": 1,
+      "quote": "ALT 38 U/L (ref 7-56)"
+    }
+  ],
+  "expected": {
+    "initial": {
+      "conflicts": [
+        "event_onset_date"
+      ],
+      "open_gaps_include": [
+        "dechallenge"
+      ],
+      "missing_minimum_criteria": [],
+      "seriousness": [
+        "hospitalisation"
+      ]
+    }
+  },
+  "meddra_expected_pt": "Rash maculo-papular",
+  "notes": "Same clinical content as ST-0417 but the physician note is an IMAGE-ONLY scanned PDF: exercises OCR (D1) and fuzzy anchoring on OCR text."
+}

@@ -1,0 +1,13 @@
+{
+  "case_id": "ST-0421",
+  "title": "ALT elevation on Corvexin - reporter only identifiable on lab report page 2",
+  "region": "US/EU/India",
+  "demo_today": "2026-04-09",
+  "documents": [
+    {"path": "documents/clinic_note.txt", "doc_type": "physician_note"},
+    {"path": "documents/lab_report.txt", "doc_type": "lab_report"}
+  ],
+  "followups": [],
+  "designed_to_show": ["D3 targeted search before flagging a missing minimum criterion (avoids a wrongly invalidated case)", "gaps: outcome and dechallenge missing"],
+  "synthetic": true
+}

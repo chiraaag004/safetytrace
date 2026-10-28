@@ -1,0 +1,89 @@
+{
+  "source": "FDA FAERS via openFDA (manufacturer-submitted literature ICSRs)",
+  "faers_report_ids": [
+    "20298332",
+    "20304099",
+    "20308490",
+    "20308682"
+  ],
+  "literature_reference": "Datta S, Mahal K, Mahal S, Driskill AK. A Case of Limb-Threatening Hematoma in a Patient Taking Citalopram and Apixaban Concurrently. Cureus. 2021 Nov 20;13(11):e19771.",
+  "patient_age": [
+    [
+      "85",
+      "years"
+    ]
+  ],
+  "patient_sex": [
+    "female"
+  ],
+  "reporter_qualification": [
+    "other health professional"
+  ],
+  "seriousness": [
+    "hospitalisation",
+    "life-threatening",
+    "other medically important"
+  ],
+  "suspect_drugs": [
+    {
+      "key": "apixaban",
+      "names": [
+        "apixaban"
+      ],
+      "indication": [
+        "Atrial fibrillation"
+      ],
+      "dosage": [
+        "2.5 MILLIGRAM, BID"
+      ],
+      "action": [
+        "5"
+      ]
+    },
+    {
+      "key": "citalopram",
+      "names": [
+        "celexa",
+        "citalopram",
+        "citalopram hydrobromide"
+      ],
+      "indication": [
+        "Depression",
+        "Product used for unknown indication"
+      ],
+      "dosage": [
+        "UNK"
+      ],
+      "action": [
+        "5"
+      ]
+    }
+  ],
+  "reactions": [
+    {
+      "pt": "Haematoma",
+      "outcome": [
+        "unknown"
+      ]
+    },
+    {
+      "pt": "Drug interaction",
+      "outcome": [
+        "unknown"
+      ]
+    },
+    {
+      "pt": "Skin necrosis",
+      "outcome": [
+        "unknown"
+      ]
+    },
+    {
+      "pt": "Normocytic anaemia",
+      "outcome": [
+        "unknown"
+      ]
+    }
+  ],
+  "note": "FAERS public data has no narrative. Coding choices of the submitting company are a reference, not absolute truth."
+}

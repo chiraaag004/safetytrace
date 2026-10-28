@@ -1,0 +1,22 @@
+{
+  "case_id": "LIT-PMC8383751",
+  "title": "REAL literature case: Antiproliferative therapy with sirolimus and propranolol for congenital vascular anomalies in newborns (Case r",
+  "region": "US/EU/India",
+  "documents": [
+    {
+      "path": "documents/article.txt",
+      "doc_type": "literature_article"
+    }
+  ],
+  "followups": [],
+  "real": true,
+  "source": {
+    "pmcid": "PMC8383751",
+    "doi": "10.3892/etm.2021.10531",
+    "license": "cc by-nc-nd",
+    "url": "https://europepmc.org/article/PMC/8383751"
+  },
+  "designed_to_show": [
+    "real published case: extraction + MedDRA + seriousness vs the manufacturer's FAERS ICSR"
+  ]
+}

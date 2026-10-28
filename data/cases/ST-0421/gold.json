@@ -1,0 +1,183 @@
+{
+  "case_id": "ST-0421",
+  "facts": [
+    {
+      "field": "study_id",
+      "value": "HPX-202",
+      "doc": "clinic_note.txt",
+      "page": 1,
+      "quote": "Study: HPX-202"
+    },
+    {
+      "field": "subject_id",
+      "value": "211-0042",
+      "doc": "clinic_note.txt",
+      "page": 1,
+      "quote": "Subject: 211-0042"
+    },
+    {
+      "field": "patient_initials",
+      "value": "S.P.",
+      "doc": "clinic_note.txt",
+      "page": 1,
+      "quote": "Initials: S.P."
+    },
+    {
+      "field": "patient_age",
+      "value": "61",
+      "doc": "clinic_note.txt",
+      "page": 1,
+      "quote": "Age: 61"
+    },
+    {
+      "field": "patient_sex",
+      "value": "Male",
+      "doc": "clinic_note.txt",
+      "page": 1,
+      "quote": "Sex: Male"
+    },
+    {
+      "field": "drug_name",
+      "value": "Corvexin",
+      "doc": "clinic_note.txt",
+      "page": 1,
+      "quote": "Corvexin 200 mg orally twice daily"
+    },
+    {
+      "field": "dose",
+      "value": "200 mg",
+      "doc": "clinic_note.txt",
+      "page": 1,
+      "quote": "Corvexin 200 mg orally twice daily"
+    },
+    {
+      "field": "route",
+      "value": "orally",
+      "doc": "clinic_note.txt",
+      "page": 1,
+      "quote": "Corvexin 200 mg orally twice daily"
+    },
+    {
+      "field": "frequency",
+      "value": "twice daily",
+      "doc": "clinic_note.txt",
+      "page": 1,
+      "quote": "Corvexin 200 mg orally twice daily"
+    },
+    {
+      "field": "indication",
+      "value": "type 2 diabetes",
+      "doc": "clinic_note.txt",
+      "page": 1,
+      "quote": "Corvexin in type 2 diabetes"
+    },
+    {
+      "field": "start_date",
+      "value": "03-Mar-2026",
+      "doc": "clinic_note.txt",
+      "page": 1,
+      "quote": "since 03-Mar-2026"
+    },
+    {
+      "field": "concomitant_meds",
+      "value": "metformin 1000 mg twice daily",
+      "doc": "clinic_note.txt",
+      "page": 1,
+      "quote": "metformin 1000 mg twice daily"
+    },
+    {
+      "field": "event_verbatim",
+      "value": "ALT 312 U/L (about 8 x ULN) and AST 198 U/L",
+      "doc": "clinic_note.txt",
+      "page": 1,
+      "quote": "ALT 312 U/L (about 8 x ULN) and AST 198 U/L"
+    },
+    {
+      "field": "event_onset_date",
+      "value": "06-Apr-2026",
+      "doc": "clinic_note.txt",
+      "page": 1,
+      "quote": "Routine labs drawn on 06-Apr-2026"
+    },
+    {
+      "field": "seriousness_criteria",
+      "value": "medically important",
+      "doc": "clinic_note.txt",
+      "page": 1,
+      "quote": "Event considered medically important."
+    },
+    {
+      "field": "action_taken",
+      "value": "drug withdrawn",
+      "doc": "clinic_note.txt",
+      "page": 1,
+      "quote": "Study drug withdrawn on 07-Apr-2026."
+    },
+    {
+      "field": "stop_date",
+      "value": "07-Apr-2026",
+      "doc": "clinic_note.txt",
+      "page": 1,
+      "quote": "Study drug withdrawn on 07-Apr-2026."
+    },
+    {
+      "field": "case_receipt_date",
+      "value": "07-Apr-2026",
+      "doc": "clinic_note.txt",
+      "page": 1,
+      "quote": "Received by sponsor drug safety: 07-Apr-2026"
+    },
+    {
+      "field": "subject_id",
+      "value": "211-0042",
+      "doc": "lab_report.txt",
+      "page": 1,
+      "quote": "Subject: 211-0042"
+    },
+    {
+      "field": "relevant_labs",
+      "value": "ALT 312 U/L (ref 7-56) CRITICAL HIGH",
+      "doc": "lab_report.txt",
+      "page": 1,
+      "quote": "ALT 312 U/L (ref 7-56) CRITICAL HIGH"
+    },
+    {
+      "field": "relevant_labs",
+      "value": "AST 198 U/L (ref 10-40) HIGH",
+      "doc": "lab_report.txt",
+      "page": 1,
+      "quote": "AST 198 U/L (ref 10-40) HIGH"
+    },
+    {
+      "field": "reporter_name_or_role",
+      "value": "Dr. Rohan Iyer, Sub-Investigator",
+      "doc": "lab_report.txt",
+      "page": 2,
+      "quote": "Dr. Rohan Iyer, Sub-Investigator, Site 211",
+      "hidden_on_first_pass": true
+    },
+    {
+      "field": "reporter_type",
+      "value": "investigator",
+      "doc": "lab_report.txt",
+      "page": 2,
+      "quote": "Results reviewed and reported to sponsor by: Dr. Rohan Iyer, Sub-Investigator",
+      "hidden_on_first_pass": true
+    }
+  ],
+  "expected": {
+    "initial": {
+      "conflicts": [],
+      "open_gaps_include": [
+        "outcome",
+        "dechallenge"
+      ],
+      "missing_minimum_criteria": [],
+      "seriousness": [
+        "medically important"
+      ]
+    }
+  },
+  "meddra_expected_pt": "Alanine aminotransferase increased",
+  "notes": "hidden_on_first_pass simulates an extractor missing a footer; the agent must search before flagging the reporter as missing (D3)."
+}

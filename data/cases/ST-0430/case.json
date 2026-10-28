@@ -1,0 +1,26 @@
+{
+  "case_id": "ST-0430",
+  "title": "Scanned physician note (image-only PDF) - OCR path",
+  "region": "US/EU/India",
+  "demo_today": "2026-03-19",
+  "documents": [
+    {
+      "path": "documents/physician_note_scanned.pdf",
+      "doc_type": "physician_note"
+    },
+    {
+      "path": "documents/patient_diary.txt",
+      "doc_type": "patient_diary"
+    },
+    {
+      "path": "documents/lab_report.txt",
+      "doc_type": "lab_report"
+    }
+  ],
+  "followups": [],
+  "designed_to_show": [
+    "D1 scanned page -> free local OCR (Tesseract), Gemini vision fallback",
+    "fuzzy anchoring on OCR text"
+  ],
+  "synthetic": true
+}

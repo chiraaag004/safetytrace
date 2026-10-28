@@ -1,0 +1,22 @@
+{
+  "case_id": "LIT-PMC8454244",
+  "title": "REAL literature case: Intrahepatic Bile Duct Injury as a Hepatic Immune-Related Adverse Event after Immune-Checkpoint Inhibitor Trea",
+  "region": "US/EU/India",
+  "documents": [
+    {
+      "path": "documents/article.txt",
+      "doc_type": "literature_article"
+    }
+  ],
+  "followups": [],
+  "real": true,
+  "source": {
+    "pmcid": "PMC8454244",
+    "doi": "10.1159/000516199",
+    "license": "cc by-nc",
+    "url": "https://europepmc.org/article/PMC/8454244"
+  },
+  "designed_to_show": [
+    "real published case: extraction + MedDRA + seriousness vs the manufacturer's FAERS ICSR"
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "case_id": "LIT-PMC8687801",
+  "title": "REAL literature case: A Case of Limb-Threatening Hematoma in a Patient Taking Citalopram and Apixaban Concurrently.",
+  "version": 1,
+  "region": "US/EU/India",
+  "documents": [
+    {
+      "doc_id": "D1",
+      "filename": "article.txt",
+      "rel_path": "documents/article.txt",
+      "doc_type": "literature_article",
+      "version": 1,
+      "pages": [
+        "A Case of Limb-Threatening Hematoma in a Patient Taking Citalopram and Apixaban Concurrently.\nCureus (2021). Datta S, Mahal K, Mahal S, Driskill AK.\nLicense: cc by | PMC8687801 | doi:10.7759/cureus.19771\n\nA Case of Limb-Threatening Hematoma in a Patient Taking Citalopram and Apixaban Concurrently\n\nAbstract\nApixaban, a direct oral anticoagulant, has been demonstrated to increase the risk of bleeding in individuals with atrial fibrillation when used concurrently with citalopram [selective serotonin reuptake inhibitor (SSRI)]. This was proposed as a result of their synergistic anticoagulant effects. We discuss a rare case in which a limb-threatening hematoma was noticed in an 85-year-old female patient who was just begun on citalopram and was on apixaban. There are few published case studies demonstrating a link between these two kinds of drugs, and our case study aims to inform our audience about the possible negative effects of concurrent usage of these two medications.\n\nIntroduction\nApixaban, an oral direct anticoagulant, affects platelet activation and fibrin clot formation by inhibiting both free and clot-bound factor Xa (FXa) in a direct, selective, and reversible manner. Its concomitant use with citalopram [selective serotonin reuptake inhibitor (SSRI)] has been shown to increase bleeding risk in patients with atrial fibrillation [1-3]. This effect is achieved by inhibiting platelet serotonin uptake, probably resulting in synergistic anticoagulant activity. The most frequently encountered hemostatic abnormalities include decreased platelet aggregation and activity as well as an increase in bleeding time. We are presenting a case where apixaban concomitant use with citalopram (SSRI) has caused a limb-threatening hematoma.\n\nCase presentation\nAn 85-year-old female patient with a history of persistent atrial fibrillation anticoagulated with oral apixaban 2.5 mg twice daily, depression, and partial nephrectomy presented with a spontaneous left lower extremity hematoma associated with pain and swelling that had been gradually deteriorating over the previous two days. The hematoma was edematous to the point of total skin necrosis. Citalopram was recently started on the patient. No history of trauma or aspirin use was available. The wound measured 30 × 15 cm2 and stretched from the patient's lateral aspect of the tibia to the almost posterior midline of the left calf. The laboratory results revealed normocytic anemia with abnormal coagulation tests. 750 cc of the hematoma was evacuated during surgery using cautery excision of the necrosed skin layers.",
+        "Discussion\nA published case report details the occurrence of hemopericardium in two patients who were receiving apixaban together with an SSRI [1]. Serotonin receptors are also located on the surface of platelets. Therefore, greater bleeding with SSRIs may be explained by an augmented pharmacodynamic effect on platelet aggregation inhibition. It has been shown that SSRI and nonvitamin K oral anticoagulants (NOACs) interact pharmacologically through selective inhibition of cytochrome enzymes (CYP2C9) [2,3]. Numerous studies have shown an increased risk of bleeding problems in people with chronic kidney disease. About 27% of apixaban clearance occurs through renal excretion. The remainder is eliminated via the gastrointestinal tract in the form of bile and feces [4-6]. Additionally, concurrent use of SSRIs and apixaban are classified as risk category C, indicating that treatment should be closely watched but may be administered. In this case, the sequential link between developing a spontaneous hematoma becomes critical, particularly given that the only new change in her medical state was the introduction of citalopram (SSRI) [7]. Perhaps when additional reports of severe bleeding associated with apixaban and citalopram become available, this guideline for simultaneous use will be changed to category D (consider modification) or X (avoid combination). Thus the limitation of monitoring NOACs serum drug concentrations also contributes to its low safety profile in these patients.\n\nConclusions\nThe advantages of convenient administration and less frequent monitoring make NOACs more attractive among patients with atrial fibrillation. However, as our knowledge and usage of these treatments expand, we must be vigilant for major life-threatening adverse drug events. Most significantly, as this case indicates, apixaban should be used with great care in individuals with renal impairment and concurrent SSRI treatment."
+      ],
+      "source_mode": "plain_text",
+      "ocr_confidence": null,
+      "scanned_pages": [],
+      "extracted": false,
+      "reextract_count": 0
+    }
+  ],
+  "facts": [],
+  "conflicts": [],
+  "gaps": [],
+  "minimum_criteria": {},
+  "seriousness_candidates": [],
+  "timeline_issues": [],
+  "meddra_suggestions": {},
+  "selected_meddra": {},
+  "narrative": [],
+  "narrative_version": 0,
+  "clock": {},
+  "expectedness": "unknown",
+  "expectedness_by": "",
+  "causality": {},
+  "status": "processing",
+  "human_tasks": [],
+  "signed_off_by": null,
+  "reconciled_version": 0,
+  "reconciled_fact_count": -1,
+  "narrative_stale": true,
+  "followup_drafted_version": 0,
+  "meddra_done_version": 0,
+  "clock_done_version": 0,
+  "review_requested_at_step": -1,
+  "prefollowup": {},
+  "diff": [],
+  "audit": [
+    {
+      "ts": "2026-10-28T07:48:19.061903Z",
+      "actor": "tool:ingest",
+      "action": "document_added",
+      "details": {
+        "doc_id": "D1",
+        "filename": "article.txt",
+        "pages": 2,
+        "scanned": []
+      }
+    }
+  ],
+  "trace": [
+    {
+      "step": 1,
+      "ts": "2026-10-28T07:48:19.050111Z",
+      "planner": "llm",
+      "reason": "No documents have been ingested yet, so we must load the case pack first.",
+      "tool": "ingest_documents",
+      "args": {},
+      "allowed": true,
+      "result_summary": "ingested 1 document(s): ['D1']; documents with untranscribed scanned pages: none",
+      "duration_s": 0.01,
+      "planner_input": "CASE LIT-PMC8687801 | version 1 | status processing\nDocuments: none ingested yet.\nReconciled for current version and facts: False\nMedDRA suggested for this version: False; clock computed for this version: False\nNarrative: not drafted\n\nTools the rulebook allows now: ingest_documents",
+      "calls": [
+        {
+          "step": 1,
+          "role": "planner",
+          "model": "groq:openai/gpt-oss-20b",
+          "secs": 2.43,
+          "instructions": "You are the SafetyTrace orchestrator for SERIOUS clinical-trial adverse-event cases.\nGoal: bring the case to a state where a qualified human reviewer can verify it quickly and safely.\n\nYou never see documents. You see a case summary and choose ONE next tool. Explain your reason in one short sentence (shown to the reviewer as the agent trace).\n\nTools:\n- ingest_documents: load the case pack (first step only).\n- transcribe_scans: transcribe scanned pages that have no text layer. Must happen before extraction of those documents.\n- extract_facts: extract facts with verified quotes. With no arguments it processes all un-extracted documents.\n  With doc_ids AND fields it does ONE focused re-extraction (use it when a field has only unanchored values, or after a search found likely evidence).\n- search_documents: deterministic search of every page, ONLY for a MISSING minimum criterion. Give criterion = one of identifiable_patient, identifiable_reporter, suspect_product, adverse_event.\n- reconcile: detect conflicts, gaps, minimum criteria, seriousness candidates. Run it whenever facts changed.\n- suggest_meddra: suggest MedDRA terms (human selects).\n- compute_clock: compute regulatory deadlines.\n- draft_narrative: write the narrative from usable facts only (conflicts/gaps are stated by templates).\n- verify_narrative: check every pending sentence (rules first, then an independent model).\n- redraft_sentences: redraft only blocked sentences (give sentence_ids).\n- draft_followup_queries: draft follow-up questions for open gaps/conflicts (a human approves; nothing is sent).\n- request_human_review: hand over to the reviewer when automatic work is done.\n- stop: nothing useful left to do.\n\nRules you must follow:\n1. Never decide which of two conflicting values is correct, and never decide causality, expectedness, reportability or case validity.\n2. Before treating a minimum criterion as missing, search for it; if the search finds hits, do one focused extraction on those documents.\n3. If a field has only unanchored values, try one focused re-extraction on that document.\n4. After any drafting or redrafting, verify. Redraft only blocked sentences.\n5. Reconcile again whenever facts changed (for example after a follow-up reply or a focused extraction).\n6. Conflicts are decided ONLY by a human or by a site reply. Do not search or re-extract to \"resolve\" a conflict: draft a follow-up query and hand over.\n7. Missing information that is not a minimum criterion (e.g. dechallenge) is a gap",
+          "input": "CASE LIT-PMC8687801 | version 1 | status processing\nDocuments: none ingested yet.\nReconciled for current version and facts: False\nMedDRA suggested for this version: False; clock computed for this version: False\nNarrative: not drafted\n\nTools the policy allows right now (anything else is blocked): ingest_documents\n\nChoose the single next action.",
+          "output": "{\"reason\": \"No documents have been ingested yet, so we must load the case pack first.\", \"tool\": \"ingest_documents\", \"doc_ids\": [], \"fields\": [], \"criterion\": \"\", \"sentence_ids\": []}"
+        }
+      ],
+      "changes": {
+        "documents loaded": [
+          "D1 article.txt: 2 page(s), plain text"
+        ]
+      }
+    }
+  ],
+  "usage": {
+    "requests": 1,
+    "prompt_tokens": 974,
+    "completion_tokens": 58,
+    "by_role": {
+      "planner": {
+        "requests": 1,
+        "prompt_tokens": 974,
+        "completion_tokens": 58
+      }
+    },
+    "models": {
+      "planner": "groq:openai/gpt-oss-20b"
+    }
+  },
+  "current_step": 1,
+  "llm_calls": []
+}

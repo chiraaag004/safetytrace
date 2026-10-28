@@ -1,0 +1,85 @@
+{
+  "source": "FDA FAERS via openFDA (manufacturer-submitted literature ICSRs)",
+  "faers_report_ids": [
+    "20289214",
+    "20307284"
+  ],
+  "literature_reference": "Silva DJ, Dos Santos J, Vaz AP, Mesquita A. Rectal mixed adenoneuroendocrine carcinoma; Case report. Medicine. 2021;100(40):e27348",
+  "patient_age": [
+    [
+      "76",
+      "years"
+    ]
+  ],
+  "patient_sex": [
+    "male"
+  ],
+  "reporter_qualification": [
+    "physician"
+  ],
+  "seriousness": [
+    "other medically important"
+  ],
+  "suspect_drugs": [
+    {
+      "key": "capecitabine",
+      "names": [
+        "capecitabine",
+        "capecitabine 150mg",
+        "capecitabine 500mg",
+        "xeloda"
+      ],
+      "indication": [
+        "Chemotherapy",
+        "Rectal adenocarcinoma"
+      ],
+      "dosage": [
+        "1000 MILLIGRAM, BID",
+        "1000 MILLIGRAM, TWO TIMES A DAY (5 CYCLES)"
+      ],
+      "action": [
+        "1",
+        "5"
+      ]
+    },
+    {
+      "key": "oxaliplatin",
+      "names": [
+        "oxaliplatin"
+      ],
+      "indication": [
+        "Chemotherapy",
+        "Rectal adenocarcinoma"
+      ],
+      "dosage": [
+        "130 MG/M.SQ",
+        "130 MILLIGRAM/SQ. METER"
+      ],
+      "action": [
+        "1",
+        "5"
+      ]
+    }
+  ],
+  "reactions": [
+    {
+      "pt": "Disease progression",
+      "outcome": [
+        "unknown"
+      ]
+    },
+    {
+      "pt": "Bronchopulmonary aspergillosis",
+      "outcome": [
+        "recovering"
+      ]
+    },
+    {
+      "pt": "Immunosuppression",
+      "outcome": [
+        "unknown"
+      ]
+    }
+  ],
+  "note": "FAERS public data has no narrative. Coding choices of the submitting company are a reference, not absolute truth."
+}

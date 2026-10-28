@@ -1,0 +1,496 @@
+{
+  "source": "FDA FAERS via openFDA (manufacturer-submitted literature ICSRs)",
+  "faers_report_ids": [
+    "20298471",
+    "20313090",
+    "20314680"
+  ],
+  "literature_reference": "Healey KD, Rifai SM, Rifai AO, Edmond M, Baker DS, Rifai K. Edwardsiella tarda: A Classic Presentation of a Rare Fatal Infection, with Possible New Background Risk Factors. Am-J-Case-Rep 2021;null:null.",
+  "patient_age": [
+    [
+      "59",
+      "years"
+    ]
+  ],
+  "patient_sex": [
+    "female"
+  ],
+  "reporter_qualification": [
+    "other health professional"
+  ],
+  "seriousness": [
+    "death",
+    "hospitalisation"
+  ],
+  "suspect_drugs": [
+    {
+      "key": "levofloxacin",
+      "names": [
+        "levofloxacin",
+        "levofloxacin in 5% dextrose"
+      ],
+      "indication": [
+        "Bacteraemia",
+        "Infection",
+        "Septic shock"
+      ],
+      "dosage": [
+        "UNK"
+      ],
+      "action": [
+        "6"
+      ]
+    },
+    {
+      "key": "norepinephrine (bitartrate)",
+      "names": [
+        "norepinephrine",
+        "norepinephrine (bitartrate)",
+        "norepinephrine 1530",
+        "norepinephrine bitartrate"
+      ],
+      "indication": [
+        "Vasopressive therapy"
+      ],
+      "dosage": [
+        "UNK"
+      ],
+      "action": [
+        "6"
+      ]
+    },
+    {
+      "key": "doxycycline",
+      "names": [
+        "doxy 100",
+        "doxycycline",
+        "doxycycline doxycycline",
+        "doxycycline hyclate",
+        "oracea"
+      ],
+      "indication": [
+        "Bacteraemia"
+      ],
+      "dosage": [
+        "UNK"
+      ],
+      "action": [
+        "6"
+      ]
+    },
+    {
+      "key": "hydrocortisone",
+      "names": [
+        "absolut skin corticosoothe anti-itch",
+        "aerosoothe",
+        "ala-scalp",
+        "alacort",
+        "alkindi sprinkle",
+        "aloe cort",
+        "alumier md intensive recovery",
+        "ana cool rapid soothing cooling formula",
+        "anti itch",
+        "anti-itch",
+        "anti-itch cream",
+        "anti-itch paraben free",
+        "anti-itch regular strength",
+        "antipruritic (anti-itch)",
+        "anusol hc",
+        "aosi healthcare",
+        "aquanil hc",
+        "aquaphor itch relief",
+        "assured",
+        "astonea",
+        "audiologist anti-itch",
+        "avedana hydrocortisone cream with aloe",
+        "aveeno 1% hydrocortisone anti-itch cream",
+        "aveeno hydrocortisone anti-itch",
+        "avon hexashield anti itch cream with healing aloe",
+        "barmicil anti-itch",
+        "basic care hydrocortisone",
+        "berkley and jensen anti itch",
+        "bloop itch soothing topical",
+        "care one hydrocortisone maximum strength",
+        "careall hydrocortisone maximum strength",
+        "careone anti itch",
+        "caring mills hydrocortisone",
+        "cerave developed with dermatologists anti itch",
+        "clinicalm",
+        "cool relief gel with aloe",
+        "cortef",
+        "cortenema",
+        "cortisol",
+        "cortisol phenolic",
+        "cortisone",
+        "cortisone 10 intensive moisture creme",
+        "cortisone 10 overnight creme",
+        "cortisone 10 sensitive skin creme",
+        "cortizone 10",
+        "cortizone 10 cooling",
+        "cortizone 10 cooling relief",
+        "cortizone 10 easy relief",
+        "cortizone 10 fast acting itch relief cooling",
+        "cortizone 10 feminine itch relief",
+        "cortizone 10 intensive healing",
+        "cortizone 10 intensive healing for eczema",
+        "cortizone 10 intensive healing itch relief cream",
+        "cortizone 10 itch relief massaging rollerball",
+        "cortizone 10 soothing aloe itch relief",
+        "cortizone 10 ultra soothing creme",
+        "cortizone 10 ultra soothing itch relief",
+        "cortizone 10 water resistant",
+        "cortizone-10 soothing aloe creme",
+        "crane safety hydrocortisone",
+        "cvs anti itch",
+        "cvs cools itch fast",
+        "cvs cortisone",
+        "cvs cortisone liquid",
+        "cvs health hydrocortisone anti itch",
+        "cvs health maximum strength scalp relief anti-itch",
+        "cvs no mess cortisone",
+        "dermacort anti-itch",
+        "dermarest eczema medicated",
+        "dg health hydrocortisone",
+        "dg health hydrocortisone maximum strength",
+        "discount drug mart anti-itch",
+        "dr. sheffield hydrocortisone anti itch",
+        "drs. hydrocortisone",
+        "drs. hydrocortisone aloe vera",
+        "elixircortirelief",
+        "equaline anti itch",
+        "equaline anti itch maximum strength",
+        "equate hydrocortisone",
+        "equate hydrocortisone intensive healing formula",
+        "equate hydrocortisone topical",
+        "exchange select hydrocortisone",
+        "family care anti-itch",
+        "family wellness",
+        "family wellness max strength 1 hydrocortisone cream",
+        "fifthpulse hydrocortisone",
+        "fifthpulse hydrocortisone 1oz",
+        "fifthpulse hydrocortisone 4oz",
+        "fixmyskin healing balm fragrance-free",
+        "fixmyskin healing balm unflavored",
+        "fixmyskin healing balm vanilla flavor",
+        "freds hydrocortisone plus 12 moisturizers",
+        "freds hydrocortisone with aloe",
+        "gelmicin hydrocortisone with aloe",
+        "gembooxt eczema relief cream",
+        "gerigentle",
+        "good neighbor pharmacy hydrocortisone",
+        "good neighbor pharmacy hydrocortisone plus 12 moisturizers",
+        "good neighbor pharmacy hydrocortisone with aloe",
+        "good neighbor pharmacy hydrocortisone with aloe for sensitive skin",
+        "good sense anti itch",
+        "green guard hydrocortisone 1%",
+        "harris teeter hydrocortisone",
+        "healing tree calming anti-itch",
+        "health beyond",
+        "herb street anti-itch stick",
+        "hexashield anti itch cream with healing aloe",
+        "hydrocortisone",
+        "hydrocortisone 1",
+        "hydrocortisone 1%",
+        "hydrocortisone 1% anti-itch cream",
+        "hydrocortisone 1% with healing aloe",
+        "hydrocortisone acetate",
+        "hydrocortisone anti itch",
+        "hydrocortisone anti-itch",
+        "hydrocortisone anti-itch plus",
+        "hydrocortisone continuous spray",
+        "hydrocortisone cream",
+        "hydrocortisone cream 1%",
+        "hydrocortisone cream 1/2%",
+        "hydrocortisone cream with aloe",
+        "hydrocortisone intensive healing formula",
+        "hydrocortisone lotion",
+        "hydrocortisone plus 12 moisturizers",
+        "hydrocortisone rectal suspension (retention)",
+        "hydrocortisone spray",
+        "hydrocortisone with aloe",
+        "hydroxym",
+        "instant cooling itch relief",
+        "intensive healing eczema",
+        "itch and rash cream",
+        "itch relief",
+        "jj care",
+        "kera hc",
+        "khindivi",
+        "kirkland signature hydrocortisone plus maximum strength",
+        "kroger anti itch",
+        "leader hydrocortisone with aloe",
+        "live better hydrocortisone with aloe",
+        "maximum strength hydrocortisone",
+        "maximum strength scalp itch relief anti-itch",
+        "medi-first hydrocortisone 1 % anti-itch cream",
+        "medibalm",
+        "medpride",
+        "members mark hydrocortisone",
+        "monistat complete care instant itch relief",
+        "mymedic hydrocortisone",
+        "natureplex hydrocortisone hydro",
+        "nizoral scalp itch relief",
+        "no mess hydrocortisone applicator",
+        "pediadermics eczema 2",
+        "petrocort antipruritic lip 21",
+        "post treatment balm",
+        "post treatment repair cream",
+        "post-treatment repair cream",
+        "preparation h hydrocortisone",
+        "preparation h soothing relief anti-itch",
+        "procto-med hc",
+        "proctosol-hc",
+        "procure hydrocortisone 1%",
+        "procure hydrocortisone cream plus",
+        "proheal hydrocortisone 1% maximum strength plus aloe",
+        "publix hydro",
+        "publix hydro plus",
+        "quadrydern",
+        "quality choice",
+        "quatriderm anti-itch",
+        "rapidol",
+        "rexall anti itch maximum strength relief",
+        "rite aid anti-itch",
+        "scalpicin anti-itch maximum strength",
+        "shopko hydrocortisone",
+        "shopko hydrocortisone maximum strength",
+        "signature care anti itch",
+        "signature care hydrocortisone",
+        "skin a cool hydrocortisone anti-itch",
+        "skin relief cream",
+        "sunmark hydrocortisone",
+        "survivex hydrocortisone cream",
+        "terramed just think comfort hydrocortisone 1% cream",
+        "texacort",
+        "thera plus",
+        "thera plus anti-itch with aloe hydrocortisone",
+        "thera plus eczema hydrocortisone anti itch",
+        "thera plus hydrocortisone maximum strength",
+        "thera plus maximum strength hydrocortisone",
+        "theracare hydrocortisone cream",
+        "theraplex aim anti-itch moisturizing",
+        "thompson hydrocortisone 1%",
+        "topcare hydrocortisone",
+        "topcare hydrocortisone intensive healing formula",
+        "topcare hydrocortisone plus 12 moisturizers",
+        "total relief",
+        "truelipids 1% hydrocortisone barrier cream",
+        "unishield 1%",
+        "vanicream hc anti-itch",
+        "viaderma calm anti-itch",
+        "walgreens scalp itch relief",
+        "walgreens scalp relief external analgesic",
+        "westlake anti-itch",
+        "winco foods hydrocortisone cream intensive healing",
+        "winco maximum strength hydrocortisone",
+        "xpect hydrocortisone"
+      ],
+      "indication": [
+        "Bacteraemia",
+        "Product used for unknown indication",
+        "Septic shock"
+      ],
+      "dosage": [
+        "100 MILLIGRAM EVERY 6 H",
+        "100 MILLIGRAM, Q6H"
+      ],
+      "action": [
+        "6"
+      ]
+    },
+    {
+      "key": "thiamine hydrochloride",
+      "names": [
+        "thiamine",
+        "thiamine hydrochloride"
+      ],
+      "indication": [
+        "Bacteraemia",
+        "Product used for unknown indication",
+        "Septic shock"
+      ],
+      "dosage": [
+        "200 MILLIGRAM EVERY 8 H",
+        "200 MILLIGRAM, Q8H",
+        "200 MILLIGRAM, TID"
+      ],
+      "action": [
+        "6"
+      ]
+    },
+    {
+      "key": "ascorbic acid",
+      "names": [
+        "ascor",
+        "ascorbic acid",
+        "skin renewing serum"
+      ],
+      "indication": [
+        "Product used for unknown indication",
+        "Septic shock"
+      ],
+      "dosage": [
+        "500 MILLIGRAM, EVERY 8 H",
+        "500 MILLIGRAM, Q8H"
+      ],
+      "action": [
+        "6"
+      ]
+    },
+    {
+      "key": "cefepime",
+      "names": [
+        "cefepime",
+        "cefepime hydrochloride"
+      ],
+      "indication": [
+        "Infection",
+        "Septic shock"
+      ],
+      "dosage": [
+        "UNK"
+      ],
+      "action": [
+        "6"
+      ]
+    },
+    {
+      "key": "metronidazole",
+      "names": [
+        "flagyl",
+        "metronidazole",
+        "metronidazole topical",
+        "metronidazole vaginal",
+        "metronidazole vaginal gel, 0.75%",
+        "noritate",
+        "nuvessa",
+        "vagizole",
+        "vandazole"
+      ],
+      "indication": [
+        "Infection",
+        "Septic shock"
+      ],
+      "dosage": [
+        "UNK"
+      ],
+      "action": [
+        "6"
+      ]
+    },
+    {
+      "key": "sodium bicarbonate",
+      "names": [
+        "adrian bicarbonato sodium bicarbonate usp-4 oz, 8 oz and 16 oz",
+        "after bite advanced",
+        "after bite kids",
+        "after bite x tech",
+        "ahhh bite relief",
+        "anti-empacho",
+        "arm and hammer baking soda",
+        "d-d sudium bicarbonate u.s.p. bicarbonato de soda puro",
+        "de la cruz desempacho",
+        "de la cruz sodium bicarbonate antacid",
+        "dr. sana bicarbonato de sodio 4 fl oz and 6 floz",
+        "ecodent ultimate essential mouthcare sparkling clean mint",
+        "ecodent ultimate essential mouthcare spicy-cool cinnamon",
+        "humco sodium bicarbonate",
+        "insect sting relief latex 01",
+        "insect sting relief pad 01",
+        "itch eraser sensitive",
+        "medis sodium bicarbonate",
+        "rapidol sodium bicarbonate",
+        "sanar baking soda 8oz 100% pure",
+        "sodium bicarbonate",
+        "sodium bicarbonate 10 gr",
+        "sodium bicarbonate 10 gr (650 mg)",
+        "sodium bicarbonate 10 gr. (650 mg)",
+        "sodium bicarbonate 5 gr",
+        "sodium bicarbonate 5 gr (325 mg)",
+        "sodium bicarbonate antacid",
+        "sodium bicarbonate injection,",
+        "sodium bicarbonate, injection"
+      ],
+      "indication": [
+        "Product used for unknown indication",
+        "Septic shock"
+      ],
+      "dosage": [
+        "1 L OF D5W WITH 150 MEQ",
+        "CONTAINS 150MEQ OF SODIUM BICARBONATE IN 1L D5W",
+        "UNK, CONTAINS 150MEQ OF SODIUM BICARBONATE IN 1L D5W, INFUSION"
+      ],
+      "action": [
+        "6"
+      ]
+    },
+    {
+      "key": "hydrocortisone butyrate",
+      "names": [
+        "evesse",
+        "hydrocortisone butyrate"
+      ],
+      "indication": [
+        "Septic shock"
+      ],
+      "dosage": [
+        "100 MILLIGRAM, QID"
+      ],
+      "action": [
+        "6"
+      ]
+    },
+    {
+      "key": "vitamin c",
+      "names": [
+        "vitamin c",
+        "vitamin c serum"
+      ],
+      "indication": [
+        "Septic shock"
+      ],
+      "dosage": [
+        "500 MILLIGRAM, TID"
+      ],
+      "action": [
+        "6"
+      ]
+    },
+    {
+      "key": "albuterol\\ipratropium bromide",
+      "names": [
+        "albuterol\\ipratropium bromide"
+      ],
+      "indication": [
+        "Dyspnoea"
+      ],
+      "dosage": [
+        "UNK"
+      ],
+      "action": [
+        "6"
+      ]
+    }
+  ],
+  "reactions": [
+    {
+      "pt": "Drug ineffective",
+      "outcome": [
+        "fatal"
+      ]
+    },
+    {
+      "pt": "Off label use",
+      "outcome": [
+        "unknown"
+      ]
+    },
+    {
+      "pt": "Drug ineffective for unapproved indication",
+      "outcome": [
+        "fatal"
+      ]
+    }
+  ],
+  "note": "FAERS public data has no narrative. Coding choices of the submitting company are a reference, not absolute truth."
+}

@@ -1,0 +1,22 @@
+{
+  "case_id": "LIT-PMC8521282",
+  "title": "REAL literature case: Guillain-Barr\u00e9 syndrome associated with inappropriate secretion of antidiuretic hormone following SARS-CoV-2 i",
+  "region": "US/EU/India",
+  "documents": [
+    {
+      "path": "documents/article.txt",
+      "doc_type": "literature_article"
+    }
+  ],
+  "followups": [],
+  "real": true,
+  "source": {
+    "pmcid": "PMC8521282",
+    "doi": "10.1002/ccr3.4667",
+    "license": "cc by-nc-nd",
+    "url": "https://europepmc.org/article/PMC/8521282"
+  },
+  "designed_to_show": [
+    "real published case: extraction + MedDRA + seriousness vs the manufacturer's FAERS ICSR"
+  ]
+}

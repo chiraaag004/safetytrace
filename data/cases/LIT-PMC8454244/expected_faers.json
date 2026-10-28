@@ -1,0 +1,163 @@
+{
+  "source": "FDA FAERS via openFDA (manufacturer-submitted literature ICSRs)",
+  "faers_report_ids": [
+    "20288629",
+    "20306696"
+  ],
+  "literature_reference": "Murayama A, Tajiri K, Nakaya A, Ito H, Hayashi Y, Entani T, et al.. Intrahepatic bile duct injury as a hepatic immune-related adverse event after immune-checkpoint inhibitor treatment. Case Reports in Gastroenteroly. 2021;15(2):645-651",
+  "patient_age": [
+    [
+      "83",
+      "years"
+    ]
+  ],
+  "patient_sex": [
+    "male"
+  ],
+  "reporter_qualification": [
+    "other health professional"
+  ],
+  "seriousness": [
+    "death",
+    "hospitalisation"
+  ],
+  "suspect_drugs": [
+    {
+      "key": "methylprednisolone",
+      "names": [
+        "medrol",
+        "methylprednisolone",
+        "methylprednisolone sodium succinate"
+      ],
+      "indication": [
+        "Cholestatic liver injury"
+      ],
+      "dosage": [
+        "1000 MILLIGRAM DAILY;",
+        "1000 MILLIGRAM, QD"
+      ],
+      "action": [
+        "6"
+      ]
+    },
+    {
+      "key": "prednisolone",
+      "names": [
+        "prednisolone",
+        "prednisolone oral",
+        "prednisolone oral solution"
+      ],
+      "indication": [
+        "Cholestatic liver injury"
+      ],
+      "dosage": [
+        "1 MG/KG DAILY;",
+        "1 MILLIGRAM/KILOGRAM, QD"
+      ],
+      "action": [
+        "6"
+      ]
+    },
+    {
+      "key": "ursodiol",
+      "names": [
+        "reltone 200 mg",
+        "reltone 400 mg",
+        "urso 250",
+        "urso forte",
+        "ursodiol",
+        "ursodiol 200 mg",
+        "ursodiol 400 mg",
+        "ursolign",
+        "ursosiol"
+      ],
+      "indication": [
+        "Cholestatic liver injury"
+      ],
+      "dosage": [
+        "300 MILLIGRAM DAILY;",
+        "300 MILLIGRAM, QD"
+      ],
+      "action": [
+        "6"
+      ]
+    },
+    {
+      "key": "nivolumab",
+      "names": [
+        "nivolumab",
+        "opdivo"
+      ],
+      "indication": [
+        "Renal cell carcinoma"
+      ],
+      "dosage": [
+        "RECEIVED 4 CYCLES"
+      ],
+      "action": [
+        "5"
+      ]
+    },
+    {
+      "key": "ipilimumab",
+      "names": [
+        "ipilimumab",
+        "yervoy"
+      ],
+      "indication": [
+        "Renal cell carcinoma"
+      ],
+      "dosage": [],
+      "action": [
+        "5"
+      ]
+    },
+    {
+      "key": "pazopanib",
+      "names": [
+        "pazopanib",
+        "pazopanib hydrochloride"
+      ],
+      "indication": [
+        "Renal cell carcinoma"
+      ],
+      "dosage": [],
+      "action": [
+        "5"
+      ]
+    }
+  ],
+  "reactions": [
+    {
+      "pt": "Drug ineffective for unapproved indication",
+      "outcome": [
+        "fatal"
+      ]
+    },
+    {
+      "pt": "Off label use",
+      "outcome": [
+        "unknown"
+      ]
+    },
+    {
+      "pt": "Cholestatic liver injury",
+      "outcome": [
+        "fatal"
+      ]
+    },
+    {
+      "pt": "Cholestasis",
+      "outcome": [
+        "fatal"
+      ]
+    },
+    {
+      "pt": "Drug ineffective",
+      "outcome": [
+        "unknown"
+      ]
+    }
+  ],
+  "note": "FAERS public data has no narrative. Coding choices of the submitting company are a reference, not absolute truth."
+}

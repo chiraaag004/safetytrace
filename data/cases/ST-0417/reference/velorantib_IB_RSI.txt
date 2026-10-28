@@ -1,0 +1,12 @@
+VELORANTIB (SFT-301 PROGRAMME) - INVESTIGATOR'S BROCHURE, EDITION 4, 15-Jan-2026
+Section 7.3  Reference Safety Information (RSI)
+
+The following serious adverse reactions are considered EXPECTED for expedited reporting purposes.
+Expected serious adverse reactions (MedDRA preferred terms):
+- Upper respiratory tract infection
+- Neutropenia
+- Alanine aminotransferase increased
+- Pruritus
+
+A reaction not listed above, or a listed reaction that is more severe or more specific than described,
+is UNEXPECTED and must be assessed for expedited (SUSAR) reporting.

@@ -1,0 +1,14 @@
+CENTRAL LABORATORY REPORT
+Study: SFT-301    Subject: 104-0217    Site: 104
+Sample collected: 16-Mar-2026 09:40
+
+Haematology
+Eosinophils 1.2 x10^9/L (ref 0.0-0.5) HIGH
+WBC 9.8 x10^9/L (ref 4.0-11.0)
+Haemoglobin 12.9 g/dL (ref 12.0-15.5)
+
+Biochemistry
+ALT 38 U/L (ref 7-56)
+Creatinine 0.8 mg/dL (ref 0.6-1.1)
+
+Comment: Eosinophilia noted. Liver and renal function within normal limits.

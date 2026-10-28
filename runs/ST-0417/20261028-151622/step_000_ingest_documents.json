@@ -1,0 +1,161 @@
+{
+  "case_id": "ST-0417",
+  "title": "Grade 3 maculopapular rash on Velorantib (hero demo case)",
+  "version": 1,
+  "region": "US/EU/India",
+  "documents": [
+    {
+      "doc_id": "D1",
+      "filename": "physician_note.txt",
+      "rel_path": "documents/physician_note.txt",
+      "doc_type": "physician_note",
+      "version": 1,
+      "pages": [
+        "SITE 104 - INVESTIGATOR CLINICAL NOTE (UNSCHEDULED VISIT)\nStudy: SFT-301 (Velorantib in moderate-to-severe plaque psoriasis)\nSite: 104, Mumbai\nSubject ID: 104-0217    Initials: R.K.    Age: 54 years    Sex: Female\nVisit date: 16-Mar-2026\n\nMedical history: Hypertension, controlled on amlodipine 5 mg once daily. No known drug allergies.\n\nStudy treatment: Velorantib 50 mg orally once daily, started on 02-Mar-2026.\n\nPresenting complaint: Subject attended an unscheduled visit with a widespread itchy rash.\nRash first noted on 14-Mar-2026 according to the subject at today's visit.\nOn examination: erythematous maculopapular rash, grade 3, on trunk and arms, covering\napproximately 40% of body surface area. No mucosal involvement. Temperature 37.9 C.",
+        "Assessment and plan\nEvent: generalised maculopapular rash, CTCAE grade 3.\nThe subject was admitted to hospital on 16-Mar-2026 for observation and IV management.\nSeriousness: hospitalisation.\nStudy drug interrupted on 16-Mar-2026 (last dose 15-Mar-2026).\nTreatment: IV methylprednisolone 40 mg daily and oral cetirizine 10 mg once daily.\nOutcome at time of report: not yet recovered.\n\nInvestigator: Dr. Anjali Mehta, Principal Investigator, Site 104\nReceived by sponsor drug safety: 16-Mar-2026"
+      ],
+      "source_mode": "plain_text",
+      "ocr_confidence": null,
+      "scanned_pages": [],
+      "extracted": false,
+      "reextract_count": 0
+    },
+    {
+      "doc_id": "D2",
+      "filename": "patient_diary.txt",
+      "rel_path": "documents/patient_diary.txt",
+      "doc_type": "patient_diary",
+      "version": 1,
+      "pages": [
+        "PATIENT DIARY - Study SFT-301 - Subject 104-0217\nWeek 2\n\n10 Mar 2026: Took tablet in the morning with breakfast. Felt fine.\n11 Mar 2026: Took tablet. Mild headache in the evening, went away after rest.\n12 Mar 2026: Took tablet. Itchy red spots started on my stomach in the evening.\n13 Mar 2026: Took tablet. Spots spreading to arms, very itchy, could not sleep well.\n14 Mar 2026: Took tablet. Rash worse, showed my daughter. Called the study nurse.\n15 Mar 2026: Took tablet. Rash on chest, back and both arms. Feeling feverish.\n16 Mar 2026: Did not take tablet. Went to the hospital clinic as the nurse told me."
+      ],
+      "source_mode": "plain_text",
+      "ocr_confidence": null,
+      "scanned_pages": [],
+      "extracted": false,
+      "reextract_count": 0
+    },
+    {
+      "doc_id": "D3",
+      "filename": "lab_report.txt",
+      "rel_path": "documents/lab_report.txt",
+      "doc_type": "lab_report",
+      "version": 1,
+      "pages": [
+        "CENTRAL LABORATORY REPORT\nStudy: SFT-301    Subject: 104-0217    Site: 104\nSample collected: 16-Mar-2026 09:40\n\nHaematology\nEosinophils 1.2 x10^9/L (ref 0.0-0.5) HIGH\nWBC 9.8 x10^9/L (ref 4.0-11.0)\nHaemoglobin 12.9 g/dL (ref 12.0-15.5)\n\nBiochemistry\nALT 38 U/L (ref 7-56)\nCreatinine 0.8 mg/dL (ref 0.6-1.1)\n\nComment: Eosinophilia noted. Liver and renal function within normal limits."
+      ],
+      "source_mode": "plain_text",
+      "ocr_confidence": null,
+      "scanned_pages": [],
+      "extracted": false,
+      "reextract_count": 0
+    }
+  ],
+  "facts": [],
+  "conflicts": [],
+  "gaps": [],
+  "minimum_criteria": {},
+  "seriousness_candidates": [],
+  "timeline_issues": [],
+  "meddra_suggestions": {},
+  "selected_meddra": {},
+  "narrative": [],
+  "narrative_version": 0,
+  "clock": {},
+  "expectedness": "unknown",
+  "expectedness_by": "",
+  "causality": {},
+  "status": "processing",
+  "human_tasks": [],
+  "signed_off_by": null,
+  "reconciled_version": 0,
+  "reconciled_fact_count": -1,
+  "narrative_stale": true,
+  "followup_drafted_version": 0,
+  "meddra_done_version": 0,
+  "clock_done_version": 0,
+  "review_requested_at_step": -1,
+  "prefollowup": {},
+  "diff": [],
+  "audit": [
+    {
+      "ts": "2026-10-28T09:46:23.960183Z",
+      "actor": "tool:ingest",
+      "action": "document_added",
+      "details": {
+        "doc_id": "D1",
+        "filename": "physician_note.txt",
+        "pages": 2,
+        "scanned": []
+      }
+    },
+    {
+      "ts": "2026-10-28T09:46:23.960183Z",
+      "actor": "tool:ingest",
+      "action": "document_added",
+      "details": {
+        "doc_id": "D2",
+        "filename": "patient_diary.txt",
+        "pages": 1,
+        "scanned": []
+      }
+    },
+    {
+      "ts": "2026-10-28T09:46:23.960183Z",
+      "actor": "tool:ingest",
+      "action": "document_added",
+      "details": {
+        "doc_id": "D3",
+        "filename": "lab_report.txt",
+        "pages": 1,
+        "scanned": []
+      }
+    }
+  ],
+  "trace": [
+    {
+      "step": 1,
+      "ts": "2026-10-28T09:46:23.959677Z",
+      "planner": "llm",
+      "reason": "No documents have been ingested yet, so we must load the case pack first.",
+      "tool": "ingest_documents",
+      "args": {},
+      "allowed": true,
+      "result_summary": "ingested 3 document(s): ['D1', 'D2', 'D3']; documents with untranscribed scanned pages: none",
+      "duration_s": 0.0,
+      "planner_input": "CASE ST-0417 | version 1 | status processing\nDocuments: none ingested yet.\nReconciled for current version and facts: False\nMedDRA suggested for this version: False; clock computed for this version: False\nNarrative: not drafted\n\nTools the rulebook allows now: ingest_documents",
+      "calls": [
+        {
+          "step": 1,
+          "role": "planner",
+          "model": "groq:openai/gpt-oss-20b (cached answer)",
+          "secs": 0.0,
+          "instructions": "You are the SafetyTrace orchestrator for SERIOUS clinical-trial adverse-event cases.\nGoal: bring the case to a state where a qualified human reviewer can verify it quickly and safely.\n\nYou never see documents. You see a case summary and choose ONE next tool. Explain your reason in one short sentence (shown to the reviewer as the agent trace).\n\nTools:\n- ingest_documents: load the case pack (first step only).\n- transcribe_scans: transcribe scanned pages that have no text layer. Must happen before extraction of those documents.\n- extract_facts: extract facts with verified quotes. With no arguments it processes all un-extracted documents.\n  With doc_ids AND fields it does ONE focused re-extraction (use it when a field has only unanchored values, or after a search found likely evidence).\n- search_documents: deterministic search of every page, ONLY for a MISSING minimum criterion. Give criterion = one of identifiable_patient, identifiable_reporter, suspect_product, adverse_event.\n- reconcile: detect conflicts, gaps, minimum criteria, seriousness candidates. Run it whenever facts changed.\n- suggest_meddra: suggest MedDRA terms (human selects).\n- compute_clock: compute regulatory deadlines.\n- draft_narrative: write the narrative from usable facts only (conflicts/gaps are stated by templates).\n- verify_narrative: check every pending sentence (rules first, then an independent model).\n- redraft_sentences: redraft only blocked sentences (give sentence_ids).\n- draft_followup_queries: draft follow-up questions for open gaps/conflicts (a human approves; nothing is sent).\n- request_human_review: hand over to the reviewer when automatic work is done.\n- stop: nothing useful left to do.\n\nRules you must follow:\n1. Never decide which of two conflicting values is correct, and never decide causality, expectedness, reportability or case validity.\n2. Before treating a minimum criterion as missing, search for it; if the search finds hits, do one focused extraction on those documents.\n3. If a field has only unanchored values, try one focused re-extraction on that document.\n4. After any drafting or redrafting, verify. Redraft only blocked sentences.\n5. Reconcile again whenever facts changed (for example after a follow-up reply or a focused extraction).\n6. Conflicts are decided ONLY by a human or by a site reply. Do not search or re-extract to \"resolve\" a conflict: draft a follow-up query and hand over.\n7. Missing information that is not a minimum criterion (e.g. dechallenge) is a gap",
+          "input": "CASE ST-0417 | version 1 | status processing\nDocuments: none ingested yet.\nReconciled for current version and facts: False\nMedDRA suggested for this version: False; clock computed for this version: False\nNarrative: not drafted\n\nTools the policy allows right now (anything else is blocked): ingest_documents\n\nChoose the single next action.",
+          "output": "{\"reason\": \"No documents have been ingested yet, so we must load the case pack first.\", \"tool\": \"ingest_documents\", \"doc_ids\": [], \"fields\": [], \"criterion\": \"\", \"sentence_ids\": []}"
+        }
+      ],
+      "changes": {
+        "documents loaded": [
+          "D1 physician_note.txt: 2 page(s), plain text",
+          "D2 patient_diary.txt: 1 page(s), plain text",
+          "D3 lab_report.txt: 1 page(s), plain text"
+        ]
+      }
+    }
+  ],
+  "usage": {
+    "requests": 1,
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "by_role": {
+      "planner": {
+        "requests": 1,
+        "prompt_tokens": 0,
+        "completion_tokens": 0
+      }
+    }
+  },
+  "current_step": 1,
+  "llm_calls": []
+}

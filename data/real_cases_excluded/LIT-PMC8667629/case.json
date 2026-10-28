@@ -1,0 +1,22 @@
+{
+  "case_id": "LIT-PMC8667629",
+  "title": "REAL literature case: Edwardsiella tarda: A Classic Presentation of a Rare Fatal Infection, with Possible New Background Risk Factor",
+  "region": "US/EU/India",
+  "documents": [
+    {
+      "path": "documents/article.txt",
+      "doc_type": "literature_article"
+    }
+  ],
+  "followups": [],
+  "real": true,
+  "source": {
+    "pmcid": "PMC8667629",
+    "doi": "10.12659/ajcr.934347",
+    "license": "cc by-nc-nd",
+    "url": "https://europepmc.org/article/PMC/8667629"
+  },
+  "designed_to_show": [
+    "real published case: extraction + MedDRA + seriousness vs the manufacturer's FAERS ICSR"
+  ]
+}

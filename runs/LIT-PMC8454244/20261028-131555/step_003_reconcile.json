@@ -1,0 +1,1266 @@
+{
+  "case_id": "LIT-PMC8454244",
+  "title": "REAL literature case: Intrahepatic Bile Duct Injury as a Hepatic Immune-Related Adverse Event after Immune-Checkpoint Inhibitor Trea",
+  "version": 1,
+  "region": "US/EU/India",
+  "documents": [
+    {
+      "doc_id": "D1",
+      "filename": "article.txt",
+      "rel_path": "documents/article.txt",
+      "doc_type": "literature_article",
+      "version": 1,
+      "pages": [
+        "Intrahepatic Bile Duct Injury as a Hepatic Immune-Related Adverse Event after Immune-Checkpoint Inhibitor Treatment.\nCase reports in gastroenterology (2021). Murayama A, Tajiri K, Nakaya A, Ito H, Hayashi Y, Entani T, Nagata K, Tanaka S, Hamashima T, Yasuda I.\nLicense: cc by-nc | PMC8454244 | doi:10.1159/000516199\n\nIntrahepatic Bile Duct Injury as a Hepatic Immune-Related Adverse Event after Immune-Checkpoint Inhibitor Treatment\n\nAbstract\nThe increased use of immune-checkpoint inhibitors to treat various types of cancer has increased the incidence of immune-related adverse events (irAEs). Hepatic irAEs are frequent and can lead to serious conditions. Among the various types of hepatic irAEs reported to date, bile duct injury has been shown refractory to steroid treatment. This study describes 2 patients with hepatic irAEs manifesting as intrahepatic bile duct injury. Immunostaining with antibodies to both CD8 and cytokeratin-7 was useful for the diagnosis, and both patients were refractory to steroid treatment. Prompt diagnosis and active immunosuppressive therapies are required in such cases.\nKeywords: Immune-checkpoint inhibitors, Immune-related adverse events, Cholangitis, Cytokeratin-7, Mycophenolate mofetil\n\nIntroduction\nImmune-checkpoint inhibitors (ICIs) have been approved for the treatment of various malignant tumors [1]. Although ICIs inhibit tumor growth by blocking the transmission of immunosuppressive signals, such as the binding of program death-1 (PD-1) and program death-ligand 1 (PD-L1) or the binding of cytotoxic T-lymphocyte antigen-4 (CTLA-4) with CD28-ligands (CD28L), these agents induce various immune-related adverse events (irAEs) in various organs [2]. For example, hepatic irAEs have been reported in 1–16% of patients administered ICIs and can lead to serious conditions [3, 4]. Depending on the degree of liver damage, hepatic irAEs can be treated with immunosuppressive agents such as prednisolone (PSL) and other immunosuppressive [5]. The present study describes 2 patients who experienced severe cholestatic liver injury after treatment with ICIs. Both patients showed injury to intrahepatic small bile ducts, with these injuries being refractory to steroid administration. One patient recovered after treatment with mycophenolate mofetil (MMF). The literature of patients who experienced hepatic irAE manifesting as bile duct damage is discussed.",
+        "Patient 1\nThe patient was an 83-year-old man who had undergone laparoscopic left nephrectomy for advanced left renal cell carcinoma. He was found to have pleural metastasis 1 month after the operation and was treated with 4 cycles of the anti-PD-1 antibody nivolumab and the anti-CTLA-4 antibody ipilimumab for 12 weeks. Disease progression was observed, and the patient was started on second-line treatment with pazopanib. Blood tests 4 weeks later showed a marked elevation of liver enzymes, including an aspartate aminotransferase (AST) concentration of 980 IU/L (normal range 12–31 IU/L), an alanine transaminase (ALT) concentration of 714 IU/L (normal range 8–40 IU/L), an alkaline-phosphatase (ALP) concentration of 2004 IU/L (normal range 100–310 IU/L), and a total bilirubin concentration of 4.02 mg/dL. He was treated with ursodeoxycholic acid (300 mg/day) and PSL (1.0 mg/kg/day), but his liver function and jaundice did not improve. One week later, he was referred to our hospital. At admission, he showed prolonged severe cholestatic liver injury, including AST 903 IU/L, ALT 1045 IU/L, ALP 3083 IU/L, total bilirubin 20.0 mg/dL, and direct bilirubin 15.6 mg/dL and elongation of prothrombin time (PT) (PT-%, 45%, PT-INR 1.60). Serological examination showed no evidence of hepatitis A, B, C, or E virus infection and no evidence of infection with other viruses, such as Epstein-Barr virus and cytomegalovirus (CMV). His serum immunoglobulin G concentration was within the normal range, and he was negative for antinuclear and anti-mitochondrial antibodies. Computed tomography and ultrasonography showed no evidence of abnormalities in his biliary tracts. He was started on steroid-pulse therapy with methylprednisolone (1,000 mg/day for 3 days) and vitamin K supplementation. Although his PT activity improved to 100%, his cholestatic liver injury showed no improvements, with AST 358 IU/L, ALT 646 IU/L, ALP 2187 IU/L, total bilirubin 23.7 mg/dL, and direct bilirubin 18.0 mg/dL. A percutaneous liver biopsy was performed to evaluate his liver injury.\nLiver biopsy showed infiltration of inflammatory cells, mainly lymphocytes, into the portal area, as well as interface hepatitis. Advanced fibrosis was not observed (shown in Fig. 1a). Cytokeratin (CK)-7 staining showed partial destruction of the intrahepatic bile duct and cholestasis around such destroyed bile duct, mimicking chronic nonsuppurative destructive cholangitis (shown in Fig. 1b). Immunostaining showed that most of the infiltrating lymphocytes were positive for CD8, with few positive for CD4 (shown in Fig. 1c, d). These findings suggested that an autoimmune mechanism induced by ICIs caused intrahepatic bile duct injury, leading to severe cholestasis. Although pazopanib-induced liver injury could not be completely ruled out, those histological findings and the timing of liver injury support a diagnosis of hepatic irAE. Because he was considered steroid refractory, a decision was made to treat him with MMF, and approval from the institutional review board of the Ethics Committee of our center was obtained. However, he developed CMV pneumonia, requiring treatment with ganciclovir for 2 weeks to control the CMV infection. After the control of CMV, he was started on MMF (500 mg/bid). However, his general condition already worsened markedly and his organ function deteriorated. Two days after starting MMF treatment, the patient died of multiple organ failures.",
+        "Patient 2\nThe patient was a 77-year-old man who had undergone resection of a malignant melanoma on his left foot 3 years earlier but had developed multiple lymph node recurrences. He was, therefore, treated with the anti-PD-L1 antibody pembrolizumab, which had shown good antitumor activity. Eleven months after pembrolizumab treatment, a blood examination revealed liver injury with jaundice, including AST 147 IU/L, ALT 263 IU/L, ALP 739 IU/L, and total bilirubin 3.8 mg/dL. He was serologically negative for viral hepatitis including hepatitis A, B, C, and E viruses and for other viruses such as Epstein-Barr virus and CMV. Administration of new drugs was not recognized during these several months. He was also negative for antinuclear and anti-mitochondrial antibodies. Abdominal ultrasonography showed no evidence of biliary obstructive changes. He was thereafter referred to our hospital and was tentatively diagnosed with hepatic irAE, for which he was treated with high-dose PSL (1.5 mg/kg/day). Five days after the steroid therapy, he showed prolonged liver injury, including AST 188 IU/L, ALT 483 IU/L, ALP 1265 IU/L, and total bilirubin 3.0 mg/dL. A US-guided percutaneous liver biopsy was performed to evaluate his liver injury, and after approval by the institutional review board of the Ethics Committee of our institution, he was started on MMF (500 mg/bid).\nLiver biopsy showed the infiltration of inflammatory cells, mainly lymphocytes, into the portal area, along with interface hepatitis, but advanced fibrosis was not observed (shown in Fig. 2a). CK-7 staining showed that inflammation occurred mainly in the portal areas, and partial destruction of intrahepatic bile duct was also observed (shown in Fig. 2b). Immunostaining showed that most of the lymphocytes accumulating around the intrahepatic bile ducts were CD8-positive, not CD4-positive (shown in Fig. 2c, d). These findings suggested that an autoimmune mechanism induced by ICI caused intrahepatic bile ductal damage, leading to cholestatic liver injury. Two weeks after starting MMF, his liver injury had improved, with AST 33 IU/L, ALT 124 IU/L, ALP 456 IU/L, and total bilirubin 0.9 mg/dL. He was subsequently discharged, and PSL was gradually reduced. Eight weeks after MMF administration, his liver injury had normalized and MMF followed PSL were discontinued. His condition remained good, with no evidence of recurrence of liver injury.",
+        "Discussion\nICIs that suppress interactions between PD-1 and PD-L1 or between CTLA-4 and CD28L have become widely used to treat cancer, increasing the incidence of irAEs associated with ICIs [1]. Hepatic irAE have been reported to occur 4–12 weeks after ICIs administration [4]. Rates of liver dysfunction with a single ICI were found to be 6.4% for nivolumab and 7.1% for ipilimumab. However, the incidence of all grade liver dysfunction in patients treated with a combination of nivolumab and ipilimumab combination therapy was 30% and rates of severe liver injury (Grade 3 or higher) was as high as 18.8% [2, 3], indicating that stronger immunosuppression could lead to more and more severe irAEs.\nThe patterns of liver damage from hepatic irAEs vary from hepatocellular type to cholangitis type, with ICIs recently reported to induce various types of cholangitis. A review of patients with hepatic irAEs, including cholangitis, showed the occurrence of cholangitis at various levels of the bile ducts, from the extrahepatic to the intrahepatic bile ducts (Table 1) [6, 7, 8, 9, 10, 11]. Histopathological findings include the infiltration of mostly CD8-positive T cells around Glisson's capsule [7, 10, 11]. Liver biopsy from both of our patients showed interface hepatitis with intrahepatic bile duct injury and infiltration predominantly by CD8 positive cells. Although the intrahepatic bile duct could not be clearly found in Patient 1 by hematoxylin-eosin staining, however, CK-7 staining showed damage to the intrahepatic bile duct. CK-7 staining was shown effective in evaluating intrahepatic bile ductal damage in patients with severe damage, such as patients with vanishing bile duct syndrome [9]. Both CD8 and CK-7 staining should be considered in evaluating patients with hepatic irAEs showing cholestatic liver injury.\nGuidelines regarding treatment for hepatic irAEs have suggested that patients with Grade 4 liver dysfunction be treated with a high-dose steroid such as PSL 2 mg/kg. Patients who do not improve after 3 days of high-dose PSL should be switched to treatment with MMF [12]. ICI-induced cholangitis is a serious adverse event with an inadequate response to steroid treatment [6, 9]. Moreover, liver injury with cholangitis due to ICIs is regarded as a hepatic irAE [12], suggesting that hepatic irAEs with cholestasis be managed more cautiously. Imaging methods are required to evaluate extrahepatic bile ductal changes and liver biopsy should also be considered.\nSteroid treatment is not recommended for patients with chronic cholestatic liver diseases, such as primary biliary cholangitis (PBC) and primary sclerosing cholangitis due to adverse events. In contrast, budesonide, a steroid almost completely metabolized during its first pass in the liver, may be effective in patients with cholestatic liver disease [13, 14]. Furthermore, immunosuppressants such as MMF, cyclosporine, and azathioprine are not recommended for patients with PBC or primary sclerosing cholangitis [13]. Budesonide has been shown effective in patients with early stage PBC but not in cirrhotic patients [14]. Nonspecific immunosuppressive treatment may be effective only in patients with early stage cholestatic liver diseases but may be harmful in patients with later stage diseases due to adverse events. Previous studies and the present report suggest that patients with severe damage to the bile ducts who develop organic changes such as vanishing bile duct are refractory to immunosuppressive treatment and that this condition could be fatal. Earlier MMF administration may have improved the clinical outcome in Patient 1 of the present study. Early diagnosis and positive interventions are important for improving the prognosis of patients with hepatic irAE and cholangitis, preventing organic damage to the bile ducts.\nIn conclusion, this study described 2 patients with hepatic irAE with cholestasis. Immunostaining with antibodies to both CD8 and CK-7 may be useful for the diagnosis of this condition. Prompt and active immunosuppressive treatment should be considered for these patients.",
+        "Statement of Ethics\nWritten informed consent for publication was obtained from the patient's wife and son in Patient 1 and from the patient in Patient 2. Our work was approved by our institutional clinical Ethics Committee (Clinical Ethics Committee of Toyama University Hospital, Approved number: MKTY2019001).\n\nConflict of Interest Statement\nThe authors declare that they have no conflicts of interest.\n\nFunding Sources\nThere were no funding sources.\n\nAuthor Contributions\nM.A. and T.K. wrote this paper, and all the authors contributed to the patient's medical treatment.\n\nTables\nTreatment and the response in reported cases with hepatic irAE showing cholangitis\nCase | Age | Sex | Pattern of cholangitis | Steroid (/day), mg/kg | Additional treatment | Biliary drainage | Improvement | Ref\n1 | 81 | F | EHD, IHD | mPSL 2 | MMF 1 g/day | None | Yes | [6]\n2 | 75 | M | NE | mPSL 2 | None | Yes | No | [6]\n3 | 55 | M | EHD, IHD | mPSL 2 | MMF 1 g/day | Yes (EST) | Yes | [6]\n4 | 82 | F | EHD, IHD | mPSL 2 | None | None | Yes | [6]\n5 | 64 | M | EHD | PSL 0.5 | None | None | Yes | [7]\n6 | 73 | F | EHD | PSL 0.5 | None | Yes | Yes | [7]\n7 | 82 | F | EHD | None | None | Yes | Yes | [7]\n8 | 63 | M | EHD | PSL 2 | None | Yes | Yes | [8]\n9 | 49 | F | IHD (VBDS) | PSL 1 | MMF 1 g/day | None | No | [9]\n10 | 59 | F | IHD | PSL 1 | None | None | Yes | [9]\n11 | 76 | M | IHD (partial VBDS) | PSL 1 | MMF 500 mg | None | Partially improved | [9]\n12 | 79 | M | IHD | mPSL 1 | None | None | Yes | [10]\n13 | 76 | M | EHD, IHD | PSL 0.5 | None | None | Yes | [11]\n14 | 83 | M | IHD | mPSL 20 | MMF 1 g/day | None | No | Our case\n15 | 77 | M | IHD | PSL 1.5 | MMF 1 g/day | None | Yes | Our case"
+      ],
+      "source_mode": "plain_text",
+      "ocr_confidence": null,
+      "scanned_pages": [],
+      "extracted": true,
+      "reextract_count": 0
+    }
+  ],
+  "facts": [
+    {
+      "fact_id": "F01",
+      "field": "reporter_name_or_role",
+      "value": "Murayama A",
+      "normalized": "murayama a",
+      "evidence": [],
+      "status": "unanchored",
+      "extracted_by": "gemini:gemini-3.5-flash-lite:extract_v2",
+      "source_doc": "D1",
+      "drug": "",
+      "note": "value 'Murayama A' not supported by quote 'M.A. and T.K. wrote this paper'"
+    },
+    {
+      "fact_id": "F02",
+      "field": "reporter_name_or_role",
+      "value": "Tajiri K",
+      "normalized": "tajiri k",
+      "evidence": [],
+      "status": "unanchored",
+      "extracted_by": "gemini:gemini-3.5-flash-lite:extract_v2",
+      "source_doc": "D1",
+      "drug": "",
+      "note": "value 'Tajiri K' not supported by quote 'M.A. and T.K. wrote this paper'"
+    },
+    {
+      "fact_id": "F03",
+      "field": "subject_id",
+      "value": "Patient 1",
+      "normalized": "patient1",
+      "evidence": [
+        {
+          "doc_id": "D1",
+          "page": 2,
+          "char_start": 0,
+          "char_end": 9,
+          "quote": "Patient 1",
+          "match": "exact"
+        }
+      ],
+      "status": "conflicting",
+      "extracted_by": "gemini:gemini-3.5-flash-lite:extract_v2",
+      "source_doc": "D1",
+      "drug": "",
+      "note": ""
+    },
+    {
+      "fact_id": "F04",
+      "field": "patient_age",
+      "value": "83",
+      "normalized": "83",
+      "evidence": [
+        {
+          "doc_id": "D1",
+          "page": 2,
+          "char_start": 29,
+          "char_end": 40,
+          "quote": "83-year-old",
+          "match": "exact"
+        }
+      ],
+      "status": "conflicting",
+      "extracted_by": "gemini:gemini-3.5-flash-lite:extract_v2",
+      "source_doc": "D1",
+      "drug": "",
+      "note": ""
+    },
+    {
+      "fact_id": "F05",
+      "field": "patient_sex",
+      "value": "man",
+      "normalized": "male",
+      "evidence": [
+        {
+          "doc_id": "D1",
+          "page": 2,
+          "char_start": 41,
+          "char_end": 44,
+          "quote": "man",
+          "match": "exact"
+        },
+        {
+          "doc_id": "D1",
+          "page": 3,
+          "char_start": 40,
+          "char_end": 43,
+          "quote": "man",
+          "match": "exact"
+        }
+      ],
+      "status": "anchored",
+      "extracted_by": "gemini:gemini-3.5-flash-lite:extract_v2",
+      "source_doc": "D1",
+      "drug": "",
+      "note": ""
+    },
+    {
+      "fact_id": "F06",
+      "field": "relevant_history",
+      "value": "advanced left renal cell carcinoma",
+      "normalized": "advanced left renal cell carcinoma",
+      "evidence": [
+        {
+          "doc_id": "D1",
+          "page": 2,
+          "char_start": 97,
+          "char_end": 132,
+          "quote": "advanced left renal cell carcinoma.",
+          "match": "exact"
+        }
+      ],
+      "status": "anchored",
+      "extracted_by": "gemini:gemini-3.5-flash-lite:extract_v2",
+      "source_doc": "D1",
+      "drug": "",
+      "note": ""
+    },
+    {
+      "fact_id": "F07",
+      "field": "drug_name",
+      "value": "nivolumab",
+      "normalized": "nivolumab",
+      "evidence": [
+        {
+          "doc_id": "D1",
+          "page": 2,
+          "char_start": 257,
+          "char_end": 266,
+          "quote": "nivolumab",
+          "match": "exact"
+        }
+      ],
+      "status": "anchored",
+      "extracted_by": "gemini:gemini-3.5-flash-lite:extract_v2",
+      "source_doc": "D1",
+      "drug": "",
+      "note": ""
+    },
+    {
+      "fact_id": "F08",
+      "field": "drug_name",
+      "value": "ipilimumab",
+      "normalized": "ipilimumab",
+      "evidence": [
+        {
+          "doc_id": "D1",
+          "page": 2,
+          "char_start": 296,
+          "char_end": 306,
+          "quote": "ipilimumab",
+          "match": "exact"
+        }
+      ],
+      "status": "anchored",
+      "extracted_by": "gemini:gemini-3.5-flash-lite:extract_v2",
+      "source_doc": "D1",
+      "drug": "",
+      "note": ""
+    },
+    {
+      "fact_id": "F09",
+      "field": "indication",
+      "value": "advanced left renal cell carcinoma",
+      "normalized": "advanced left renal cell carcinoma",
+      "evidence": [
+        {
+          "doc_id": "D1",
+          "page": 2,
+          "char_start": 97,
+          "char_end": 131,
+          "quote": "advanced left renal cell carcinoma",
+          "match": "exact"
+        }
+      ],
+      "status": "anchored",
+      "extracted_by": "gemini:gemini-3.5-flash-lite:extract_v2",
+      "source_doc": "D1",
+      "drug": "nivolumab",
+      "note": ""
+    },
+    {
+      "fact_id": "F10",
+      "field": "indication",
+      "value": "advanced left renal cell carcinoma",
+      "normalized": "advanced left renal cell carcinoma",
+      "evidence": [
+        {
+          "doc_id": "D1",
+          "page": 2,
+          "char_start": 97,
+          "char_end": 131,
+          "quote": "advanced left renal cell carcinoma",
+          "match": "exact"
+        }
+      ],
+      "status": "anchored",
+      "extracted_by": "gemini:gemini-3.5-flash-lite:extract_v2",
+      "source_doc": "D1",
+      "drug": "ipilimumab",
+      "note": ""
+    },
+    {
+      "fact_id": "F11",
+      "field": "event_verbatim",
+      "value": "elevation of liver enzymes",
+      "normalized": "elevation of liver enzymes",
+      "evidence": [
+        {
+          "doc_id": "D1",
+          "page": 2,
+          "char_start": 459,
+          "char_end": 492,
+          "quote": "marked elevation of liver enzymes",
+          "match": "exact"
+        }
+      ],
+      "status": "anchored",
+      "extracted_by": "gemini:gemini-3.5-flash-lite:extract_v2",
+      "source_doc": "D1",
+      "drug": "",
+      "note": ""
+    },
+    {
+      "fact_id": "F12",
+      "field": "relevant_labs",
+      "value": "AST 980 IU/L",
+      "normalized": "ast 980 iu/l",
+      "evidence": [
+        {
+          "doc_id": "D1",
+          "page": 2,
+          "char_start": 507,
+          "char_end": 565,
+          "quote": "aspartate aminotransferase (AST) concentration of 980 IU/L",
+          "match": "exact"
+        }
+      ],
+      "status": "anchored",
+      "extracted_by": "gemini:gemini-3.5-flash-lite:extract_v2",
+      "source_doc": "D1",
+      "drug": "",
+      "note": ""
+    },
+    {
+      "fact_id": "F13",
+      "field": "relevant_labs",
+      "value": "ALT 714 IU/L",
+      "normalized": "alt 714 iu/l",
+      "evidence": [
+        {
+          "doc_id": "D1",
+          "page": 2,
+          "char_start": 596,
+          "char_end": 648,
+          "quote": "alanine transaminase (ALT) concentration of 714 IU/L",
+          "match": "exact"
+        }
+      ],
+      "status": "anchored",
+      "extracted_by": "gemini:gemini-3.5-flash-lite:extract_v2",
+      "source_doc": "D1",
+      "drug": "",
+      "note": ""
+    },
+    {
+      "fact_id": "F14",
+      "field": "relevant_labs",
+      "value": "ALP 2004 IU/L",
+      "normalized": "alp 2004 iu/l",
+      "evidence": [
+        {
+          "doc_id": "D1",
+          "page": 2,
+          "char_start": 678,
+          "char_end": 731,
+          "quote": "alkaline-phosphatase (ALP) concentration of 2004 IU/L",
+          "match": "exact"
+        }
+      ],
+      "status": "anchored",
+      "extracted_by": "gemini:gemini-3.5-flash-lite:extract_v2",
+      "source_doc": "D1",
+      "drug": "",
+      "note": ""
+    },
+    {
+      "fact_id": "F15",
+      "field": "relevant_labs",
+      "value": "total bilirubin 4.02 mg/dL",
+      "normalized": "total bilirubin 4.02 mg/dl",
+      "evidence": [
+        {
+          "doc_id": "D1",
+          "page": 2,
+          "char_start": 767,
+          "char_end": 810,
+          "quote": "total bilirubin concentration of 4.02 mg/dL",
+          "match": "exact"
+        }
+      ],
+      "status": "anchored",
+      "extracted_by": "gemini:gemini-3.5-flash-lite:extract_v2",
+      "source_doc": "D1",
+      "drug": "",
+      "note": ""
+    },
+    {
+      "fact_id": "F16",
+      "field": "treatment_given",
+      "value": "ursodeoxycholic acid",
+      "normalized": "ursodeoxycholic acid",
+      "evidence": [
+        {
+          "doc_id": "D1",
+          "page": 2,
+          "char_start": 832,
+          "char_end": 865,
+          "quote": "ursodeoxycholic acid (300 mg/day)",
+          "match": "exact"
+        }
+      ],
+      "status": "anchored",
+      "extracted_by": "gemini:gemini-3.5-flash-lite:extract_v2",
+      "source_doc": "D1",
+      "drug": "",
+      "note": ""
+    },
+    {
+      "fact_id": "F17",
+      "field": "treatment_given",
+      "value": "PSL",
+      "normalized": "psl",
+      "evidence": [
+        {
+          "doc_id": "D1",
+          "page": 2,
+          "char_start": 870,
+          "char_end": 889,
+          "quote": "PSL (1.0 mg/kg/day)",
+          "match": "exact"
+        },
+        {
+          "doc_id": "D1",
+          "page": 3,
+          "char_start": 985,
+          "char_end": 1004,
+          "quote": "PSL (1.5 mg/kg/day)",
+          "match": "exact"
+        }
+      ],
+      "status": "anchored",
+      "extracted_by": "gemini:gemini-3.5-flash-lite:extract_v2",
+      "source_doc": "D1",
+      "drug": "",
+      "note": ""
+    },
+    {
+      "fact_id": "F18",
+      "field": "treatment_given",
+      "value": "methylprednisolone",
+      "normalized": "methylprednisolone",
+      "evidence": [
+        {
+          "doc_id": "D1",
+          "page": 2,
+          "char_start": 1714,
+          "char_end": 1758,
+          "quote": "methylprednisolone (1,000 mg/day for 3 days)",
+          "match": "exact"
+        }
+      ],
+      "status": "anchored",
+      "extracted_by": "gemini:gemini-3.5-flash-lite:extract_v2",
+      "source_doc": "D1",
+      "drug": "",
+      "note": ""
+    },
+    {
+      "fact_id": "F19",
+      "field": "treatment_given",
+      "value": "vitamin K",
+      "normalized": "vitamin k",
+      "evidence": [
+        {
+          "doc_id": "D1",
+          "page": 2,
+          "char_start": 1763,
+          "char_end": 1788,
+          "quote": "vitamin K supplementation",
+          "match": "exact"
+        }
+      ],
+      "status": "anchored",
+      "extracted_by": "gemini:gemini-3.5-flash-lite:extract_v2",
+      "source_doc": "D1",
+      "drug": "",
+      "note": ""
+    },
+    {
+      "fact_id": "F20",
+      "field": "event_verbatim",
+      "value": "CMV pneumonia",
+      "normalized": "cmv pneumonia",
+      "evidence": [
+        {
+          "doc_id": "D1",
+          "page": 2,
+          "char_start": 3121,
+          "char_end": 3134,
+          "quote": "CMV pneumonia",
+          "match": "exact"
+        }
+      ],
+      "status": "anchored",
+      "extracted_by": "gemini:gemini-3.5-flash-lite:extract_v2",
+      "source_doc": "D1",
+      "drug": "",
+      "note": ""
+    },
+    {
+      "fact_id": "F21",
+      "field": "treatment_given",
+      "value": "ganciclovir",
+      "normalized": "ganciclovir",
+      "evidence": [
+        {
+          "doc_id": "D1",
+          "page": 2,
+          "char_start": 3161,
+          "char_end": 3184,
+          "quote": "ganciclovir for 2 weeks",
+          "match": "exact"
+        }
+      ],
+      "status": "anchored",
+      "extracted_by": "gemini:gemini-3.5-flash-lite:extract_v2",
+      "source_doc": "D1",
+      "drug": "",
+      "note": ""
+    },
+    {
+      "fact_id": "F22",
+      "field": "treatment_given",
+      "value": "MMF",
+      "normalized": "mmf",
+      "evidence": [
+        {
+          "doc_id": "D1",
+          "page": 2,
+          "char_start": 3259,
+          "char_end": 3275,
+          "quote": "MMF (500 mg/bid)",
+          "match": "exact"
+        },
+        {
+          "doc_id": "D1",
+          "page": 3,
+          "char_start": 1358,
+          "char_end": 1374,
+          "quote": "MMF (500 mg/bid)",
+          "match": "exact"
+        }
+      ],
+      "status": "anchored",
+      "extracted_by": "gemini:gemini-3.5-flash-lite:extract_v2",
+      "source_doc": "D1",
+      "drug": "",
+      "note": ""
+    },
+    {
+      "fact_id": "F23",
+      "field": "event_verbatim",
+      "value": "multiple organ failures",
+      "normalized": "multiple organ failures",
+      "evidence": [
+        {
+          "doc_id": "D1",
+          "page": 2,
+          "char_start": 3430,
+          "char_end": 3453,
+          "quote": "multiple organ failures",
+          "match": "exact"
+        }
+      ],
+      "status": "anchored",
+      "extracted_by": "gemini:gemini-3.5-flash-lite:extract_v2",
+      "source_doc": "D1",
+      "drug": "",
+      "note": ""
+    },
+    {
+      "fact_id": "F24",
+      "field": "seriousness_criteria",
+      "value": "death",
+      "normalized": "death",
+      "evidence": [
+        {
+          "doc_id": "D1",
+          "page": 2,
+          "char_start": 3410,
+          "char_end": 3426,
+          "quote": "the patient died",
+          "match": "exact"
+        }
+      ],
+      "status": "anchored",
+      "extracted_by": "gemini:gemini-3.5-flash-lite:extract_v2",
+      "source_doc": "D1",
+      "drug": "",
+      "note": ""
+    },
+    {
+      "fact_id": "F25",
+      "field": "outcome",
+      "value": "fatal",
+      "normalized": "fatal",
+      "evidence": [
+        {
+          "doc_id": "D1",
+          "page": 2,
+          "char_start": 3410,
+          "char_end": 3453,
+          "quote": "the patient died of multiple organ failures",
+          "match": "exact"
+        }
+      ],
+      "status": "conflicting",
+      "extracted_by": "gemini:gemini-3.5-flash-lite:extract_v2",
+      "source_doc": "D1",
+      "drug": "",
+      "note": ""
+    },
+    {
+      "fact_id": "F26",
+      "field": "subject_id",
+      "value": "Patient 2",
+      "normalized": "patient2",
+      "evidence": [
+        {
+          "doc_id": "D1",
+          "page": 3,
+          "char_start": 0,
+          "char_end": 9,
+          "quote": "Patient 2",
+          "match": "exact"
+        }
+      ],
+      "status": "conflicting",
+      "extracted_by": "gemini:gemini-3.5-flash-lite:extract_v2",
+      "source_doc": "D1",
+      "drug": "",
+      "note": ""
+    },
+    {
+      "fact_id": "F27",
+      "field": "patient_age",
+      "value": "77",
+      "normalized": "77",
+      "evidence": [
+        {
+          "doc_id": "D1",
+          "page": 3,
+          "char_start": 28,
+          "char_end": 39,
+          "quote": "77-year-old",
+          "match": "exact"
+        }
+      ],
+      "status": "conflicting",
+      "extracted_by": "gemini:gemini-3.5-flash-lite:extract_v2",
+      "source_doc": "D1",
+      "drug": "",
+      "note": ""
+    },
+    {
+      "fact_id": "F28",
+      "field": "relevant_history",
+      "value": "malignant melanoma on his left foot",
+      "normalized": "malignant melanoma on his left foot",
+      "evidence": [
+        {
+          "doc_id": "D1",
+          "page": 3,
+          "char_start": 77,
+          "char_end": 112,
+          "quote": "malignant melanoma on his left foot",
+          "match": "exact"
+        }
+      ],
+      "status": "anchored",
+      "extracted_by": "gemini:gemini-3.5-flash-lite:extract_v2",
+      "source_doc": "D1",
+      "drug": "",
+      "note": ""
+    },
+    {
+      "fact_id": "F29",
+      "field": "drug_name",
+      "value": "pembrolizumab",
+      "normalized": "pembrolizumab",
+      "evidence": [
+        {
+          "doc_id": "D1",
+          "page": 3,
+          "char_start": 236,
+          "char_end": 249,
+          "quote": "pembrolizumab",
+          "match": "exact"
+        }
+      ],
+      "status": "anchored",
+      "extracted_by": "gemini:gemini-3.5-flash-lite:extract_v2",
+      "source_doc": "D1",
+      "drug": "",
+      "note": ""
+    },
+    {
+      "fact_id": "F30",
+      "field": "indication",
+      "value": "malignant melanoma",
+      "normalized": "malignant melanoma",
+      "evidence": [
+        {
+          "doc_id": "D1",
+          "page": 3,
+          "char_start": 62,
+          "char_end": 178,
+          "quote": "resection of a malignant melanoma on his left foot 3 years earlier but had developed multiple lymph node recurrences",
+          "match": "exact"
+        }
+      ],
+      "status": "anchored",
+      "extracted_by": "gemini:gemini-3.5-flash-lite:extract_v2",
+      "source_doc": "D1",
+      "drug": "pembrolizumab",
+      "note": ""
+    },
+    {
+      "fact_id": "F31",
+      "field": "event_verbatim",
+      "value": "liver injury with jaundice",
+      "normalized": "liver injury with jaundice",
+      "evidence": [
+        {
+          "doc_id": "D1",
+          "page": 3,
+          "char_start": 366,
+          "char_end": 392,
+          "quote": "liver injury with jaundice",
+          "match": "exact"
+        }
+      ],
+      "status": "anchored",
+      "extracted_by": "gemini:gemini-3.5-flash-lite:extract_v2",
+      "source_doc": "D1",
+      "drug": "",
+      "note": ""
+    },
+    {
+      "fact_id": "F32",
+      "field": "relevant_labs",
+      "value": "AST 147 IU/L",
+      "normalized": "ast 147 iu/l",
+      "evidence": [
+        {
+          "doc_id": "D1",
+          "page": 3,
+          "char_start": 404,
+          "char_end": 416,
+          "quote": "AST 147 IU/L",
+          "match": "exact"
+        }
+      ],
+      "status": "anchored",
+      "extracted_by": "gemini:gemini-3.5-flash-lite:extract_v2",
+      "source_doc": "D1",
+      "drug": "",
+      "note": ""
+    },
+    {
+      "fact_id": "F33",
+      "field": "relevant_labs",
+      "value": "ALT 263 IU/L",
+      "normalized": "alt 263 iu/l",
+      "evidence": [
+        {
+          "doc_id": "D1",
+          "page": 3,
+          "char_start": 418,
+          "char_end": 430,
+          "quote": "ALT 263 IU/L",
+          "match": "exact"
+        }
+      ],
+      "status": "anchored",
+      "extracted_by": "gemini:gemini-3.5-flash-lite:extract_v2",
+      "source_doc": "D1",
+      "drug": "",
+      "note": ""
+    },
+    {
+      "fact_id": "F34",
+      "field": "relevant_labs",
+      "value": "ALP 739 IU/L",
+      "normalized": "alp 739 iu/l",
+      "evidence": [
+        {
+          "doc_id": "D1",
+          "page": 3,
+          "char_start": 432,
+          "char_end": 444,
+          "quote": "ALP 739 IU/L",
+          "match": "exact"
+        }
+      ],
+      "status": "anchored",
+      "extracted_by": "gemini:gemini-3.5-flash-lite:extract_v2",
+      "source_doc": "D1",
+      "drug": "",
+      "note": ""
+    },
+    {
+      "fact_id": "F35",
+      "field": "relevant_labs",
+      "value": "total bilirubin 3.8 mg/dL",
+      "normalized": "total bilirubin 3.8 mg/dl",
+      "evidence": [
+        {
+          "doc_id": "D1",
+          "page": 3,
+          "char_start": 450,
+          "char_end": 475,
+          "quote": "total bilirubin 3.8 mg/dL",
+          "match": "exact"
+        }
+      ],
+      "status": "anchored",
+      "extracted_by": "gemini:gemini-3.5-flash-lite:extract_v2",
+      "source_doc": "D1",
+      "drug": "",
+      "note": ""
+    },
+    {
+      "fact_id": "F36",
+      "field": "outcome",
+      "value": "recovered",
+      "normalized": "recovered",
+      "evidence": [
+        {
+          "doc_id": "D1",
+          "page": 3,
+          "char_start": 2276,
+          "char_end": 2307,
+          "quote": "his liver injury had normalized",
+          "match": "exact"
+        }
+      ],
+      "status": "conflicting",
+      "extracted_by": "gemini:gemini-3.5-flash-lite:extract_v2",
+      "source_doc": "D1",
+      "drug": "",
+      "note": ""
+    },
+    {
+      "fact_id": "F37",
+      "field": "reporter_name_or_role",
+      "value": "Murayama A, Tajiri K, Nakaya A, Ito H, Hayashi Y, Entani T, Nagata K, Tanaka S, Hamashima T, Yasuda I (article authors)",
+      "normalized": "murayama a, tajiri k, nakaya a, ito h, hayashi y, entani t, nagata k, tanaka s, hamashima t, yasuda i (article authors)",
+      "evidence": [
+        {
+          "doc_id": "D1",
+          "page": 1,
+          "char_start": 158,
+          "char_end": 259,
+          "quote": "Murayama A, Tajiri K, Nakaya A, Ito H, Hayashi Y, Entani T, Nagata K, Tanaka S, Hamashima T, Yasuda I",
+          "match": "exact"
+        }
+      ],
+      "status": "anchored",
+      "extracted_by": "gemini:gemini-3.5-flash-lite:extract_v2",
+      "source_doc": "D1",
+      "drug": "",
+      "note": ""
+    }
+  ],
+  "conflicts": [
+    {
+      "conflict_id": "C01",
+      "field": "subject_id",
+      "fact_ids": [
+        "F03",
+        "F26"
+      ],
+      "values": [
+        "patient1",
+        "patient2"
+      ],
+      "explanation": "Article.txt page 2 lists the subject as 'Patient 1', while page 3 lists the subject as 'Patient 2'.",
+      "resolution": null,
+      "resolved_by": null,
+      "site_clarification": ""
+    },
+    {
+      "conflict_id": "C02",
+      "field": "patient_age",
+      "fact_ids": [
+        "F04",
+        "F27"
+      ],
+      "values": [
+        "77",
+        "83"
+      ],
+      "explanation": "Article.txt page 2 reports the patient age as 83, whereas page 3 reports the age as 77.",
+      "resolution": null,
+      "resolved_by": null,
+      "site_clarification": ""
+    },
+    {
+      "conflict_id": "C03",
+      "field": "outcome",
+      "fact_ids": [
+        "F25",
+        "F36"
+      ],
+      "values": [
+        "fatal",
+        "recovered"
+      ],
+      "explanation": "Article.txt page 2 describes the outcome as 'fatal', while page 3 describes the outcome as 'recovered'.",
+      "resolution": null,
+      "resolved_by": null,
+      "site_clarification": ""
+    }
+  ],
+  "gaps": [
+    {
+      "gap_id": "G01",
+      "field": "event_onset_date",
+      "severity": "required_for_serious",
+      "searched": false,
+      "search_hits": [],
+      "query_draft": null,
+      "query_status": "none",
+      "closed": false
+    },
+    {
+      "gap_id": "G02",
+      "field": "dechallenge",
+      "severity": "required_for_serious",
+      "searched": false,
+      "search_hits": [],
+      "query_draft": null,
+      "query_status": "none",
+      "closed": false
+    },
+    {
+      "gap_id": "G03",
+      "field": "start_date",
+      "severity": "required_for_serious",
+      "searched": false,
+      "search_hits": [],
+      "query_draft": null,
+      "query_status": "none",
+      "closed": false
+    },
+    {
+      "gap_id": "G04",
+      "field": "dose",
+      "severity": "required_for_serious",
+      "searched": false,
+      "search_hits": [],
+      "query_draft": null,
+      "query_status": "none",
+      "closed": false
+    },
+    {
+      "gap_id": "G05",
+      "field": "action_taken",
+      "severity": "required_for_serious",
+      "searched": false,
+      "search_hits": [],
+      "query_draft": null,
+      "query_status": "none",
+      "closed": false
+    },
+    {
+      "gap_id": "G06",
+      "field": "conflict:subject_id",
+      "severity": "conflict",
+      "searched": false,
+      "search_hits": [],
+      "query_draft": null,
+      "query_status": "none",
+      "closed": false
+    },
+    {
+      "gap_id": "G07",
+      "field": "conflict:patient_age",
+      "severity": "conflict",
+      "searched": false,
+      "search_hits": [],
+      "query_draft": null,
+      "query_status": "none",
+      "closed": false
+    },
+    {
+      "gap_id": "G08",
+      "field": "conflict:outcome",
+      "severity": "conflict",
+      "searched": false,
+      "search_hits": [],
+      "query_draft": null,
+      "query_status": "none",
+      "closed": false
+    }
+  ],
+  "minimum_criteria": {
+    "identifiable_patient": true,
+    "identifiable_reporter": true,
+    "suspect_product": true,
+    "adverse_event": true
+  },
+  "seriousness_candidates": [
+    "death"
+  ],
+  "timeline_issues": [],
+  "meddra_suggestions": {},
+  "selected_meddra": {},
+  "narrative": [],
+  "narrative_version": 0,
+  "clock": {},
+  "expectedness": "unknown",
+  "expectedness_by": "",
+  "causality": {},
+  "status": "processing",
+  "human_tasks": [],
+  "signed_off_by": null,
+  "reconciled_version": 1,
+  "reconciled_fact_count": 37,
+  "narrative_stale": true,
+  "followup_drafted_version": 0,
+  "meddra_done_version": 0,
+  "clock_done_version": 0,
+  "review_requested_at_step": -1,
+  "prefollowup": {},
+  "diff": [],
+  "audit": [
+    {
+      "ts": "2026-10-28T07:45:58.239287Z",
+      "actor": "tool:ingest",
+      "action": "document_added",
+      "details": {
+        "doc_id": "D1",
+        "filename": "article.txt",
+        "pages": 5,
+        "scanned": []
+      }
+    },
+    {
+      "ts": "2026-10-28T07:46:07.509015Z",
+      "actor": "tool:extract",
+      "action": "facts_extracted",
+      "details": {
+        "docs": [
+          "D1"
+        ],
+        "anchored": 38,
+        "unanchored": [],
+        "value_unsupported": [
+          "reporter_name_or_role@D1",
+          "reporter_name_or_role@D1"
+        ],
+        "focused": false,
+        "ignored_by_source_rules": []
+      }
+    },
+    {
+      "ts": "2026-10-28T07:46:08.185360Z",
+      "actor": "policy",
+      "action": "blocked",
+      "details": {
+        "tool": "extract_facts",
+        "reason": "these fields already have trusted values; a value rejected by the checks stays rejected"
+      }
+    },
+    {
+      "ts": "2026-10-28T07:46:10.678877Z",
+      "actor": "tool:reconcile",
+      "action": "reconciled",
+      "details": {
+        "conflicts": [
+          "subject_id",
+          "patient_age",
+          "outcome"
+        ],
+        "open_gaps": [
+          "event_onset_date",
+          "dechallenge",
+          "start_date",
+          "dose",
+          "action_taken",
+          "conflict:subject_id",
+          "conflict:patient_age",
+          "conflict:outcome"
+        ],
+        "missing_minimum": [],
+        "seriousness": [
+          "death"
+        ],
+        "timeline": []
+      }
+    }
+  ],
+  "trace": [
+    {
+      "step": 1,
+      "ts": "2026-10-28T07:45:58.216284Z",
+      "planner": "llm",
+      "reason": "No documents have been ingested yet, so we must load the case pack first.",
+      "tool": "ingest_documents",
+      "args": {},
+      "allowed": true,
+      "result_summary": "ingested 1 document(s): ['D1']; documents with untranscribed scanned pages: none",
+      "duration_s": 0.02,
+      "planner_input": "CASE LIT-PMC8454244 | version 1 | status processing\nDocuments: none ingested yet.\nReconciled for current version and facts: False\nMedDRA suggested for this version: False; clock computed for this version: False\nNarrative: not drafted\n\nTools the rulebook allows now: ingest_documents",
+      "calls": [
+        {
+          "step": 1,
+          "role": "planner",
+          "model": "groq:openai/gpt-oss-20b",
+          "secs": 2.86,
+          "instructions": "You are the SafetyTrace orchestrator for SERIOUS clinical-trial adverse-event cases.\nGoal: bring the case to a state where a qualified human reviewer can verify it quickly and safely.\n\nYou never see documents. You see a case summary and choose ONE next tool. Explain your reason in one short sentence (shown to the reviewer as the agent trace).\n\nTools:\n- ingest_documents: load the case pack (first step only).\n- transcribe_scans: transcribe scanned pages that have no text layer. Must happen before extraction of those documents.\n- extract_facts: extract facts with verified quotes. With no arguments it processes all un-extracted documents.\n  With doc_ids AND fields it does ONE focused re-extraction (use it when a field has only unanchored values, or after a search found likely evidence).\n- search_documents: deterministic search of every page, ONLY for a MISSING minimum criterion. Give criterion = one of identifiable_patient, identifiable_reporter, suspect_product, adverse_event.\n- reconcile: detect conflicts, gaps, minimum criteria, seriousness candidates. Run it whenever facts changed.\n- suggest_meddra: suggest MedDRA terms (human selects).\n- compute_clock: compute regulatory deadlines.\n- draft_narrative: write the narrative from usable facts only (conflicts/gaps are stated by templates).\n- verify_narrative: check every pending sentence (rules first, then an independent model).\n- redraft_sentences: redraft only blocked sentences (give sentence_ids).\n- draft_followup_queries: draft follow-up questions for open gaps/conflicts (a human approves; nothing is sent).\n- request_human_review: hand over to the reviewer when automatic work is done.\n- stop: nothing useful left to do.\n\nRules you must follow:\n1. Never decide which of two conflicting values is correct, and never decide causality, expectedness, reportability or case validity.\n2. Before treating a minimum criterion as missing, search for it; if the search finds hits, do one focused extraction on those documents.\n3. If a field has only unanchored values, try one focused re-extraction on that document.\n4. After any drafting or redrafting, verify. Redraft only blocked sentences.\n5. Reconcile again whenever facts changed (for example after a follow-up reply or a focused extraction).\n6. Conflicts are decided ONLY by a human or by a site reply. Do not search or re-extract to \"resolve\" a conflict: draft a follow-up query and hand over.\n7. Missing information that is not a minimum criterion (e.g. dechallenge) is a gap",
+          "input": "CASE LIT-PMC8454244 | version 1 | status processing\nDocuments: none ingested yet.\nReconciled for current version and facts: False\nMedDRA suggested for this version: False; clock computed for this version: False\nNarrative: not drafted\n\nTools the policy allows right now (anything else is blocked): ingest_documents\n\nChoose the single next action.",
+          "output": "{\"reason\": \"No documents have been ingested yet, so we must load the case pack first.\", \"tool\": \"ingest_documents\", \"doc_ids\": [], \"fields\": [], \"criterion\": \"\", \"sentence_ids\": []}"
+        }
+      ],
+      "changes": {
+        "documents loaded": [
+          "D1 article.txt: 5 page(s), plain text"
+        ]
+      }
+    },
+    {
+      "step": 2,
+      "ts": "2026-10-28T07:46:00.772363Z",
+      "planner": "llm",
+      "reason": "Need to extract facts from the un-extracted document D1.",
+      "tool": "extract_facts",
+      "args": {},
+      "allowed": true,
+      "result_summary": "extracted from ['D1']: 38 anchored; unanchored=['reporter_name_or_role@D1', 'reporter_name_or_role@D1']",
+      "duration_s": 6.74,
+      "planner_input": "CASE LIT-PMC8454244 | version 1 | status processing\n- D1 article.txt [literature_article, v1, 5 page(s)]: NOT extracted\nReconciled for current version and facts: False\nMedDRA suggested for this version: False; clock computed for this version: False\nNarrative: not drafted\nRecent steps:\n  1. ingest_documents  -> ingested 1 document(s): ['D1']; documents with untranscribed scanned pages: none\n\nTools the rulebook allows now: extract_facts (all un-extracted documents)",
+      "calls": [
+        {
+          "step": 2,
+          "role": "planner",
+          "model": "groq:openai/gpt-oss-20b",
+          "secs": 2.44,
+          "instructions": "You are the SafetyTrace orchestrator for SERIOUS clinical-trial adverse-event cases.\nGoal: bring the case to a state where a qualified human reviewer can verify it quickly and safely.\n\nYou never see documents. You see a case summary and choose ONE next tool. Explain your reason in one short sentence (shown to the reviewer as the agent trace).\n\nTools:\n- ingest_documents: load the case pack (first step only).\n- transcribe_scans: transcribe scanned pages that have no text layer. Must happen before extraction of those documents.\n- extract_facts: extract facts with verified quotes. With no arguments it processes all un-extracted documents.\n  With doc_ids AND fields it does ONE focused re-extraction (use it when a field has only unanchored values, or after a search found likely evidence).\n- search_documents: deterministic search of every page, ONLY for a MISSING minimum criterion. Give criterion = one of identifiable_patient, identifiable_reporter, suspect_product, adverse_event.\n- reconcile: detect conflicts, gaps, minimum criteria, seriousness candidates. Run it whenever facts changed.\n- suggest_meddra: suggest MedDRA terms (human selects).\n- compute_clock: compute regulatory deadlines.\n- draft_narrative: write the narrative from usable facts only (conflicts/gaps are stated by templates).\n- verify_narrative: check every pending sentence (rules first, then an independent model).\n- redraft_sentences: redraft only blocked sentences (give sentence_ids).\n- draft_followup_queries: draft follow-up questions for open gaps/conflicts (a human approves; nothing is sent).\n- request_human_review: hand over to the reviewer when automatic work is done.\n- stop: nothing useful left to do.\n\nRules you must follow:\n1. Never decide which of two conflicting values is correct, and never decide causality, expectedness, reportability or case validity.\n2. Before treating a minimum criterion as missing, search for it; if the search finds hits, do one focused extraction on those documents.\n3. If a field has only unanchored values, try one focused re-extraction on that document.\n4. After any drafting or redrafting, verify. Redraft only blocked sentences.\n5. Reconcile again whenever facts changed (for example after a follow-up reply or a focused extraction).\n6. Conflicts are decided ONLY by a human or by a site reply. Do not search or re-extract to \"resolve\" a conflict: draft a follow-up query and hand over.\n7. Missing information that is not a minimum criterion (e.g. dechallenge) is a gap",
+          "input": "CASE LIT-PMC8454244 | version 1 | status processing\n- D1 article.txt [literature_article, v1, 5 page(s)]: NOT extracted\nReconciled for current version and facts: False\nMedDRA suggested for this version: False; clock computed for this version: False\nNarrative: not drafted\nRecent steps:\n  1. ingest_documents  -> ingested 1 document(s): ['D1']; documents with untranscribed scanned pages: none\n\nTools the policy allows right now (anything else is blocked): extract_facts (all un-extracted documents)\n\nChoose the single next action.",
+          "output": "{\"tool\": \"extract_facts\", \"doc_ids\": [], \"fields\": [], \"criterion\": \"\", \"sentence_ids\": [], \"reason\": \"Need to extract facts from the un-extracted document D1.\"}"
+        },
+        {
+          "step": 2,
+          "role": "extract",
+          "model": "gemini:gemini-3.5-flash-lite",
+          "secs": 6.68,
+          "instructions": "You extract adverse-event case facts from ONE clinical document for a pharmacovigilance safety case.\n\nRules:\n1. Extract only facts that are explicitly stated in this document. Never infer, guess or use outside knowledge.\n2. For every fact return:\n   - field: one of the listed field keys\n   - value: the value as stated (keep units and dates exactly as written)\n   - quote: the SHORTEST verbatim span from the document that contains the value. Copy it character for character. Do not paraphrase, fix typos or join text from different places.\n   - page: the page number shown as <<PAGE n>>\n3. If the same field is stated more than once with different values, return each one separately with its own quote.\n4. If a field is not stated, do not return it. Missing information is important and must stay missing.\n5. Repeatable fields (relevant_labs, concomitant_meds, treatment_given, relevant_history, seriousness_criteria) may appear several times.\n6. Field meanings that are easy to misread:\n   - reporter_name_or_role / reporter_type: the person who REPORTS this case (the author or signatory of the document, e.g. the investigator who signs a clinic note). Someone the text merely mentions (e.g. \"called the study nurse\", \"showed my daughter\") is NOT the reporter.\n   - start_date: only a date stated as the start of the suspect drug (\"started on ...\"). A diary line saying a tablet was taken on some day is not a start date.\n   - stop_date / action_taken: the action taken with the suspect drug BECAUSE OF the event, as stated by the treating team (withdrawn, interrupted, dose reduced, unchanged). A single missed dose noted in a diary is not an action taken.\n   - event_onset_date: the date the adverse event UNDER REPORT first appeared (including its first signs). Do not return onset dates of other, unrelated symptoms. If the document gives more than one date for the onset of that event, return each one separately.\n7. Several drugs: for dose, route, frequency, indication, start_date, stop_date, action_taken, dechallenge and rechallenge set \"drug\" to the name of the drug the value belongs to (leave \"drug\" empty for other fields). Never attach one drug's dose or indication to another drug.\n8. event_verbatim: return each distinct adverse event separately, each with its own quote.\n9. Return only the fields listed below; other fields are not taken from this type of document.\n",
+          "input": "Document: article.txt (type: literature_article)\n\nFields to extract:\n- study_id: Clinical study / protocol identifier\n- site_id: Investigator site identifier\n- subject_id: Study subject / patient identifier\n- reporter_name_or_role: Name or role of the person reporting the event (e.g. Dr. A. Mehta, investigator)\n- reporter_type: physician, investigator, pharmacist, nurse, patient or other\n- patient_initials: Patient initials\n- patient_age: Patient age in years\n- patient_sex: Patient sex\n- relevant_history: Relevant medical history\n- drug_name: Suspect (study) drug name\n- dose: Dose of the suspect drug with unit\n- route: Route of administration\n- frequency: Dosing frequency\n- start_date: Date the suspect drug was started\n- stop_date: Date of the LAST dose of the suspect drug (E2B convention). If a text gives both the date the drug was interrupted and the last-dose date, use the last-dose date\n- indication: The disease or condition the suspect drug was given for (e.g. 'atrial fibrillation'), not a phrase about the drug itself\n- action_taken: Action taken with the suspect drug (withdrawn, interrupted, unchanged, reduced)\n- event_verbatim: One adverse event as described in the source. Return EACH distinct event (diagnosis, complication, clinically significant abnormal finding) as a separate entry\n- event_onset_date: Date the adverse event started\n- event_end_date: Date the adverse event resolved\n- seriousness_criteria: Seriousness criterion stated or clearly described: death, life-threatening, hospitalisation (admitted, hospitalised, prolonged stay), disability, congenital anomaly, medically important (e.g. needed surgery to prevent permanent harm). Value = the category word; quote = the text that shows it\n- outcome: Outcome of the event (recovered, recovering, not recovered, fatal, unknown)\n- dechallenge: What happened to the event after the drug was stopped or reduced\n- rechallenge: Whether the drug was restarted and what happened\n- treatment_given: Treatment given for the adverse event\n- relevant_labs: Relevant laboratory result with value, unit and date\n- concomitant_meds: Concomitant medication\n- investigator_causality: The reporter's or investigator's own causality assessment of the suspect drug (e.g. 'related', 'probably related', 'not related'), only if the source states one\n\nDocument text:\n<<PAGE 1>>\nIntrahepatic Bile Duct Injury as a Hepatic Immune-Related Adverse Event after Immune-Checkpoint Inhibitor Treatment.\nCase reports in gastroenterology (2021). Murayama A, Tajiri K, Nakaya A, Ito H, Hayashi Y, Entani T, Nagata K, Tanaka S, Hamashima T, Yasuda I.\nLicense: cc by-nc | PMC8454244 | doi:10.1159/000516199\n\nIntrahepatic Bile Duct Injury as a Hepatic Immune-Related Adverse Event after Immune-Checkpoint Inhibitor Treatment\n\nAbstract\nThe increased use of immune-checkpoint inhibitors to treat various types of cancer has increased the incidence of immune-related adverse events (irAEs). Hepatic irAEs are frequent and can lead to serious conditions. Among the various types of hepatic irAEs reported to date, bile duct injury has been shown refractory to steroid treatment. This study describes 2 patients with hepatic irAEs manifesting as intrahepatic bile duct injury. Immunostaining with antibodies to both CD8 and cytokeratin-7 was useful for the diagnosis, and both patients were refractory to steroid treatment. Prompt diagnosis and active immunosuppressive therapies are required in such cases.\nKeywords: Immune-checkpoint inhibitors, Immune-related adverse events, Cholangitis, Cytokeratin-7, Mycophenolate mofetil\n\nIntroduction\nImmune-checkpoint inhibitors (ICIs) have been approved for the treatment of various malignant tumors [1]. Although ICIs inhibit tumor growth by blocking the transmission of immunosuppressive signals, such as the binding of program death-1 (PD-1) and program death-ligand 1 (PD-L1) or the binding of cytotoxic T-lymphocyte antigen-4 (CTLA-4) with CD28-ligands (CD28L), these agents induce various immune-related adverse events (irAEs) in various organs [2]. For example, hepatic irAEs have been reported in 1–16% of patients administered ICIs and can lead to serious conditions [3, 4]. Depending on the degree of liver damage, hepatic irAEs can be treated with immunosuppressive agents such as prednisolone (PSL) and other immunosuppressive [5]. The present study describes 2 patients who experienced severe cholestatic liver injury after treatment with ICIs. Both patients showed injury to intrahepatic small bile ducts, with these injuries being refractory to steroid administration. One patient recovered after treatment with mycophenolate mofetil (MMF). The literature of patients who experienced hepatic irAE manifesting as bile duct damage is discussed.\n\n<<PAGE 2>>\nPatient 1\nThe patient was an 83-year-old man who had undergone laparoscopic left nephrectomy for advanced left renal cell carcinoma. He was found to have pleural metastasis 1 month after the operation and was treated with 4 cycles of the anti-PD-1 antibody nivolumab and the anti-CTLA-4 antibody ipilimumab for 12 weeks. Disease progression was observed, and the patient was started on second-line treatment with pazopanib. Blood tests 4 weeks later showed a marked elevation of liver enzymes, including an aspartate aminotransferase (AST) concentration of 980 IU/L (normal range 12–31 IU/L), an alanine transaminase (ALT) concentration of 714 IU/L (normal range 8–40 IU/L), an alkaline-phosphatase (ALP) concentration of 2004 IU/L (normal range 100–310 IU/L), and a total bilirubin concentration of 4.02 mg/dL. He was treated with ursodeoxycholic acid (300 mg/day) and PSL (1.0 mg/kg/day), but his liver function and jaundice did not improve. One week later, he was referred to our hospital. At admission, he showed prolonged severe cholestatic liver injury, including AST 903 IU/L, ALT 1045 IU/L, ALP 3083 IU/L, total bilirubin 20.0 mg/dL, and direct bilirubin 15.6 mg/dL and elongation of prothrombin time (PT) (PT-%, 45%, PT-INR 1.60",
+          "output": "{\"facts\": [{\"field\": \"reporter_name_or_role\", \"value\": \"Murayama A\", \"quote\": \"M.A. and T.K. wrote this paper\", \"page\": 5, \"drug\": \"\"}, {\"field\": \"reporter_name_or_role\", \"value\": \"Tajiri K\", \"quote\": \"M.A. and T.K. wrote this paper\", \"page\": 5, \"drug\": \"\"}, {\"field\": \"subject_id\", \"value\": \"Patient 1\", \"quote\": \"Patient 1\", \"page\": 2, \"drug\": \"\"}, {\"field\": \"patient_age\", \"value\": \"83\", \"quote\": \"83-year-old\", \"page\": 2, \"drug\": \"\"}, {\"field\": \"patient_sex\", \"value\": \"man\", \"quote\": \"man\", \"page\": 2, \"drug\": \"\"}, {\"field\": \"relevant_history\", \"value\": \"advanced left renal cell carcinoma\", \"quote\": \"advanced left renal cell carcinoma.\", \"page\": 2, \"drug\": \"\"}, {\"field\": \"drug_name\", \"value\": \"nivolumab\", \"quote\": \"nivolumab\", \"page\": 2, \"drug\": \"nivolumab\"}, {\"field\": \"drug_name\", \"value\": \"ipilimumab\", \"quote\": \"ipilimumab\", \"page\": 2, \"drug\": \"ipilimumab\"}, {\"field\": \"indication\", \"value\": \"advanced left renal cell carcinoma\", \"quote\": \"advanced left renal cell carcinoma\", \"page\": 2, \"drug\": \"nivolumab\"}, {\"field\": \"indication\", \"value\": \"advanced left renal cell carcinoma\", \"quote\": \"advanced left renal cell carcinoma\", \"page\": 2, \"drug\": \"ipilimumab\"}, {\"field\": \"event_verbatim\", \"value\": \"elevation of liver enzymes\", \"quote\": \"marked elevation of liver enzymes\", \"page\": 2, \"drug\": \"\"}, {\"field\": \"relevant_labs\", \"value\": \"AST 980 IU/L\", \"quote\": \"aspartate aminotransferase (AST) concentration of 980 IU/L\", \"page\": 2, \"drug\": \"\"}, {\"field\": \"relevant_labs\", \"value\": \"ALT 714 IU/L\", \"quote\": \"alanine transaminase (ALT) concentration of 714 IU/L\", \"page\": 2, \"drug\": \"\"}, {\"field\": \"relevant_labs\", \"value\": \"ALP 2004 IU/L\", \"quote\": \"alkaline-phosphatase (ALP) concentration of 2004 IU/L\", \"page\": 2, \"drug\": \"\"}, {\"field\": \"relevant_labs\", \"value\": \"total bilirubin 4.02 mg/dL\", \"quote\": \"total bilirubin concentration of 4.02 mg/dL\", \"page\": 2, \"drug\": \"\"}, {\"field\": \"treatment_given\", \"value\": \"ursodeoxycholic acid\", \"quote\": \"ursodeoxycholic acid (300 mg/day)\", \"page\": 2, \"drug\": \"\"}, {\"field\": \"treatment_given\", \"value\": \"PSL\", \"quote\": \"PSL (1.0 mg/kg/day)\", \"page\": 2, \"drug\": \"\"}, {\"field\": \"treatment_given\", \"value\": \"methylprednisolone\", \"quote\": \"methylprednisolone (1,000 mg/day for 3 days)\", \"page\": 2, \"drug\": \"\"}, {\"field\": \"treatment_given\", \"value\": \"vitamin K\", \"quote\": \"vitamin K supplementation\", \"page\": 2, \"drug\": \"\"}, {\"field\": \"event_verbatim\", \"value\": \"CMV pneumonia\", \"quote\": \"CMV pneumonia\", \"page\": 2, \"drug\": \"\"}, {\"field\": \"treatment_given\", \"value\": \"ganciclovir\", \"quote\": \"ganciclovir for 2 weeks\", \"page\": 2, \"drug\": \"\"}, {\"field\": \"treatment_given\", \"value\": \"MMF\", \"quote\": \"MMF (500 mg/bid)\", \"page\": 2, \"drug\": \"\"}, {\"field\": \"event_verbatim\", \"value\": \"multiple organ failures\", \"quote\": \"multiple organ failures\", \"page\": 2, \"drug\": \"\"}, {\"field\": \"seriousness_criteria\", \"value\": \"death\", \"quote\": \"the patient died\", \"page\": 2, \"drug\": \"\"}, {\"field\": \"outcome\", \"value\": \"fatal\", \"quote\": \"the patient died of multiple organ failures\", \"page\": 2, \"drug\": \"\"}, {\"field\": \"subject_id\", \"value\": \"Patient 2\", \"quote\": \"Patient 2\", \"page\": 3, \"drug\": \"\"}, {\"field\": \"patient_age\", \"value\": \"77\", \"quote\": \"77-year-old\", \"page\": 3, \"drug\": \"\"}, {\"field\": \"patient_sex\", \"value\": \"man\", \"quote\": \"man\", \"page\": 3, \"drug\": \"\"}, {\"field\": \"relevant_history\", \"value\": \"malignant melanoma on his left foot\", \"quote\": \"malignant melanoma on his left foot\", \"page\": 3, \"drug\": \"\"}, {\"field\": \"drug_name\", \"value\": \"pembrolizumab\", \"quote\": \"pembrolizumab\", \"page\": 3, \"drug\": \"pembrolizumab\"}, {\"field\": \"indication\", \"value\": \"malignant melanoma\", \"quote\": \"resection of a malignant melanoma on his left foot 3 years earlier but had developed multiple lymph node recurrences\", \"page\": 3, \"drug\": \"pembrolizumab\"}, {\"field\": \"event_verbatim\", \"value\": \"liver injury with jaundice\", \"quote\": \"liver injury with jaundice\", \"page\": 3, \"drug\": \"\"}, {\"field\": \"relevant_labs\", \"value\": \"AST 147 IU/L\", \"quote\": \"AST 147 IU/L\", \"page\": 3, \"drug\": \"\"}, {\"field\": \"relevant_labs\", \"value\": \"ALT 263 IU/L\", \"quote\": \"ALT 263 IU/L\", \"page\": 3, \"drug\": \"\"}, {\"field\": \"relevant_labs\", \"value\": \"ALP 739 IU/L\", \"quote\": \"ALP 739 IU/L\", \"page\": 3, \"drug\": \"\"}, {\"field\": \"relevant_labs\", \"value\": \"total bilirubin 3.8 mg/dL\", \"quote\": \"total bilirubin 3.8 mg/dL\", \"page\": 3, \"drug\": \"\"}, {\"field\": \"treatment_given\", \"value\": \"PSL\", \"quote\": \"PSL (1.5 mg/kg/day)\", \"page\": 3, \"drug\": \"\"}, {\"field\": \"treatment_given\", \"value\": \"MMF\", \"quote\": \"MMF (500 mg/bid)\", \"page\": 3, \"drug\": \"\"}, {\"field\": \"outcome\", \"value\": \"recovered\", \"quote\": \"his liver injury had normalized\", \"page\": 3, \"drug\": \"\"}]}"
+        }
+      ],
+      "changes": {
+        "documents read": [
+          "D1 article.txt"
+        ],
+        "rejected by code": [
+          "F01 reporter_name_or_role = Murayama A: value 'Murayama A' not supported by quote 'M.A. and T.K. wrote this paper'",
+          "F02 reporter_name_or_role = Tajiri K: value 'Tajiri K' not supported by quote 'M.A. and T.K. wrote this paper'"
+        ],
+        "facts proven": [
+          "F03 subject_id = Patient 1",
+          "F04 patient_age = 83",
+          "F05 patient_sex = man",
+          "F06 relevant_history = advanced left renal cell carcinoma",
+          "F07 drug_name = nivolumab",
+          "F08 drug_name = ipilimumab",
+          "F09 indication = advanced left renal cell carcinoma [nivolumab]",
+          "F10 indication = advanced left renal cell carcinoma [ipilimumab]",
+          "F11 event_verbatim = elevation of liver enzymes",
+          "F12 relevant_labs = AST 980 IU/L",
+          "F13 relevant_labs = ALT 714 IU/L",
+          "F14 relevant_labs = ALP 2004 IU/L",
+          "F15 relevant_labs = total bilirubin 4.02 mg/dL",
+          "F16 treatment_given = ursodeoxycholic acid",
+          "F17 treatment_given = PSL",
+          "F18 treatment_given = methylprednisolone",
+          "F19 treatment_given = vitamin K",
+          "F20 event_verbatim = CMV pneumonia",
+          "F21 treatment_given = ganciclovir",
+          "F22 treatment_given = MMF",
+          "F23 event_verbatim = multiple organ failures",
+          "F24 seriousness_criteria = death",
+          "F25 outcome = fatal",
+          "F26 subject_id = Patient 2",
+          "F27 patient_age = 77",
+          "F28 relevant_history = malignant melanoma on his left foot",
+          "F29 drug_name = pembrolizumab",
+          "F30 indication = malignant melanoma [pembrolizumab]",
+          "F31 event_verbatim = liver injury with jaundice",
+          "F32 relevant_labs = AST 147 IU/L",
+          "F33 relevant_labs = ALT 263 IU/L",
+          "F34 relevant_labs = ALP 739 IU/L",
+          "F35 relevant_labs = total bilirubin 3.8 mg/dL",
+          "F36 outcome = recovered",
+          "F37 reporter_name_or_role = Murayama A, Tajiri K, Nakaya A, Ito H, Hayashi Y, Entani T, Nagata K, Tanaka S, Hamashima T, Yasuda I (article authors)"
+        ]
+      }
+    },
+    {
+      "step": 3,
+      "ts": "2026-10-28T07:46:08.185360Z",
+      "planner": "llm",
+      "reason": "Focused extraction to anchor reporter_name_or_role values",
+      "tool": "extract_facts",
+      "args": {
+        "doc_ids": [
+          "D1"
+        ],
+        "fields": [
+          "reporter_name_or_role"
+        ]
+      },
+      "allowed": false,
+      "result_summary": "blocked by policy: these fields already have trusted values; a value rejected by the checks stays rejected",
+      "duration_s": 0.0,
+      "planner_input": "CASE LIT-PMC8454244 | version 1 | status processing\n- D1 article.txt [literature_article, v1, 5 page(s)]: extracted\nFacts: {'anchored': 35, 'unanchored': 2, 'conflicting': 0, 'confirmed_by_human': 0}\nReconciled for current version and facts: False\nMedDRA suggested for this version: False; clock computed for this version: False\nNarrative: not drafted\nRecent steps:\n  1. ingest_documents  -> ingested 1 document(s): ['D1']; documents with untranscribed scanned pages: none\n  2. extract_facts  -> extracted from ['D1']: 38 anchored; unanchored=['reporter_name_or_role@D1', 'reporter_name_or_role@D1']\n\nTools the rulebook allows now: extract_facts focused (doc_ids from ['D1'] + fields), reconcile",
+      "calls": [
+        {
+          "step": 3,
+          "role": "planner",
+          "model": "groq:openai/gpt-oss-20b",
+          "secs": 0.67,
+          "instructions": "You are the SafetyTrace orchestrator for SERIOUS clinical-trial adverse-event cases.\nGoal: bring the case to a state where a qualified human reviewer can verify it quickly and safely.\n\nYou never see documents. You see a case summary and choose ONE next tool. Explain your reason in one short sentence (shown to the reviewer as the agent trace).\n\nTools:\n- ingest_documents: load the case pack (first step only).\n- transcribe_scans: transcribe scanned pages that have no text layer. Must happen before extraction of those documents.\n- extract_facts: extract facts with verified quotes. With no arguments it processes all un-extracted documents.\n  With doc_ids AND fields it does ONE focused re-extraction (use it when a field has only unanchored values, or after a search found likely evidence).\n- search_documents: deterministic search of every page, ONLY for a MISSING minimum criterion. Give criterion = one of identifiable_patient, identifiable_reporter, suspect_product, adverse_event.\n- reconcile: detect conflicts, gaps, minimum criteria, seriousness candidates. Run it whenever facts changed.\n- suggest_meddra: suggest MedDRA terms (human selects).\n- compute_clock: compute regulatory deadlines.\n- draft_narrative: write the narrative from usable facts only (conflicts/gaps are stated by templates).\n- verify_narrative: check every pending sentence (rules first, then an independent model).\n- redraft_sentences: redraft only blocked sentences (give sentence_ids).\n- draft_followup_queries: draft follow-up questions for open gaps/conflicts (a human approves; nothing is sent).\n- request_human_review: hand over to the reviewer when automatic work is done.\n- stop: nothing useful left to do.\n\nRules you must follow:\n1. Never decide which of two conflicting values is correct, and never decide causality, expectedness, reportability or case validity.\n2. Before treating a minimum criterion as missing, search for it; if the search finds hits, do one focused extraction on those documents.\n3. If a field has only unanchored values, try one focused re-extraction on that document.\n4. After any drafting or redrafting, verify. Redraft only blocked sentences.\n5. Reconcile again whenever facts changed (for example after a follow-up reply or a focused extraction).\n6. Conflicts are decided ONLY by a human or by a site reply. Do not search or re-extract to \"resolve\" a conflict: draft a follow-up query and hand over.\n7. Missing information that is not a minimum criterion (e.g. dechallenge) is a gap",
+          "input": "CASE LIT-PMC8454244 | version 1 | status processing\n- D1 article.txt [literature_article, v1, 5 page(s)]: extracted\nFacts: {'anchored': 35, 'unanchored': 2, 'conflicting': 0, 'confirmed_by_human': 0}\nReconciled for current version and facts: False\nMedDRA suggested for this version: False; clock computed for this version: False\nNarrative: not drafted\nRecent steps:\n  1. ingest_documents  -> ingested 1 document(s): ['D1']; documents with untranscribed scanned pages: none\n  2. extract_facts  -> extracted from ['D1']: 38 anchored; unanchored=['reporter_name_or_role@D1', 'reporter_name_or_role@D1']\n\nTools the policy allows right now (anything else is blocked): extract_facts focused (doc_ids from ['D1'] + fields), reconcile\n\nChoose the single next action.",
+          "output": "{\"reason\": \"Focused extraction to anchor reporter_name_or_role values\", \"tool\": \"extract_facts\", \"doc_ids\": [\"D1\"], \"fields\": [\"reporter_name_or_role\"], \"criterion\": \"\", \"sentence_ids\": []}"
+        }
+      ],
+      "changes": {}
+    },
+    {
+      "step": 4,
+      "ts": "2026-10-28T07:46:08.187881Z",
+      "planner": "rules-fallback",
+      "reason": "Facts changed: reconcile conflicts, gaps and minimum criteria.",
+      "tool": "reconcile",
+      "args": {},
+      "allowed": true,
+      "result_summary": "conflicts(unresolved)=['subject_id', 'patient_age', 'outcome']; open gaps=['event_onset_date', 'dechallenge', 'start_date', 'dose', 'action_taken', 'conflict:subject_id', 'conflict:patient_age', 'conflict:outcome']; missing minimum criteria=none; seriousness candidates=['death']",
+      "duration_s": 2.49,
+      "planner_input": "CASE LIT-PMC8454244 | version 1 | status processing\n- D1 article.txt [literature_article, v1, 5 page(s)]: extracted\nFacts: {'anchored': 35, 'unanchored': 2, 'conflicting': 0, 'confirmed_by_human': 0}\nReconciled for current version and facts: False\nMedDRA suggested for this version: False; clock computed for this version: False\nNarrative: not drafted\nRecent steps:\n  1. ingest_documents  -> ingested 1 document(s): ['D1']; documents with untranscribed scanned pages: none\n  2. extract_facts  -> extracted from ['D1']: 38 anchored; unanchored=['reporter_name_or_role@D1', 'reporter_name_or_role@D1']\n  3. extract_facts {'doc_ids': ['D1'], 'fields': ['reporter_name_or_role']} -> BLOCKED: blocked by policy: these fields already have trusted values; a value rejected by the checks stays rejected\n\nTools the rulebook allows now: extract_facts focused (doc_ids from ['D1'] + fields), reconcile",
+      "calls": [
+        {
+          "step": 4,
+          "role": "explain",
+          "model": "groq:openai/gpt-oss-20b",
+          "secs": 2.49,
+          "instructions": "You explain data conflicts in a pharmacovigilance case to a safety reviewer. One or two plain sentences per conflict. State what each source says. NEVER decide which value is correct.",
+          "input": "Conflicts:\n- field subject_id: 'Patient 1' in article.txt p.2 vs 'Patient 2' in article.txt p.3\n- field patient_age: '83' in article.txt p.2 vs '77' in article.txt p.3\n- field outcome: 'fatal' in article.txt p.2 vs 'recovered' in article.txt p.3",
+          "output": "{\"explanations\": [{\"field\": \"subject_id\", \"explanation\": \"Article.txt page 2 lists the subject as 'Patient 1', while page 3 lists the subject as 'Patient 2'.\"}, {\"field\": \"patient_age\", \"explanation\": \"Article.txt page 2 reports the patient age as 83, whereas page 3 reports the age as 77.\"}, {\"field\": \"outcome\", \"explanation\": \"Article.txt page 2 describes the outcome as 'fatal', while page 3 describes the outcome as 'recovered'.\"}]}"
+        }
+      ],
+      "changes": {
+        "fact status changed": [
+          "F03 subject_id: anchored -> conflicting",
+          "F04 patient_age: anchored -> conflicting",
+          "F25 outcome: anchored -> conflicting",
+          "F26 subject_id: anchored -> conflicting",
+          "F27 patient_age: anchored -> conflicting",
+          "F36 outcome: anchored -> conflicting"
+        ],
+        "conflicts found": [
+          "C01 subject_id: patient1 vs patient2",
+          "C02 patient_age: 77 vs 83",
+          "C03 outcome: fatal vs recovered"
+        ],
+        "gaps opened": [
+          "G01 event_onset_date",
+          "G02 dechallenge",
+          "G03 start_date",
+          "G04 dose",
+          "G05 action_taken",
+          "G06 conflict:subject_id",
+          "G07 conflict:patient_age",
+          "G08 conflict:outcome"
+        ],
+        "seriousness": [
+          "death"
+        ],
+        "minimum criteria": [
+          "identifiable patient: present",
+          "identifiable reporter: present",
+          "suspect product: present",
+          "adverse event: present"
+        ]
+      }
+    }
+  ],
+  "usage": {
+    "requests": 5,
+    "prompt_tokens": 8269,
+    "completion_tokens": 2562,
+    "by_role": {
+      "planner": {
+        "requests": 3,
+        "prompt_tokens": 3111,
+        "completion_tokens": 203
+      },
+      "extract": {
+        "requests": 1,
+        "prompt_tokens": 4887,
+        "completion_tokens": 2225
+      },
+      "explain": {
+        "requests": 1,
+        "prompt_tokens": 271,
+        "completion_tokens": 134
+      }
+    },
+    "models": {
+      "planner": "groq:openai/gpt-oss-20b",
+      "extract": "gemini:gemini-3.5-flash-lite",
+      "explain": "groq:openai/gpt-oss-20b"
+    }
+  },
+  "current_step": 4,
+  "llm_calls": []
+}

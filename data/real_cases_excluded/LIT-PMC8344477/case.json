@@ -1,0 +1,22 @@
+{
+  "case_id": "LIT-PMC8344477",
+  "title": "REAL literature case: Successful Treatment of Persistent Coronavirus Disease 2019 Infection in a Patient With Hypogammaglobulinemia ",
+  "region": "US/EU/India",
+  "documents": [
+    {
+      "path": "documents/article.txt",
+      "doc_type": "literature_article"
+    }
+  ],
+  "followups": [],
+  "real": true,
+  "source": {
+    "pmcid": "PMC8344477",
+    "doi": "10.1093/ofid/ofab335",
+    "license": "cc by-nc-nd",
+    "url": "https://europepmc.org/article/PMC/8344477"
+  },
+  "designed_to_show": [
+    "real published case: extraction + MedDRA + seriousness vs the manufacturer's FAERS ICSR"
+  ]
+}

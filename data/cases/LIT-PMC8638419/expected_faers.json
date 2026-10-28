@@ -1,0 +1,81 @@
+{
+  "source": "FDA FAERS via openFDA (manufacturer-submitted literature ICSRs)",
+  "faers_report_ids": [
+    "20278883",
+    "20305900"
+  ],
+  "literature_reference": "Ide N, Mochizuki A, Kagawa Y, Ito M. A case of complete atrioventricular block with extremely high blood concentration of azelnidipine. Journal of Pharmaceutical Health Care and Sciences. 2021;7(48):1-6",
+  "patient_age": [
+    [
+      "92",
+      "years"
+    ]
+  ],
+  "patient_sex": [
+    "female"
+  ],
+  "reporter_qualification": [
+    "other health professional"
+  ],
+  "seriousness": [
+    "hospitalisation",
+    "other medically important"
+  ],
+  "suspect_drugs": [
+    {
+      "key": "simvastatin",
+      "names": [
+        "simvastatin",
+        "zocor"
+      ],
+      "indication": [
+        "Hyperlipidaemia"
+      ],
+      "dosage": [
+        "5 MILLIGRAM DAILY;",
+        "5 MILLIGRAM, QD, TABLET"
+      ],
+      "action": [
+        "1"
+      ]
+    },
+    {
+      "key": "azelnidipine",
+      "names": [
+        "azelnidipine"
+      ],
+      "indication": [
+        "Hypertension"
+      ],
+      "dosage": [
+        "16 MILLIGRAM DAILY;",
+        "16 MILLIGRAM, QD,"
+      ],
+      "action": [
+        "1"
+      ]
+    }
+  ],
+  "reactions": [
+    {
+      "pt": "Atrioventricular block complete",
+      "outcome": [
+        "recovered"
+      ]
+    },
+    {
+      "pt": "Drug interaction",
+      "outcome": [
+        "recovered",
+        "unknown"
+      ]
+    },
+    {
+      "pt": "Drug level increased",
+      "outcome": [
+        "recovered"
+      ]
+    }
+  ],
+  "note": "FAERS public data has no narrative. Coding choices of the submitting company are a reference, not absolute truth."
+}

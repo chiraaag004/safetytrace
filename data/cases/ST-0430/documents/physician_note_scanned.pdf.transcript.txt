@@ -1,0 +1,25 @@
+SITE 104 - INVESTIGATOR CLINICAL NOTE (UNSCHEDULED VISIT)
+Study: SFT-301 (Velorantib in moderate-to-severe plaque psoriasis)
+Site: 104, Mumbai
+Subject ID: 104-0217    Initials: R.K.    Age: 54 years    Sex: Female
+Visit date: 16-Mar-2026
+
+Medical history: Hypertension, controlled on amlodipine 5 mg once daily. No known drug allergies.
+
+Study treatment: Velorantib 50 mg orally once daily, started on 02-Mar-2026.
+
+Presenting complaint: Subject attended an unscheduled visit with a widespread itchy rash.
+Rash first noted on 14-Mar-2026 according to the subject at today's visit.
+On examination: erythematous maculopapular rash, grade 3, on trunk and arms, covering
+approximately 40% of body surface area. No mucosal involvement. Temperature 37.9 C.
+=== PAGE BREAK ===
+Assessment and plan
+Event: generalised maculopapular rash, CTCAE grade 3.
+The subject was admitted to hospital on 16-Mar-2026 for observation and IV management.
+Seriousness: hospitalisation.
+Study drug interrupted on 16-Mar-2026 (last dose 15-Mar-2026).
+Treatment: IV methylprednisolone 40 mg daily and oral cetirizine 10 mg once daily.
+Outcome at time of report: not yet recovered.
+
+Investigator: Dr. Anjali Mehta, Principal Investigator, Site 104
+Received by sponsor drug safety: 16-Mar-2026

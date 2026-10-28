@@ -1,0 +1,157 @@
+{
+  "source": "FDA FAERS via openFDA (manufacturer-submitted literature ICSRs)",
+  "faers_report_ids": [
+    "20272545",
+    "20296374"
+  ],
+  "literature_reference": "Santoro C, Guerra T, Errico ED, Fraddosio A, Lapenna F, Introna A et al.. Guillain-Barre syndrome associated with inappropriate secretion of antidiuretic hormone following SARS-CoV-2 infection: A case-report. CLINICAL CASE REPORTS. 2021;9(10)",
+  "patient_age": [
+    [
+      "47",
+      "years"
+    ]
+  ],
+  "patient_sex": [
+    "male"
+  ],
+  "reporter_qualification": [
+    "other health professional"
+  ],
+  "seriousness": [
+    "hospitalisation",
+    "other medically important"
+  ],
+  "suspect_drugs": [
+    {
+      "key": "azithromycin dihydrate",
+      "names": [
+        "azithromycin",
+        "azithromycin dihydrate",
+        "zithromax"
+      ],
+      "indication": [
+        "Pneumonia"
+      ],
+      "dosage": [
+        "UNK"
+      ],
+      "action": [
+        "5"
+      ]
+    },
+    {
+      "key": "hydroxychloroquine",
+      "names": [
+        "hydroxychloroquine"
+      ],
+      "indication": [
+        "Pneumonia"
+      ],
+      "dosage": [
+        "UNK"
+      ],
+      "action": [
+        "5"
+      ]
+    },
+    {
+      "key": "enoxaparin",
+      "names": [
+        "enoxaparin"
+      ],
+      "indication": [
+        "Pneumonia"
+      ],
+      "dosage": [
+        "UNK"
+      ],
+      "action": [
+        "5"
+      ]
+    },
+    {
+      "key": "tocilizumab",
+      "names": [
+        "actemra",
+        "actemra actpen",
+        "tocilizumab",
+        "tofidence"
+      ],
+      "indication": [
+        "Interleukin level"
+      ],
+      "dosage": [
+        "8 MG/KG, UNKNOWN"
+      ],
+      "action": [
+        "5"
+      ]
+    },
+    {
+      "key": "azithromycin",
+      "names": [
+        "azithromycin",
+        "azithromycin dihydrate",
+        "azithromycin monohydrate"
+      ],
+      "indication": [
+        "Pneumonia"
+      ],
+      "dosage": [],
+      "action": [
+        "5"
+      ]
+    }
+  ],
+  "reactions": [
+    {
+      "pt": "Blood osmolarity increased",
+      "outcome": [
+        "recovered"
+      ]
+    },
+    {
+      "pt": "Hyponatraemia",
+      "outcome": [
+        "recovered"
+      ]
+    },
+    {
+      "pt": "Automatism",
+      "outcome": [
+        "recovered"
+      ]
+    },
+    {
+      "pt": "Abnormal behaviour",
+      "outcome": [
+        "recovered"
+      ]
+    },
+    {
+      "pt": "Inappropriate antidiuretic hormone secretion",
+      "outcome": [
+        "recovered"
+      ]
+    },
+    {
+      "pt": "Guillain-barre syndrome",
+      "outcome": [
+        "recovered"
+      ]
+    },
+    {
+      "pt": "Drug interaction",
+      "outcome": [
+        "unknown"
+      ]
+    },
+    {
+      "pt": "Impaired work ability",
+      "outcome": [
+        "recovered"
+      ]
+    }
+  ],
+  "note": "FAERS public data has no narrative. Coding choices of the submitting company are a reference, not absolute truth."
+}

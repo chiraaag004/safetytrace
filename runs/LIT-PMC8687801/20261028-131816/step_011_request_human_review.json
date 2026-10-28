@@ -1,0 +1,1522 @@
+{
+  "case_id": "LIT-PMC8687801",
+  "title": "REAL literature case: A Case of Limb-Threatening Hematoma in a Patient Taking Citalopram and Apixaban Concurrently.",
+  "version": 1,
+  "region": "US/EU/India",
+  "documents": [
+    {
+      "doc_id": "D1",
+      "filename": "article.txt",
+      "rel_path": "documents/article.txt",
+      "doc_type": "literature_article",
+      "version": 1,
+      "pages": [
+        "A Case of Limb-Threatening Hematoma in a Patient Taking Citalopram and Apixaban Concurrently.\nCureus (2021). Datta S, Mahal K, Mahal S, Driskill AK.\nLicense: cc by | PMC8687801 | doi:10.7759/cureus.19771\n\nA Case of Limb-Threatening Hematoma in a Patient Taking Citalopram and Apixaban Concurrently\n\nAbstract\nApixaban, a direct oral anticoagulant, has been demonstrated to increase the risk of bleeding in individuals with atrial fibrillation when used concurrently with citalopram [selective serotonin reuptake inhibitor (SSRI)]. This was proposed as a result of their synergistic anticoagulant effects. We discuss a rare case in which a limb-threatening hematoma was noticed in an 85-year-old female patient who was just begun on citalopram and was on apixaban. There are few published case studies demonstrating a link between these two kinds of drugs, and our case study aims to inform our audience about the possible negative effects of concurrent usage of these two medications.\n\nIntroduction\nApixaban, an oral direct anticoagulant, affects platelet activation and fibrin clot formation by inhibiting both free and clot-bound factor Xa (FXa) in a direct, selective, and reversible manner. Its concomitant use with citalopram [selective serotonin reuptake inhibitor (SSRI)] has been shown to increase bleeding risk in patients with atrial fibrillation [1-3]. This effect is achieved by inhibiting platelet serotonin uptake, probably resulting in synergistic anticoagulant activity. The most frequently encountered hemostatic abnormalities include decreased platelet aggregation and activity as well as an increase in bleeding time. We are presenting a case where apixaban concomitant use with citalopram (SSRI) has caused a limb-threatening hematoma.\n\nCase presentation\nAn 85-year-old female patient with a history of persistent atrial fibrillation anticoagulated with oral apixaban 2.5 mg twice daily, depression, and partial nephrectomy presented with a spontaneous left lower extremity hematoma associated with pain and swelling that had been gradually deteriorating over the previous two days. The hematoma was edematous to the point of total skin necrosis. Citalopram was recently started on the patient. No history of trauma or aspirin use was available. The wound measured 30 × 15 cm2 and stretched from the patient's lateral aspect of the tibia to the almost posterior midline of the left calf. The laboratory results revealed normocytic anemia with abnormal coagulation tests. 750 cc of the hematoma was evacuated during surgery using cautery excision of the necrosed skin layers.",
+        "Discussion\nA published case report details the occurrence of hemopericardium in two patients who were receiving apixaban together with an SSRI [1]. Serotonin receptors are also located on the surface of platelets. Therefore, greater bleeding with SSRIs may be explained by an augmented pharmacodynamic effect on platelet aggregation inhibition. It has been shown that SSRI and nonvitamin K oral anticoagulants (NOACs) interact pharmacologically through selective inhibition of cytochrome enzymes (CYP2C9) [2,3]. Numerous studies have shown an increased risk of bleeding problems in people with chronic kidney disease. About 27% of apixaban clearance occurs through renal excretion. The remainder is eliminated via the gastrointestinal tract in the form of bile and feces [4-6]. Additionally, concurrent use of SSRIs and apixaban are classified as risk category C, indicating that treatment should be closely watched but may be administered. In this case, the sequential link between developing a spontaneous hematoma becomes critical, particularly given that the only new change in her medical state was the introduction of citalopram (SSRI) [7]. Perhaps when additional reports of severe bleeding associated with apixaban and citalopram become available, this guideline for simultaneous use will be changed to category D (consider modification) or X (avoid combination). Thus the limitation of monitoring NOACs serum drug concentrations also contributes to its low safety profile in these patients.\n\nConclusions\nThe advantages of convenient administration and less frequent monitoring make NOACs more attractive among patients with atrial fibrillation. However, as our knowledge and usage of these treatments expand, we must be vigilant for major life-threatening adverse drug events. Most significantly, as this case indicates, apixaban should be used with great care in individuals with renal impairment and concurrent SSRI treatment."
+      ],
+      "source_mode": "plain_text",
+      "ocr_confidence": null,
+      "scanned_pages": [],
+      "extracted": true,
+      "reextract_count": 0
+    }
+  ],
+  "facts": [
+    {
+      "fact_id": "F01",
+      "field": "reporter_name_or_role",
+      "value": "Datta S, Mahal K, Mahal S, Driskill AK",
+      "normalized": "datta s, mahal k, mahal s, driskill ak",
+      "evidence": [
+        {
+          "doc_id": "D1",
+          "page": 1,
+          "char_start": 109,
+          "char_end": 147,
+          "quote": "Datta S, Mahal K, Mahal S, Driskill AK",
+          "match": "exact"
+        }
+      ],
+      "status": "anchored",
+      "extracted_by": "gemini:gemini-3.5-flash-lite:extract_v2",
+      "source_doc": "D1",
+      "drug": "",
+      "note": ""
+    },
+    {
+      "fact_id": "F02",
+      "field": "reporter_type",
+      "value": "other",
+      "normalized": "other",
+      "evidence": [
+        {
+          "doc_id": "D1",
+          "page": 1,
+          "char_start": 109,
+          "char_end": 147,
+          "quote": "Datta S, Mahal K, Mahal S, Driskill AK",
+          "match": "exact"
+        }
+      ],
+      "status": "anchored",
+      "extracted_by": "gemini:gemini-3.5-flash-lite:extract_v2",
+      "source_doc": "D1",
+      "drug": "",
+      "note": ""
+    },
+    {
+      "fact_id": "F03",
+      "field": "patient_age",
+      "value": "85",
+      "normalized": "85",
+      "evidence": [
+        {
+          "doc_id": "D1",
+          "page": 1,
+          "char_start": 682,
+          "char_end": 693,
+          "quote": "85-year-old",
+          "match": "exact"
+        }
+      ],
+      "status": "anchored",
+      "extracted_by": "gemini:gemini-3.5-flash-lite:extract_v2",
+      "source_doc": "D1",
+      "drug": "",
+      "note": ""
+    },
+    {
+      "fact_id": "F04",
+      "field": "patient_sex",
+      "value": "female",
+      "normalized": "female",
+      "evidence": [
+        {
+          "doc_id": "D1",
+          "page": 1,
+          "char_start": 694,
+          "char_end": 700,
+          "quote": "female",
+          "match": "exact"
+        }
+      ],
+      "status": "anchored",
+      "extracted_by": "gemini:gemini-3.5-flash-lite:extract_v2",
+      "source_doc": "D1",
+      "drug": "",
+      "note": ""
+    },
+    {
+      "fact_id": "F05",
+      "field": "relevant_history",
+      "value": "persistent atrial fibrillation",
+      "normalized": "persistent atrial fibrillation",
+      "evidence": [
+        {
+          "doc_id": "D1",
+          "page": 1,
+          "char_start": 1811,
+          "char_end": 1852,
+          "quote": "history of persistent atrial fibrillation",
+          "match": "exact"
+        }
+      ],
+      "status": "anchored",
+      "extracted_by": "gemini:gemini-3.5-flash-lite:extract_v2",
+      "source_doc": "D1",
+      "drug": "",
+      "note": ""
+    },
+    {
+      "fact_id": "F06",
+      "field": "relevant_history",
+      "value": "depression",
+      "normalized": "depression",
+      "evidence": [
+        {
+          "doc_id": "D1",
+          "page": 1,
+          "char_start": 1907,
+          "char_end": 1917,
+          "quote": "depression",
+          "match": "exact"
+        }
+      ],
+      "status": "anchored",
+      "extracted_by": "gemini:gemini-3.5-flash-lite:extract_v2",
+      "source_doc": "D1",
+      "drug": "",
+      "note": ""
+    },
+    {
+      "fact_id": "F07",
+      "field": "relevant_history",
+      "value": "partial nephrectomy",
+      "normalized": "partial nephrectomy",
+      "evidence": [
+        {
+          "doc_id": "D1",
+          "page": 1,
+          "char_start": 1923,
+          "char_end": 1942,
+          "quote": "partial nephrectomy",
+          "match": "exact"
+        }
+      ],
+      "status": "anchored",
+      "extracted_by": "gemini:gemini-3.5-flash-lite:extract_v2",
+      "source_doc": "D1",
+      "drug": "",
+      "note": ""
+    },
+    {
+      "fact_id": "F08",
+      "field": "drug_name",
+      "value": "apixaban",
+      "normalized": "apixaban",
+      "evidence": [
+        {
+          "doc_id": "D1",
+          "page": 1,
+          "char_start": 71,
+          "char_end": 79,
+          "quote": "Apixaban",
+          "match": "exact"
+        }
+      ],
+      "status": "anchored",
+      "extracted_by": "gemini:gemini-3.5-flash-lite:extract_v2",
+      "source_doc": "D1",
+      "drug": "",
+      "note": ""
+    },
+    {
+      "fact_id": "F09",
+      "field": "dose",
+      "value": "2.5 mg",
+      "normalized": "2.5 mg",
+      "evidence": [
+        {
+          "doc_id": "D1",
+          "page": 1,
+          "char_start": 1887,
+          "char_end": 1893,
+          "quote": "2.5 mg",
+          "match": "exact"
+        }
+      ],
+      "status": "anchored",
+      "extracted_by": "gemini:gemini-3.5-flash-lite:extract_v2",
+      "source_doc": "D1",
+      "drug": "apixaban",
+      "note": ""
+    },
+    {
+      "fact_id": "F10",
+      "field": "frequency",
+      "value": "twice daily",
+      "normalized": "twice daily",
+      "evidence": [
+        {
+          "doc_id": "D1",
+          "page": 1,
+          "char_start": 1894,
+          "char_end": 1905,
+          "quote": "twice daily",
+          "match": "exact"
+        }
+      ],
+      "status": "anchored",
+      "extracted_by": "gemini:gemini-3.5-flash-lite:extract_v2",
+      "source_doc": "D1",
+      "drug": "apixaban",
+      "note": ""
+    },
+    {
+      "fact_id": "F11",
+      "field": "indication",
+      "value": "atrial fibrillation",
+      "normalized": "atrial fibrillation",
+      "evidence": [],
+      "status": "unanchored",
+      "extracted_by": "gemini:gemini-3.5-flash-lite:extract_v2",
+      "source_doc": "D1",
+      "drug": "apixaban",
+      "note": "value 'atrial fibrillation' not supported by quote 'anticoagulated with oral apixaban 2.5 mg twice daily'"
+    },
+    {
+      "fact_id": "F12",
+      "field": "drug_name",
+      "value": "citalopram",
+      "normalized": "citalopram",
+      "evidence": [
+        {
+          "doc_id": "D1",
+          "page": 1,
+          "char_start": 56,
+          "char_end": 66,
+          "quote": "Citalopram",
+          "match": "exact"
+        }
+      ],
+      "status": "anchored",
+      "extracted_by": "gemini:gemini-3.5-flash-lite:extract_v2",
+      "source_doc": "D1",
+      "drug": "",
+      "note": ""
+    },
+    {
+      "fact_id": "F13",
+      "field": "indication",
+      "value": "depression",
+      "normalized": "depression",
+      "evidence": [
+        {
+          "doc_id": "D1",
+          "page": 1,
+          "char_start": 1907,
+          "char_end": 1917,
+          "quote": "depression",
+          "match": "exact"
+        }
+      ],
+      "status": "anchored",
+      "extracted_by": "gemini:gemini-3.5-flash-lite:extract_v2",
+      "source_doc": "D1",
+      "drug": "citalopram",
+      "note": ""
+    },
+    {
+      "fact_id": "F14",
+      "field": "event_verbatim",
+      "value": "limb-threatening hematoma",
+      "normalized": "limb-threatening hematoma",
+      "evidence": [
+        {
+          "doc_id": "D1",
+          "page": 1,
+          "char_start": 10,
+          "char_end": 35,
+          "quote": "Limb-Threatening Hematoma",
+          "match": "exact"
+        }
+      ],
+      "status": "anchored",
+      "extracted_by": "gemini:gemini-3.5-flash-lite:extract_v2",
+      "source_doc": "D1",
+      "drug": "",
+      "note": ""
+    },
+    {
+      "fact_id": "F15",
+      "field": "event_verbatim",
+      "value": "spontaneous left lower extremity hematoma",
+      "normalized": "spontaneous left lower extremity hematoma",
+      "evidence": [
+        {
+          "doc_id": "D1",
+          "page": 1,
+          "char_start": 1960,
+          "char_end": 2001,
+          "quote": "spontaneous left lower extremity hematoma",
+          "match": "exact"
+        }
+      ],
+      "status": "anchored",
+      "extracted_by": "gemini:gemini-3.5-flash-lite:extract_v2",
+      "source_doc": "D1",
+      "drug": "",
+      "note": ""
+    },
+    {
+      "fact_id": "F16",
+      "field": "seriousness_criteria",
+      "value": "hospitalisation",
+      "normalized": "hospitalisation",
+      "evidence": [
+        {
+          "doc_id": "D1",
+          "page": 1,
+          "char_start": 2534,
+          "char_end": 2564,
+          "quote": "surgery using cautery excision",
+          "match": "exact"
+        }
+      ],
+      "status": "anchored",
+      "extracted_by": "gemini:gemini-3.5-flash-lite:extract_v2",
+      "source_doc": "D1",
+      "drug": "",
+      "note": ""
+    },
+    {
+      "fact_id": "F17",
+      "field": "seriousness_criteria",
+      "value": "medically important",
+      "normalized": "medically important",
+      "evidence": [
+        {
+          "doc_id": "D1",
+          "page": 1,
+          "char_start": 10,
+          "char_end": 35,
+          "quote": "Limb-Threatening Hematoma",
+          "match": "exact"
+        }
+      ],
+      "status": "anchored",
+      "extracted_by": "gemini:gemini-3.5-flash-lite:extract_v2",
+      "source_doc": "D1",
+      "drug": "",
+      "note": ""
+    },
+    {
+      "fact_id": "F18",
+      "field": "treatment_given",
+      "value": "surgery using cautery excision of the necrosed skin layers",
+      "normalized": "surgery using cautery excision of the necrosed skin layers",
+      "evidence": [
+        {
+          "doc_id": "D1",
+          "page": 1,
+          "char_start": 2534,
+          "char_end": 2593,
+          "quote": "surgery using cautery excision of the necrosed skin layers.",
+          "match": "exact"
+        }
+      ],
+      "status": "anchored",
+      "extracted_by": "gemini:gemini-3.5-flash-lite:extract_v2",
+      "source_doc": "D1",
+      "drug": "",
+      "note": ""
+    },
+    {
+      "fact_id": "F19",
+      "field": "relevant_labs",
+      "value": "normocytic anemia with abnormal coagulation tests",
+      "normalized": "normocytic anemia with abnormal coagulation tests",
+      "evidence": [
+        {
+          "doc_id": "D1",
+          "page": 1,
+          "char_start": 2411,
+          "char_end": 2489,
+          "quote": "laboratory results revealed normocytic anemia with abnormal coagulation tests.",
+          "match": "exact"
+        }
+      ],
+      "status": "anchored",
+      "extracted_by": "gemini:gemini-3.5-flash-lite:extract_v2",
+      "source_doc": "D1",
+      "drug": "",
+      "note": ""
+    }
+  ],
+  "conflicts": [],
+  "gaps": [
+    {
+      "gap_id": "G01",
+      "field": "event_onset_date",
+      "severity": "required_for_serious",
+      "searched": false,
+      "search_hits": [],
+      "query_draft": "Please provide the event onset date for the adverse event reported.",
+      "query_status": "drafted",
+      "closed": false
+    },
+    {
+      "gap_id": "G02",
+      "field": "outcome",
+      "severity": "required_for_serious",
+      "searched": false,
+      "search_hits": [],
+      "query_draft": "Please provide the outcome of the event (e.g., resolved, ongoing, worsened, fatal).",
+      "query_status": "drafted",
+      "closed": false
+    },
+    {
+      "gap_id": "G03",
+      "field": "dechallenge",
+      "severity": "required_for_serious",
+      "searched": false,
+      "search_hits": [],
+      "query_draft": "Please provide dechallenge information: what happened after the suspect drug was stopped or reduced.",
+      "query_status": "drafted",
+      "closed": false
+    },
+    {
+      "gap_id": "G04",
+      "field": "start_date",
+      "severity": "required_for_serious",
+      "searched": false,
+      "search_hits": [],
+      "query_draft": "Please provide the start date of the suspect drug.",
+      "query_status": "drafted",
+      "closed": false
+    },
+    {
+      "gap_id": "G05",
+      "field": "action_taken",
+      "severity": "required_for_serious",
+      "searched": false,
+      "search_hits": [],
+      "query_draft": "Please provide the action taken with the suspect drug (e.g., discontinued, dose reduced, continued).",
+      "query_status": "drafted",
+      "closed": false
+    }
+  ],
+  "minimum_criteria": {
+    "identifiable_patient": true,
+    "identifiable_reporter": true,
+    "suspect_product": true,
+    "adverse_event": true
+  },
+  "seriousness_candidates": [
+    "hospitalisation",
+    "medically important"
+  ],
+  "timeline_issues": [],
+  "meddra_suggestions": {
+    "F14": [
+      {
+        "pt": "Haematoma",
+        "rationale": "General term matching the verbatim description of a hematoma that threatens the limb."
+      },
+      {
+        "pt": "Haematoma muscle",
+        "rationale": "Specifies a hematoma within muscle tissue, consistent with a limb‑related location."
+      },
+      {
+        "pt": "Traumatic haematoma",
+        "rationale": "Implies a hematoma caused by injury, which is a common mechanism for limb‑threatening bleeding."
+      },
+      {
+        "pt": "Subcutaneous haematoma",
+        "rationale": "Describes a hematoma located under the skin of a limb, a plausible presentation of a limb‑threatening bleed."
+      },
+      {
+        "pt": "Retroperitoneal haematoma",
+        "rationale": "Although not limb‑specific, it is a severe hematoma that can threaten adjacent structures, fitting the severity implied by “limb‑threatening.”"
+      }
+    ],
+    "F15": [
+      {
+        "pt": "Haematoma",
+        "rationale": "General term that captures a spontaneous bleed in the left lower extremity as described."
+      },
+      {
+        "pt": "Subcutaneous haematoma",
+        "rationale": "Specifies a hematoma located in the subcutaneous tissue, which is the most common layer for a spontaneous extremity bleed."
+      },
+      {
+        "pt": "Lower extremity mass",
+        "rationale": "Describes a palpable lesion in the lower limb; a hematoma often presents as a mass."
+      },
+      {
+        "pt": "Haematoma muscle",
+        "rationale": "Indicates a hematoma involving muscle tissue of the lower extremity, consistent with a deep spontaneous bleed."
+      },
+      {
+        "pt": "Traumatic haematoma",
+        "rationale": "Although the event is spontaneous, this term is often used when a hematoma is noted without a clear external injury; included as a close alternative."
+      }
+    ]
+  },
+  "selected_meddra": {},
+  "narrative": [
+    {
+      "sentence_id": "S01",
+      "text": "The patient is an 85-year-old female.",
+      "fact_ids": [
+        "F03",
+        "F04"
+      ],
+      "kind": "generated",
+      "verification": "supported",
+      "verification_notes": [
+        "V5: Evidence directly states the patient is 85-year-old and female."
+      ],
+      "redraft_count": 1,
+      "reviewer_action": null
+    },
+    {
+      "sentence_id": "S02",
+      "text": "The patient has a relevant history of persistent atrial fibrillation, depression, and partial nephrectomy.",
+      "fact_ids": [
+        "F05",
+        "F06",
+        "F07"
+      ],
+      "kind": "generated",
+      "verification": "supported",
+      "verification_notes": [
+        "V5: Evidence lists persistent atrial fibrillation, depression, and partial nephrectomy as history."
+      ],
+      "redraft_count": 1,
+      "reviewer_action": null
+    },
+    {
+      "sentence_id": "S03",
+      "text": "The suspect drug apixaban was administered at a dose of 2.5 mg and a frequency of twice daily.",
+      "fact_ids": [
+        "F08",
+        "F09",
+        "F10"
+      ],
+      "kind": "generated",
+      "verification": "supported",
+      "verification_notes": [
+        "V5: Evidence provides drug name apixaban, dose 2.5 mg, and frequency twice daily."
+      ],
+      "redraft_count": 1,
+      "reviewer_action": null
+    },
+    {
+      "sentence_id": "S04",
+      "text": "The drug citalopram was given for the indication of depression.",
+      "fact_ids": [
+        "F12",
+        "F13"
+      ],
+      "kind": "generated",
+      "verification": "supported",
+      "verification_notes": [
+        "V5: Evidence links citalopram to the indication depression."
+      ],
+      "redraft_count": 1,
+      "reviewer_action": null
+    },
+    {
+      "sentence_id": "S05",
+      "text": "The events experienced were a limb-threatening hematoma and a spontaneous left lower extremity hematoma.",
+      "fact_ids": [
+        "F14",
+        "F15"
+      ],
+      "kind": "generated",
+      "verification": "supported",
+      "verification_notes": [
+        "V5: Evidence mentions both a limb‑threatening hematoma and a spontaneous left lower extremity hematoma."
+      ],
+      "redraft_count": 1,
+      "reviewer_action": null
+    },
+    {
+      "sentence_id": "S06",
+      "text": "The seriousness criteria include hospitalisation and medically important.",
+      "fact_ids": [
+        "F16",
+        "F17"
+      ],
+      "kind": "generated",
+      "verification": "flagged",
+      "verification_notes": [
+        "V5 unsupported: Evidence only mentions surgery and limb‑threatening hematoma; it does not provide hospitalisation or medically important seriousness criteria."
+      ],
+      "redraft_count": 1,
+      "reviewer_action": null
+    },
+    {
+      "sentence_id": "S07",
+      "text": "Relevant laboratory findings showed normocytic anemia with abnormal coagulation tests.",
+      "fact_ids": [
+        "F19"
+      ],
+      "kind": "generated",
+      "verification": "supported",
+      "verification_notes": [
+        "V5: Evidence states normocytic anemia with abnormal coagulation tests."
+      ],
+      "redraft_count": 1,
+      "reviewer_action": null
+    },
+    {
+      "sentence_id": "S08",
+      "text": "Treatment given was surgery using cautery excision of the necrosed skin layers.",
+      "fact_ids": [
+        "F18"
+      ],
+      "kind": "generated",
+      "verification": "supported",
+      "verification_notes": [
+        "V5: Evidence describes surgery using cautery excision of necrosed skin layers."
+      ],
+      "redraft_count": 1,
+      "reviewer_action": null
+    },
+    {
+      "sentence_id": "S09",
+      "text": "The reporter is Datta S, Mahal K, Mahal S, Driskill AK.",
+      "fact_ids": [
+        "F01"
+      ],
+      "kind": "generated",
+      "verification": "supported",
+      "verification_notes": [
+        "V5: Evidence lists the reporters: Datta S, Mahal K, Mahal S, Driskill AK."
+      ],
+      "redraft_count": 1,
+      "reviewer_action": null
+    },
+    {
+      "sentence_id": "S10",
+      "text": "The reporter type is other.",
+      "fact_ids": [
+        "F02"
+      ],
+      "kind": "generated",
+      "verification": "flagged",
+      "verification_notes": [
+        "V5 unsupported: Evidence provides only the reporter names; it does not indicate the reporter type as 'other'."
+      ],
+      "redraft_count": 1,
+      "reviewer_action": null
+    },
+    {
+      "sentence_id": "S11",
+      "text": "Event onset date was not available in the source documents; follow-up requested.",
+      "fact_ids": [],
+      "kind": "gap_template",
+      "verification": "supported",
+      "verification_notes": [
+        "code template (verified by rules)"
+      ],
+      "redraft_count": 0,
+      "reviewer_action": null
+    },
+    {
+      "sentence_id": "S12",
+      "text": "Event outcome was not available in the source documents; follow-up requested.",
+      "fact_ids": [],
+      "kind": "gap_template",
+      "verification": "supported",
+      "verification_notes": [
+        "code template (verified by rules)"
+      ],
+      "redraft_count": 0,
+      "reviewer_action": null
+    },
+    {
+      "sentence_id": "S13",
+      "text": "Dechallenge information (what happened after the drug was stopped or reduced) was not available in the source documents; follow-up requested.",
+      "fact_ids": [],
+      "kind": "gap_template",
+      "verification": "supported",
+      "verification_notes": [
+        "code template (verified by rules)"
+      ],
+      "redraft_count": 0,
+      "reviewer_action": null
+    },
+    {
+      "sentence_id": "S14",
+      "text": "Start date of the suspect drug was not available in the source documents; follow-up requested.",
+      "fact_ids": [],
+      "kind": "gap_template",
+      "verification": "supported",
+      "verification_notes": [
+        "code template (verified by rules)"
+      ],
+      "redraft_count": 0,
+      "reviewer_action": null
+    },
+    {
+      "sentence_id": "S15",
+      "text": "Action taken with the suspect drug was not available in the source documents; follow-up requested.",
+      "fact_ids": [],
+      "kind": "gap_template",
+      "verification": "supported",
+      "verification_notes": [
+        "code template (verified by rules)"
+      ],
+      "redraft_count": 0,
+      "reviewer_action": null
+    }
+  ],
+  "narrative_version": 1,
+  "clock": {
+    "day0": null,
+    "message": "Day 0 (receipt date) not found -- add it to compute deadlines."
+  },
+  "expectedness": "unknown",
+  "expectedness_by": "",
+  "causality": {},
+  "status": "awaiting_human",
+  "human_tasks": [
+    "Approve/edit follow-up query G01 (event_onset_date)",
+    "Approve/edit follow-up query G02 (outcome)",
+    "Approve/edit follow-up query G03 (dechallenge)",
+    "Approve/edit follow-up query G04 (start_date)",
+    "Approve/edit follow-up query G05 (action_taken)",
+    "Review flagged sentences ['S06', 'S10']",
+    "Record expectedness against the reference safety information",
+    "Select MedDRA terms and sign off when satisfied"
+  ],
+  "signed_off_by": null,
+  "reconciled_version": 1,
+  "reconciled_fact_count": 19,
+  "narrative_stale": false,
+  "followup_drafted_version": 1,
+  "meddra_done_version": 1,
+  "clock_done_version": 1,
+  "review_requested_at_step": 11,
+  "prefollowup": {},
+  "diff": [],
+  "audit": [
+    {
+      "ts": "2026-10-28T07:48:19.061903Z",
+      "actor": "tool:ingest",
+      "action": "document_added",
+      "details": {
+        "doc_id": "D1",
+        "filename": "article.txt",
+        "pages": 2,
+        "scanned": []
+      }
+    },
+    {
+      "ts": "2026-10-28T07:48:26.332496Z",
+      "actor": "tool:extract",
+      "action": "facts_extracted",
+      "details": {
+        "docs": [
+          "D1"
+        ],
+        "anchored": 18,
+        "unanchored": [],
+        "value_unsupported": [
+          "indication@D1"
+        ],
+        "focused": false,
+        "ignored_by_source_rules": []
+      }
+    },
+    {
+      "ts": "2026-10-28T07:48:26.780113Z",
+      "actor": "policy",
+      "action": "blocked",
+      "details": {
+        "tool": "extract_facts",
+        "reason": "these fields already have trusted values; a value rejected by the checks stays rejected"
+      }
+    },
+    {
+      "ts": "2026-10-28T07:48:26.784112Z",
+      "actor": "tool:reconcile",
+      "action": "reconciled",
+      "details": {
+        "conflicts": [],
+        "open_gaps": [
+          "event_onset_date",
+          "outcome",
+          "dechallenge",
+          "start_date",
+          "action_taken"
+        ],
+        "missing_minimum": [],
+        "seriousness": [
+          "hospitalisation",
+          "medically important"
+        ],
+        "timeline": []
+      }
+    },
+    {
+      "ts": "2026-10-28T07:48:37.221329Z",
+      "actor": "tool:meddra",
+      "action": "suggested",
+      "details": {
+        "suggestions": {
+          "F14": [
+            "Haematoma",
+            "Haematoma muscle",
+            "Traumatic haematoma",
+            "Subcutaneous haematoma",
+            "Retroperitoneal haematoma"
+          ],
+          "F15": [
+            "Haematoma",
+            "Subcutaneous haematoma",
+            "Lower extremity mass",
+            "Haematoma muscle",
+            "Traumatic haematoma"
+          ]
+        }
+      }
+    },
+    {
+      "ts": "2026-10-28T07:48:41.291970Z",
+      "actor": "tool:followup",
+      "action": "queries_drafted",
+      "details": {
+        "gaps": [
+          "G01",
+          "G02",
+          "G03",
+          "G04",
+          "G05"
+        ]
+      }
+    },
+    {
+      "ts": "2026-10-28T07:48:43.802717Z",
+      "actor": "tool:clock",
+      "action": "clock_computed",
+      "details": {
+        "clock": {
+          "day0": null,
+          "message": "Day 0 (receipt date) not found -- add it to compute deadlines."
+        }
+      }
+    },
+    {
+      "ts": "2026-10-28T07:48:50.767750Z",
+      "actor": "tool:draft",
+      "action": "narrative_drafted",
+      "details": {
+        "sentences": 15,
+        "narrative_version": 1
+      }
+    },
+    {
+      "ts": "2026-10-28T07:48:51.469764Z",
+      "actor": "tool:verify",
+      "action": "verified",
+      "details": {
+        "counts": {
+          "supported": 5,
+          "flagged": 0,
+          "blocked": 10,
+          "pending": 0
+        },
+        "blocked": [
+          "S01",
+          "S02",
+          "S03",
+          "S04",
+          "S05",
+          "S06",
+          "S07",
+          "S08",
+          "S09",
+          "S10"
+        ]
+      }
+    },
+    {
+      "ts": "2026-10-28T07:48:58.541445Z",
+      "actor": "tool:redraft",
+      "action": "redrafted",
+      "details": {
+        "changed": [
+          "S01",
+          "S02",
+          "S03",
+          "S04",
+          "S05",
+          "S06",
+          "S07",
+          "S08",
+          "S09",
+          "S10"
+        ],
+        "dropped": []
+      }
+    },
+    {
+      "ts": "2026-10-28T07:49:02.551107Z",
+      "actor": "tool:verify",
+      "action": "verified",
+      "details": {
+        "counts": {
+          "supported": 13,
+          "flagged": 2,
+          "blocked": 0,
+          "pending": 0
+        },
+        "blocked": []
+      }
+    },
+    {
+      "ts": "2026-10-28T07:49:06.480940Z",
+      "actor": "orchestrator",
+      "action": "human_review_requested",
+      "details": {
+        "tasks": [
+          "Approve/edit follow-up query G01 (event_onset_date)",
+          "Approve/edit follow-up query G02 (outcome)",
+          "Approve/edit follow-up query G03 (dechallenge)",
+          "Approve/edit follow-up query G04 (start_date)",
+          "Approve/edit follow-up query G05 (action_taken)",
+          "Review flagged sentences ['S06', 'S10']",
+          "Record expectedness against the reference safety information",
+          "Select MedDRA terms and sign off when satisfied"
+        ]
+      }
+    }
+  ],
+  "trace": [
+    {
+      "step": 1,
+      "ts": "2026-10-28T07:48:19.050111Z",
+      "planner": "llm",
+      "reason": "No documents have been ingested yet, so we must load the case pack first.",
+      "tool": "ingest_documents",
+      "args": {},
+      "allowed": true,
+      "result_summary": "ingested 1 document(s): ['D1']; documents with untranscribed scanned pages: none",
+      "duration_s": 0.01,
+      "planner_input": "CASE LIT-PMC8687801 | version 1 | status processing\nDocuments: none ingested yet.\nReconciled for current version and facts: False\nMedDRA suggested for this version: False; clock computed for this version: False\nNarrative: not drafted\n\nTools the rulebook allows now: ingest_documents",
+      "calls": [
+        {
+          "step": 1,
+          "role": "planner",
+          "model": "groq:openai/gpt-oss-20b",
+          "secs": 2.43,
+          "instructions": "You are the SafetyTrace orchestrator for SERIOUS clinical-trial adverse-event cases.\nGoal: bring the case to a state where a qualified human reviewer can verify it quickly and safely.\n\nYou never see documents. You see a case summary and choose ONE next tool. Explain your reason in one short sentence (shown to the reviewer as the agent trace).\n\nTools:\n- ingest_documents: load the case pack (first step only).\n- transcribe_scans: transcribe scanned pages that have no text layer. Must happen before extraction of those documents.\n- extract_facts: extract facts with verified quotes. With no arguments it processes all un-extracted documents.\n  With doc_ids AND fields it does ONE focused re-extraction (use it when a field has only unanchored values, or after a search found likely evidence).\n- search_documents: deterministic search of every page, ONLY for a MISSING minimum criterion. Give criterion = one of identifiable_patient, identifiable_reporter, suspect_product, adverse_event.\n- reconcile: detect conflicts, gaps, minimum criteria, seriousness candidates. Run it whenever facts changed.\n- suggest_meddra: suggest MedDRA terms (human selects).\n- compute_clock: compute regulatory deadlines.\n- draft_narrative: write the narrative from usable facts only (conflicts/gaps are stated by templates).\n- verify_narrative: check every pending sentence (rules first, then an independent model).\n- redraft_sentences: redraft only blocked sentences (give sentence_ids).\n- draft_followup_queries: draft follow-up questions for open gaps/conflicts (a human approves; nothing is sent).\n- request_human_review: hand over to the reviewer when automatic work is done.\n- stop: nothing useful left to do.\n\nRules you must follow:\n1. Never decide which of two conflicting values is correct, and never decide causality, expectedness, reportability or case validity.\n2. Before treating a minimum criterion as missing, search for it; if the search finds hits, do one focused extraction on those documents.\n3. If a field has only unanchored values, try one focused re-extraction on that document.\n4. After any drafting or redrafting, verify. Redraft only blocked sentences.\n5. Reconcile again whenever facts changed (for example after a follow-up reply or a focused extraction).\n6. Conflicts are decided ONLY by a human or by a site reply. Do not search or re-extract to \"resolve\" a conflict: draft a follow-up query and hand over.\n7. Missing information that is not a minimum criterion (e.g. dechallenge) is a gap",
+          "input": "CASE LIT-PMC8687801 | version 1 | status processing\nDocuments: none ingested yet.\nReconciled for current version and facts: False\nMedDRA suggested for this version: False; clock computed for this version: False\nNarrative: not drafted\n\nTools the policy allows right now (anything else is blocked): ingest_documents\n\nChoose the single next action.",
+          "output": "{\"reason\": \"No documents have been ingested yet, so we must load the case pack first.\", \"tool\": \"ingest_documents\", \"doc_ids\": [], \"fields\": [], \"criterion\": \"\", \"sentence_ids\": []}"
+        }
+      ],
+      "changes": {
+        "documents loaded": [
+          "D1 article.txt: 2 page(s), plain text"
+        ]
+      }
+    },
+    {
+      "step": 2,
+      "ts": "2026-10-28T07:48:23.644746Z",
+      "planner": "llm",
+      "reason": "Document D1 is ingested but not yet extracted; extract_facts is the only allowed and necessary next step.",
+      "tool": "extract_facts",
+      "args": {},
+      "allowed": true,
+      "result_summary": "extracted from ['D1']: 18 anchored; unanchored=['indication@D1']",
+      "duration_s": 2.69,
+      "planner_input": "CASE LIT-PMC8687801 | version 1 | status processing\n- D1 article.txt [literature_article, v1, 2 page(s)]: NOT extracted\nReconciled for current version and facts: False\nMedDRA suggested for this version: False; clock computed for this version: False\nNarrative: not drafted\nRecent steps:\n  1. ingest_documents  -> ingested 1 document(s): ['D1']; documents with untranscribed scanned pages: none\n\nTools the rulebook allows now: extract_facts (all un-extracted documents)",
+      "calls": [
+        {
+          "step": 2,
+          "role": "planner",
+          "model": "groq:qwen/qwen3.8-27b",
+          "secs": 2.71,
+          "instructions": "You are the SafetyTrace orchestrator for SERIOUS clinical-trial adverse-event cases.\nGoal: bring the case to a state where a qualified human reviewer can verify it quickly and safely.\n\nYou never see documents. You see a case summary and choose ONE next tool. Explain your reason in one short sentence (shown to the reviewer as the agent trace).\n\nTools:\n- ingest_documents: load the case pack (first step only).\n- transcribe_scans: transcribe scanned pages that have no text layer. Must happen before extraction of those documents.\n- extract_facts: extract facts with verified quotes. With no arguments it processes all un-extracted documents.\n  With doc_ids AND fields it does ONE focused re-extraction (use it when a field has only unanchored values, or after a search found likely evidence).\n- search_documents: deterministic search of every page, ONLY for a MISSING minimum criterion. Give criterion = one of identifiable_patient, identifiable_reporter, suspect_product, adverse_event.\n- reconcile: detect conflicts, gaps, minimum criteria, seriousness candidates. Run it whenever facts changed.\n- suggest_meddra: suggest MedDRA terms (human selects).\n- compute_clock: compute regulatory deadlines.\n- draft_narrative: write the narrative from usable facts only (conflicts/gaps are stated by templates).\n- verify_narrative: check every pending sentence (rules first, then an independent model).\n- redraft_sentences: redraft only blocked sentences (give sentence_ids).\n- draft_followup_queries: draft follow-up questions for open gaps/conflicts (a human approves; nothing is sent).\n- request_human_review: hand over to the reviewer when automatic work is done.\n- stop: nothing useful left to do.\n\nRules you must follow:\n1. Never decide which of two conflicting values is correct, and never decide causality, expectedness, reportability or case validity.\n2. Before treating a minimum criterion as missing, search for it; if the search finds hits, do one focused extraction on those documents.\n3. If a field has only unanchored values, try one focused re-extraction on that document.\n4. After any drafting or redrafting, verify. Redraft only blocked sentences.\n5. Reconcile again whenever facts changed (for example after a follow-up reply or a focused extraction).\n6. Conflicts are decided ONLY by a human or by a site reply. Do not search or re-extract to \"resolve\" a conflict: draft a follow-up query and hand over.\n7. Missing information that is not a minimum criterion (e.g. dechallenge) is a gap",
+          "input": "CASE LIT-PMC8687801 | version 1 | status processing\n- D1 article.txt [literature_article, v1, 2 page(s)]: NOT extracted\nReconciled for current version and facts: False\nMedDRA suggested for this version: False; clock computed for this version: False\nNarrative: not drafted\nRecent steps:\n  1. ingest_documents  -> ingested 1 document(s): ['D1']; documents with untranscribed scanned pages: none\n\nTools the policy allows right now (anything else is blocked): extract_facts (all un-extracted documents)\n\nChoose the single next action.",
+          "output": "{\"criterion\": \"\", \"doc_ids\": [], \"fields\": [], \"reason\": \"Document D1 is ingested but not yet extracted; extract_facts is the only allowed and necessary next step.\", \"sentence_ids\": [], \"tool\": \"extract_facts\"}"
+        },
+        {
+          "step": 2,
+          "role": "extract",
+          "model": "gemini:gemini-3.5-flash-lite",
+          "secs": 2.67,
+          "instructions": "You extract adverse-event case facts from ONE clinical document for a pharmacovigilance safety case.\n\nRules:\n1. Extract only facts that are explicitly stated in this document. Never infer, guess or use outside knowledge.\n2. For every fact return:\n   - field: one of the listed field keys\n   - value: the value as stated (keep units and dates exactly as written)\n   - quote: the SHORTEST verbatim span from the document that contains the value. Copy it character for character. Do not paraphrase, fix typos or join text from different places.\n   - page: the page number shown as <<PAGE n>>\n3. If the same field is stated more than once with different values, return each one separately with its own quote.\n4. If a field is not stated, do not return it. Missing information is important and must stay missing.\n5. Repeatable fields (relevant_labs, concomitant_meds, treatment_given, relevant_history, seriousness_criteria) may appear several times.\n6. Field meanings that are easy to misread:\n   - reporter_name_or_role / reporter_type: the person who REPORTS this case (the author or signatory of the document, e.g. the investigator who signs a clinic note). Someone the text merely mentions (e.g. \"called the study nurse\", \"showed my daughter\") is NOT the reporter.\n   - start_date: only a date stated as the start of the suspect drug (\"started on ...\"). A diary line saying a tablet was taken on some day is not a start date.\n   - stop_date / action_taken: the action taken with the suspect drug BECAUSE OF the event, as stated by the treating team (withdrawn, interrupted, dose reduced, unchanged). A single missed dose noted in a diary is not an action taken.\n   - event_onset_date: the date the adverse event UNDER REPORT first appeared (including its first signs). Do not return onset dates of other, unrelated symptoms. If the document gives more than one date for the onset of that event, return each one separately.\n7. Several drugs: for dose, route, frequency, indication, start_date, stop_date, action_taken, dechallenge and rechallenge set \"drug\" to the name of the drug the value belongs to (leave \"drug\" empty for other fields). Never attach one drug's dose or indication to another drug.\n8. event_verbatim: return each distinct adverse event separately, each with its own quote.\n9. Return only the fields listed below; other fields are not taken from this type of document.\n",
+          "input": "Document: article.txt (type: literature_article)\n\nFields to extract:\n- study_id: Clinical study / protocol identifier\n- site_id: Investigator site identifier\n- subject_id: Study subject / patient identifier\n- reporter_name_or_role: Name or role of the person reporting the event (e.g. Dr. A. Mehta, investigator)\n- reporter_type: physician, investigator, pharmacist, nurse, patient or other\n- patient_initials: Patient initials\n- patient_age: Patient age in years\n- patient_sex: Patient sex\n- relevant_history: Relevant medical history\n- drug_name: Suspect (study) drug name\n- dose: Dose of the suspect drug with unit\n- route: Route of administration\n- frequency: Dosing frequency\n- start_date: Date the suspect drug was started\n- stop_date: Date of the LAST dose of the suspect drug (E2B convention). If a text gives both the date the drug was interrupted and the last-dose date, use the last-dose date\n- indication: The disease or condition the suspect drug was given for (e.g. 'atrial fibrillation'), not a phrase about the drug itself\n- action_taken: Action taken with the suspect drug (withdrawn, interrupted, unchanged, reduced)\n- event_verbatim: One adverse event as described in the source. Return EACH distinct event (diagnosis, complication, clinically significant abnormal finding) as a separate entry\n- event_onset_date: Date the adverse event started\n- event_end_date: Date the adverse event resolved\n- seriousness_criteria: Seriousness criterion stated or clearly described: death, life-threatening, hospitalisation (admitted, hospitalised, prolonged stay), disability, congenital anomaly, medically important (e.g. needed surgery to prevent permanent harm). Value = the category word; quote = the text that shows it\n- outcome: Outcome of the event (recovered, recovering, not recovered, fatal, unknown)\n- dechallenge: What happened to the event after the drug was stopped or reduced\n- rechallenge: Whether the drug was restarted and what happened\n- treatment_given: Treatment given for the adverse event\n- relevant_labs: Relevant laboratory result with value, unit and date\n- concomitant_meds: Concomitant medication\n- investigator_causality: The reporter's or investigator's own causality assessment of the suspect drug (e.g. 'related', 'probably related', 'not related'), only if the source states one\n\nDocument text:\n<<PAGE 1>>\nA Case of Limb-Threatening Hematoma in a Patient Taking Citalopram and Apixaban Concurrently.\nCureus (2021). Datta S, Mahal K, Mahal S, Driskill AK.\nLicense: cc by | PMC8687801 | doi:10.7759/cureus.19771\n\nA Case of Limb-Threatening Hematoma in a Patient Taking Citalopram and Apixaban Concurrently\n\nAbstract\nApixaban, a direct oral anticoagulant, has been demonstrated to increase the risk of bleeding in individuals with atrial fibrillation when used concurrently with citalopram [selective serotonin reuptake inhibitor (SSRI)]. This was proposed as a result of their synergistic anticoagulant effects. We discuss a rare case in which a limb-threatening hematoma was noticed in an 85-year-old female patient who was just begun on citalopram and was on apixaban. There are few published case studies demonstrating a link between these two kinds of drugs, and our case study aims to inform our audience about the possible negative effects of concurrent usage of these two medications.\n\nIntroduction\nApixaban, an oral direct anticoagulant, affects platelet activation and fibrin clot formation by inhibiting both free and clot-bound factor Xa (FXa) in a direct, selective, and reversible manner. Its concomitant use with citalopram [selective serotonin reuptake inhibitor (SSRI)] has been shown to increase bleeding risk in patients with atrial fibrillation [1-3]. This effect is achieved by inhibiting platelet serotonin uptake, probably resulting in synergistic anticoagulant activity. The most frequently encountered hemostatic abnormalities include decreased platelet aggregation and activity as well as an increase in bleeding time. We are presenting a case where apixaban concomitant use with citalopram (SSRI) has caused a limb-threatening hematoma.\n\nCase presentation\nAn 85-year-old female patient with a history of persistent atrial fibrillation anticoagulated with oral apixaban 2.5 mg twice daily, depression, and partial nephrectomy presented with a spontaneous left lower extremity hematoma associated with pain and swelling that had been gradually deteriorating over the previous two days. The hematoma was edematous to the point of total skin necrosis. Citalopram was recently started on the patient. No history of trauma or aspirin use was available. The wound measured 30 × 15 cm2 and stretched from the patient's lateral aspect of the tibia to the almost posterior midline of the left calf. The laboratory results revealed normocytic anemia with abnormal coagulation tests. 750 cc of the hematoma was evacuated during surgery using cautery excision of the necrosed skin layers.\n\n<<PAGE 2>>\nDiscussion\nA published case report details the occurrence of hemopericardium in two patients who were receiving apixaban together with an SSRI [1]. Serotonin receptors are also located on the surface of platelets. Therefore, greater bleeding with SSRIs may be explained by an augmented pharmacodynamic effect on platelet aggregation inhibition. It has been shown that SSRI and nonvitamin K oral anticoagulants (NOACs) interact pharmacologically through selective inhibition of cytochrome enzymes (CYP2C9) [2,3]. Numerous studies have shown an increased risk of bleeding problems in people with chronic kidney disease. About 27% of apixaban clearance occurs through renal excretion. The remainder is eliminated via the gastrointestinal tract in the form of bile and feces [4-6]. Additionally, concurrent use of SSRIs and apixaban are classified as risk category C, indicating that treatment should be closely watched but may be administered. In this case, the sequential link between developing a spontaneous hematoma becomes critical, particularly ",
+          "output": "{\"facts\": [{\"field\": \"reporter_name_or_role\", \"value\": \"Datta S, Mahal K, Mahal S, Driskill AK\", \"quote\": \"Datta S, Mahal K, Mahal S, Driskill AK\", \"page\": 1, \"drug\": \"\"}, {\"field\": \"reporter_type\", \"value\": \"other\", \"quote\": \"Datta S, Mahal K, Mahal S, Driskill AK\", \"page\": 1, \"drug\": \"\"}, {\"field\": \"patient_age\", \"value\": \"85\", \"quote\": \"85-year-old\", \"page\": 1, \"drug\": \"\"}, {\"field\": \"patient_sex\", \"value\": \"female\", \"quote\": \"female\", \"page\": 1, \"drug\": \"\"}, {\"field\": \"relevant_history\", \"value\": \"persistent atrial fibrillation\", \"quote\": \"history of persistent atrial fibrillation\", \"page\": 1, \"drug\": \"\"}, {\"field\": \"relevant_history\", \"value\": \"depression\", \"quote\": \"depression\", \"page\": 1, \"drug\": \"\"}, {\"field\": \"relevant_history\", \"value\": \"partial nephrectomy\", \"quote\": \"partial nephrectomy\", \"page\": 1, \"drug\": \"\"}, {\"field\": \"drug_name\", \"value\": \"apixaban\", \"quote\": \"apixaban\", \"page\": 1, \"drug\": \"apixaban\"}, {\"field\": \"dose\", \"value\": \"2.5 mg\", \"quote\": \"2.5 mg\", \"page\": 1, \"drug\": \"apixaban\"}, {\"field\": \"frequency\", \"value\": \"twice daily\", \"quote\": \"twice daily\", \"page\": 1, \"drug\": \"apixaban\"}, {\"field\": \"indication\", \"value\": \"atrial fibrillation\", \"quote\": \"anticoagulated with oral apixaban 2.5 mg twice daily\", \"page\": 1, \"drug\": \"apixaban\"}, {\"field\": \"drug_name\", \"value\": \"citalopram\", \"quote\": \"citalopram\", \"page\": 1, \"drug\": \"citalopram\"}, {\"field\": \"indication\", \"value\": \"depression\", \"quote\": \"depression\", \"page\": 1, \"drug\": \"citalopram\"}, {\"field\": \"event_verbatim\", \"value\": \"limb-threatening hematoma\", \"quote\": \"limb-threatening hematoma\", \"page\": 1, \"drug\": \"\"}, {\"field\": \"event_verbatim\", \"value\": \"spontaneous left lower extremity hematoma\", \"quote\": \"spontaneous left lower extremity hematoma\", \"page\": 1, \"drug\": \"\"}, {\"field\": \"seriousness_criteria\", \"value\": \"hospitalisation\", \"quote\": \"surgery using cautery excision\", \"page\": 1, \"drug\": \"\"}, {\"field\": \"seriousness_criteria\", \"value\": \"medically important\", \"quote\": \"limb-threatening hematoma\", \"page\": 1, \"drug\": \"\"}, {\"field\": \"treatment_given\", \"value\": \"surgery using cautery excision of the necrosed skin layers\", \"quote\": \"surgery using cautery excision of the necrosed skin layers.\", \"page\": 1, \"drug\": \"\"}, {\"field\": \"relevant_labs\", \"value\": \"normocytic anemia with abnormal coagulation tests\", \"quote\": \"laboratory results revealed normocytic anemia with abnormal coagulation tests.\", \"page\": 1, \"drug\": \"\"}]}"
+        }
+      ],
+      "changes": {
+        "documents read": [
+          "D1 article.txt"
+        ],
+        "facts proven": [
+          "F01 reporter_name_or_role = Datta S, Mahal K, Mahal S, Driskill AK",
+          "F02 reporter_type = other",
+          "F03 patient_age = 85",
+          "F04 patient_sex = female",
+          "F05 relevant_history = persistent atrial fibrillation",
+          "F06 relevant_history = depression",
+          "F07 relevant_history = partial nephrectomy",
+          "F08 drug_name = apixaban",
+          "F09 dose = 2.5 mg [apixaban]",
+          "F10 frequency = twice daily [apixaban]",
+          "F12 drug_name = citalopram",
+          "F13 indication = depression [citalopram]",
+          "F14 event_verbatim = limb-threatening hematoma",
+          "F15 event_verbatim = spontaneous left lower extremity hematoma",
+          "F16 seriousness_criteria = hospitalisation",
+          "F17 seriousness_criteria = medically important",
+          "F18 treatment_given = surgery using cautery excision of the necrosed skin layers",
+          "F19 relevant_labs = normocytic anemia with abnormal coagulation tests"
+        ],
+        "rejected by code": [
+          "F11 indication = atrial fibrillation [apixaban]: value 'atrial fibrillation' not supported by quote 'anticoagulated with oral apixaban 2.5 mg twice daily'"
+        ]
+      }
+    },
+    {
+      "step": 3,
+      "ts": "2026-10-28T07:48:26.780113Z",
+      "planner": "llm",
+      "reason": "Extract the unanchored indication value from D1",
+      "tool": "extract_facts",
+      "args": {
+        "doc_ids": [
+          "D1"
+        ],
+        "fields": [
+          "indication"
+        ]
+      },
+      "allowed": false,
+      "result_summary": "blocked by policy: these fields already have trusted values; a value rejected by the checks stays rejected",
+      "duration_s": 0.0,
+      "planner_input": "CASE LIT-PMC8687801 | version 1 | status processing\n- D1 article.txt [literature_article, v1, 2 page(s)]: extracted\nFacts: {'anchored': 18, 'unanchored': 1, 'conflicting': 0, 'confirmed_by_human': 0}\nReconciled for current version and facts: False\nMedDRA suggested for this version: False; clock computed for this version: False\nNarrative: not drafted\nRecent steps:\n  1. ingest_documents  -> ingested 1 document(s): ['D1']; documents with untranscribed scanned pages: none\n  2. extract_facts  -> extracted from ['D1']: 18 anchored; unanchored=['indication@D1']\n\nTools the rulebook allows now: extract_facts focused (doc_ids from ['D1'] + fields), reconcile",
+      "calls": [
+        {
+          "step": 3,
+          "role": "planner",
+          "model": "groq:openai/gpt-oss-20b",
+          "secs": 0.44,
+          "instructions": "You are the SafetyTrace orchestrator for SERIOUS clinical-trial adverse-event cases.\nGoal: bring the case to a state where a qualified human reviewer can verify it quickly and safely.\n\nYou never see documents. You see a case summary and choose ONE next tool. Explain your reason in one short sentence (shown to the reviewer as the agent trace).\n\nTools:\n- ingest_documents: load the case pack (first step only).\n- transcribe_scans: transcribe scanned pages that have no text layer. Must happen before extraction of those documents.\n- extract_facts: extract facts with verified quotes. With no arguments it processes all un-extracted documents.\n  With doc_ids AND fields it does ONE focused re-extraction (use it when a field has only unanchored values, or after a search found likely evidence).\n- search_documents: deterministic search of every page, ONLY for a MISSING minimum criterion. Give criterion = one of identifiable_patient, identifiable_reporter, suspect_product, adverse_event.\n- reconcile: detect conflicts, gaps, minimum criteria, seriousness candidates. Run it whenever facts changed.\n- suggest_meddra: suggest MedDRA terms (human selects).\n- compute_clock: compute regulatory deadlines.\n- draft_narrative: write the narrative from usable facts only (conflicts/gaps are stated by templates).\n- verify_narrative: check every pending sentence (rules first, then an independent model).\n- redraft_sentences: redraft only blocked sentences (give sentence_ids).\n- draft_followup_queries: draft follow-up questions for open gaps/conflicts (a human approves; nothing is sent).\n- request_human_review: hand over to the reviewer when automatic work is done.\n- stop: nothing useful left to do.\n\nRules you must follow:\n1. Never decide which of two conflicting values is correct, and never decide causality, expectedness, reportability or case validity.\n2. Before treating a minimum criterion as missing, search for it; if the search finds hits, do one focused extraction on those documents.\n3. If a field has only unanchored values, try one focused re-extraction on that document.\n4. After any drafting or redrafting, verify. Redraft only blocked sentences.\n5. Reconcile again whenever facts changed (for example after a follow-up reply or a focused extraction).\n6. Conflicts are decided ONLY by a human or by a site reply. Do not search or re-extract to \"resolve\" a conflict: draft a follow-up query and hand over.\n7. Missing information that is not a minimum criterion (e.g. dechallenge) is a gap",
+          "input": "CASE LIT-PMC8687801 | version 1 | status processing\n- D1 article.txt [literature_article, v1, 2 page(s)]: extracted\nFacts: {'anchored': 18, 'unanchored': 1, 'conflicting': 0, 'confirmed_by_human': 0}\nReconciled for current version and facts: False\nMedDRA suggested for this version: False; clock computed for this version: False\nNarrative: not drafted\nRecent steps:\n  1. ingest_documents  -> ingested 1 document(s): ['D1']; documents with untranscribed scanned pages: none\n  2. extract_facts  -> extracted from ['D1']: 18 anchored; unanchored=['indication@D1']\n\nTools the policy allows right now (anything else is blocked): extract_facts focused (doc_ids from ['D1'] + fields), reconcile\n\nChoose the single next action.",
+          "output": "{\"reason\": \"Extract the unanchored indication value from D1\", \"tool\": \"extract_facts\", \"doc_ids\": [\"D1\"], \"fields\": [\"indication\"], \"criterion\": \"\", \"sentence_ids\": []}"
+        }
+      ],
+      "changes": {}
+    },
+    {
+      "step": 4,
+      "ts": "2026-10-28T07:48:26.783112Z",
+      "planner": "rules-fallback",
+      "reason": "Facts changed: reconcile conflicts, gaps and minimum criteria.",
+      "tool": "reconcile",
+      "args": {},
+      "allowed": true,
+      "result_summary": "conflicts(unresolved)=none; open gaps=['event_onset_date', 'outcome', 'dechallenge', 'start_date', 'action_taken']; missing minimum criteria=none; seriousness candidates=['hospitalisation', 'medically important']",
+      "duration_s": 0.0,
+      "planner_input": "CASE LIT-PMC8687801 | version 1 | status processing\n- D1 article.txt [literature_article, v1, 2 page(s)]: extracted\nFacts: {'anchored': 18, 'unanchored': 1, 'conflicting': 0, 'confirmed_by_human': 0}\nReconciled for current version and facts: False\nMedDRA suggested for this version: False; clock computed for this version: False\nNarrative: not drafted\nRecent steps:\n  1. ingest_documents  -> ingested 1 document(s): ['D1']; documents with untranscribed scanned pages: none\n  2. extract_facts  -> extracted from ['D1']: 18 anchored; unanchored=['indication@D1']\n  3. extract_facts {'doc_ids': ['D1'], 'fields': ['indication']} -> BLOCKED: blocked by policy: these fields already have trusted values; a value rejected by the checks stays rejected\n\nTools the rulebook allows now: extract_facts focused (doc_ids from ['D1'] + fields), reconcile",
+      "calls": [],
+      "changes": {
+        "gaps opened": [
+          "G01 event_onset_date",
+          "G02 outcome",
+          "G03 dechallenge",
+          "G04 start_date",
+          "G05 action_taken"
+        ],
+        "seriousness": [
+          "hospitalisation, medically important"
+        ],
+        "minimum criteria": [
+          "identifiable patient: present",
+          "identifiable reporter: present",
+          "suspect product: present",
+          "adverse event: present"
+        ]
+      }
+    },
+    {
+      "step": 5,
+      "ts": "2026-10-28T07:48:32.387787Z",
+      "planner": "llm",
+      "reason": "MedDRA terms have not been suggested yet; this is a standard prerequisite before drafting the narrative.",
+      "tool": "suggest_meddra",
+      "args": {
+        "criterion": "suggest_meddra"
+      },
+      "allowed": true,
+      "result_summary": "MedDRA suggestions (demo vocabulary): 'limb-threatening hematoma' -> Haematoma; 'spontaneous left lower extremity hematoma' -> Haematoma",
+      "duration_s": 4.83,
+      "planner_input": "CASE LIT-PMC8687801 | version 1 | status processing\n- D1 article.txt [literature_article, v1, 2 page(s)]: extracted\nFacts: {'anchored': 18, 'unanchored': 1, 'conflicting': 0, 'confirmed_by_human': 0}\nReconciled for current version and facts: True\nMinimum criteria present: {'identifiable_patient': True, 'identifiable_reporter': True, 'suspect_product': True, 'adverse_event': True}\nOpen gap G01 event_onset_date (required_for_serious); searched=False, search hits in none; query=none\nOpen gap G02 outcome (required_for_serious); searched=False, search hits in none; query=none\nOpen gap G03 dechallenge (required_for_serious); searched=False, search hits in none; query=none\nOpen gap G04 start_date (required_for_serious); searched=False, search hits in none; query=none\nOpen gap G05 action_taken (required_for_serious); searched=False, search hits in none; query=none\nSeriousness candidates: ['hospitalisation', 'medically important']\nMedDRA suggested for this version: False; clock computed for this version: False\nNarrative: not drafted\nRecent steps:\n  1. ingest_documents  -> ingested 1 document(s): ['D1']; documents with untranscribed scanned pages: none\n  2. extract_facts  -> extracted from ['D1']: 18 anchored; unanchored=['indication@D1']\n  3. extract_facts {'doc_ids': ['D1'], 'fields': ['indication']} -> BLOCKED: blocked by policy: these fields already have trusted values; a value rejected by the checks stays rejected\n  4. reconcile  -> conflicts(unresolved)=none; open gaps=['event_onset_date', 'outcome', 'dechallenge', 'start_date', 'action_taken']; missing minimum criteria=none; seriousness c\n\nTools the rulebook allows now: extract_facts focused (doc_ids from ['D1'] + fields), suggest_meddra, compute_clock, draft_narrative, draft_followup_queries",
+      "calls": [
+        {
+          "step": 5,
+          "role": "planner",
+          "model": "groq:qwen/qwen3.8-27b",
+          "secs": 3.62,
+          "instructions": "You are the SafetyTrace orchestrator for SERIOUS clinical-trial adverse-event cases.\nGoal: bring the case to a state where a qualified human reviewer can verify it quickly and safely.\n\nYou never see documents. You see a case summary and choose ONE next tool. Explain your reason in one short sentence (shown to the reviewer as the agent trace).\n\nTools:\n- ingest_documents: load the case pack (first step only).\n- transcribe_scans: transcribe scanned pages that have no text layer. Must happen before extraction of those documents.\n- extract_facts: extract facts with verified quotes. With no arguments it processes all un-extracted documents.\n  With doc_ids AND fields it does ONE focused re-extraction (use it when a field has only unanchored values, or after a search found likely evidence).\n- search_documents: deterministic search of every page, ONLY for a MISSING minimum criterion. Give criterion = one of identifiable_patient, identifiable_reporter, suspect_product, adverse_event.\n- reconcile: detect conflicts, gaps, minimum criteria, seriousness candidates. Run it whenever facts changed.\n- suggest_meddra: suggest MedDRA terms (human selects).\n- compute_clock: compute regulatory deadlines.\n- draft_narrative: write the narrative from usable facts only (conflicts/gaps are stated by templates).\n- verify_narrative: check every pending sentence (rules first, then an independent model).\n- redraft_sentences: redraft only blocked sentences (give sentence_ids).\n- draft_followup_queries: draft follow-up questions for open gaps/conflicts (a human approves; nothing is sent).\n- request_human_review: hand over to the reviewer when automatic work is done.\n- stop: nothing useful left to do.\n\nRules you must follow:\n1. Never decide which of two conflicting values is correct, and never decide causality, expectedness, reportability or case validity.\n2. Before treating a minimum criterion as missing, search for it; if the search finds hits, do one focused extraction on those documents.\n3. If a field has only unanchored values, try one focused re-extraction on that document.\n4. After any drafting or redrafting, verify. Redraft only blocked sentences.\n5. Reconcile again whenever facts changed (for example after a follow-up reply or a focused extraction).\n6. Conflicts are decided ONLY by a human or by a site reply. Do not search or re-extract to \"resolve\" a conflict: draft a follow-up query and hand over.\n7. Missing information that is not a minimum criterion (e.g. dechallenge) is a gap",
+          "input": "CASE LIT-PMC8687801 | version 1 | status processing\n- D1 article.txt [literature_article, v1, 2 page(s)]: extracted\nFacts: {'anchored': 18, 'unanchored': 1, 'conflicting': 0, 'confirmed_by_human': 0}\nReconciled for current version and facts: True\nMinimum criteria present: {'identifiable_patient': True, 'identifiable_reporter': True, 'suspect_product': True, 'adverse_event': True}\nOpen gap G01 event_onset_date (required_for_serious); searched=False, search hits in none; query=none\nOpen gap G02 outcome (required_for_serious); searched=False, search hits in none; query=none\nOpen gap G03 dechallenge (required_for_serious); searched=False, search hits in none; query=none\nOpen gap G04 start_date (required_for_serious); searched=False, search hits in none; query=none\nOpen gap G05 action_taken (required_for_serious); searched=False, search hits in none; query=none\nSeriousness candidates: ['hospitalisation', 'medically important']\nMedDRA suggested for this version: False; clock computed for this version: False\nNarrative: not drafted\nRecent steps:\n  1. ingest_documents  -> ingested 1 document(s): ['D1']; documents with untranscribed scanned pages: none\n  2. extract_facts  -> extracted from ['D1']: 18 anchored; unanchored=['indication@D1']\n  3. extract_facts {'doc_ids': ['D1'], 'fields': ['indication']} -> BLOCKED: blocked by policy: these fields already have trusted values; a value rejected by the checks stays rejected\n  4. reconcile  -> conflicts(unresolved)=none; open gaps=['event_onset_date', 'outcome', 'dechallenge', 'start_date', 'action_taken']; missing minimum criteria=none; seriousness c\n\nTools the policy allows right now (anything else is blocked): extract_facts focused (doc_ids from ['D1'] + fields), suggest_meddra, compute_clock, draft_narrative, draft_followup_queries\n\nChoose the single next action.",
+          "output": "{\"criterion\": \"suggest_meddra\", \"doc_ids\": [], \"fields\": [], \"reason\": \"MedDRA terms have not been suggested yet; this is a standard prerequisite before drafting the narrative.\", \"sentence_ids\": [], \"tool\": \"suggest_meddra\"}"
+        },
+        {
+          "step": 5,
+          "role": "meddra_rerank",
+          "model": "groq:openai/gpt-oss-120b",
+          "secs": 2.36,
+          "instructions": "You suggest MedDRA Preferred Terms for an adverse-event verbatim. Choose ONLY from the candidate list. Return the 5 best candidates in order with a one-line rationale tied to the verbatim. Do not invent terms.",
+          "input": "Verbatim: limb-threatening hematoma\nCandidates:\n- Haematoma\n- Renal haematoma\n- Haematoma muscle\n- Pelvic haematoma\n- Traumatic haematoma\n- Intracranial haematoma\n- Cerebral haematoma\n- Subdural haematoma\n- Intra-abdominal haematoma\n- Retroperitoneal haematoma\n- Extradural haematoma\n- Subcutaneous haematoma\n- Injection site haematoma\n- Spinal epidural haematoma\n- Infusion site haematoma\n- Post procedural haematoma\n- Abdominal wall haematoma\n- Haemangioma\n- Haematospermia\n- Haematotympanum",
+          "output": "{\"ranked\": [{\"pt\": \"Haematoma\", \"rationale\": \"General term matching the verbatim description of a hematoma that threatens the limb.\"}, {\"pt\": \"Haematoma muscle\", \"rationale\": \"Specifies a hematoma within muscle tissue, consistent with a limb‑related location.\"}, {\"pt\": \"Traumatic haematoma\", \"rationale\": \"Implies a hematoma caused by injury, which is a common mechanism for limb‑threatening bleeding.\"}, {\"pt\": \"Subcutaneous haematoma\", \"rationale\": \"Describes a hematoma located under the skin of a limb, a plausible presentation of a limb‑threatening bleed.\"}, {\"pt\": \"Retroperitoneal haematoma\", \"rationale\": \"Although not limb‑specific, it is a severe hematoma that can threaten adjacent structures, fitting the severity implied by “limb‑threatening.”\"}]}"
+        },
+        {
+          "step": 5,
+          "role": "meddra_rerank",
+          "model": "groq:openai/gpt-oss-120b",
+          "secs": 2.04,
+          "instructions": "You suggest MedDRA Preferred Terms for an adverse-event verbatim. Choose ONLY from the candidate list. Return the 5 best candidates in order with a one-line rationale tied to the verbatim. Do not invent terms.",
+          "input": "Verbatim: spontaneous left lower extremity hematoma\nCandidates:\n- Haematoma\n- Lower extremity mass\n- Renal haematoma\n- Haematoma muscle\n- Pelvic haematoma\n- Abortion spontaneous\n- Pain in extremity\n- Cerebral haematoma\n- Extremity necrosis\n- Subdural haematoma\n- Traumatic haematoma\n- Extradural haematoma\n- Extremity contracture\n- Intracranial haematoma\n- Subcutaneous haematoma\n- Retroperitoneal haematoma\n- Intra-abdominal haematoma\n- Spontaneous penile erection\n- Infusion site haematoma\n- Chronic spontaneous urticaria",
+          "output": "{\"ranked\": [{\"pt\": \"Haematoma\", \"rationale\": \"General term that captures a spontaneous bleed in the left lower extremity as described.\"}, {\"pt\": \"Subcutaneous haematoma\", \"rationale\": \"Specifies a hematoma located in the subcutaneous tissue, which is the most common layer for a spontaneous extremity bleed.\"}, {\"pt\": \"Lower extremity mass\", \"rationale\": \"Describes a palpable lesion in the lower limb; a hematoma often presents as a mass.\"}, {\"pt\": \"Haematoma muscle\", \"rationale\": \"Indicates a hematoma involving muscle tissue of the lower extremity, consistent with a deep spontaneous bleed.\"}, {\"pt\": \"Traumatic haematoma\", \"rationale\": \"Although the event is spontaneous, this term is often used when a hematoma is noted without a clear external injury; included as a close alternative.\"}]}"
+        }
+      ],
+      "changes": {
+        "MedDRA suggested": [
+          "F14 -> Haematoma",
+          "F15 -> Haematoma"
+        ]
+      }
+    },
+    {
+      "step": 6,
+      "ts": "2026-10-28T07:48:41.289967Z",
+      "planner": "llm",
+      "reason": "Open gaps (event_onset_date, outcome, dechallenge, start_date, action_taken) need clarification before narrative can be drafted",
+      "tool": "draft_followup_queries",
+      "args": {},
+      "allowed": true,
+      "result_summary": "drafted 5 follow-up quer(ies) for ['event_onset_date', 'outcome', 'dechallenge', 'start_date', 'action_taken'] (human approval required; never sent)",
+      "duration_s": 0.0,
+      "planner_input": "CASE LIT-PMC8687801 | version 1 | status processing\n- D1 article.txt [literature_article, v1, 2 page(s)]: extracted\nFacts: {'anchored': 18, 'unanchored': 1, 'conflicting': 0, 'confirmed_by_human': 0}\nReconciled for current version and facts: True\nMinimum criteria present: {'identifiable_patient': True, 'identifiable_reporter': True, 'suspect_product': True, 'adverse_event': True}\nOpen gap G01 event_onset_date (required_for_serious); searched=False, search hits in none; query=none\nOpen gap G02 outcome (required_for_serious); searched=False, search hits in none; query=none\nOpen gap G03 dechallenge (required_for_serious); searched=False, search hits in none; query=none\nOpen gap G04 start_date (required_for_serious); searched=False, search hits in none; query=none\nOpen gap G05 action_taken (required_for_serious); searched=False, search hits in none; query=none\nSeriousness candidates: ['hospitalisation', 'medically important']\nMedDRA suggested for this version: True; clock computed for this version: False\nNarrative: not drafted\nRecent steps:\n  1. ingest_documents  -> ingested 1 document(s): ['D1']; documents with untranscribed scanned pages: none\n  2. extract_facts  -> extracted from ['D1']: 18 anchored; unanchored=['indication@D1']\n  3. extract_facts {'doc_ids': ['D1'], 'fields': ['indication']} -> BLOCKED: blocked by policy: these fields already have trusted values; a value rejected by the checks stays rejected\n  4. reconcile  -> conflicts(unresolved)=none; open gaps=['event_onset_date', 'outcome', 'dechallenge', 'start_date', 'action_taken']; missing minimum criteria=none; seriousness c\n  5. suggest_meddra {'criterion': 'suggest_meddra'} -> MedDRA suggestions (demo vocabulary): 'limb-threatening hematoma' -> Haematoma; 'spontaneous left lower extremity hematoma' -> Haematoma\n\nTools the rulebook allows now: extract_facts focused (doc_ids from ['D1'] + fields), compute_clock, draft_narrative, draft_followup_queries",
+      "calls": [
+        {
+          "step": 6,
+          "role": "planner",
+          "model": "groq:openai/gpt-oss-120b",
+          "secs": 2.9,
+          "instructions": "You are the SafetyTrace orchestrator for SERIOUS clinical-trial adverse-event cases.\nGoal: bring the case to a state where a qualified human reviewer can verify it quickly and safely.\n\nYou never see documents. You see a case summary and choose ONE next tool. Explain your reason in one short sentence (shown to the reviewer as the agent trace).\n\nTools:\n- ingest_documents: load the case pack (first step only).\n- transcribe_scans: transcribe scanned pages that have no text layer. Must happen before extraction of those documents.\n- extract_facts: extract facts with verified quotes. With no arguments it processes all un-extracted documents.\n  With doc_ids AND fields it does ONE focused re-extraction (use it when a field has only unanchored values, or after a search found likely evidence).\n- search_documents: deterministic search of every page, ONLY for a MISSING minimum criterion. Give criterion = one of identifiable_patient, identifiable_reporter, suspect_product, adverse_event.\n- reconcile: detect conflicts, gaps, minimum criteria, seriousness candidates. Run it whenever facts changed.\n- suggest_meddra: suggest MedDRA terms (human selects).\n- compute_clock: compute regulatory deadlines.\n- draft_narrative: write the narrative from usable facts only (conflicts/gaps are stated by templates).\n- verify_narrative: check every pending sentence (rules first, then an independent model).\n- redraft_sentences: redraft only blocked sentences (give sentence_ids).\n- draft_followup_queries: draft follow-up questions for open gaps/conflicts (a human approves; nothing is sent).\n- request_human_review: hand over to the reviewer when automatic work is done.\n- stop: nothing useful left to do.\n\nRules you must follow:\n1. Never decide which of two conflicting values is correct, and never decide causality, expectedness, reportability or case validity.\n2. Before treating a minimum criterion as missing, search for it; if the search finds hits, do one focused extraction on those documents.\n3. If a field has only unanchored values, try one focused re-extraction on that document.\n4. After any drafting or redrafting, verify. Redraft only blocked sentences.\n5. Reconcile again whenever facts changed (for example after a follow-up reply or a focused extraction).\n6. Conflicts are decided ONLY by a human or by a site reply. Do not search or re-extract to \"resolve\" a conflict: draft a follow-up query and hand over.\n7. Missing information that is not a minimum criterion (e.g. dechallenge) is a gap",
+          "input": "CASE LIT-PMC8687801 | version 1 | status processing\n- D1 article.txt [literature_article, v1, 2 page(s)]: extracted\nFacts: {'anchored': 18, 'unanchored': 1, 'conflicting': 0, 'confirmed_by_human': 0}\nReconciled for current version and facts: True\nMinimum criteria present: {'identifiable_patient': True, 'identifiable_reporter': True, 'suspect_product': True, 'adverse_event': True}\nOpen gap G01 event_onset_date (required_for_serious); searched=False, search hits in none; query=none\nOpen gap G02 outcome (required_for_serious); searched=False, search hits in none; query=none\nOpen gap G03 dechallenge (required_for_serious); searched=False, search hits in none; query=none\nOpen gap G04 start_date (required_for_serious); searched=False, search hits in none; query=none\nOpen gap G05 action_taken (required_for_serious); searched=False, search hits in none; query=none\nSeriousness candidates: ['hospitalisation', 'medically important']\nMedDRA suggested for this version: True; clock computed for this version: False\nNarrative: not drafted\nRecent steps:\n  1. ingest_documents  -> ingested 1 document(s): ['D1']; documents with untranscribed scanned pages: none\n  2. extract_facts  -> extracted from ['D1']: 18 anchored; unanchored=['indication@D1']\n  3. extract_facts {'doc_ids': ['D1'], 'fields': ['indication']} -> BLOCKED: blocked by policy: these fields already have trusted values; a value rejected by the checks stays rejected\n  4. reconcile  -> conflicts(unresolved)=none; open gaps=['event_onset_date', 'outcome', 'dechallenge', 'start_date', 'action_taken']; missing minimum criteria=none; seriousness c\n  5. suggest_meddra {'criterion': 'suggest_meddra'} -> MedDRA suggestions (demo vocabulary): 'limb-threatening hematoma' -> Haematoma; 'spontaneous left lower extremity hematoma' -> Haematoma\n\nTools the policy allows right now (anything else is blocked): extract_facts focused (doc_ids from ['D1'] + fields), compute_clock, draft_narrative, draft_followup_queries\n\nChoose the single next action.",
+          "output": "{\"tool\": \"draft_followup_queries\", \"doc_ids\": [], \"fields\": [], \"criterion\": \"\", \"sentence_ids\": [], \"reason\": \"Open gaps (event_onset_date, outcome, dechallenge, start_date, action_taken) need clarification before narrative can be drafted\"}"
+        },
+        {
+          "step": 6,
+          "role": "followup",
+          "model": "groq:openai/gpt-oss-20b (cached answer)",
+          "secs": 0.0,
+          "instructions": "You draft short, specific, polite follow-up questions from a drug-safety team to a clinical-trial site. One question per item. Name the exact information needed and, for conflicts, quote both values and their sources. No speculation, no medical judgement.",
+          "input": "Items:\nG01: missing: event onset date\nG02: missing: event outcome\nG03: missing: dechallenge information (what happened after the drug was stopped or reduced)\nG04: missing: start date of the suspect drug\nG05: missing: action taken with the suspect drug",
+          "output": "{\"queries\": [{\"gap_id\": \"G01\", \"query\": \"Please provide the event onset date for the adverse event reported.\"}, {\"gap_id\": \"G02\", \"query\": \"Please provide the outcome of the event (e.g., resolved, ongoing, worsened, fatal).\"}, {\"gap_id\": \"G03\", \"query\": \"Please provide dechallenge information: what happened after the suspect drug was stopped or reduced.\"}, {\"gap_id\": \"G04\", \"query\": \"Please provide the start date of the suspect drug.\"}, {\"gap_id\": \"G05\", \"query\": \"Please provide the action taken with the suspect drug (e.g., discontinued, dose reduced, continued).\"}]}"
+        }
+      ],
+      "changes": {
+        "questions drafted": [
+          "G01: Please provide the event onset date for the adverse event reported.",
+          "G02: Please provide the outcome of the event (e.g., resolved, ongoing, worsened, fatal).",
+          "G03: Please provide dechallenge information: what happened after the suspect drug was stopped or reduced.",
+          "G04: Please provide the start date of the suspect drug.",
+          "G05: Please provide the action taken with the suspect drug (e.g., discontinued, dose reduced, continued)."
+        ]
+      }
+    },
+    {
+      "step": 7,
+      "ts": "2026-10-28T07:48:43.802717Z",
+      "planner": "llm",
+      "reason": "Compute regulatory deadlines now that facts are extracted and gaps are drafted.",
+      "tool": "compute_clock",
+      "args": {},
+      "allowed": true,
+      "result_summary": "clock: Day 0 (receipt date) not found -- add it to compute deadlines.",
+      "duration_s": 0.0,
+      "planner_input": "CASE LIT-PMC8687801 | version 1 | status processing\n- D1 article.txt [literature_article, v1, 2 page(s)]: extracted\nFacts: {'anchored': 18, 'unanchored': 1, 'conflicting': 0, 'confirmed_by_human': 0}\nReconciled for current version and facts: True\nMinimum criteria present: {'identifiable_patient': True, 'identifiable_reporter': True, 'suspect_product': True, 'adverse_event': True}\nOpen gap G01 event_onset_date (required_for_serious); searched=False, search hits in none; query=drafted (waiting for a human to approve it; nothing more for the agent to do on this gap)\nOpen gap G02 outcome (required_for_serious); searched=False, search hits in none; query=drafted (waiting for a human to approve it; nothing more for the agent to do on this gap)\nOpen gap G03 dechallenge (required_for_serious); searched=False, search hits in none; query=drafted (waiting for a human to approve it; nothing more for the agent to do on this gap)\nOpen gap G04 start_date (required_for_serious); searched=False, search hits in none; query=drafted (waiting for a human to approve it; nothing more for the agent to do on this gap)\nOpen gap G05 action_taken (required_for_serious); searched=False, search hits in none; query=drafted (waiting for a human to approve it; nothing more for the agent to do on this gap)\nSeriousness candidates: ['hospitalisation', 'medically important']\nMedDRA suggested for this version: True; clock computed for this version: False\nNarrative: not drafted\nRecent steps:\n  1. ingest_documents  -> ingested 1 document(s): ['D1']; documents with untranscribed scanned pages: none\n  2. extract_facts  -> extracted from ['D1']: 18 anchored; unanchored=['indication@D1']\n  3. extract_facts {'doc_ids': ['D1'], 'fields': ['indication']} -> BLOCKED: blocked by policy: these fields already have trusted values; a value rejected by the checks stays rejected\n  4. reconcile  -> conflicts(unresolved)=none; open gaps=['event_onset_date', 'outcome', 'dechallenge', 'start_date', 'action_taken']; missing minimum criteria=none; seriousness c\n  5. suggest_meddra {'criterion': 'suggest_meddra'} -> MedDRA suggestions (demo vocabulary): 'limb-threatening hematoma' -> Haematoma; 'spontaneous left lower extremity hematoma' -> Haematoma\n  6. draft_followup_queries  -> drafted 5 follow-up quer(ies) for ['event_onset_date', 'outcome', 'dechallenge', 'start_date', 'action_taken'] (human approval required; never sent)\n\nTools the rulebook allows now: extract_facts focused (doc_ids from ['D1'] + fields), compute_clock, draft_narrative",
+      "calls": [
+        {
+          "step": 7,
+          "role": "planner",
+          "model": "groq:openai/gpt-oss-20b",
+          "secs": 2.51,
+          "instructions": "You are the SafetyTrace orchestrator for SERIOUS clinical-trial adverse-event cases.\nGoal: bring the case to a state where a qualified human reviewer can verify it quickly and safely.\n\nYou never see documents. You see a case summary and choose ONE next tool. Explain your reason in one short sentence (shown to the reviewer as the agent trace).\n\nTools:\n- ingest_documents: load the case pack (first step only).\n- transcribe_scans: transcribe scanned pages that have no text layer. Must happen before extraction of those documents.\n- extract_facts: extract facts with verified quotes. With no arguments it processes all un-extracted documents.\n  With doc_ids AND fields it does ONE focused re-extraction (use it when a field has only unanchored values, or after a search found likely evidence).\n- search_documents: deterministic search of every page, ONLY for a MISSING minimum criterion. Give criterion = one of identifiable_patient, identifiable_reporter, suspect_product, adverse_event.\n- reconcile: detect conflicts, gaps, minimum criteria, seriousness candidates. Run it whenever facts changed.\n- suggest_meddra: suggest MedDRA terms (human selects).\n- compute_clock: compute regulatory deadlines.\n- draft_narrative: write the narrative from usable facts only (conflicts/gaps are stated by templates).\n- verify_narrative: check every pending sentence (rules first, then an independent model).\n- redraft_sentences: redraft only blocked sentences (give sentence_ids).\n- draft_followup_queries: draft follow-up questions for open gaps/conflicts (a human approves; nothing is sent).\n- request_human_review: hand over to the reviewer when automatic work is done.\n- stop: nothing useful left to do.\n\nRules you must follow:\n1. Never decide which of two conflicting values is correct, and never decide causality, expectedness, reportability or case validity.\n2. Before treating a minimum criterion as missing, search for it; if the search finds hits, do one focused extraction on those documents.\n3. If a field has only unanchored values, try one focused re-extraction on that document.\n4. After any drafting or redrafting, verify. Redraft only blocked sentences.\n5. Reconcile again whenever facts changed (for example after a follow-up reply or a focused extraction).\n6. Conflicts are decided ONLY by a human or by a site reply. Do not search or re-extract to \"resolve\" a conflict: draft a follow-up query and hand over.\n7. Missing information that is not a minimum criterion (e.g. dechallenge) is a gap",
+          "input": "CASE LIT-PMC8687801 | version 1 | status processing\n- D1 article.txt [literature_article, v1, 2 page(s)]: extracted\nFacts: {'anchored': 18, 'unanchored': 1, 'conflicting': 0, 'confirmed_by_human': 0}\nReconciled for current version and facts: True\nMinimum criteria present: {'identifiable_patient': True, 'identifiable_reporter': True, 'suspect_product': True, 'adverse_event': True}\nOpen gap G01 event_onset_date (required_for_serious); searched=False, search hits in none; query=drafted (waiting for a human to approve it; nothing more for the agent to do on this gap)\nOpen gap G02 outcome (required_for_serious); searched=False, search hits in none; query=drafted (waiting for a human to approve it; nothing more for the agent to do on this gap)\nOpen gap G03 dechallenge (required_for_serious); searched=False, search hits in none; query=drafted (waiting for a human to approve it; nothing more for the agent to do on this gap)\nOpen gap G04 start_date (required_for_serious); searched=False, search hits in none; query=drafted (waiting for a human to approve it; nothing more for the agent to do on this gap)\nOpen gap G05 action_taken (required_for_serious); searched=False, search hits in none; query=drafted (waiting for a human to approve it; nothing more for the agent to do on this gap)\nSeriousness candidates: ['hospitalisation', 'medically important']\nMedDRA suggested for this version: True; clock computed for this version: False\nNarrative: not drafted\nRecent steps:\n  1. ingest_documents  -> ingested 1 document(s): ['D1']; documents with untranscribed scanned pages: none\n  2. extract_facts  -> extracted from ['D1']: 18 anchored; unanchored=['indication@D1']\n  3. extract_facts {'doc_ids': ['D1'], 'fields': ['indication']} -> BLOCKED: blocked by policy: these fields already have trusted values; a value rejected by the checks stays rejected\n  4. reconcile  -> conflicts(unresolved)=none; open gaps=['event_onset_date', 'outcome', 'dechallenge', 'start_date', 'action_taken']; missing minimum criteria=none; seriousness c\n  5. suggest_meddra {'criterion': 'suggest_meddra'} -> MedDRA suggestions (demo vocabulary): 'limb-threatening hematoma' -> Haematoma; 'spontaneous left lower extremity hematoma' -> Haematoma\n  6. draft_followup_queries  -> drafted 5 follow-up quer(ies) for ['event_onset_date', 'outcome', 'dechallenge', 'start_date', 'action_taken'] (human approval required; never sent)\n\nTools the policy allows right now (anything else is blocked): extract_facts focused (doc_ids from ['D1'] + fields), compute_clock, draft_narrative\n\nChoose the single next action.",
+          "output": "{\"reason\": \"Compute regulatory deadlines now that facts are extracted and gaps are drafted.\", \"tool\": \"compute_clock\", \"doc_ids\": [], \"fields\": [], \"criterion\": \"\", \"sentence_ids\": []}"
+        }
+      ],
+      "changes": {
+        "deadline": [
+          "Day 0 (receipt date) not found -- add it to compute deadlines."
+        ]
+      }
+    },
+    {
+      "step": 8,
+      "ts": "2026-10-28T07:48:48.721225Z",
+      "planner": "llm",
+      "reason": "All facts extracted and reconciled; next step is to draft the narrative from usable facts.",
+      "tool": "draft_narrative",
+      "args": {},
+      "allowed": true,
+      "result_summary": "drafted 15 sentences (10 generated, 5 conflict/gap templates)",
+      "duration_s": 2.05,
+      "planner_input": "CASE LIT-PMC8687801 | version 1 | status processing\n- D1 article.txt [literature_article, v1, 2 page(s)]: extracted\nFacts: {'anchored': 18, 'unanchored': 1, 'conflicting': 0, 'confirmed_by_human': 0}\nReconciled for current version and facts: True\nMinimum criteria present: {'identifiable_patient': True, 'identifiable_reporter': True, 'suspect_product': True, 'adverse_event': True}\nOpen gap G01 event_onset_date (required_for_serious); searched=False, search hits in none; query=drafted (waiting for a human to approve it; nothing more for the agent to do on this gap)\nOpen gap G02 outcome (required_for_serious); searched=False, search hits in none; query=drafted (waiting for a human to approve it; nothing more for the agent to do on this gap)\nOpen gap G03 dechallenge (required_for_serious); searched=False, search hits in none; query=drafted (waiting for a human to approve it; nothing more for the agent to do on this gap)\nOpen gap G04 start_date (required_for_serious); searched=False, search hits in none; query=drafted (waiting for a human to approve it; nothing more for the agent to do on this gap)\nOpen gap G05 action_taken (required_for_serious); searched=False, search hits in none; query=drafted (waiting for a human to approve it; nothing more for the agent to do on this gap)\nSeriousness candidates: ['hospitalisation', 'medically important']\nMedDRA suggested for this version: True; clock computed for this version: True\nNarrative: not drafted\nRecent steps:\n  1. ingest_documents  -> ingested 1 document(s): ['D1']; documents with untranscribed scanned pages: none\n  2. extract_facts  -> extracted from ['D1']: 18 anchored; unanchored=['indication@D1']\n  3. extract_facts {'doc_ids': ['D1'], 'fields': ['indication']} -> BLOCKED: blocked by policy: these fields already have trusted values; a value rejected by the checks stays rejected\n  4. reconcile  -> conflicts(unresolved)=none; open gaps=['event_onset_date', 'outcome', 'dechallenge', 'start_date', 'action_taken']; missing minimum criteria=none; seriousness c\n  5. suggest_meddra {'criterion': 'suggest_meddra'} -> MedDRA suggestions (demo vocabulary): 'limb-threatening hematoma' -> Haematoma; 'spontaneous left lower extremity hematoma' -> Haematoma\n  6. draft_followup_queries  -> drafted 5 follow-up quer(ies) for ['event_onset_date', 'outcome', 'dechallenge', 'start_date', 'action_taken'] (human approval required; never sent)\n  7. compute_clock  -> clock: Day 0 (receipt date) not found -- add it to compute deadlines.\n\nTools the rulebook allows now: extract_facts focused (doc_ids from ['D1'] + fields), draft_narrative",
+      "calls": [
+        {
+          "step": 8,
+          "role": "planner",
+          "model": "groq:openai/gpt-oss-120b",
+          "secs": 3.11,
+          "instructions": "You are the SafetyTrace orchestrator for SERIOUS clinical-trial adverse-event cases.\nGoal: bring the case to a state where a qualified human reviewer can verify it quickly and safely.\n\nYou never see documents. You see a case summary and choose ONE next tool. Explain your reason in one short sentence (shown to the reviewer as the agent trace).\n\nTools:\n- ingest_documents: load the case pack (first step only).\n- transcribe_scans: transcribe scanned pages that have no text layer. Must happen before extraction of those documents.\n- extract_facts: extract facts with verified quotes. With no arguments it processes all un-extracted documents.\n  With doc_ids AND fields it does ONE focused re-extraction (use it when a field has only unanchored values, or after a search found likely evidence).\n- search_documents: deterministic search of every page, ONLY for a MISSING minimum criterion. Give criterion = one of identifiable_patient, identifiable_reporter, suspect_product, adverse_event.\n- reconcile: detect conflicts, gaps, minimum criteria, seriousness candidates. Run it whenever facts changed.\n- suggest_meddra: suggest MedDRA terms (human selects).\n- compute_clock: compute regulatory deadlines.\n- draft_narrative: write the narrative from usable facts only (conflicts/gaps are stated by templates).\n- verify_narrative: check every pending sentence (rules first, then an independent model).\n- redraft_sentences: redraft only blocked sentences (give sentence_ids).\n- draft_followup_queries: draft follow-up questions for open gaps/conflicts (a human approves; nothing is sent).\n- request_human_review: hand over to the reviewer when automatic work is done.\n- stop: nothing useful left to do.\n\nRules you must follow:\n1. Never decide which of two conflicting values is correct, and never decide causality, expectedness, reportability or case validity.\n2. Before treating a minimum criterion as missing, search for it; if the search finds hits, do one focused extraction on those documents.\n3. If a field has only unanchored values, try one focused re-extraction on that document.\n4. After any drafting or redrafting, verify. Redraft only blocked sentences.\n5. Reconcile again whenever facts changed (for example after a follow-up reply or a focused extraction).\n6. Conflicts are decided ONLY by a human or by a site reply. Do not search or re-extract to \"resolve\" a conflict: draft a follow-up query and hand over.\n7. Missing information that is not a minimum criterion (e.g. dechallenge) is a gap",
+          "input": "CASE LIT-PMC8687801 | version 1 | status processing\n- D1 article.txt [literature_article, v1, 2 page(s)]: extracted\nFacts: {'anchored': 18, 'unanchored': 1, 'conflicting': 0, 'confirmed_by_human': 0}\nReconciled for current version and facts: True\nMinimum criteria present: {'identifiable_patient': True, 'identifiable_reporter': True, 'suspect_product': True, 'adverse_event': True}\nOpen gap G01 event_onset_date (required_for_serious); searched=False, search hits in none; query=drafted (waiting for a human to approve it; nothing more for the agent to do on this gap)\nOpen gap G02 outcome (required_for_serious); searched=False, search hits in none; query=drafted (waiting for a human to approve it; nothing more for the agent to do on this gap)\nOpen gap G03 dechallenge (required_for_serious); searched=False, search hits in none; query=drafted (waiting for a human to approve it; nothing more for the agent to do on this gap)\nOpen gap G04 start_date (required_for_serious); searched=False, search hits in none; query=drafted (waiting for a human to approve it; nothing more for the agent to do on this gap)\nOpen gap G05 action_taken (required_for_serious); searched=False, search hits in none; query=drafted (waiting for a human to approve it; nothing more for the agent to do on this gap)\nSeriousness candidates: ['hospitalisation', 'medically important']\nMedDRA suggested for this version: True; clock computed for this version: True\nNarrative: not drafted\nRecent steps:\n  1. ingest_documents  -> ingested 1 document(s): ['D1']; documents with untranscribed scanned pages: none\n  2. extract_facts  -> extracted from ['D1']: 18 anchored; unanchored=['indication@D1']\n  3. extract_facts {'doc_ids': ['D1'], 'fields': ['indication']} -> BLOCKED: blocked by policy: these fields already have trusted values; a value rejected by the checks stays rejected\n  4. reconcile  -> conflicts(unresolved)=none; open gaps=['event_onset_date', 'outcome', 'dechallenge', 'start_date', 'action_taken']; missing minimum criteria=none; seriousness c\n  5. suggest_meddra {'criterion': 'suggest_meddra'} -> MedDRA suggestions (demo vocabulary): 'limb-threatening hematoma' -> Haematoma; 'spontaneous left lower extremity hematoma' -> Haematoma\n  6. draft_followup_queries  -> drafted 5 follow-up quer(ies) for ['event_onset_date', 'outcome', 'dechallenge', 'start_date', 'action_taken'] (human approval required; never sent)\n  7. compute_clock  -> clock: Day 0 (receipt date) not found -- add it to compute deadlines.\n\nTools the policy allows right now (anything else is blocked): extract_facts focused (doc_ids from ['D1'] + fields), draft_narrative\n\nChoose the single next action.",
+          "output": "{\"tool\": \"draft_narrative\", \"doc_ids\": [], \"fields\": [], \"criterion\": \"\", \"sentence_ids\": [], \"reason\": \"All facts extracted and reconciled; next step is to draft the narrative from usable facts.\"}"
+        },
+        {
+          "step": 8,
+          "role": "draft",
+          "model": "gemini:gemini-3.5-flash-lite",
+          "secs": 2.05,
+          "instructions": "You write the case narrative for a serious adverse-event safety report, using ONLY the facts provided.\n\nRules:\n1. Every sentence must cite the IDs of the facts it uses in \"fact_ids\". A sentence with no fact is not allowed.\n2. Use only information in the facts. Do not add causes, diagnoses, interpretations, dates, doses or drugs that are not in the facts.\n3. Keep dates, doses and numbers exactly as written in the facts.\n4. Order: patient and study -> suspect drug -> event and onset -> seriousness -> labs -> treatment -> action taken -> dechallenge/rechallenge -> outcome -> concomitant medications -> the reporter's own causality assessment (if a fact states one) -> reporter.\n5. One idea per sentence. Plain, neutral, clinical English. No causality judgement of your own (you may report an investigator_causality fact as the reporter's assessment).\n6. Some fields are deliberately missing (conflicts or gaps are handled separately). Do not mention them.\n7. Facts tagged [drug: X] belong to drug X only. When there is more than one drug, name the drug in every sentence about a dose, route, frequency, indication, date or action, and never combine one drug's attributes with another drug's.\n",
+          "input": "Facts (id | field | value):\nF01 | reporter_name_or_role | Datta S, Mahal K, Mahal S, Driskill AK\nF02 | reporter_type | other\nF03 | patient_age | 85\nF04 | patient_sex | female\nF05 | relevant_history | persistent atrial fibrillation\nF06 | relevant_history | depression\nF07 | relevant_history | partial nephrectomy\nF08 | drug_name | apixaban\nF09 | dose [drug: apixaban] | 2.5 mg\nF10 | frequency [drug: apixaban] | twice daily\nF12 | drug_name | citalopram\nF13 | indication [drug: citalopram] | depression\nF14 | event_verbatim | limb-threatening hematoma\nF15 | event_verbatim | spontaneous left lower extremity hematoma\nF16 | seriousness_criteria | hospitalisation\nF17 | seriousness_criteria | medically important\nF18 | treatment_given | surgery using cautery excision of the necrosed skin layers\nF19 | relevant_labs | normocytic anemia with abnormal coagulation tests",
+          "output": "{\"sentences\": [{\"text\": \"The patient is an 85-year-old female [F03, F04].\", \"fact_ids\": [\"F03\", \"F04\"]}, {\"text\": \"The patient has a relevant history of persistent atrial fibrillation, depression, and partial nephrectomy [F05, F06, F07].\", \"fact_ids\": [\"F05\", \"F06\", \"F07\"]}, {\"text\": \"The suspect drug apixaban was administered at a dose of 2.5 mg and a frequency of twice daily [F08, F09, F10].\", \"fact_ids\": [\"F08\", \"F09\", \"F10\"]}, {\"text\": \"The drug citalopram was given for the indication of depression [F12, F13].\", \"fact_ids\": [\"F12\", \"F13\"]}, {\"text\": \"The events experienced were a limb-threatening hematoma and a spontaneous left lower extremity hematoma [F14, F15].\", \"fact_ids\": [\"F14\", \"F15\"]}, {\"text\": \"The seriousness criteria include hospitalisation and medically important [F16, F17].\", \"fact_ids\": [\"F16\", \"F17\"]}, {\"text\": \"Relevant laboratory findings showed normocytic anemia with abnormal coagulation tests [F19].\", \"fact_ids\": [\"F19\"]}, {\"text\": \"Treatment given was surgery using cautery excision of the necrosed skin layers [F18].\", \"fact_ids\": [\"F18\"]}, {\"text\": \"The reporter is Datta S, Mahal K, Mahal S, Driskill AK [F01].\", \"fact_ids\": [\"F01\"]}, {\"text\": \"The reporter type is other [F02].\", \"fact_ids\": [\"F02\"]}]}"
+        }
+      ],
+      "changes": {
+        "narrative written": [
+          "S01 (AI): The patient is an 85-year-old female [F03, F04].",
+          "S02 (AI): The patient has a relevant history of persistent atrial fibrillation, depression, and partial nephrectomy [F05, F06, F07].",
+          "S03 (AI): The suspect drug apixaban was administered at a dose of 2.5 mg and a frequency of twice daily [F08, F09, F10].",
+          "S04 (AI): The drug citalopram was given for the indication of depression [F12, F13].",
+          "S05 (AI): The events experienced were a limb-threatening hematoma and a spontaneous left lower extremity hematoma [F14, F15].",
+          "S06 (AI): The seriousness criteria include hospitalisation and medically important [F16, F17].",
+          "S07 (AI): Relevant laboratory findings showed normocytic anemia with abnormal coagulation tests [F19].",
+          "S08 (AI): Treatment given was surgery using cautery excision of the necrosed skin layers [F18].",
+          "S09 (AI): The reporter is Datta S, Mahal K, Mahal S, Driskill AK [F01].",
+          "S10 (AI): The reporter type is other [F02].",
+          "S11 (code template): Event onset date was not available in the source documents; follow-up requested.",
+          "S12 (code template): Event outcome was not available in the source documents; follow-up requested.",
+          "S13 (code template): Dechallenge information (what happened after the drug was stopped or reduced) was not available in the source documents; follow-up requested.",
+          "S14 (code template): Start date of the suspect drug was not available in the source documents; follow-up requested.",
+          "S15 (code template): Action taken with the suspect drug was not available in the source documents; follow-up requested."
+        ]
+      }
+    },
+    {
+      "step": 9,
+      "ts": "2026-10-28T07:48:51.467761Z",
+      "planner": "llm",
+      "reason": "The narrative has pending sentences; verifying them will identify any blocked or unsupported sentences.",
+      "tool": "verify_narrative",
+      "args": {},
+      "allowed": true,
+      "result_summary": "verification: {'supported': 5, 'flagged': 0, 'blocked': 10, 'pending': 0}",
+      "duration_s": 0.0,
+      "planner_input": "CASE LIT-PMC8687801 | version 1 | status processing\n- D1 article.txt [literature_article, v1, 2 page(s)]: extracted\nFacts: {'anchored': 18, 'unanchored': 1, 'conflicting': 0, 'confirmed_by_human': 0}\nReconciled for current version and facts: True\nMinimum criteria present: {'identifiable_patient': True, 'identifiable_reporter': True, 'suspect_product': True, 'adverse_event': True}\nOpen gap G01 event_onset_date (required_for_serious); searched=False, search hits in none; query=drafted (waiting for a human to approve it; nothing more for the agent to do on this gap)\nOpen gap G02 outcome (required_for_serious); searched=False, search hits in none; query=drafted (waiting for a human to approve it; nothing more for the agent to do on this gap)\nOpen gap G03 dechallenge (required_for_serious); searched=False, search hits in none; query=drafted (waiting for a human to approve it; nothing more for the agent to do on this gap)\nOpen gap G04 start_date (required_for_serious); searched=False, search hits in none; query=drafted (waiting for a human to approve it; nothing more for the agent to do on this gap)\nOpen gap G05 action_taken (required_for_serious); searched=False, search hits in none; query=drafted (waiting for a human to approve it; nothing more for the agent to do on this gap)\nSeriousness candidates: ['hospitalisation', 'medically important']\nMedDRA suggested for this version: True; clock computed for this version: True\nNarrative v1: {'pending': 15, 'supported': 0, 'flagged': 0, 'blocked': 0}; stale=False; blocked=none\nRecent steps:\n  1. ingest_documents  -> ingested 1 document(s): ['D1']; documents with untranscribed scanned pages: none\n  2. extract_facts  -> extracted from ['D1']: 18 anchored; unanchored=['indication@D1']\n  3. extract_facts {'doc_ids': ['D1'], 'fields': ['indication']} -> BLOCKED: blocked by policy: these fields already have trusted values; a value rejected by the checks stays rejected\n  4. reconcile  -> conflicts(unresolved)=none; open gaps=['event_onset_date', 'outcome', 'dechallenge', 'start_date', 'action_taken']; missing minimum criteria=none; seriousness c\n  5. suggest_meddra {'criterion': 'suggest_meddra'} -> MedDRA suggestions (demo vocabulary): 'limb-threatening hematoma' -> Haematoma; 'spontaneous left lower extremity hematoma' -> Haematoma\n  6. draft_followup_queries  -> drafted 5 follow-up quer(ies) for ['event_onset_date', 'outcome', 'dechallenge', 'start_date', 'action_taken'] (human approval required; never sent)\n  7. compute_clock  -> clock: Day 0 (receipt date) not found -- add it to compute deadlines.\n  8. draft_narrative  -> drafted 15 sentences (10 generated, 5 conflict/gap templates)\n\nTools the rulebook allows now: extract_facts focused (doc_ids from ['D1'] + fields), verify_narrative",
+      "calls": [
+        {
+          "step": 9,
+          "role": "planner",
+          "model": "groq:openai/gpt-oss-20b",
+          "secs": 0.7,
+          "instructions": "You are the SafetyTrace orchestrator for SERIOUS clinical-trial adverse-event cases.\nGoal: bring the case to a state where a qualified human reviewer can verify it quickly and safely.\n\nYou never see documents. You see a case summary and choose ONE next tool. Explain your reason in one short sentence (shown to the reviewer as the agent trace).\n\nTools:\n- ingest_documents: load the case pack (first step only).\n- transcribe_scans: transcribe scanned pages that have no text layer. Must happen before extraction of those documents.\n- extract_facts: extract facts with verified quotes. With no arguments it processes all un-extracted documents.\n  With doc_ids AND fields it does ONE focused re-extraction (use it when a field has only unanchored values, or after a search found likely evidence).\n- search_documents: deterministic search of every page, ONLY for a MISSING minimum criterion. Give criterion = one of identifiable_patient, identifiable_reporter, suspect_product, adverse_event.\n- reconcile: detect conflicts, gaps, minimum criteria, seriousness candidates. Run it whenever facts changed.\n- suggest_meddra: suggest MedDRA terms (human selects).\n- compute_clock: compute regulatory deadlines.\n- draft_narrative: write the narrative from usable facts only (conflicts/gaps are stated by templates).\n- verify_narrative: check every pending sentence (rules first, then an independent model).\n- redraft_sentences: redraft only blocked sentences (give sentence_ids).\n- draft_followup_queries: draft follow-up questions for open gaps/conflicts (a human approves; nothing is sent).\n- request_human_review: hand over to the reviewer when automatic work is done.\n- stop: nothing useful left to do.\n\nRules you must follow:\n1. Never decide which of two conflicting values is correct, and never decide causality, expectedness, reportability or case validity.\n2. Before treating a minimum criterion as missing, search for it; if the search finds hits, do one focused extraction on those documents.\n3. If a field has only unanchored values, try one focused re-extraction on that document.\n4. After any drafting or redrafting, verify. Redraft only blocked sentences.\n5. Reconcile again whenever facts changed (for example after a follow-up reply or a focused extraction).\n6. Conflicts are decided ONLY by a human or by a site reply. Do not search or re-extract to \"resolve\" a conflict: draft a follow-up query and hand over.\n7. Missing information that is not a minimum criterion (e.g. dechallenge) is a gap",
+          "input": "CASE LIT-PMC8687801 | version 1 | status processing\n- D1 article.txt [literature_article, v1, 2 page(s)]: extracted\nFacts: {'anchored': 18, 'unanchored': 1, 'conflicting': 0, 'confirmed_by_human': 0}\nReconciled for current version and facts: True\nMinimum criteria present: {'identifiable_patient': True, 'identifiable_reporter': True, 'suspect_product': True, 'adverse_event': True}\nOpen gap G01 event_onset_date (required_for_serious); searched=False, search hits in none; query=drafted (waiting for a human to approve it; nothing more for the agent to do on this gap)\nOpen gap G02 outcome (required_for_serious); searched=False, search hits in none; query=drafted (waiting for a human to approve it; nothing more for the agent to do on this gap)\nOpen gap G03 dechallenge (required_for_serious); searched=False, search hits in none; query=drafted (waiting for a human to approve it; nothing more for the agent to do on this gap)\nOpen gap G04 start_date (required_for_serious); searched=False, search hits in none; query=drafted (waiting for a human to approve it; nothing more for the agent to do on this gap)\nOpen gap G05 action_taken (required_for_serious); searched=False, search hits in none; query=drafted (waiting for a human to approve it; nothing more for the agent to do on this gap)\nSeriousness candidates: ['hospitalisation', 'medically important']\nMedDRA suggested for this version: True; clock computed for this version: True\nNarrative v1: {'pending': 15, 'supported': 0, 'flagged': 0, 'blocked': 0}; stale=False; blocked=none\nRecent steps:\n  1. ingest_documents  -> ingested 1 document(s): ['D1']; documents with untranscribed scanned pages: none\n  2. extract_facts  -> extracted from ['D1']: 18 anchored; unanchored=['indication@D1']\n  3. extract_facts {'doc_ids': ['D1'], 'fields': ['indication']} -> BLOCKED: blocked by policy: these fields already have trusted values; a value rejected by the checks stays rejected\n  4. reconcile  -> conflicts(unresolved)=none; open gaps=['event_onset_date', 'outcome', 'dechallenge', 'start_date', 'action_taken']; missing minimum criteria=none; seriousness c\n  5. suggest_meddra {'criterion': 'suggest_meddra'} -> MedDRA suggestions (demo vocabulary): 'limb-threatening hematoma' -> Haematoma; 'spontaneous left lower extremity hematoma' -> Haematoma\n  6. draft_followup_queries  -> drafted 5 follow-up quer(ies) for ['event_onset_date', 'outcome', 'dechallenge', 'start_date', 'action_taken'] (human approval required; never sent)\n  7. compute_clock  -> clock: Day 0 (receipt date) not found -- add it to compute deadlines.\n  8. draft_narrative  -> drafted 15 sentences (10 generated, 5 conflict/gap templates)\n\nTools the policy allows right now (anything else is blocked): extract_facts focused (doc_ids from ['D1'] + fields), verify_narrative\n\nChoose the single next action.",
+          "output": "{\"reason\": \"The narrative has pending sentences; verifying them will identify any blocked or unsupported sentences.\", \"tool\": \"verify_narrative\", \"doc_ids\": [], \"fields\": [], \"criterion\": \"\", \"sentence_ids\": []}"
+        }
+      ],
+      "changes": {
+        "sentences checked": [
+          "S01 blocked: V4: number 03 not in cited facts",
+          "S02 blocked: V4: number 05 not in cited facts",
+          "S03 blocked: V4: number 08 not in cited facts",
+          "S04 blocked: V4: number 12 not in cited facts",
+          "S05 blocked: V4: number 14 not in cited facts",
+          "S06 blocked: V4: number 16 not in cited facts",
+          "S07 blocked: V4: number 19 not in cited facts",
+          "S08 blocked: V4: number 18 not in cited facts",
+          "S09 blocked: V4: number 01 not in cited facts",
+          "S10 blocked: V4: number 02 not in cited facts",
+          "S11 supported",
+          "S12 supported",
+          "S13 supported",
+          "S14 supported",
+          "S15 supported"
+        ]
+      }
+    },
+    {
+      "step": 10,
+      "ts": "2026-10-28T07:48:56.303978Z",
+      "planner": "llm",
+      "reason": "All narrative sentences are blocked; need redrafting before verification.",
+      "tool": "redraft_sentences",
+      "args": {
+        "sentence_ids": [
+          "S01",
+          "S02",
+          "S03",
+          "S04",
+          "S05",
+          "S06",
+          "S07",
+          "S08",
+          "S09",
+          "S10"
+        ]
+      },
+      "allowed": true,
+      "result_summary": "redrafted ['S01', 'S02', 'S03', 'S04', 'S05', 'S06', 'S07', 'S08', 'S09', 'S10']; dropped unsupported none",
+      "duration_s": 2.24,
+      "planner_input": "CASE LIT-PMC8687801 | version 1 | status processing\n- D1 article.txt [literature_article, v1, 2 page(s)]: extracted\nFacts: {'anchored': 18, 'unanchored': 1, 'conflicting': 0, 'confirmed_by_human': 0}\nReconciled for current version and facts: True\nMinimum criteria present: {'identifiable_patient': True, 'identifiable_reporter': True, 'suspect_product': True, 'adverse_event': True}\nOpen gap G01 event_onset_date (required_for_serious); searched=False, search hits in none; query=drafted (waiting for a human to approve it; nothing more for the agent to do on this gap)\nOpen gap G02 outcome (required_for_serious); searched=False, search hits in none; query=drafted (waiting for a human to approve it; nothing more for the agent to do on this gap)\nOpen gap G03 dechallenge (required_for_serious); searched=False, search hits in none; query=drafted (waiting for a human to approve it; nothing more for the agent to do on this gap)\nOpen gap G04 start_date (required_for_serious); searched=False, search hits in none; query=drafted (waiting for a human to approve it; nothing more for the agent to do on this gap)\nOpen gap G05 action_taken (required_for_serious); searched=False, search hits in none; query=drafted (waiting for a human to approve it; nothing more for the agent to do on this gap)\nSeriousness candidates: ['hospitalisation', 'medically important']\nMedDRA suggested for this version: True; clock computed for this version: True\nNarrative v1: {'pending': 0, 'supported': 5, 'flagged': 0, 'blocked': 10}; stale=False; blocked=['S01(redrafts 0)', 'S02(redrafts 0)', 'S03(redrafts 0)', 'S04(redrafts 0)', 'S05(redrafts 0)', 'S06(redrafts 0)', 'S07(redrafts 0)', 'S08(redrafts 0)', 'S09(redrafts 0)', 'S10(redrafts 0)']\nRecent steps:\n  2. extract_facts  -> extracted from ['D1']: 18 anchored; unanchored=['indication@D1']\n  3. extract_facts {'doc_ids': ['D1'], 'fields': ['indication']} -> BLOCKED: blocked by policy: these fields already have trusted values; a value rejected by the checks stays rejected\n  4. reconcile  -> conflicts(unresolved)=none; open gaps=['event_onset_date', 'outcome', 'dechallenge', 'start_date', 'action_taken']; missing minimum criteria=none; seriousness c\n  5. suggest_meddra {'criterion': 'suggest_meddra'} -> MedDRA suggestions (demo vocabulary): 'limb-threatening hematoma' -> Haematoma; 'spontaneous left lower extremity hematoma' -> Haematoma\n  6. draft_followup_queries  -> drafted 5 follow-up quer(ies) for ['event_onset_date', 'outcome', 'dechallenge', 'start_date', 'action_taken'] (human approval required; never sent)\n  7. compute_clock  -> clock: Day 0 (receipt date) not found -- add it to compute deadlines.\n  8. draft_narrative  -> drafted 15 sentences (10 generated, 5 conflict/gap templates)\n  9. verify_narrative  -> verification: {'supported': 5, 'flagged': 0, 'blocked': 10, 'pending': 0}\n\nTools the rulebook allows now: extract_facts focused (doc_ids from ['D1'] + fields), redraft_sentences, request_human_review",
+      "calls": [
+        {
+          "step": 10,
+          "role": "planner",
+          "model": "groq:openai/gpt-oss-120b",
+          "secs": 3.1,
+          "instructions": "You are the SafetyTrace orchestrator for SERIOUS clinical-trial adverse-event cases.\nGoal: bring the case to a state where a qualified human reviewer can verify it quickly and safely.\n\nYou never see documents. You see a case summary and choose ONE next tool. Explain your reason in one short sentence (shown to the reviewer as the agent trace).\n\nTools:\n- ingest_documents: load the case pack (first step only).\n- transcribe_scans: transcribe scanned pages that have no text layer. Must happen before extraction of those documents.\n- extract_facts: extract facts with verified quotes. With no arguments it processes all un-extracted documents.\n  With doc_ids AND fields it does ONE focused re-extraction (use it when a field has only unanchored values, or after a search found likely evidence).\n- search_documents: deterministic search of every page, ONLY for a MISSING minimum criterion. Give criterion = one of identifiable_patient, identifiable_reporter, suspect_product, adverse_event.\n- reconcile: detect conflicts, gaps, minimum criteria, seriousness candidates. Run it whenever facts changed.\n- suggest_meddra: suggest MedDRA terms (human selects).\n- compute_clock: compute regulatory deadlines.\n- draft_narrative: write the narrative from usable facts only (conflicts/gaps are stated by templates).\n- verify_narrative: check every pending sentence (rules first, then an independent model).\n- redraft_sentences: redraft only blocked sentences (give sentence_ids).\n- draft_followup_queries: draft follow-up questions for open gaps/conflicts (a human approves; nothing is sent).\n- request_human_review: hand over to the reviewer when automatic work is done.\n- stop: nothing useful left to do.\n\nRules you must follow:\n1. Never decide which of two conflicting values is correct, and never decide causality, expectedness, reportability or case validity.\n2. Before treating a minimum criterion as missing, search for it; if the search finds hits, do one focused extraction on those documents.\n3. If a field has only unanchored values, try one focused re-extraction on that document.\n4. After any drafting or redrafting, verify. Redraft only blocked sentences.\n5. Reconcile again whenever facts changed (for example after a follow-up reply or a focused extraction).\n6. Conflicts are decided ONLY by a human or by a site reply. Do not search or re-extract to \"resolve\" a conflict: draft a follow-up query and hand over.\n7. Missing information that is not a minimum criterion (e.g. dechallenge) is a gap",
+          "input": "CASE LIT-PMC8687801 | version 1 | status processing\n- D1 article.txt [literature_article, v1, 2 page(s)]: extracted\nFacts: {'anchored': 18, 'unanchored': 1, 'conflicting': 0, 'confirmed_by_human': 0}\nReconciled for current version and facts: True\nMinimum criteria present: {'identifiable_patient': True, 'identifiable_reporter': True, 'suspect_product': True, 'adverse_event': True}\nOpen gap G01 event_onset_date (required_for_serious); searched=False, search hits in none; query=drafted (waiting for a human to approve it; nothing more for the agent to do on this gap)\nOpen gap G02 outcome (required_for_serious); searched=False, search hits in none; query=drafted (waiting for a human to approve it; nothing more for the agent to do on this gap)\nOpen gap G03 dechallenge (required_for_serious); searched=False, search hits in none; query=drafted (waiting for a human to approve it; nothing more for the agent to do on this gap)\nOpen gap G04 start_date (required_for_serious); searched=False, search hits in none; query=drafted (waiting for a human to approve it; nothing more for the agent to do on this gap)\nOpen gap G05 action_taken (required_for_serious); searched=False, search hits in none; query=drafted (waiting for a human to approve it; nothing more for the agent to do on this gap)\nSeriousness candidates: ['hospitalisation', 'medically important']\nMedDRA suggested for this version: True; clock computed for this version: True\nNarrative v1: {'pending': 0, 'supported': 5, 'flagged': 0, 'blocked': 10}; stale=False; blocked=['S01(redrafts 0)', 'S02(redrafts 0)', 'S03(redrafts 0)', 'S04(redrafts 0)', 'S05(redrafts 0)', 'S06(redrafts 0)', 'S07(redrafts 0)', 'S08(redrafts 0)', 'S09(redrafts 0)', 'S10(redrafts 0)']\nRecent steps:\n  2. extract_facts  -> extracted from ['D1']: 18 anchored; unanchored=['indication@D1']\n  3. extract_facts {'doc_ids': ['D1'], 'fields': ['indication']} -> BLOCKED: blocked by policy: these fields already have trusted values; a value rejected by the checks stays rejected\n  4. reconcile  -> conflicts(unresolved)=none; open gaps=['event_onset_date', 'outcome', 'dechallenge', 'start_date', 'action_taken']; missing minimum criteria=none; seriousness c\n  5. suggest_meddra {'criterion': 'suggest_meddra'} -> MedDRA suggestions (demo vocabulary): 'limb-threatening hematoma' -> Haematoma; 'spontaneous left lower extremity hematoma' -> Haematoma\n  6. draft_followup_queries  -> drafted 5 follow-up quer(ies) for ['event_onset_date', 'outcome', 'dechallenge', 'start_date', 'action_taken'] (human approval required; never sent)\n  7. compute_clock  -> clock: Day 0 (receipt date) not found -- add it to compute deadlines.\n  8. draft_narrative  -> drafted 15 sentences (10 generated, 5 conflict/gap templates)\n  9. verify_narrative  -> verification: {'supported': 5, 'flagged': 0, 'blocked': 10, 'pending': 0}\n\nTools the policy allows right now (anything else is blocked): extract_facts focused (doc_ids from ['D1'] + fields), redraft_sentences, request_human_review\n\nChoose the single next action.",
+          "output": "{\"tool\": \"redraft_sentences\", \"doc_ids\": [], \"fields\": [], \"criterion\": \"\", \"sentence_ids\": [\"S01\", \"S02\", \"S03\", \"S04\", \"S05\", \"S06\", \"S07\", \"S08\", \"S09\", \"S10\"], \"reason\": \"All narrative sentences are blocked; need redrafting before verification.\"}"
+        },
+        {
+          "step": 10,
+          "role": "draft",
+          "model": "gemini:gemini-3.5-flash-lite",
+          "secs": 2.24,
+          "instructions": "You fix narrative sentences that failed verification. Use ONLY the listed facts and cite their IDs. Remove any claim not supported by a fact. If nothing supportable remains, set drop=true.",
+          "input": "Facts (id | field | value):\nF01 | reporter_name_or_role | Datta S, Mahal K, Mahal S, Driskill AK\nF02 | reporter_type | other\nF03 | patient_age | 85\nF04 | patient_sex | female\nF05 | relevant_history | persistent atrial fibrillation\nF06 | relevant_history | depression\nF07 | relevant_history | partial nephrectomy\nF08 | drug_name | apixaban\nF09 | dose [drug: apixaban] | 2.5 mg\nF10 | frequency [drug: apixaban] | twice daily\nF12 | drug_name | citalopram\nF13 | indication [drug: citalopram] | depression\nF14 | event_verbatim | limb-threatening hematoma\nF15 | event_verbatim | spontaneous left lower extremity hematoma\nF16 | seriousness_criteria | hospitalisation\nF17 | seriousness_criteria | medically important\nF18 | treatment_given | surgery using cautery excision of the necrosed skin layers\nF19 | relevant_labs | normocytic anemia with abnormal coagulation tests\n\nSentences to fix:\nS01: The patient is an 85-year-old female [F03, F04].\n  cited: ['F03', 'F04']\n  problems: V4: number 03 not in cited facts; V4: number 04 not in cited facts\nS02: The patient has a relevant history of persistent atrial fibrillation, depression, and partial nephrectomy [F05, F06, F07].\n  cited: ['F05', 'F06', 'F07']\n  problems: V4: number 05 not in cited facts; V4: number 06 not in cited facts; V4: number 07 not in cited facts\nS03: The suspect drug apixaban was administered at a dose of 2.5 mg and a frequency of twice daily [F08, F09, F10].\n  cited: ['F08', 'F09', 'F10']\n  problems: V4: number 08 not in cited facts; V4: number 09 not in cited facts; V4: number 10 not in cited facts\nS04: The drug citalopram was given for the indication of depression [F12, F13].\n  cited: ['F12', 'F13']\n  problems: V4: number 12 not in cited facts; V4: number 13 not in cited facts\nS05: The events experienced were a limb-threatening hematoma and a spontaneous left lower extremity hematoma [F14, F15].\n  cited: ['F14', 'F15']\n  problems: V4: number 14 not in cited facts; V4: number 15 not in cited facts\nS06: The seriousness criteria include hospitalisation and medically important [F16, F17].\n  cited: ['F16', 'F17']\n  problems: V4: number 16 not in cited facts; V4: number 17 not in cited facts\nS07: Relevant laboratory findings showed normocytic anemia with abnormal coagulation tests [F19].\n  cited: ['F19']\n  problems: V4: number 19 not in cited facts\nS08: Treatment given was surgery using cautery excision of the necrosed skin layers [F18].\n  cited: ['F18']\n  problems: V4: number 18 not in cited facts\nS09: The reporter is Datta S, Mahal K, Mahal S, Driskill AK [F01].\n  cited: ['F01']\n  problems: V4: number 01 not in cited facts\nS10: The reporter type is other [F02].\n  cited: ['F02']\n  problems: V4: number 02 not in cited facts",
+          "output": "{\"rewrites\": [{\"sentence_id\": \"S01\", \"text\": \"The patient is an 85-year-old female.\", \"fact_ids\": [\"F03\", \"F04\"], \"drop\": false}, {\"sentence_id\": \"S02\", \"text\": \"The patient has a relevant history of persistent atrial fibrillation, depression, and partial nephrectomy.\", \"fact_ids\": [\"F05\", \"F06\", \"F07\"], \"drop\": false}, {\"sentence_id\": \"S03\", \"text\": \"The suspect drug apixaban was administered at a dose of 2.5 mg and a frequency of twice daily.\", \"fact_ids\": [\"F08\", \"F09\", \"F10\"], \"drop\": false}, {\"sentence_id\": \"S04\", \"text\": \"The drug citalopram was given for the indication of depression.\", \"fact_ids\": [\"F12\", \"F13\"], \"drop\": false}, {\"sentence_id\": \"S05\", \"text\": \"The events experienced were a limb-threatening hematoma and a spontaneous left lower extremity hematoma.\", \"fact_ids\": [\"F14\", \"F15\"], \"drop\": false}, {\"sentence_id\": \"S06\", \"text\": \"The seriousness criteria include hospitalisation and medically important.\", \"fact_ids\": [\"F16\", \"F17\"], \"drop\": false}, {\"sentence_id\": \"S07\", \"text\": \"Relevant laboratory findings showed normocytic anemia with abnormal coagulation tests.\", \"fact_ids\": [\"F19\"], \"drop\": false}, {\"sentence_id\": \"S08\", \"text\": \"Treatment given was surgery using cautery excision of the necrosed skin layers.\", \"fact_ids\": [\"F18\"], \"drop\": false}, {\"sentence_id\": \"S09\", \"text\": \"The reporter is Datta S, Mahal K, Mahal S, Driskill AK.\", \"fact_ids\": [\"F01\"], \"drop\": false}, {\"sentence_id\": \"S10\", \"text\": \"The reporter type is other.\", \"fact_ids\": [\"F02\"], \"drop\": false}]}"
+        }
+      ],
+      "changes": {
+        "sentences checked": [
+          "S01 pending",
+          "S02 pending",
+          "S03 pending",
+          "S04 pending",
+          "S05 pending",
+          "S06 pending",
+          "S07 pending",
+          "S08 pending",
+          "S09 pending",
+          "S10 pending"
+        ]
+      }
+    },
+    {
+      "step": 11,
+      "ts": "2026-10-28T07:48:59.199334Z",
+      "planner": "llm",
+      "reason": "After redrafting the 10 blocked sentences, I must re-verify to check whether they are now supported or still blocked.",
+      "tool": "verify_narrative",
+      "args": {
+        "criterion": "verify_narrative"
+      },
+      "allowed": true,
+      "result_summary": "verification: {'supported': 13, 'flagged': 2, 'blocked': 0, 'pending': 0}",
+      "duration_s": 3.35,
+      "planner_input": "CASE LIT-PMC8687801 | version 1 | status processing\n- D1 article.txt [literature_article, v1, 2 page(s)]: extracted\nFacts: {'anchored': 18, 'unanchored': 1, 'conflicting': 0, 'confirmed_by_human': 0}\nReconciled for current version and facts: True\nMinimum criteria present: {'identifiable_patient': True, 'identifiable_reporter': True, 'suspect_product': True, 'adverse_event': True}\nOpen gap G01 event_onset_date (required_for_serious); searched=False, search hits in none; query=drafted (waiting for a human to approve it; nothing more for the agent to do on this gap)\nOpen gap G02 outcome (required_for_serious); searched=False, search hits in none; query=drafted (waiting for a human to approve it; nothing more for the agent to do on this gap)\nOpen gap G03 dechallenge (required_for_serious); searched=False, search hits in none; query=drafted (waiting for a human to approve it; nothing more for the agent to do on this gap)\nOpen gap G04 start_date (required_for_serious); searched=False, search hits in none; query=drafted (waiting for a human to approve it; nothing more for the agent to do on this gap)\nOpen gap G05 action_taken (required_for_serious); searched=False, search hits in none; query=drafted (waiting for a human to approve it; nothing more for the agent to do on this gap)\nSeriousness candidates: ['hospitalisation', 'medically important']\nMedDRA suggested for this version: True; clock computed for this version: True\nNarrative v1: {'pending': 10, 'supported': 5, 'flagged': 0, 'blocked': 0}; stale=False; blocked=none\nRecent steps:\n  3. extract_facts {'doc_ids': ['D1'], 'fields': ['indication']} -> BLOCKED: blocked by policy: these fields already have trusted values; a value rejected by the checks stays rejected\n  4. reconcile  -> conflicts(unresolved)=none; open gaps=['event_onset_date', 'outcome', 'dechallenge', 'start_date', 'action_taken']; missing minimum criteria=none; seriousness c\n  5. suggest_meddra {'criterion': 'suggest_meddra'} -> MedDRA suggestions (demo vocabulary): 'limb-threatening hematoma' -> Haematoma; 'spontaneous left lower extremity hematoma' -> Haematoma\n  6. draft_followup_queries  -> drafted 5 follow-up quer(ies) for ['event_onset_date', 'outcome', 'dechallenge', 'start_date', 'action_taken'] (human approval required; never sent)\n  7. compute_clock  -> clock: Day 0 (receipt date) not found -- add it to compute deadlines.\n  8. draft_narrative  -> drafted 15 sentences (10 generated, 5 conflict/gap templates)\n  9. verify_narrative  -> verification: {'supported': 5, 'flagged': 0, 'blocked': 10, 'pending': 0}\n  10. redraft_sentences {'sentence_ids': ['S01', 'S02', 'S03', 'S04', 'S05', 'S06', 'S07', 'S08', 'S09', 'S10']} -> redrafted ['S01', 'S02', 'S03', 'S04', 'S05', 'S06', 'S07', 'S08', 'S09', 'S10']; dropped unsupported none\n\nTools the rulebook allows now: extract_facts focused (doc_ids from ['D1'] + fields), verify_narrative",
+      "calls": [
+        {
+          "step": 11,
+          "role": "planner",
+          "model": "groq:qwen/qwen3.8-27b",
+          "secs": 0.65,
+          "instructions": "You are the SafetyTrace orchestrator for SERIOUS clinical-trial adverse-event cases.\nGoal: bring the case to a state where a qualified human reviewer can verify it quickly and safely.\n\nYou never see documents. You see a case summary and choose ONE next tool. Explain your reason in one short sentence (shown to the reviewer as the agent trace).\n\nTools:\n- ingest_documents: load the case pack (first step only).\n- transcribe_scans: transcribe scanned pages that have no text layer. Must happen before extraction of those documents.\n- extract_facts: extract facts with verified quotes. With no arguments it processes all un-extracted documents.\n  With doc_ids AND fields it does ONE focused re-extraction (use it when a field has only unanchored values, or after a search found likely evidence).\n- search_documents: deterministic search of every page, ONLY for a MISSING minimum criterion. Give criterion = one of identifiable_patient, identifiable_reporter, suspect_product, adverse_event.\n- reconcile: detect conflicts, gaps, minimum criteria, seriousness candidates. Run it whenever facts changed.\n- suggest_meddra: suggest MedDRA terms (human selects).\n- compute_clock: compute regulatory deadlines.\n- draft_narrative: write the narrative from usable facts only (conflicts/gaps are stated by templates).\n- verify_narrative: check every pending sentence (rules first, then an independent model).\n- redraft_sentences: redraft only blocked sentences (give sentence_ids).\n- draft_followup_queries: draft follow-up questions for open gaps/conflicts (a human approves; nothing is sent).\n- request_human_review: hand over to the reviewer when automatic work is done.\n- stop: nothing useful left to do.\n\nRules you must follow:\n1. Never decide which of two conflicting values is correct, and never decide causality, expectedness, reportability or case validity.\n2. Before treating a minimum criterion as missing, search for it; if the search finds hits, do one focused extraction on those documents.\n3. If a field has only unanchored values, try one focused re-extraction on that document.\n4. After any drafting or redrafting, verify. Redraft only blocked sentences.\n5. Reconcile again whenever facts changed (for example after a follow-up reply or a focused extraction).\n6. Conflicts are decided ONLY by a human or by a site reply. Do not search or re-extract to \"resolve\" a conflict: draft a follow-up query and hand over.\n7. Missing information that is not a minimum criterion (e.g. dechallenge) is a gap",
+          "input": "CASE LIT-PMC8687801 | version 1 | status processing\n- D1 article.txt [literature_article, v1, 2 page(s)]: extracted\nFacts: {'anchored': 18, 'unanchored': 1, 'conflicting': 0, 'confirmed_by_human': 0}\nReconciled for current version and facts: True\nMinimum criteria present: {'identifiable_patient': True, 'identifiable_reporter': True, 'suspect_product': True, 'adverse_event': True}\nOpen gap G01 event_onset_date (required_for_serious); searched=False, search hits in none; query=drafted (waiting for a human to approve it; nothing more for the agent to do on this gap)\nOpen gap G02 outcome (required_for_serious); searched=False, search hits in none; query=drafted (waiting for a human to approve it; nothing more for the agent to do on this gap)\nOpen gap G03 dechallenge (required_for_serious); searched=False, search hits in none; query=drafted (waiting for a human to approve it; nothing more for the agent to do on this gap)\nOpen gap G04 start_date (required_for_serious); searched=False, search hits in none; query=drafted (waiting for a human to approve it; nothing more for the agent to do on this gap)\nOpen gap G05 action_taken (required_for_serious); searched=False, search hits in none; query=drafted (waiting for a human to approve it; nothing more for the agent to do on this gap)\nSeriousness candidates: ['hospitalisation', 'medically important']\nMedDRA suggested for this version: True; clock computed for this version: True\nNarrative v1: {'pending': 10, 'supported': 5, 'flagged': 0, 'blocked': 0}; stale=False; blocked=none\nRecent steps:\n  3. extract_facts {'doc_ids': ['D1'], 'fields': ['indication']} -> BLOCKED: blocked by policy: these fields already have trusted values; a value rejected by the checks stays rejected\n  4. reconcile  -> conflicts(unresolved)=none; open gaps=['event_onset_date', 'outcome', 'dechallenge', 'start_date', 'action_taken']; missing minimum criteria=none; seriousness c\n  5. suggest_meddra {'criterion': 'suggest_meddra'} -> MedDRA suggestions (demo vocabulary): 'limb-threatening hematoma' -> Haematoma; 'spontaneous left lower extremity hematoma' -> Haematoma\n  6. draft_followup_queries  -> drafted 5 follow-up quer(ies) for ['event_onset_date', 'outcome', 'dechallenge', 'start_date', 'action_taken'] (human approval required; never sent)\n  7. compute_clock  -> clock: Day 0 (receipt date) not found -- add it to compute deadlines.\n  8. draft_narrative  -> drafted 15 sentences (10 generated, 5 conflict/gap templates)\n  9. verify_narrative  -> verification: {'supported': 5, 'flagged': 0, 'blocked': 10, 'pending': 0}\n  10. redraft_sentences {'sentence_ids': ['S01', 'S02', 'S03', 'S04', 'S05', 'S06', 'S07', 'S08', 'S09', 'S10']} -> redrafted ['S01', 'S02', 'S03', 'S04', 'S05', 'S06', 'S07', 'S08', 'S09', 'S10']; dropped unsupported none\n\nTools the policy allows right now (anything else is blocked): extract_facts focused (doc_ids from ['D1'] + fields), verify_narrative\n\nChoose the single next action.",
+          "output": "{\"criterion\": \"verify_narrative\", \"doc_ids\": [], \"fields\": [], \"reason\": \"After redrafting the 10 blocked sentences, I must re-verify to check whether they are now supported or still blocked.\", \"sentence_ids\": [], \"tool\": \"verify_narrative\"}"
+        },
+        {
+          "step": 11,
+          "role": "verify",
+          "model": "groq:openai/gpt-oss-120b",
+          "secs": 3.35,
+          "instructions": "You are an independent checker for a drug-safety narrative. For each sentence decide if the quoted evidence fully supports it: 'supported' (every claim is in the evidence), 'unsupported' (some claim is not in the evidence) or 'contradicted' (the evidence says something different). Be strict. Give a short reason.",
+          "input": "S01: The patient is an 85-year-old female.\n  evidence:\n    [article.txt p.1] 85-year-old\n    [article.txt p.1] female\n\nS02: The patient has a relevant history of persistent atrial fibrillation, depression, and partial nephrectomy.\n  evidence:\n    [article.txt p.1] history of persistent atrial fibrillation\n    [article.txt p.1] depression\n    [article.txt p.1] partial nephrectomy\n\nS03: The suspect drug apixaban was administered at a dose of 2.5 mg and a frequency of twice daily.\n  evidence:\n    [article.txt p.1] Apixaban\n    [article.txt p.1] (applies to drug: apixaban) 2.5 mg\n    [article.txt p.1] (applies to drug: apixaban) twice daily\n\nS04: The drug citalopram was given for the indication of depression.\n  evidence:\n    [article.txt p.1] Citalopram\n    [article.txt p.1] (applies to drug: citalopram) depression\n\nS05: The events experienced were a limb-threatening hematoma and a spontaneous left lower extremity hematoma.\n  evidence:\n    [article.txt p.1] Limb-Threatening Hematoma\n    [article.txt p.1] spontaneous left lower extremity hematoma\n\nS06: The seriousness criteria include hospitalisation and medically important.\n  evidence:\n    [article.txt p.1] surgery using cautery excision\n    [article.txt p.1] Limb-Threatening Hematoma\n\nS07: Relevant laboratory findings showed normocytic anemia with abnormal coagulation tests.\n  evidence:\n    [article.txt p.1] laboratory results revealed normocytic anemia with abnormal coagulation tests.\n\nS08: Treatment given was surgery using cautery excision of the necrosed skin layers.\n  evidence:\n    [article.txt p.1] surgery using cautery excision of the necrosed skin layers.\n\nS09: The reporter is Datta S, Mahal K, Mahal S, Driskill AK.\n  evidence:\n    [article.txt p.1] Datta S, Mahal K, Mahal S, Driskill AK\n\nS10: The reporter type is other.\n  evidence:\n    [article.txt p.1] Datta S, Mahal K, Mahal S, Driskill AK",
+          "output": "{\"results\": [{\"sentence_id\": \"S01\", \"verdict\": \"supported\", \"reason\": \"Evidence directly states the patient is 85-year-old and female.\"}, {\"sentence_id\": \"S02\", \"verdict\": \"supported\", \"reason\": \"Evidence lists persistent atrial fibrillation, depression, and partial nephrectomy as history.\"}, {\"sentence_id\": \"S03\", \"verdict\": \"supported\", \"reason\": \"Evidence provides drug name apixaban, dose 2.5 mg, and frequency twice daily.\"}, {\"sentence_id\": \"S04\", \"verdict\": \"supported\", \"reason\": \"Evidence links citalopram to the indication depression.\"}, {\"sentence_id\": \"S05\", \"verdict\": \"supported\", \"reason\": \"Evidence mentions both a limb‑threatening hematoma and a spontaneous left lower extremity hematoma.\"}, {\"sentence_id\": \"S06\", \"verdict\": \"unsupported\", \"reason\": \"Evidence only mentions surgery and limb‑threatening hematoma; it does not provide hospitalisation or medically important seriousness criteria.\"}, {\"sentence_id\": \"S07\", \"verdict\": \"supported\", \"reason\": \"Evidence states normocytic anemia with abnormal coagulation tests.\"}, {\"sentence_id\": \"S08\", \"verdict\": \"supported\", \"reason\": \"Evidence describes surgery using cautery excision of necrosed skin layers.\"}, {\"sentence_id\": \"S09\", \"verdict\": \"supported\", \"reason\": \"Evidence lists the reporters: Datta S, Mahal K, Mahal S, Driskill AK.\"}, {\"sentence_id\": \"S10\", \"verdict\": \"unsupported\", \"reason\": \"Evidence provides only the reporter names; it does not indicate the reporter type as 'other'.\"}]}"
+        }
+      ],
+      "changes": {
+        "sentences checked": [
+          "S01 supported",
+          "S02 supported",
+          "S03 supported",
+          "S04 supported",
+          "S05 supported",
+          "S06 flagged: V5 unsupported: Evidence only mentions surgery and limb‑threatening hematoma; it does not provide hospitalisation or medically important seriousness criteria.",
+          "S07 supported",
+          "S08 supported",
+          "S09 supported",
+          "S10 flagged: V5 unsupported: Evidence provides only the reporter names; it does not indicate the reporter type as 'other'."
+        ]
+      }
+    },
+    {
+      "step": 12,
+      "ts": "2026-10-28T07:49:06.480940Z",
+      "planner": "llm",
+      "reason": "All automatic extraction, reconciliation, MedDRA suggestion, clock, narrative drafting and verification are complete; only human approval of drafted follow‑up queries remains.",
+      "tool": "request_human_review",
+      "args": {},
+      "allowed": true,
+      "result_summary": "handed to reviewer with 8 task(s)",
+      "duration_s": 0.0,
+      "planner_input": "CASE LIT-PMC8687801 | version 1 | status processing\n- D1 article.txt [literature_article, v1, 2 page(s)]: extracted\nFacts: {'anchored': 18, 'unanchored': 1, 'conflicting': 0, 'confirmed_by_human': 0}\nReconciled for current version and facts: True\nMinimum criteria present: {'identifiable_patient': True, 'identifiable_reporter': True, 'suspect_product': True, 'adverse_event': True}\nOpen gap G01 event_onset_date (required_for_serious); searched=False, search hits in none; query=drafted (waiting for a human to approve it; nothing more for the agent to do on this gap)\nOpen gap G02 outcome (required_for_serious); searched=False, search hits in none; query=drafted (waiting for a human to approve it; nothing more for the agent to do on this gap)\nOpen gap G03 dechallenge (required_for_serious); searched=False, search hits in none; query=drafted (waiting for a human to approve it; nothing more for the agent to do on this gap)\nOpen gap G04 start_date (required_for_serious); searched=False, search hits in none; query=drafted (waiting for a human to approve it; nothing more for the agent to do on this gap)\nOpen gap G05 action_taken (required_for_serious); searched=False, search hits in none; query=drafted (waiting for a human to approve it; nothing more for the agent to do on this gap)\nSeriousness candidates: ['hospitalisation', 'medically important']\nMedDRA suggested for this version: True; clock computed for this version: True\nNarrative v1: {'pending': 0, 'supported': 13, 'flagged': 2, 'blocked': 0}; stale=False; blocked=none\nRecent steps:\n  4. reconcile  -> conflicts(unresolved)=none; open gaps=['event_onset_date', 'outcome', 'dechallenge', 'start_date', 'action_taken']; missing minimum criteria=none; seriousness c\n  5. suggest_meddra {'criterion': 'suggest_meddra'} -> MedDRA suggestions (demo vocabulary): 'limb-threatening hematoma' -> Haematoma; 'spontaneous left lower extremity hematoma' -> Haematoma\n  6. draft_followup_queries  -> drafted 5 follow-up quer(ies) for ['event_onset_date', 'outcome', 'dechallenge', 'start_date', 'action_taken'] (human approval required; never sent)\n  7. compute_clock  -> clock: Day 0 (receipt date) not found -- add it to compute deadlines.\n  8. draft_narrative  -> drafted 15 sentences (10 generated, 5 conflict/gap templates)\n  9. verify_narrative  -> verification: {'supported': 5, 'flagged': 0, 'blocked': 10, 'pending': 0}\n  10. redraft_sentences {'sentence_ids': ['S01', 'S02', 'S03', 'S04', 'S05', 'S06', 'S07', 'S08', 'S09', 'S10']} -> redrafted ['S01', 'S02', 'S03', 'S04', 'S05', 'S06', 'S07', 'S08', 'S09', 'S10']; dropped unsupported none\n  11. verify_narrative {'criterion': 'verify_narrative'} -> verification: {'supported': 13, 'flagged': 2, 'blocked': 0, 'pending': 0}\n\nTools the rulebook allows now: extract_facts focused (doc_ids from ['D1'] + fields), request_human_review",
+      "calls": [
+        {
+          "step": 12,
+          "role": "planner",
+          "model": "groq:openai/gpt-oss-120b",
+          "secs": 3.09,
+          "instructions": "You are the SafetyTrace orchestrator for SERIOUS clinical-trial adverse-event cases.\nGoal: bring the case to a state where a qualified human reviewer can verify it quickly and safely.\n\nYou never see documents. You see a case summary and choose ONE next tool. Explain your reason in one short sentence (shown to the reviewer as the agent trace).\n\nTools:\n- ingest_documents: load the case pack (first step only).\n- transcribe_scans: transcribe scanned pages that have no text layer. Must happen before extraction of those documents.\n- extract_facts: extract facts with verified quotes. With no arguments it processes all un-extracted documents.\n  With doc_ids AND fields it does ONE focused re-extraction (use it when a field has only unanchored values, or after a search found likely evidence).\n- search_documents: deterministic search of every page, ONLY for a MISSING minimum criterion. Give criterion = one of identifiable_patient, identifiable_reporter, suspect_product, adverse_event.\n- reconcile: detect conflicts, gaps, minimum criteria, seriousness candidates. Run it whenever facts changed.\n- suggest_meddra: suggest MedDRA terms (human selects).\n- compute_clock: compute regulatory deadlines.\n- draft_narrative: write the narrative from usable facts only (conflicts/gaps are stated by templates).\n- verify_narrative: check every pending sentence (rules first, then an independent model).\n- redraft_sentences: redraft only blocked sentences (give sentence_ids).\n- draft_followup_queries: draft follow-up questions for open gaps/conflicts (a human approves; nothing is sent).\n- request_human_review: hand over to the reviewer when automatic work is done.\n- stop: nothing useful left to do.\n\nRules you must follow:\n1. Never decide which of two conflicting values is correct, and never decide causality, expectedness, reportability or case validity.\n2. Before treating a minimum criterion as missing, search for it; if the search finds hits, do one focused extraction on those documents.\n3. If a field has only unanchored values, try one focused re-extraction on that document.\n4. After any drafting or redrafting, verify. Redraft only blocked sentences.\n5. Reconcile again whenever facts changed (for example after a follow-up reply or a focused extraction).\n6. Conflicts are decided ONLY by a human or by a site reply. Do not search or re-extract to \"resolve\" a conflict: draft a follow-up query and hand over.\n7. Missing information that is not a minimum criterion (e.g. dechallenge) is a gap",
+          "input": "CASE LIT-PMC8687801 | version 1 | status processing\n- D1 article.txt [literature_article, v1, 2 page(s)]: extracted\nFacts: {'anchored': 18, 'unanchored': 1, 'conflicting': 0, 'confirmed_by_human': 0}\nReconciled for current version and facts: True\nMinimum criteria present: {'identifiable_patient': True, 'identifiable_reporter': True, 'suspect_product': True, 'adverse_event': True}\nOpen gap G01 event_onset_date (required_for_serious); searched=False, search hits in none; query=drafted (waiting for a human to approve it; nothing more for the agent to do on this gap)\nOpen gap G02 outcome (required_for_serious); searched=False, search hits in none; query=drafted (waiting for a human to approve it; nothing more for the agent to do on this gap)\nOpen gap G03 dechallenge (required_for_serious); searched=False, search hits in none; query=drafted (waiting for a human to approve it; nothing more for the agent to do on this gap)\nOpen gap G04 start_date (required_for_serious); searched=False, search hits in none; query=drafted (waiting for a human to approve it; nothing more for the agent to do on this gap)\nOpen gap G05 action_taken (required_for_serious); searched=False, search hits in none; query=drafted (waiting for a human to approve it; nothing more for the agent to do on this gap)\nSeriousness candidates: ['hospitalisation', 'medically important']\nMedDRA suggested for this version: True; clock computed for this version: True\nNarrative v1: {'pending': 0, 'supported': 13, 'flagged': 2, 'blocked': 0}; stale=False; blocked=none\nRecent steps:\n  4. reconcile  -> conflicts(unresolved)=none; open gaps=['event_onset_date', 'outcome', 'dechallenge', 'start_date', 'action_taken']; missing minimum criteria=none; seriousness c\n  5. suggest_meddra {'criterion': 'suggest_meddra'} -> MedDRA suggestions (demo vocabulary): 'limb-threatening hematoma' -> Haematoma; 'spontaneous left lower extremity hematoma' -> Haematoma\n  6. draft_followup_queries  -> drafted 5 follow-up quer(ies) for ['event_onset_date', 'outcome', 'dechallenge', 'start_date', 'action_taken'] (human approval required; never sent)\n  7. compute_clock  -> clock: Day 0 (receipt date) not found -- add it to compute deadlines.\n  8. draft_narrative  -> drafted 15 sentences (10 generated, 5 conflict/gap templates)\n  9. verify_narrative  -> verification: {'supported': 5, 'flagged': 0, 'blocked': 10, 'pending': 0}\n  10. redraft_sentences {'sentence_ids': ['S01', 'S02', 'S03', 'S04', 'S05', 'S06', 'S07', 'S08', 'S09', 'S10']} -> redrafted ['S01', 'S02', 'S03', 'S04', 'S05', 'S06', 'S07', 'S08', 'S09', 'S10']; dropped unsupported none\n  11. verify_narrative {'criterion': 'verify_narrative'} -> verification: {'supported': 13, 'flagged': 2, 'blocked': 0, 'pending': 0}\n\nTools the policy allows right now (anything else is blocked): extract_facts focused (doc_ids from ['D1'] + fields), request_human_review\n\nChoose the single next action.",
+          "output": "{\"tool\": \"request_human_review\", \"doc_ids\": [], \"fields\": [], \"criterion\": \"\", \"sentence_ids\": [], \"reason\": \"All automatic extraction, reconciliation, MedDRA suggestion, clock, narrative drafting and verification are complete; only human approval of drafted follow‑up queries remains.\"}"
+        }
+      ],
+      "changes": {
+        "to-do handed to the reviewer": [
+          "Approve/edit follow-up query G01 (event_onset_date)",
+          "Approve/edit follow-up query G02 (outcome)",
+          "Approve/edit follow-up query G03 (dechallenge)",
+          "Approve/edit follow-up query G04 (start_date)",
+          "Approve/edit follow-up query G05 (action_taken)",
+          "Review flagged sentences ['S06', 'S10']",
+          "Record expectedness against the reference safety information",
+          "Select MedDRA terms and sign off when satisfied"
+        ],
+        "case status": [
+          "processing -> awaiting_human"
+        ]
+      }
+    }
+  ],
+  "usage": {
+    "requests": 18,
+    "prompt_tokens": 20922,
+    "completion_tokens": 4780,
+    "by_role": {
+      "planner": {
+        "requests": 11,
+        "prompt_tokens": 15396,
+        "completion_tokens": 1516
+      },
+      "extract": {
+        "requests": 1,
+        "prompt_tokens": 2332,
+        "completion_tokens": 770
+      },
+      "meddra_rerank": {
+        "requests": 2,
+        "prompt_tokens": 704,
+        "completion_tokens": 660
+      },
+      "followup": {
+        "requests": 1,
+        "prompt_tokens": 0,
+        "completion_tokens": 0
+      },
+      "draft": {
+        "requests": 2,
+        "prompt_tokens": 1734,
+        "completion_tokens": 1299
+      },
+      "verify": {
+        "requests": 1,
+        "prompt_tokens": 756,
+        "completion_tokens": 535
+      }
+    },
+    "models": {
+      "planner": "groq:openai/gpt-oss-120b",
+      "extract": "gemini:gemini-3.5-flash-lite",
+      "meddra_rerank": "groq:openai/gpt-oss-120b",
+      "draft": "gemini:gemini-3.5-flash-lite",
+      "verify": "groq:openai/gpt-oss-120b"
+    },
+    "fallbacks": [
+      "planner: groq:openai/gpt-oss-20b -> groq:qwen/qwen3.8-27b",
+      "planner: groq:openai/gpt-oss-20b -> groq:qwen/qwen3.8-27b",
+      "planner: groq:openai/gpt-oss-20b -> groq:openai/gpt-oss-120b",
+      "planner: groq:openai/gpt-oss-20b -> groq:openai/gpt-oss-120b",
+      "planner: groq:openai/gpt-oss-20b -> groq:openai/gpt-oss-120b",
+      "planner: groq:openai/gpt-oss-20b -> groq:qwen/qwen3.8-27b",
+      "planner: groq:openai/gpt-oss-20b -> groq:openai/gpt-oss-120b"
+    ]
+  },
+  "current_step": 12,
+  "llm_calls": []
+}

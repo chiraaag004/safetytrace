@@ -1,0 +1,6 @@
+{
+  "case_id": "LIT-PMC8521282",
+  "real_case": true,
+  "facts": [],
+  "note": "real literature case: scored against expected_faers.json by eval/real_cases.py"
+}

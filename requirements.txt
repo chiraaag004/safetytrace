@@ -1,0 +1,17 @@
+# Python 3.10+  (tested on 3.13)
+fastapi>=0.110          # web UI server (web/server.py)
+uvicorn>=0.29
+streamlit>=1.50          # 1.50-1.65 support Python 3.10; 1.66+ needs 3.11
+pydantic>=2.7,<3
+openai>=1.40          # OpenAI-compatible client used for BOTH Gemini and Groq free tiers
+httpx>=0.27            # native Gemini REST calls
+rapidfuzz>=3.6
+dateparser>=1.2
+pdfplumber>=0.11
+diskcache>=5.6
+python-dotenv>=1.0
+pandas>=2.0
+pillow>=10.0
+pytesseract>=0.3.10   # free local OCR for scanned pages (needs the Tesseract program, see README)
+reportlab>=4.0        # only for scripts/make_pdfs.py
+pytest>=8.0

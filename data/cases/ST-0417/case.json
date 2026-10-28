@@ -1,0 +1,39 @@
+{
+  "case_id": "ST-0417",
+  "title": "Grade 3 maculopapular rash on Velorantib (hero demo case)",
+  "region": "US/EU/India",
+  "demo_today": "2026-03-19",
+  "documents": [
+    {
+      "path": "documents/physician_note.txt",
+      "doc_type": "physician_note"
+    },
+    {
+      "path": "documents/patient_diary.txt",
+      "doc_type": "patient_diary"
+    },
+    {
+      "path": "documents/lab_report.txt",
+      "doc_type": "lab_report"
+    }
+  ],
+  "followups": [
+    {
+      "path": "followups/site_reply_followup1.txt",
+      "doc_type": "followup_reply",
+      "label": "Site reply to onset-date and dechallenge queries (26-Mar-2026)"
+    }
+  ],
+  "designed_to_show": [
+    "D4 onset-date conflict across documents",
+    "gap: dechallenge missing",
+    "D6 follow-up loop and diff",
+    "time-varying outcome superseded by follow-up",
+    "expectedness checked per event against the Reference Safety Information"
+  ],
+  "synthetic": true,
+  "reference_safety_info": {
+    "path": "reference/velorantib_IB_RSI.txt",
+    "label": "Velorantib Investigator's Brochure ed. 4, Section 7.3 (RSI)"
+  }
+}

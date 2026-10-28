@@ -1,0 +1,1865 @@
+{
+  "case_id": "LIT-PMC8638419",
+  "title": "REAL literature case: A case of complete atrioventricular block with extremely high blood concentration of azelnidipine.",
+  "version": 1,
+  "region": "US/EU/India",
+  "documents": [
+    {
+      "doc_id": "D1",
+      "filename": "article.txt",
+      "rel_path": "documents/article.txt",
+      "doc_type": "literature_article",
+      "version": 1,
+      "pages": [
+        "A case of complete atrioventricular block with extremely high blood concentration of azelnidipine.\nJournal of pharmaceutical health care and sciences (2021). Ide N, Mochizuki A, Kagawa Y, Ito M.\nLicense: cc by | PMC8638419 | doi:10.1186/s40780-021-00230-x\n\nA case of complete atrioventricular block with extremely high blood concentration of azelnidipine\n\nAbstract\nAzelnidipine, a dihydropyridine calcium channel blocker (CCB), has less adverse effects (e.g. hot flushes and reflex tachycardia) compared to other dihydropyridine CCBs. Azelnidipine has been reported to reduce heart rate as opposed to inducing tachycardia. No evidence of bradycardia or complete atrioventricular block (CAVB) with azelnidipine treatment has been reported.\nIn the present study, a 92-year-old woman was diagnosed with CAVB while taking azelnidipine and simvastatin for an extended period of time, and referred to our medical center. It was thought that the CAVB may have been an adverse effect of azelnidipine treatment. Specifically, it was considered that in this patient, one of the causes might be the concomitant use of simvastatin inhibiting the metabolism of azelnidipine by cytochrome P450 enzyme 3A4. Consequently, it was suggested to the patient’s physician that the patient’s serum azelnidipine levels be measured and treatment with azelnidipine and simvastatin be discontinued. The patient’s serum concentration of azelnidipine at the time of her visit to our center was 63.4 ng/mL, higher than the normal acceptable level. There was no occurrence of CAVB for 4 weeks, to present, following discontinuation of azelnidipine and simvastatin treatment.\nAzelnidipine has a different mechanism of action that other CCBs. In very rare cases, it may cause CAVB when combined with CYP3A4 inhibitors. If a patient taking azelnidipine is diagnosed with CAVB, physicians should suspect that the condition may be an adverse effect of azelnidipine and should consider discontinuing azelnidipine. And, in the elderly, it is necessary to avoid concomitant use of CYP3A4 inhibitors.\nKeywords: Azelnidipine, Adverse events, Calcium channel blocker, Complete atrioventricular block, Drug interaction, Simvastatin",
+        "Background\nAll calcium channel blockers (CCBs) commonly block the L-type calcium ion channel. The main therapeutic effects of CCBs include vasodilation of coronary and peripheral arteries, negative inotropic effects, and a decrease in heart rate and atrioventricular conduction [1, 2]. There are 3 categories of CCBs: dihydropyridines, benzothiazepines, and phenylalkylamines. Benzothiazepine CCBs (e.g., diltiazem) and phenylalkylamine CCBs (e.g., verapamil) are more selective for the myocardium than for vascular smooth muscle. Therefore, these CCBs are characterized by a weak antihypertensive effect and a strong negative inotropic effect, which may cause bradycardia and atrioventricular block. Dihydropyridine CCBs have strong vasodilator actions and are often used to treat hypertension. However, rapid vasodilation can cause adverse effect such as hot flushes, headache, and reflex tachycardia. Azelnidipine, classified as a dihydropyridine CCB, has a higher lipophilicity compared to other CCBs, resulting in higher affinity with vascular tissue and prolonged distribution in the tissue [3–5]. Therefore, its antihypertensive effects are mild, duration of its activities long, and a single dose daily can control blood pressure for 24 h [4, 6, 7]. In addition, azelnidipine has few adverse effects such as hot flushes and headaches. Whilst benzothiazepine and phenylalkylamine CCBs may result in bradycardia and atrioventricular block, dihydropyridine CCBs rarely cause such adverse effects, as shown in vivo [1, 2]. Rather, dihydropyridine CCBs generally trigger reflex tachycardia. Unlike other dihydropyridine CCBs, azelnidipine does not increase heart rate, but rather decreases it [4, 5, 7–9]. To the best of the authors’ knowledge, there have been no previous case reports of complete atrioventricular block (CAVB) with azelnidipine treatment. The present case report is one of an elderly patient who had been taking azelnidipine for a long time and had suspected CAVB, which she thought may be an adverse event associated with azelnidipine treatment.",
+        "Case presentation\nThe patient was a 92-year-old woman who regularly saw her private physician and was being treated for hypertension, hyperlipidemia and chronic gastritis with azelnidipine 16 mg/day, simvastatin 5 mg/day, famotidine 20 mg/day, irsogladine maleate 4 mg/day and mosapride citrate hydrate 15 mg/day. Her medications had not been changed in over a decade, and she had never been diagnosed with CAVB. She complained of dyspnea and palpitation, and was consequently examined by her private physician (Day 1). She was prescribed furosemide 20 mg/day, spironolactone 25 mg/day and cibenzoline 100 mg/day. Three days later (Day 4), the patient was diagnosed with CAVB by electrocardiogram (ECG), and referred to our medical center by her private physician. When she arrived at our medical center, her blood pressure was 159/66 mmHg, and her heart rate was 44 beats/min. The patient’s ECG upon arrival at our center is shown in Fig. 1 and laboratory data is shown in Table 1. The patient was immediately hospitalized and underwent surgery for implantation of a temporary pacemaker, and intravenous furosemide treatment commenced. Oral administration of furosemide, spironolactone and cibenzoline was discontinued, however all other oral medications, including azelnidipine, continued. Three days after admission (Day 7), the patient returned to a normal sinus rhythm and the symptoms of dyspnea resolved. The temporary pacemaker was removed and intravenous furosemide discontinued. After removal of the temporary pacemaker, ECG examination did not show CAVB and the patient was discharged 9 days after her initial admission (Day 13). Three weeks after discharge from the hospital, she was again diagnosed by her private physician with CAVB and was again referred to our hospital (Day 34). As the patient had recurrent episodes of CAVB, it was arranged that she was registered for surgical implant of a permanent pacemaker. Her medications were investigated once again, and it was surmised that CAVB may have occurred as an adverse event associated with azelnidipine treatment. Both azelnidipine and simvastatin are metabolized by cytochrome P450 enzyme 3A4 (CYP3A4). These drugs are capable of competitively blocking the metabolism of the other. The authors proposed to the physician that azelnidipine and simvastatin be discontinued and the patient’s serum azelnidipine levels be measured, before surgery for the permanent pacemaker be conducted. The drugs were accordingly discontinued and surgical implant of a permanent pacemaker canceled. One week after discontinuation of the drugs (Day 41), a 24 h ambulatory ECG confirmed an episode of CAVB in the early morning, however no subjective symptoms such as dyspnea were observed. One month later a 24 h ambulatory ECG showed no episode of CAVB (Day 71). It was later observed that serum azelnidipine levels after 6 h of medication was 63.4 ng/mL. Over the course of the next 5 months, 24 h ambulatory ECGs were performed once a month, with no evidence of CAVB. The patient’s clinical course is summarized in Table 2.\nThe Naranjo adverse drug reaction probability scale was used to determine the probability that CAVB was an adverse reaction associated with azelnidipine treatment [10]. The Naranjo scale generated a score of 5 (Table 3), suggesting a probable causal relationship between CAVB and azelnidipine treatment. A MEDLINE search was also conducted for articles published between 2003 and June 2021 with search terms such as “azelnidpine AND bradycardia” or “azelnidipine AND atrioventricular block”. However, the literature search did not result in any case studies reporting an association between azelnidipine and bradycardia or atrioventricular block.",
+        "Discussion and conclusions\nDihydropyridine CCBs intrinsically reduce sinus node function and have a bradycardic effect, similar to benzothiazepine and phenylalkylamine CCBs. However, in vivo studies have shown that the sympathetic nervous system is stimulated by the antihypertensive reflex, which not only masks the intrinsic bradycardia effect, but also causes tachycardia when the reflex is strong [9]. An increase in heart rate has been shown to be an independent risk factor for cardiovascular events [11], indicating the importance of not elevating heart rate. Generally, at clinical doses, dihydropyridine CCBs do not prolong atrioventricular conduction or refractoriness or cause sinus node suppression [1]. However, azelnidipine, a dihydropyridine CCB, has been reported to cause a significant decrease in heart rate in dogs and spontaneously hypertensive rats (SHRs) [5, 9]. In clinical trials in humans, it has also been reported that long-term administration of azelnidipine tends to decrease heart rate [4, 6, 7]. These properties are thought to be attributed to the very small effect azelnidipine has on the sympathetic nervous system [4]. Therefore, azelnidipine differs from other dihydropyridine CCBs, in that it does not cause reflex tachycardia in vivo, but rather a decrease in heart rate. Kuramoto et al. reported a decrease in pulse rate of 2 beat/min after 6 weeks administration of azelnidipine at 16 mg/day [7], and Kario et al. reported a 3.5 beat/min decrease in pulse rate after 12 weeks of azelnidipine treatment [6]. No adverse events of bradycardia or atrioventricular block were reported. Katayama et al. reported that in a study of 210 hypertensive diabetic patients treated with azelnidipine 8 to 16 mg/day and temocapril hydrochloride 2 to 4 mg/day, respectively, there was only one case of possible atrioventricular block (AVB) that occurred as an adverse event due to treatment [12]. The authors noted however that the AVB case may have been an incidental adverse event.\nKuramoto et al. reported that Cmax and Tmax were 48.3 ± 19.0 ng/mL and 4.14 ± 1.46 h, respectively, in patients with essential hypertension treated daily with 16 mg azelnidipine for an extensive length of time [7]. In the present case report, the patient presented with a serum concentration of azelnidipine of 63.4 ng/mL 6 h after being administered 16 mg azelnidipine. The serum level of azelnidipine in the present case was well above the peak, even though the serum levels were measured well after Tmax. Therefore, we assume that if the serum levels of azelnidipine had been measured at Tmax, they would have been even higher than 63.4 ng/mL.\nOur patient’s medications were managed by her family, so it was considered unlikely that she had overdosed on them. It is possible that the high serum levels in this case study are a result of a decrease in hepatic metabolic function due to age and is one of the causes of the drug’s interactions with CYP3A4. The metabolism of azelnidipine may have been competitively inhibited by combination treatment with simvastatin, which, similar to azelnidipine, is metabolized by CYP3A4. As most dihydropyridine CCBs are metabolized by CYP3A4, inhibition of CYP3A4 metabolization of CCBs may result in unchanged or high serum concentrations of dihydropyridine CCBs and subsequent adverse events [1, 2]. Common drugs with CYP3A4 inhibitory effects include itraconazole, cimetidine, and simvastatin [13]. Using human liver microsomes, Kazui et al. reported the Ki values of CYP3A4-inhibiting drugs against azelnidipine [14]. It was reported that metabolism of azelnidipine was inhibited by the CYP3A4-inhibiting drugs with the following Ki values: itraconazole, 0.065 μM; cimetidine, 0.8 mM, and simvastatin, 9.3 μM. As itraconazole strongly inhibits CYP3A4, concomitant use of it with azelnidipine is contraindicated [15]. The combination of simvastatin and azelnidipine treatment may also increase the serum levels of each drug and increase the risk of adverse effects associated with this combination treatment, as noted in the patient information booklet included in the combination treatment package [15]. The Cmax after oral administration of 5 mg simvastatin is 0.012 μM [16], which is well below the previously described Ki value of simvastatin (9.3 μM) [14]. Therefore, when simvastatin and azelnidipine are used concomitantly at normal doses, it is very unlikely that simvastatin will inhibit the metabolism of azelnidipine and consequently increase the blood concentration of the drug. However, as in the present case, there is a rare possibility that the concomitant use of these drugs may increase the blood concentration of azelnidipine, so caution should be exercised.\nThe patient in this case study had been taking azelnidipine and simvastatin for more than 10 years without any occurrence of CAVB. The authors conclude that the most likely cause for the sudden adverse event of CAVB is an age-related decrease in drug metabolism in the liver, however the reason for this remains unclear. In this patient, serum levels of azelnidipine at the time of CAVB occurrence were higher than normal, and indeed higher than reported peak levels. There was no occurrence of CAVB for 4 weeks, to present, following discontinuation of azelnidipine treatment. These results show that a score of 5 on the Naranjo scale is “probable”, indicating that CAVB is a possible adverse effect of azelnidipine treatment.\nThe findings of the present case study suggest that elderly patients receiving azelnidipine at 16 mg/day with concomitant CYP3A4 inhibitors may have elevated blood levels of azelnidipine, that may result in CAVB. Therefore, in the elderly, it is considered necessary to avoid concomitant use of CYP3A4 inhibitors.",
+        "Acknowledgments\nThis manuscript has been checked by a native English-speaking medical editor from Yamada Translation Bureau, Inc.\n\nAuthors’ contributions\nNI and AM monitored the patients and carried out acquisition of the patient data. NI conceived the pharmacokinetic study and drafted the manuscript. YK and MI helped to draft the manuscript. All authors have read and approved the final manuscript.\n\nFunding\nNot applicable.\n\nAvailability of data and materials\nData used in this case report will not be shared owing to the risk of identifying an individual.\n\nEthics approval and consent to participate\nThis study was approved by the Ethics Committee of Chutoen General Medical Center.\n\nConsent for publication\nInformed consent was obtained from the patient.\n\nCompeting interests\nThe authors declare that they have no competing interest.\n\nData Availability Statement\nData used in this case report will not be shared owing to the risk of identifying an individual.\n\nTables\nLaboratory data upon hospitalization\nLaboratory parameter | Value | \nWhite blood cell | 12,100 | count/μL\nRed blood cell | 351 × 104 | count/μL\nHemoglobin | 11.0 | g/dL\nPlatelet | 24.6 × 104 | count/μL\nTotal protein | 7.1 | g/dL\nTotal albumin | 3.7 | g/dL\nTotal bilirubin | 0.8 | mg/dL\nTotal cholesterol | 172 | mg/dL\nCholinesterase | 305 | IU/L\nCreatine Phosphokinase | 94 | IU/L\nAspartate aminotransferase | 29 | IU/L\nAlanine aminotransferase | 30 | IU/L\nLactate dehydrogenase | 254 | IU/L\nBlood urea nitrogen | 48.9 | mg/dL\nSerum creatinine Serum creatinine | 1.38 | mg/dL\neGFR | 27.5 | mL/min/1.73 m2\nSodium | 142 | mEq/L\nPotassium | 4.8 | mEq/L\nChlorine | 109 | mEq/L\n\nClinical course of a 92-year-old female patient diagnosed with complete atrioventricular block\nTime | Event\nFor more than 10 years before admission | Use of azelnidipine 16 mg/day and simvastatin 5 mg/day\nDay 1 | Patient complained of dyspnea and palpitations.\nPatient was prescribed furosemide, spironolactone and cibenzoline.\nDay 4 | Patient was diagnosed with complete atrioventricular block (CAVB) and hospitalized.\nOral administration of furosemide, spironolactone and cibenzoline was discontinued.\nIntravenous administration of furosemide was started.\nTemporary pacemaker was implanted.\nDay 7 | Patient returned to a normal sinus rhythm, and the symptoms of dyspnea resolved.\nIntravenous administration of furosemide was discontinued.\nTemporary pacemaker was removed.\nDay 13 | Patient was discharged.\nDay 34 | Patient was again diagnosed with CAVB.\nOral administration of azelnidipine and simvastatin was discontinued.\nDay 41 | Electrocardiogram (ECG) confirmed an episode of CAVB.\nNo subjective symptoms were observed.\nDay 71 | ECG showed no episode of CAVB.\nOver the course of the next 5 months | ECG was performed once a month, with no evidence of CAVB.",
+        "Naranjo Adverse Drug Reaction Probability Scale score of the patient\nQuestions | Answer | Score\nAre there previous conclusive reports on this reaction? | No | 0\nDid the adverse event occur after the suspected drug was administered? | Yes | + 2\nDid the adverse ereaction improve when the drug was discontinued or a specific antagonist was administered? | Yes | + 1\nDid the adverse reaction reappear when the drug was readministered? | Do not know | 0\nAre there alternative causes (other than the drug) that could have on their own caused the reaction? | Do not know | 0\nDid the reaction reappear when a placebo was given? | Do not know | 0\nWas the drug detected in the blood (or other fluids) in concentrations know to be toxic? | Yes | + 1\nWas the reaction more severe when the dose was increased or less severe when the dose was decreased? | Do not know | 0\nDid the patient have a similar reaction to the same or similar drugs in any previous exposure? | Do not know | 0\nWas the adverse event confirmed by any objective evidence? | Yes | + 1\nTotal score |  | 5"
+      ],
+      "source_mode": "plain_text",
+      "ocr_confidence": null,
+      "scanned_pages": [],
+      "extracted": true,
+      "reextract_count": 1
+    }
+  ],
+  "facts": [
+    {
+      "fact_id": "F01",
+      "field": "reporter_name_or_role",
+      "value": "NI",
+      "normalized": "ni",
+      "evidence": [
+        {
+          "doc_id": "D1",
+          "page": 5,
+          "char_start": 154,
+          "char_end": 186,
+          "quote": "NI and AM monitored the patients",
+          "match": "exact"
+        }
+      ],
+      "status": "anchored",
+      "extracted_by": "gemini:gemini-3.5-flash-lite:extract_v2",
+      "source_doc": "D1",
+      "drug": "",
+      "note": ""
+    },
+    {
+      "fact_id": "F02",
+      "field": "reporter_type",
+      "value": "investigator",
+      "normalized": "investigator",
+      "evidence": [
+        {
+          "doc_id": "D1",
+          "page": 5,
+          "char_start": 154,
+          "char_end": 186,
+          "quote": "NI and AM monitored the patients",
+          "match": "exact"
+        }
+      ],
+      "status": "anchored",
+      "extracted_by": "gemini:gemini-3.5-flash-lite:extract_v2",
+      "source_doc": "D1",
+      "drug": "",
+      "note": ""
+    },
+    {
+      "fact_id": "F03",
+      "field": "patient_age",
+      "value": "92",
+      "normalized": "92",
+      "evidence": [
+        {
+          "doc_id": "D1",
+          "page": 1,
+          "char_start": 763,
+          "char_end": 774,
+          "quote": "92-year-old",
+          "match": "exact"
+        }
+      ],
+      "status": "anchored",
+      "extracted_by": "gemini:gemini-3.5-flash-lite:extract_v2",
+      "source_doc": "D1",
+      "drug": "",
+      "note": ""
+    },
+    {
+      "fact_id": "F04",
+      "field": "patient_sex",
+      "value": "female",
+      "normalized": "female",
+      "evidence": [
+        {
+          "doc_id": "D1",
+          "page": 1,
+          "char_start": 775,
+          "char_end": 780,
+          "quote": "woman",
+          "match": "exact"
+        }
+      ],
+      "status": "anchored",
+      "extracted_by": "gemini:gemini-3.5-flash-lite:extract_v2",
+      "source_doc": "D1",
+      "drug": "",
+      "note": ""
+    },
+    {
+      "fact_id": "F05",
+      "field": "relevant_history",
+      "value": "hypertension",
+      "normalized": "hypertension",
+      "evidence": [
+        {
+          "doc_id": "D1",
+          "page": 3,
+          "char_start": 120,
+          "char_end": 132,
+          "quote": "hypertension",
+          "match": "exact"
+        }
+      ],
+      "status": "anchored",
+      "extracted_by": "gemini:gemini-3.5-flash-lite:extract_v2",
+      "source_doc": "D1",
+      "drug": "",
+      "note": ""
+    },
+    {
+      "fact_id": "F06",
+      "field": "relevant_history",
+      "value": "hyperlipidemia",
+      "normalized": "hyperlipidemia",
+      "evidence": [
+        {
+          "doc_id": "D1",
+          "page": 3,
+          "char_start": 134,
+          "char_end": 148,
+          "quote": "hyperlipidemia",
+          "match": "exact"
+        }
+      ],
+      "status": "anchored",
+      "extracted_by": "gemini:gemini-3.5-flash-lite:extract_v2",
+      "source_doc": "D1",
+      "drug": "",
+      "note": ""
+    },
+    {
+      "fact_id": "F07",
+      "field": "relevant_history",
+      "value": "chronic gastritis",
+      "normalized": "chronic gastritis",
+      "evidence": [
+        {
+          "doc_id": "D1",
+          "page": 3,
+          "char_start": 153,
+          "char_end": 170,
+          "quote": "chronic gastritis",
+          "match": "exact"
+        }
+      ],
+      "status": "anchored",
+      "extracted_by": "gemini:gemini-3.5-flash-lite:extract_v2",
+      "source_doc": "D1",
+      "drug": "",
+      "note": ""
+    },
+    {
+      "fact_id": "F08",
+      "field": "drug_name",
+      "value": "azelnidipine",
+      "normalized": "azelnidipine",
+      "evidence": [
+        {
+          "doc_id": "D1",
+          "page": 3,
+          "char_start": 176,
+          "char_end": 188,
+          "quote": "azelnidipine",
+          "match": "exact"
+        }
+      ],
+      "status": "anchored",
+      "extracted_by": "gemini:gemini-3.5-flash-lite:extract_v2",
+      "source_doc": "D1",
+      "drug": "",
+      "note": ""
+    },
+    {
+      "fact_id": "F09",
+      "field": "dose",
+      "value": "16 mg/day",
+      "normalized": "16 mg",
+      "evidence": [
+        {
+          "doc_id": "D1",
+          "page": 3,
+          "char_start": 189,
+          "char_end": 198,
+          "quote": "16 mg/day",
+          "match": "exact"
+        }
+      ],
+      "status": "anchored",
+      "extracted_by": "gemini:gemini-3.5-flash-lite:extract_v2",
+      "source_doc": "D1",
+      "drug": "azelnidipine",
+      "note": ""
+    },
+    {
+      "fact_id": "F10",
+      "field": "route",
+      "value": "oral",
+      "normalized": "oral",
+      "evidence": [
+        {
+          "doc_id": "D1",
+          "page": 3,
+          "char_start": 1137,
+          "char_end": 1156,
+          "quote": "Oral administration",
+          "match": "exact"
+        }
+      ],
+      "status": "anchored",
+      "extracted_by": "gemini:gemini-3.5-flash-lite:extract_v2",
+      "source_doc": "D1",
+      "drug": "azelnidipine",
+      "note": ""
+    },
+    {
+      "fact_id": "F11",
+      "field": "frequency",
+      "value": "daily",
+      "normalized": "once daily",
+      "evidence": [],
+      "status": "unanchored",
+      "extracted_by": "gemini:gemini-3.5-flash-lite:extract_v2",
+      "source_doc": "D1",
+      "drug": "azelnidipine",
+      "note": "value 'daily' not supported by quote '16 mg/day'"
+    },
+    {
+      "fact_id": "F12",
+      "field": "indication",
+      "value": "hypertension",
+      "normalized": "hypertension",
+      "evidence": [
+        {
+          "doc_id": "D1",
+          "page": 3,
+          "char_start": 120,
+          "char_end": 132,
+          "quote": "hypertension",
+          "match": "exact"
+        }
+      ],
+      "status": "anchored",
+      "extracted_by": "gemini:gemini-3.5-flash-lite:extract_v2",
+      "source_doc": "D1",
+      "drug": "azelnidipine",
+      "note": ""
+    },
+    {
+      "fact_id": "F13",
+      "field": "action_taken",
+      "value": "withdrawn",
+      "normalized": "withdrawn",
+      "evidence": [
+        {
+          "doc_id": "D1",
+          "page": 3,
+          "char_start": 1207,
+          "char_end": 1219,
+          "quote": "discontinued",
+          "match": "exact"
+        }
+      ],
+      "status": "anchored",
+      "extracted_by": "gemini:gemini-3.5-flash-lite:extract_v2",
+      "source_doc": "D1",
+      "drug": "azelnidipine",
+      "note": ""
+    },
+    {
+      "fact_id": "F14",
+      "field": "drug_name",
+      "value": "simvastatin",
+      "normalized": "simvastatin",
+      "evidence": [
+        {
+          "doc_id": "D1",
+          "page": 3,
+          "char_start": 200,
+          "char_end": 211,
+          "quote": "simvastatin",
+          "match": "exact"
+        }
+      ],
+      "status": "anchored",
+      "extracted_by": "gemini:gemini-3.5-flash-lite:extract_v2",
+      "source_doc": "D1",
+      "drug": "",
+      "note": ""
+    },
+    {
+      "fact_id": "F15",
+      "field": "dose",
+      "value": "5 mg/day",
+      "normalized": "5 mg",
+      "evidence": [
+        {
+          "doc_id": "D1",
+          "page": 3,
+          "char_start": 212,
+          "char_end": 220,
+          "quote": "5 mg/day",
+          "match": "exact"
+        }
+      ],
+      "status": "anchored",
+      "extracted_by": "gemini:gemini-3.5-flash-lite:extract_v2",
+      "source_doc": "D1",
+      "drug": "simvastatin",
+      "note": ""
+    },
+    {
+      "fact_id": "F16",
+      "field": "indication",
+      "value": "hyperlipidemia",
+      "normalized": "hyperlipidemia",
+      "evidence": [
+        {
+          "doc_id": "D1",
+          "page": 3,
+          "char_start": 134,
+          "char_end": 148,
+          "quote": "hyperlipidemia",
+          "match": "exact"
+        }
+      ],
+      "status": "anchored",
+      "extracted_by": "gemini:gemini-3.5-flash-lite:extract_v2",
+      "source_doc": "D1",
+      "drug": "simvastatin",
+      "note": ""
+    },
+    {
+      "fact_id": "F17",
+      "field": "action_taken",
+      "value": "withdrawn",
+      "normalized": "withdrawn",
+      "evidence": [
+        {
+          "doc_id": "D1",
+          "page": 3,
+          "char_start": 1207,
+          "char_end": 1219,
+          "quote": "discontinued",
+          "match": "exact"
+        }
+      ],
+      "status": "anchored",
+      "extracted_by": "gemini:gemini-3.5-flash-lite:extract_v2",
+      "source_doc": "D1",
+      "drug": "simvastatin",
+      "note": ""
+    },
+    {
+      "fact_id": "F18",
+      "field": "event_verbatim",
+      "value": "complete atrioventricular block",
+      "normalized": "complete atrioventricular block",
+      "evidence": [
+        {
+          "doc_id": "D1",
+          "page": 1,
+          "char_start": 10,
+          "char_end": 41,
+          "quote": "complete atrioventricular block",
+          "match": "exact"
+        }
+      ],
+      "status": "anchored",
+      "extracted_by": "gemini:gemini-3.5-flash-lite:extract_v2",
+      "source_doc": "D1",
+      "drug": "",
+      "note": ""
+    },
+    {
+      "fact_id": "F19",
+      "field": "event_onset_date",
+      "value": "Day 4",
+      "normalized": "day 4",
+      "evidence": [],
+      "status": "unanchored",
+      "extracted_by": "gemini:gemini-3.5-flash-lite:extract_v2",
+      "source_doc": "D1",
+      "drug": "",
+      "note": "value 'Day 4' not supported by quote 'Day 4'"
+    },
+    {
+      "fact_id": "F20",
+      "field": "seriousness_criteria",
+      "value": "hospitalisation",
+      "normalized": "hospitalisation",
+      "evidence": [
+        {
+          "doc_id": "D1",
+          "page": 3,
+          "char_start": 1011,
+          "char_end": 1023,
+          "quote": "hospitalized",
+          "match": "exact"
+        }
+      ],
+      "status": "anchored",
+      "extracted_by": "gemini:gemini-3.5-flash-lite:extract_v2",
+      "source_doc": "D1",
+      "drug": "",
+      "note": ""
+    },
+    {
+      "fact_id": "F21",
+      "field": "outcome",
+      "value": "recovered",
+      "normalized": "recovered",
+      "evidence": [
+        {
+          "doc_id": "D1",
+          "page": 3,
+          "char_start": 2774,
+          "char_end": 2804,
+          "quote": "ECG showed no episode of CAVB ",
+          "match": "fuzzy"
+        }
+      ],
+      "status": "anchored",
+      "extracted_by": "gemini:gemini-3.5-flash-lite:extract_v2",
+      "source_doc": "D1",
+      "drug": "",
+      "note": ""
+    },
+    {
+      "fact_id": "F22",
+      "field": "dechallenge",
+      "value": "positive",
+      "normalized": "positive",
+      "evidence": [
+        {
+          "doc_id": "D1",
+          "page": 1,
+          "char_start": 1518,
+          "char_end": 1616,
+          "quote": "There was no occurrence of CAVB for 4 weeks, to present, following discontinuation of azelnidipine",
+          "match": "exact"
+        }
+      ],
+      "status": "anchored",
+      "extracted_by": "gemini:gemini-3.5-flash-lite:extract_v2",
+      "source_doc": "D1",
+      "drug": "azelnidipine",
+      "note": ""
+    },
+    {
+      "fact_id": "F23",
+      "field": "treatment_given",
+      "value": "temporary pacemaker",
+      "normalized": "temporary pacemaker",
+      "evidence": [
+        {
+          "doc_id": "D1",
+          "page": 3,
+          "char_start": 1038,
+          "char_end": 1087,
+          "quote": "surgery for implantation of a temporary pacemaker",
+          "match": "exact"
+        }
+      ],
+      "status": "anchored",
+      "extracted_by": "gemini:gemini-3.5-flash-lite:extract_v2",
+      "source_doc": "D1",
+      "drug": "",
+      "note": ""
+    },
+    {
+      "fact_id": "F24",
+      "field": "treatment_given",
+      "value": "furosemide",
+      "normalized": "furosemide",
+      "evidence": [
+        {
+          "doc_id": "D1",
+          "page": 3,
+          "char_start": 1093,
+          "char_end": 1135,
+          "quote": "intravenous furosemide treatment commenced",
+          "match": "exact"
+        }
+      ],
+      "status": "anchored",
+      "extracted_by": "gemini:gemini-3.5-flash-lite:extract_v2",
+      "source_doc": "D1",
+      "drug": "",
+      "note": ""
+    },
+    {
+      "fact_id": "F25",
+      "field": "relevant_labs",
+      "value": "63.4 ng/mL",
+      "normalized": "63.4 ng/ml",
+      "evidence": [
+        {
+          "doc_id": "D1",
+          "page": 1,
+          "char_start": 1465,
+          "char_end": 1475,
+          "quote": "63.4 ng/mL",
+          "match": "exact"
+        }
+      ],
+      "status": "anchored",
+      "extracted_by": "gemini:gemini-3.5-flash-lite:extract_v2",
+      "source_doc": "D1",
+      "drug": "",
+      "note": ""
+    },
+    {
+      "fact_id": "F26",
+      "field": "concomitant_meds",
+      "value": "famotidine",
+      "normalized": "famotidine",
+      "evidence": [
+        {
+          "doc_id": "D1",
+          "page": 3,
+          "char_start": 222,
+          "char_end": 232,
+          "quote": "famotidine",
+          "match": "exact"
+        }
+      ],
+      "status": "anchored",
+      "extracted_by": "gemini:gemini-3.5-flash-lite:extract_v2",
+      "source_doc": "D1",
+      "drug": "",
+      "note": ""
+    },
+    {
+      "fact_id": "F27",
+      "field": "concomitant_meds",
+      "value": "irsogladine maleate",
+      "normalized": "irsogladine maleate",
+      "evidence": [
+        {
+          "doc_id": "D1",
+          "page": 3,
+          "char_start": 244,
+          "char_end": 263,
+          "quote": "irsogladine maleate",
+          "match": "exact"
+        }
+      ],
+      "status": "anchored",
+      "extracted_by": "gemini:gemini-3.5-flash-lite:extract_v2",
+      "source_doc": "D1",
+      "drug": "",
+      "note": ""
+    },
+    {
+      "fact_id": "F28",
+      "field": "concomitant_meds",
+      "value": "mosapride citrate hydrate",
+      "normalized": "mosapride citrate hydrate",
+      "evidence": [
+        {
+          "doc_id": "D1",
+          "page": 3,
+          "char_start": 277,
+          "char_end": 302,
+          "quote": "mosapride citrate hydrate",
+          "match": "exact"
+        }
+      ],
+      "status": "anchored",
+      "extracted_by": "gemini:gemini-3.5-flash-lite:extract_v2",
+      "source_doc": "D1",
+      "drug": "",
+      "note": ""
+    },
+    {
+      "fact_id": "F29",
+      "field": "investigator_causality",
+      "value": "probable",
+      "normalized": "probable",
+      "evidence": [
+        {
+          "doc_id": "D1",
+          "page": 3,
+          "char_start": 3311,
+          "char_end": 3339,
+          "quote": "probable causal relationship",
+          "match": "exact"
+        }
+      ],
+      "status": "anchored",
+      "extracted_by": "gemini:gemini-3.5-flash-lite:extract_v2",
+      "source_doc": "D1",
+      "drug": "",
+      "note": ""
+    },
+    {
+      "fact_id": "F30",
+      "field": "frequency",
+      "value": "daily",
+      "normalized": "once daily",
+      "evidence": [
+        {
+          "doc_id": "D1",
+          "page": 2,
+          "char_start": 1205,
+          "char_end": 1210,
+          "quote": "daily",
+          "match": "exact"
+        }
+      ],
+      "status": "conflicting",
+      "extracted_by": "gemini:gemini-3.5-flash-lite:extract_v2",
+      "source_doc": "D1",
+      "drug": "azelnidipine",
+      "note": ""
+    },
+    {
+      "fact_id": "F31",
+      "field": "frequency",
+      "value": "16 mg/day",
+      "normalized": "16 mg/day",
+      "evidence": [
+        {
+          "doc_id": "D1",
+          "page": 3,
+          "char_start": 189,
+          "char_end": 198,
+          "quote": "16 mg/day",
+          "match": "exact"
+        }
+      ],
+      "status": "conflicting",
+      "extracted_by": "gemini:gemini-3.5-flash-lite:extract_v2",
+      "source_doc": "D1",
+      "drug": "azelnidipine",
+      "note": ""
+    },
+    {
+      "fact_id": "F32",
+      "field": "event_onset_date",
+      "value": "Day 4",
+      "normalized": "day 4",
+      "evidence": [],
+      "status": "unanchored",
+      "extracted_by": "gemini:gemini-3.5-flash-lite:extract_v2",
+      "source_doc": "D1",
+      "drug": "",
+      "note": "value 'Day 4' not supported by quote 'Three days later (Day 4), the patient was diagnosed with CAVB'"
+    },
+    {
+      "fact_id": "F33",
+      "field": "frequency",
+      "value": "5 mg/day",
+      "normalized": "5 mg/day",
+      "evidence": [
+        {
+          "doc_id": "D1",
+          "page": 3,
+          "char_start": 212,
+          "char_end": 220,
+          "quote": "5 mg/day",
+          "match": "exact"
+        }
+      ],
+      "status": "anchored",
+      "extracted_by": "gemini:gemini-3.5-flash-lite:extract_v2",
+      "source_doc": "D1",
+      "drug": "simvastatin",
+      "note": ""
+    },
+    {
+      "fact_id": "F34",
+      "field": "frequency",
+      "value": "20 mg/day",
+      "normalized": "20 mg/day",
+      "evidence": [
+        {
+          "doc_id": "D1",
+          "page": 3,
+          "char_start": 233,
+          "char_end": 242,
+          "quote": "20 mg/day",
+          "match": "exact"
+        }
+      ],
+      "status": "anchored",
+      "extracted_by": "gemini:gemini-3.5-flash-lite:extract_v2",
+      "source_doc": "D1",
+      "drug": "famotidine",
+      "note": ""
+    },
+    {
+      "fact_id": "F35",
+      "field": "frequency",
+      "value": "4 mg/day",
+      "normalized": "4 mg/day",
+      "evidence": [
+        {
+          "doc_id": "D1",
+          "page": 3,
+          "char_start": 264,
+          "char_end": 272,
+          "quote": "4 mg/day",
+          "match": "exact"
+        }
+      ],
+      "status": "anchored",
+      "extracted_by": "gemini:gemini-3.5-flash-lite:extract_v2",
+      "source_doc": "D1",
+      "drug": "irsogladine maleate",
+      "note": ""
+    },
+    {
+      "fact_id": "F36",
+      "field": "frequency",
+      "value": "15 mg/day",
+      "normalized": "15 mg/day",
+      "evidence": [
+        {
+          "doc_id": "D1",
+          "page": 3,
+          "char_start": 303,
+          "char_end": 312,
+          "quote": "15 mg/day",
+          "match": "exact"
+        }
+      ],
+      "status": "anchored",
+      "extracted_by": "gemini:gemini-3.5-flash-lite:extract_v2",
+      "source_doc": "D1",
+      "drug": "mosapride citrate hydrate",
+      "note": ""
+    },
+    {
+      "fact_id": "F37",
+      "field": "frequency",
+      "value": "20 mg/day",
+      "normalized": "20 mg/day",
+      "evidence": [
+        {
+          "doc_id": "D1",
+          "page": 3,
+          "char_start": 233,
+          "char_end": 242,
+          "quote": "20 mg/day",
+          "match": "exact"
+        }
+      ],
+      "status": "anchored",
+      "extracted_by": "gemini:gemini-3.5-flash-lite:extract_v2",
+      "source_doc": "D1",
+      "drug": "furosemide",
+      "note": ""
+    },
+    {
+      "fact_id": "F38",
+      "field": "frequency",
+      "value": "25 mg/day",
+      "normalized": "25 mg/day",
+      "evidence": [
+        {
+          "doc_id": "D1",
+          "page": 3,
+          "char_start": 576,
+          "char_end": 585,
+          "quote": "25 mg/day",
+          "match": "exact"
+        }
+      ],
+      "status": "anchored",
+      "extracted_by": "gemini:gemini-3.5-flash-lite:extract_v2",
+      "source_doc": "D1",
+      "drug": "spironolactone",
+      "note": ""
+    },
+    {
+      "fact_id": "F39",
+      "field": "frequency",
+      "value": "100 mg/day",
+      "normalized": "100 mg/day",
+      "evidence": [
+        {
+          "doc_id": "D1",
+          "page": 3,
+          "char_start": 602,
+          "char_end": 612,
+          "quote": "100 mg/day",
+          "match": "exact"
+        }
+      ],
+      "status": "anchored",
+      "extracted_by": "gemini:gemini-3.5-flash-lite:extract_v2",
+      "source_doc": "D1",
+      "drug": "cibenzoline",
+      "note": ""
+    },
+    {
+      "fact_id": "F40",
+      "field": "event_onset_date",
+      "value": "Day 34",
+      "normalized": "day 34",
+      "evidence": [],
+      "status": "unanchored",
+      "extracted_by": "gemini:gemini-3.5-flash-lite:extract_v2",
+      "source_doc": "D1",
+      "drug": "",
+      "note": "value 'Day 34' not supported by quote 'Three weeks after discharge from the hospital, she was again diagnosed by her pr'"
+    }
+  ],
+  "conflicts": [
+    {
+      "conflict_id": "C01",
+      "field": "frequency",
+      "fact_ids": [
+        "F30",
+        "F31"
+      ],
+      "values": [
+        "16 mg/day",
+        "once daily"
+      ],
+      "explanation": "Article.txt page 2 states the frequency as 'daily', while article.txt page 3 specifies the dosage as '16 mg/day'.",
+      "resolution": null,
+      "resolved_by": null,
+      "site_clarification": ""
+    }
+  ],
+  "gaps": [
+    {
+      "gap_id": "G01",
+      "field": "event_onset_date",
+      "severity": "required_for_serious",
+      "searched": false,
+      "search_hits": [],
+      "query_draft": "Please provide the event onset date for the adverse event referenced in the report.",
+      "query_status": "drafted",
+      "closed": false
+    },
+    {
+      "gap_id": "G02",
+      "field": "start_date",
+      "severity": "required_for_serious",
+      "searched": false,
+      "search_hits": [],
+      "query_draft": "Please provide the start date of the suspect drug administration for the patient in question.",
+      "query_status": "drafted",
+      "closed": false
+    },
+    {
+      "gap_id": "G03",
+      "field": "conflict:frequency",
+      "severity": "conflict",
+      "searched": false,
+      "search_hits": [],
+      "query_draft": "There is a conflict regarding dosing frequency: the article states 'daily' while another section states '16 mg/day'. Please clarify the correct dosing frequency and provide the source reference for each value.",
+      "query_status": "drafted",
+      "closed": false
+    }
+  ],
+  "minimum_criteria": {
+    "identifiable_patient": true,
+    "identifiable_reporter": true,
+    "suspect_product": true,
+    "adverse_event": true
+  },
+  "seriousness_candidates": [
+    "hospitalisation"
+  ],
+  "timeline_issues": [],
+  "meddra_suggestions": {
+    "F18": [
+      {
+        "pt": "Atrioventricular block complete",
+        "rationale": "Exact match to the verbatim description of a complete AV block."
+      },
+      {
+        "pt": "Atrioventricular block",
+        "rationale": "General term encompassing all degrees of AV block, appropriate when the specific degree is known."
+      },
+      {
+        "pt": "Bundle branch block",
+        "rationale": "Related conduction disorder of the ventricles that may be reported alongside AV block."
+      },
+      {
+        "pt": "Atrioventricular block second degree",
+        "rationale": "Alternative AV block term; included as a close but less specific candidate."
+      },
+      {
+        "pt": "Ventricular arrhythmia",
+        "rationale": "Broad category of ventricular rhythm disturbances that could be considered when classifying AV block events."
+      }
+    ]
+  },
+  "selected_meddra": {},
+  "narrative": [
+    {
+      "sentence_id": "S01",
+      "text": "The patient is a 92-year-old female with a history of hypertension, hyperlipidemia, and chronic gastritis.",
+      "fact_ids": [
+        "F03",
+        "F04",
+        "F05",
+        "F06",
+        "F07"
+      ],
+      "kind": "generated",
+      "verification": "supported",
+      "verification_notes": [
+        "V5: All demographic and medical history items are directly cited."
+      ],
+      "redraft_count": 0,
+      "reviewer_action": null
+    },
+    {
+      "sentence_id": "S02",
+      "text": "Azelnidipine was administered orally at a dose of 16 mg/day for hypertension.",
+      "fact_ids": [
+        "F08",
+        "F09",
+        "F10",
+        "F12"
+      ],
+      "kind": "generated",
+      "verification": "supported",
+      "verification_notes": [
+        "V5: Dose, route, drug name, and indication are all present in the evidence."
+      ],
+      "redraft_count": 0,
+      "reviewer_action": null
+    },
+    {
+      "sentence_id": "S03",
+      "text": "Simvastatin was administered at a dose of 5 mg/day for hyperlipidemia.",
+      "fact_ids": [
+        "F14",
+        "F15",
+        "F16"
+      ],
+      "kind": "generated",
+      "verification": "supported",
+      "verification_notes": [
+        "V5: Drug, dose, and indication are explicitly cited."
+      ],
+      "redraft_count": 0,
+      "reviewer_action": null
+    },
+    {
+      "sentence_id": "S04",
+      "text": "The patient experienced complete atrioventricular block.",
+      "fact_ids": [
+        "F18"
+      ],
+      "kind": "generated",
+      "verification": "supported",
+      "verification_notes": [
+        "V5: Complete atrioventricular block is directly mentioned."
+      ],
+      "redraft_count": 0,
+      "reviewer_action": null
+    },
+    {
+      "sentence_id": "S05",
+      "text": "The event resulted in hospitalisation.",
+      "fact_ids": [
+        "F20"
+      ],
+      "kind": "generated",
+      "verification": "supported",
+      "verification_notes": [
+        "V5: Evidence states the patient was hospitalized."
+      ],
+      "redraft_count": 0,
+      "reviewer_action": null
+    },
+    {
+      "sentence_id": "S06",
+      "text": "Relevant laboratory findings showed 63.4 ng/mL.",
+      "fact_ids": [
+        "F25"
+      ],
+      "kind": "generated",
+      "verification": "supported",
+      "verification_notes": [
+        "V5: Laboratory value 63.4 ng/mL is cited."
+      ],
+      "redraft_count": 0,
+      "reviewer_action": null
+    },
+    {
+      "sentence_id": "S07",
+      "text": "Treatment given included temporary pacemaker and furosemide.",
+      "fact_ids": [
+        "F23",
+        "F24"
+      ],
+      "kind": "generated",
+      "verification": "supported",
+      "verification_notes": [
+        "V5: Both temporary pacemaker implantation and IV furosemide are documented."
+      ],
+      "redraft_count": 0,
+      "reviewer_action": null
+    },
+    {
+      "sentence_id": "S08",
+      "text": "Action taken for azelnidipine was withdrawn.",
+      "fact_ids": [
+        "F13"
+      ],
+      "kind": "generated",
+      "verification": "supported",
+      "verification_notes": [
+        "V5: Azelnidipine discontinuation is recorded."
+      ],
+      "redraft_count": 0,
+      "reviewer_action": null
+    },
+    {
+      "sentence_id": "S09",
+      "text": "Action taken for simvastatin was withdrawn.",
+      "fact_ids": [
+        "F17"
+      ],
+      "kind": "generated",
+      "verification": "supported",
+      "verification_notes": [
+        "V5: Simvastatin discontinuation is recorded."
+      ],
+      "redraft_count": 0,
+      "reviewer_action": null
+    },
+    {
+      "sentence_id": "S10",
+      "text": "Dechallenge for azelnidipine was positive.",
+      "fact_ids": [
+        "F22"
+      ],
+      "kind": "generated",
+      "verification": "supported",
+      "verification_notes": [
+        "V5: No recurrence of CAVB after stopping azelnidipine indicates a positive dechallenge."
+      ],
+      "redraft_count": 0,
+      "reviewer_action": null
+    },
+    {
+      "sentence_id": "S11",
+      "text": "The outcome for the event was recovered.",
+      "fact_ids": [
+        "F21"
+      ],
+      "kind": "generated",
+      "verification": "supported",
+      "verification_notes": [
+        "V5: ECG showing no CAVB episodes implies recovery."
+      ],
+      "redraft_count": 0,
+      "reviewer_action": null
+    },
+    {
+      "sentence_id": "S12",
+      "text": "Concomitant medications included famotidine, irsogladine maleate, and mosapride citrate hydrate.",
+      "fact_ids": [
+        "F26",
+        "F27",
+        "F28"
+      ],
+      "kind": "generated",
+      "verification": "supported",
+      "verification_notes": [
+        "V5: All listed concomitant drugs are cited."
+      ],
+      "redraft_count": 0,
+      "reviewer_action": null
+    },
+    {
+      "sentence_id": "S13",
+      "text": "The investigator's causality assessment for the event was probable.",
+      "fact_ids": [
+        "F29"
+      ],
+      "kind": "generated",
+      "verification": "supported",
+      "verification_notes": [
+        "V5: Evidence explicitly states a probable causal relationship."
+      ],
+      "redraft_count": 0,
+      "reviewer_action": null
+    },
+    {
+      "sentence_id": "S14",
+      "text": "The reporter was an investigator.",
+      "fact_ids": [
+        "F02"
+      ],
+      "kind": "generated",
+      "verification": "supported",
+      "verification_notes": [
+        "V5: The monitoring investigators are identified, matching the claim."
+      ],
+      "redraft_count": 0,
+      "reviewer_action": null
+    },
+    {
+      "sentence_id": "S15",
+      "text": "The dosing frequency is reported inconsistently: daily (article.txt p.2) vs 16 mg/day (article.txt p.3); reviewer decision / site follow-up pending.",
+      "fact_ids": [
+        "F30",
+        "F31"
+      ],
+      "kind": "conflict_template",
+      "verification": "supported",
+      "verification_notes": [
+        "code template (verified by rules)"
+      ],
+      "redraft_count": 0,
+      "reviewer_action": null
+    },
+    {
+      "sentence_id": "S16",
+      "text": "Event onset date was not available in the source documents; follow-up requested.",
+      "fact_ids": [],
+      "kind": "gap_template",
+      "verification": "supported",
+      "verification_notes": [
+        "code template (verified by rules)"
+      ],
+      "redraft_count": 0,
+      "reviewer_action": null
+    },
+    {
+      "sentence_id": "S17",
+      "text": "Start date of the suspect drug was not available in the source documents; follow-up requested.",
+      "fact_ids": [],
+      "kind": "gap_template",
+      "verification": "supported",
+      "verification_notes": [
+        "code template (verified by rules)"
+      ],
+      "redraft_count": 0,
+      "reviewer_action": null
+    }
+  ],
+  "narrative_version": 1,
+  "clock": {
+    "day0": null,
+    "message": "Day 0 (receipt date) not found -- add it to compute deadlines."
+  },
+  "expectedness": "unknown",
+  "expectedness_by": "",
+  "causality": {},
+  "status": "awaiting_human",
+  "human_tasks": [
+    "Resolve conflict on frequency (16 mg/day vs once daily)",
+    "Approve/edit follow-up query G01 (event_onset_date)",
+    "Approve/edit follow-up query G02 (start_date)",
+    "Approve/edit follow-up query G03 (conflict:frequency)",
+    "Record expectedness against the reference safety information",
+    "Select MedDRA terms and sign off when satisfied"
+  ],
+  "signed_off_by": null,
+  "reconciled_version": 1,
+  "reconciled_fact_count": 40,
+  "narrative_stale": false,
+  "followup_drafted_version": 1,
+  "meddra_done_version": 1,
+  "clock_done_version": 1,
+  "review_requested_at_step": 9,
+  "prefollowup": {},
+  "diff": [],
+  "audit": [
+    {
+      "ts": "2026-10-28T07:47:23.685387Z",
+      "actor": "tool:ingest",
+      "action": "document_added",
+      "details": {
+        "doc_id": "D1",
+        "filename": "article.txt",
+        "pages": 6,
+        "scanned": []
+      }
+    },
+    {
+      "ts": "2026-10-28T07:47:41.885194Z",
+      "actor": "tool:extract",
+      "action": "facts_extracted",
+      "details": {
+        "docs": [
+          "D1"
+        ],
+        "anchored": 27,
+        "unanchored": [],
+        "value_unsupported": [
+          "frequency@D1",
+          "event_onset_date@D1"
+        ],
+        "focused": false,
+        "ignored_by_source_rules": []
+      }
+    },
+    {
+      "ts": "2026-10-28T07:47:46.895314Z",
+      "actor": "tool:extract",
+      "action": "facts_extracted",
+      "details": {
+        "docs": [
+          "D1"
+        ],
+        "anchored": 9,
+        "unanchored": [],
+        "value_unsupported": [
+          "event_onset_date@D1",
+          "event_onset_date@D1"
+        ],
+        "focused": true,
+        "ignored_by_source_rules": []
+      }
+    },
+    {
+      "ts": "2026-10-28T07:47:49.813246Z",
+      "actor": "tool:reconcile",
+      "action": "reconciled",
+      "details": {
+        "conflicts": [
+          "frequency"
+        ],
+        "open_gaps": [
+          "event_onset_date",
+          "start_date",
+          "conflict:frequency"
+        ],
+        "missing_minimum": [],
+        "seriousness": [
+          "hospitalisation"
+        ],
+        "timeline": []
+      }
+    },
+    {
+      "ts": "2026-10-28T07:47:54.627554Z",
+      "actor": "tool:followup",
+      "action": "queries_drafted",
+      "details": {
+        "gaps": [
+          "G01",
+          "G02",
+          "G03"
+        ]
+      }
+    },
+    {
+      "ts": "2026-10-28T07:48:02.638012Z",
+      "actor": "tool:meddra",
+      "action": "suggested",
+      "details": {
+        "suggestions": {
+          "F18": [
+            "Atrioventricular block complete",
+            "Atrioventricular block",
+            "Bundle branch block",
+            "Atrioventricular block second degree",
+            "Ventricular arrhythmia"
+          ]
+        }
+      }
+    },
+    {
+      "ts": "2026-10-28T07:48:06.458627Z",
+      "actor": "tool:draft",
+      "action": "narrative_drafted",
+      "details": {
+        "sentences": 17,
+        "narrative_version": 1
+      }
+    },
+    {
+      "ts": "2026-10-28T07:48:13.017423Z",
+      "actor": "tool:verify",
+      "action": "verified",
+      "details": {
+        "counts": {
+          "supported": 17,
+          "flagged": 0,
+          "blocked": 0,
+          "pending": 0
+        },
+        "blocked": []
+      }
+    },
+    {
+      "ts": "2026-10-28T07:48:14.293864Z",
+      "actor": "tool:clock",
+      "action": "clock_computed",
+      "details": {
+        "clock": {
+          "day0": null,
+          "message": "Day 0 (receipt date) not found -- add it to compute deadlines."
+        }
+      }
+    },
+    {
+      "ts": "2026-10-28T07:48:16.605834Z",
+      "actor": "orchestrator",
+      "action": "human_review_requested",
+      "details": {
+        "tasks": [
+          "Resolve conflict on frequency (16 mg/day vs once daily)",
+          "Approve/edit follow-up query G01 (event_onset_date)",
+          "Approve/edit follow-up query G02 (start_date)",
+          "Approve/edit follow-up query G03 (conflict:frequency)",
+          "Record expectedness against the reference safety information",
+          "Select MedDRA terms and sign off when satisfied"
+        ]
+      }
+    }
+  ],
+  "trace": [
+    {
+      "step": 1,
+      "ts": "2026-10-28T07:47:23.672390Z",
+      "planner": "llm",
+      "reason": "No documents have been ingested yet; this is the mandatory first step.",
+      "tool": "ingest_documents",
+      "args": {},
+      "allowed": true,
+      "result_summary": "ingested 1 document(s): ['D1']; documents with untranscribed scanned pages: none",
+      "duration_s": 0.01,
+      "planner_input": "CASE LIT-PMC8638419 | version 1 | status processing\nDocuments: none ingested yet.\nReconciled for current version and facts: False\nMedDRA suggested for this version: False; clock computed for this version: False\nNarrative: not drafted\n\nTools the rulebook allows now: ingest_documents",
+      "calls": [
+        {
+          "step": 1,
+          "role": "planner",
+          "model": "groq:qwen/qwen3.8-27b",
+          "secs": 2.7,
+          "instructions": "You are the SafetyTrace orchestrator for SERIOUS clinical-trial adverse-event cases.\nGoal: bring the case to a state where a qualified human reviewer can verify it quickly and safely.\n\nYou never see documents. You see a case summary and choose ONE next tool. Explain your reason in one short sentence (shown to the reviewer as the agent trace).\n\nTools:\n- ingest_documents: load the case pack (first step only).\n- transcribe_scans: transcribe scanned pages that have no text layer. Must happen before extraction of those documents.\n- extract_facts: extract facts with verified quotes. With no arguments it processes all un-extracted documents.\n  With doc_ids AND fields it does ONE focused re-extraction (use it when a field has only unanchored values, or after a search found likely evidence).\n- search_documents: deterministic search of every page, ONLY for a MISSING minimum criterion. Give criterion = one of identifiable_patient, identifiable_reporter, suspect_product, adverse_event.\n- reconcile: detect conflicts, gaps, minimum criteria, seriousness candidates. Run it whenever facts changed.\n- suggest_meddra: suggest MedDRA terms (human selects).\n- compute_clock: compute regulatory deadlines.\n- draft_narrative: write the narrative from usable facts only (conflicts/gaps are stated by templates).\n- verify_narrative: check every pending sentence (rules first, then an independent model).\n- redraft_sentences: redraft only blocked sentences (give sentence_ids).\n- draft_followup_queries: draft follow-up questions for open gaps/conflicts (a human approves; nothing is sent).\n- request_human_review: hand over to the reviewer when automatic work is done.\n- stop: nothing useful left to do.\n\nRules you must follow:\n1. Never decide which of two conflicting values is correct, and never decide causality, expectedness, reportability or case validity.\n2. Before treating a minimum criterion as missing, search for it; if the search finds hits, do one focused extraction on those documents.\n3. If a field has only unanchored values, try one focused re-extraction on that document.\n4. After any drafting or redrafting, verify. Redraft only blocked sentences.\n5. Reconcile again whenever facts changed (for example after a follow-up reply or a focused extraction).\n6. Conflicts are decided ONLY by a human or by a site reply. Do not search or re-extract to \"resolve\" a conflict: draft a follow-up query and hand over.\n7. Missing information that is not a minimum criterion (e.g. dechallenge) is a gap",
+          "input": "CASE LIT-PMC8638419 | version 1 | status processing\nDocuments: none ingested yet.\nReconciled for current version and facts: False\nMedDRA suggested for this version: False; clock computed for this version: False\nNarrative: not drafted\n\nTools the policy allows right now (anything else is blocked): ingest_documents\n\nChoose the single next action.",
+          "output": "{\"criterion\": \"\", \"doc_ids\": [], \"fields\": [], \"reason\": \"No documents have been ingested yet; this is the mandatory first step.\", \"sentence_ids\": [], \"tool\": \"ingest_documents\"}"
+        }
+      ],
+      "changes": {
+        "documents loaded": [
+          "D1 article.txt: 6 page(s), plain text"
+        ]
+      }
+    },
+    {
+      "step": 2,
+      "ts": "2026-10-28T07:47:28.886491Z",
+      "planner": "llm",
+      "reason": "Extract facts from the newly ingested article to obtain required information.",
+      "tool": "extract_facts",
+      "args": {},
+      "allowed": true,
+      "result_summary": "extracted from ['D1']: 27 anchored; unanchored=['frequency@D1', 'event_onset_date@D1']",
+      "duration_s": 13.0,
+      "planner_input": "CASE LIT-PMC8638419 | version 1 | status processing\n- D1 article.txt [literature_article, v1, 6 page(s)]: NOT extracted\nReconciled for current version and facts: False\nMedDRA suggested for this version: False; clock computed for this version: False\nNarrative: not drafted\nRecent steps:\n  1. ingest_documents  -> ingested 1 document(s): ['D1']; documents with untranscribed scanned pages: none\n\nTools the rulebook allows now: extract_facts (all un-extracted documents)",
+      "calls": [
+        {
+          "step": 2,
+          "role": "planner",
+          "model": "groq:openai/gpt-oss-120b",
+          "secs": 3.09,
+          "instructions": "You are the SafetyTrace orchestrator for SERIOUS clinical-trial adverse-event cases.\nGoal: bring the case to a state where a qualified human reviewer can verify it quickly and safely.\n\nYou never see documents. You see a case summary and choose ONE next tool. Explain your reason in one short sentence (shown to the reviewer as the agent trace).\n\nTools:\n- ingest_documents: load the case pack (first step only).\n- transcribe_scans: transcribe scanned pages that have no text layer. Must happen before extraction of those documents.\n- extract_facts: extract facts with verified quotes. With no arguments it processes all un-extracted documents.\n  With doc_ids AND fields it does ONE focused re-extraction (use it when a field has only unanchored values, or after a search found likely evidence).\n- search_documents: deterministic search of every page, ONLY for a MISSING minimum criterion. Give criterion = one of identifiable_patient, identifiable_reporter, suspect_product, adverse_event.\n- reconcile: detect conflicts, gaps, minimum criteria, seriousness candidates. Run it whenever facts changed.\n- suggest_meddra: suggest MedDRA terms (human selects).\n- compute_clock: compute regulatory deadlines.\n- draft_narrative: write the narrative from usable facts only (conflicts/gaps are stated by templates).\n- verify_narrative: check every pending sentence (rules first, then an independent model).\n- redraft_sentences: redraft only blocked sentences (give sentence_ids).\n- draft_followup_queries: draft follow-up questions for open gaps/conflicts (a human approves; nothing is sent).\n- request_human_review: hand over to the reviewer when automatic work is done.\n- stop: nothing useful left to do.\n\nRules you must follow:\n1. Never decide which of two conflicting values is correct, and never decide causality, expectedness, reportability or case validity.\n2. Before treating a minimum criterion as missing, search for it; if the search finds hits, do one focused extraction on those documents.\n3. If a field has only unanchored values, try one focused re-extraction on that document.\n4. After any drafting or redrafting, verify. Redraft only blocked sentences.\n5. Reconcile again whenever facts changed (for example after a follow-up reply or a focused extraction).\n6. Conflicts are decided ONLY by a human or by a site reply. Do not search or re-extract to \"resolve\" a conflict: draft a follow-up query and hand over.\n7. Missing information that is not a minimum criterion (e.g. dechallenge) is a gap",
+          "input": "CASE LIT-PMC8638419 | version 1 | status processing\n- D1 article.txt [literature_article, v1, 6 page(s)]: NOT extracted\nReconciled for current version and facts: False\nMedDRA suggested for this version: False; clock computed for this version: False\nNarrative: not drafted\nRecent steps:\n  1. ingest_documents  -> ingested 1 document(s): ['D1']; documents with untranscribed scanned pages: none\n\nTools the policy allows right now (anything else is blocked): extract_facts (all un-extracted documents)\n\nChoose the single next action.",
+          "output": "{\"tool\": \"extract_facts\", \"doc_ids\": [], \"fields\": [], \"criterion\": \"\", \"sentence_ids\": [], \"reason\": \"Extract facts from the newly ingested article to obtain required information.\"}"
+        },
+        {
+          "step": 2,
+          "role": "extract",
+          "model": "gemini:gemini-3.5-flash-lite",
+          "secs": 12.97,
+          "instructions": "You extract adverse-event case facts from ONE clinical document for a pharmacovigilance safety case.\n\nRules:\n1. Extract only facts that are explicitly stated in this document. Never infer, guess or use outside knowledge.\n2. For every fact return:\n   - field: one of the listed field keys\n   - value: the value as stated (keep units and dates exactly as written)\n   - quote: the SHORTEST verbatim span from the document that contains the value. Copy it character for character. Do not paraphrase, fix typos or join text from different places.\n   - page: the page number shown as <<PAGE n>>\n3. If the same field is stated more than once with different values, return each one separately with its own quote.\n4. If a field is not stated, do not return it. Missing information is important and must stay missing.\n5. Repeatable fields (relevant_labs, concomitant_meds, treatment_given, relevant_history, seriousness_criteria) may appear several times.\n6. Field meanings that are easy to misread:\n   - reporter_name_or_role / reporter_type: the person who REPORTS this case (the author or signatory of the document, e.g. the investigator who signs a clinic note). Someone the text merely mentions (e.g. \"called the study nurse\", \"showed my daughter\") is NOT the reporter.\n   - start_date: only a date stated as the start of the suspect drug (\"started on ...\"). A diary line saying a tablet was taken on some day is not a start date.\n   - stop_date / action_taken: the action taken with the suspect drug BECAUSE OF the event, as stated by the treating team (withdrawn, interrupted, dose reduced, unchanged). A single missed dose noted in a diary is not an action taken.\n   - event_onset_date: the date the adverse event UNDER REPORT first appeared (including its first signs). Do not return onset dates of other, unrelated symptoms. If the document gives more than one date for the onset of that event, return each one separately.\n7. Several drugs: for dose, route, frequency, indication, start_date, stop_date, action_taken, dechallenge and rechallenge set \"drug\" to the name of the drug the value belongs to (leave \"drug\" empty for other fields). Never attach one drug's dose or indication to another drug.\n8. event_verbatim: return each distinct adverse event separately, each with its own quote.\n9. Return only the fields listed below; other fields are not taken from this type of document.\n",
+          "input": "Document: article.txt (type: literature_article)\n\nFields to extract:\n- study_id: Clinical study / protocol identifier\n- site_id: Investigator site identifier\n- subject_id: Study subject / patient identifier\n- reporter_name_or_role: Name or role of the person reporting the event (e.g. Dr. A. Mehta, investigator)\n- reporter_type: physician, investigator, pharmacist, nurse, patient or other\n- patient_initials: Patient initials\n- patient_age: Patient age in years\n- patient_sex: Patient sex\n- relevant_history: Relevant medical history\n- drug_name: Suspect (study) drug name\n- dose: Dose of the suspect drug with unit\n- route: Route of administration\n- frequency: Dosing frequency\n- start_date: Date the suspect drug was started\n- stop_date: Date of the LAST dose of the suspect drug (E2B convention). If a text gives both the date the drug was interrupted and the last-dose date, use the last-dose date\n- indication: The disease or condition the suspect drug was given for (e.g. 'atrial fibrillation'), not a phrase about the drug itself\n- action_taken: Action taken with the suspect drug (withdrawn, interrupted, unchanged, reduced)\n- event_verbatim: One adverse event as described in the source. Return EACH distinct event (diagnosis, complication, clinically significant abnormal finding) as a separate entry\n- event_onset_date: Date the adverse event started\n- event_end_date: Date the adverse event resolved\n- seriousness_criteria: Seriousness criterion stated or clearly described: death, life-threatening, hospitalisation (admitted, hospitalised, prolonged stay), disability, congenital anomaly, medically important (e.g. needed surgery to prevent permanent harm). Value = the category word; quote = the text that shows it\n- outcome: Outcome of the event (recovered, recovering, not recovered, fatal, unknown)\n- dechallenge: What happened to the event after the drug was stopped or reduced\n- rechallenge: Whether the drug was restarted and what happened\n- treatment_given: Treatment given for the adverse event\n- relevant_labs: Relevant laboratory result with value, unit and date\n- concomitant_meds: Concomitant medication\n- investigator_causality: The reporter's or investigator's own causality assessment of the suspect drug (e.g. 'related', 'probably related', 'not related'), only if the source states one\n\nDocument text:\n<<PAGE 1>>\nA case of complete atrioventricular block with extremely high blood concentration of azelnidipine.\nJournal of pharmaceutical health care and sciences (2021). Ide N, Mochizuki A, Kagawa Y, Ito M.\nLicense: cc by | PMC8638419 | doi:10.1186/s40780-021-00230-x\n\nA case of complete atrioventricular block with extremely high blood concentration of azelnidipine\n\nAbstract\nAzelnidipine, a dihydropyridine calcium channel blocker (CCB), has less adverse effects (e.g. hot flushes and reflex tachycardia) compared to other dihydropyridine CCBs. Azelnidipine has been reported to reduce heart rate as opposed to inducing tachycardia. No evidence of bradycardia or complete atrioventricular block (CAVB) with azelnidipine treatment has been reported.\nIn the present study, a 92-year-old woman was diagnosed with CAVB while taking azelnidipine and simvastatin for an extended period of time, and referred to our medical center. It was thought that the CAVB may have been an adverse effect of azelnidipine treatment. Specifically, it was considered that in this patient, one of the causes might be the concomitant use of simvastatin inhibiting the metabolism of azelnidipine by cytochrome P450 enzyme 3A4. Consequently, it was suggested to the patient’s physician that the patient’s serum azelnidipine levels be measured and treatment with azelnidipine and simvastatin be discontinued. The patient’s serum concentration of azelnidipine at the time of her visit to our center was 63.4 ng/mL, higher than the normal acceptable level. There was no occurrence of CAVB for 4 weeks, to present, following discontinuation of azelnidipine and simvastatin treatment.\nAzelnidipine has a different mechanism of action that other CCBs. In very rare cases, it may cause CAVB when combined with CYP3A4 inhibitors. If a patient taking azelnidipine is diagnosed with CAVB, physicians should suspect that the condition may be an adverse effect of azelnidipine and should consider discontinuing azelnidipine. And, in the elderly, it is necessary to avoid concomitant use of CYP3A4 inhibitors.\nKeywords: Azelnidipine, Adverse events, Calcium channel blocker, Complete atrioventricular block, Drug interaction, Simvastatin\n\n<<PAGE 2>>\nBackground\nAll calcium channel blockers (CCBs) commonly block the L-type calcium ion channel. The main therapeutic effects of CCBs include vasodilation of coronary and peripheral arteries, negative inotropic effects, and a decrease in heart rate and atrioventricular conduction [1, 2]. There are 3 categories of CCBs: dihydropyridines, benzothiazepines, and phenylalkylamines. Benzothiazepine CCBs (e.g., diltiazem) and phenylalkylamine CCBs (e.g., verapamil) are more selective for the myocardium than for vascular smooth muscle. Therefore, these CCBs are characterized by a weak antihypertensive effect and a strong negative inotropic effect, which may cause bradycardia and atrioventricular block. Dihydropyridine CCBs have strong vasodilator actions and are often used to treat hypertension. However, rapid vasodilation can cause adverse effect such as hot flushes, headache, and reflex tachycardia. Azelnidipine, classified as a dihydropyridine CCB, has a higher lipophilicity compared to other CCBs, resulting in higher affinity with vascular tissue and prolonged distribution in the tissue [3–5]. Therefore, its antihypertensive effects are mild, duration of its activities long, and a single dose daily can control blood pressure for 24 h [4, 6, 7]. In addition, azelnidipine has few adverse effects such as hot flushes and headaches. Whilst benzothiazepine and phenylalkylamine CCBs may result in bradycardia and atrioventricular block, dihydro",
+          "output": "{\"facts\": [{\"field\": \"reporter_name_or_role\", \"value\": \"NI\", \"quote\": \"NI and AM monitored the patients\", \"page\": 5, \"drug\": \"\"}, {\"field\": \"reporter_type\", \"value\": \"investigator\", \"quote\": \"NI and AM monitored the patients\", \"page\": 5, \"drug\": \"\"}, {\"field\": \"patient_age\", \"value\": \"92\", \"quote\": \"92-year-old\", \"page\": 1, \"drug\": \"\"}, {\"field\": \"patient_sex\", \"value\": \"female\", \"quote\": \"woman\", \"page\": 1, \"drug\": \"\"}, {\"field\": \"relevant_history\", \"value\": \"hypertension\", \"quote\": \"hypertension\", \"page\": 3, \"drug\": \"\"}, {\"field\": \"relevant_history\", \"value\": \"hyperlipidemia\", \"quote\": \"hyperlipidemia\", \"page\": 3, \"drug\": \"\"}, {\"field\": \"relevant_history\", \"value\": \"chronic gastritis\", \"quote\": \"chronic gastritis\", \"page\": 3, \"drug\": \"\"}, {\"field\": \"drug_name\", \"value\": \"azelnidipine\", \"quote\": \"azelnidipine\", \"page\": 3, \"drug\": \"azelnidipine\"}, {\"field\": \"dose\", \"value\": \"16 mg/day\", \"quote\": \"16 mg/day\", \"page\": 3, \"drug\": \"azelnidipine\"}, {\"field\": \"route\", \"value\": \"oral\", \"quote\": \"Oral administration\", \"page\": 3, \"drug\": \"azelnidipine\"}, {\"field\": \"frequency\", \"value\": \"daily\", \"quote\": \"16 mg/day\", \"page\": 3, \"drug\": \"azelnidipine\"}, {\"field\": \"indication\", \"value\": \"hypertension\", \"quote\": \"hypertension\", \"page\": 3, \"drug\": \"azelnidipine\"}, {\"field\": \"action_taken\", \"value\": \"withdrawn\", \"quote\": \"discontinued\", \"page\": 3, \"drug\": \"azelnidipine\"}, {\"field\": \"drug_name\", \"value\": \"simvastatin\", \"quote\": \"simvastatin\", \"page\": 3, \"drug\": \"simvastatin\"}, {\"field\": \"dose\", \"value\": \"5 mg/day\", \"quote\": \"5 mg/day\", \"page\": 3, \"drug\": \"simvastatin\"}, {\"field\": \"indication\", \"value\": \"hyperlipidemia\", \"quote\": \"hyperlipidemia\", \"page\": 3, \"drug\": \"simvastatin\"}, {\"field\": \"action_taken\", \"value\": \"withdrawn\", \"quote\": \"discontinued\", \"page\": 3, \"drug\": \"simvastatin\"}, {\"field\": \"event_verbatim\", \"value\": \"complete atrioventricular block\", \"quote\": \"complete atrioventricular block\", \"page\": 1, \"drug\": \"\"}, {\"field\": \"event_onset_date\", \"value\": \"Day 4\", \"quote\": \"Day 4\", \"page\": 3, \"drug\": \"\"}, {\"field\": \"seriousness_criteria\", \"value\": \"hospitalisation\", \"quote\": \"hospitalized\", \"page\": 3, \"drug\": \"\"}, {\"field\": \"outcome\", \"value\": \"recovered\", \"quote\": \"ECG showed no episode of CAVB.\", \"page\": 3, \"drug\": \"\"}, {\"field\": \"dechallenge\", \"value\": \"positive\", \"quote\": \"There was no occurrence of CAVB for 4 weeks, to present, following discontinuation of azelnidipine\", \"page\": 1, \"drug\": \"azelnidipine\"}, {\"field\": \"treatment_given\", \"value\": \"temporary pacemaker\", \"quote\": \"surgery for implantation of a temporary pacemaker\", \"page\": 3, \"drug\": \"\"}, {\"field\": \"treatment_given\", \"value\": \"furosemide\", \"quote\": \"intravenous furosemide treatment commenced\", \"page\": 3, \"drug\": \"\"}, {\"field\": \"relevant_labs\", \"value\": \"63.4 ng/mL\", \"quote\": \"63.4 ng/mL\", \"page\": 1, \"drug\": \"azelnidipine\"}, {\"field\": \"concomitant_meds\", \"value\": \"famotidine\", \"quote\": \"famotidine\", \"page\": 3, \"drug\": \"\"}, {\"field\": \"concomitant_meds\", \"value\": \"irsogladine maleate\", \"quote\": \"irsogladine maleate\", \"page\": 3, \"drug\": \"\"}, {\"field\": \"concomitant_meds\", \"value\": \"mosapride citrate hydrate\", \"quote\": \"mosapride citrate hydrate\", \"page\": 3, \"drug\": \"\"}, {\"field\": \"investigator_causality\", \"value\": \"probable\", \"quote\": \"probable causal relationship\", \"page\": 3, \"drug\": \"azelnidipine\"}]}"
+        }
+      ],
+      "changes": {
+        "documents read": [
+          "D1 article.txt"
+        ],
+        "facts proven": [
+          "F01 reporter_name_or_role = NI",
+          "F02 reporter_type = investigator",
+          "F03 patient_age = 92",
+          "F04 patient_sex = female",
+          "F05 relevant_history = hypertension",
+          "F06 relevant_history = hyperlipidemia",
+          "F07 relevant_history = chronic gastritis",
+          "F08 drug_name = azelnidipine",
+          "F09 dose = 16 mg/day [azelnidipine]",
+          "F10 route = oral [azelnidipine]",
+          "F12 indication = hypertension [azelnidipine]",
+          "F13 action_taken = withdrawn [azelnidipine]",
+          "F14 drug_name = simvastatin",
+          "F15 dose = 5 mg/day [simvastatin]",
+          "F16 indication = hyperlipidemia [simvastatin]",
+          "F17 action_taken = withdrawn [simvastatin]",
+          "F18 event_verbatim = complete atrioventricular block",
+          "F20 seriousness_criteria = hospitalisation",
+          "F21 outcome = recovered",
+          "F22 dechallenge = positive [azelnidipine]",
+          "F23 treatment_given = temporary pacemaker",
+          "F24 treatment_given = furosemide",
+          "F25 relevant_labs = 63.4 ng/mL",
+          "F26 concomitant_meds = famotidine",
+          "F27 concomitant_meds = irsogladine maleate",
+          "F28 concomitant_meds = mosapride citrate hydrate",
+          "F29 investigator_causality = probable"
+        ],
+        "rejected by code": [
+          "F11 frequency = daily [azelnidipine]: value 'daily' not supported by quote '16 mg/day'",
+          "F19 event_onset_date = Day 4: value 'Day 4' not supported by quote 'Day 4'"
+        ]
+      }
+    },
+    {
+      "step": 3,
+      "ts": "2026-10-28T07:47:42.560637Z",
+      "planner": "llm",
+      "reason": "Fields event_onset_date and frequency have only unanchored values; perform focused extraction on D1 for those fields.",
+      "tool": "extract_facts",
+      "args": {
+        "doc_ids": [
+          "D1"
+        ],
+        "fields": [
+          "event_onset_date",
+          "frequency"
+        ]
+      },
+      "allowed": true,
+      "result_summary": "extracted from ['D1']: 9 anchored; unanchored=['event_onset_date@D1', 'event_onset_date@D1']",
+      "duration_s": 4.33,
+      "planner_input": "CASE LIT-PMC8638419 | version 1 | status processing\n- D1 article.txt [literature_article, v1, 6 page(s)]: extracted\nFacts: {'anchored': 27, 'unanchored': 2, 'conflicting': 0, 'confirmed_by_human': 0}\nFields with ONLY unanchored values (quote not found in source): ['event_onset_date', 'frequency']\nReconciled for current version and facts: False\nMedDRA suggested for this version: False; clock computed for this version: False\nNarrative: not drafted\nRecent steps:\n  1. ingest_documents  -> ingested 1 document(s): ['D1']; documents with untranscribed scanned pages: none\n  2. extract_facts  -> extracted from ['D1']: 27 anchored; unanchored=['frequency@D1', 'event_onset_date@D1']\n\nTools the rulebook allows now: extract_facts focused (doc_ids from ['D1'] + fields), reconcile",
+      "calls": [
+        {
+          "step": 3,
+          "role": "planner",
+          "model": "groq:openai/gpt-oss-20b",
+          "secs": 0.67,
+          "instructions": "You are the SafetyTrace orchestrator for SERIOUS clinical-trial adverse-event cases.\nGoal: bring the case to a state where a qualified human reviewer can verify it quickly and safely.\n\nYou never see documents. You see a case summary and choose ONE next tool. Explain your reason in one short sentence (shown to the reviewer as the agent trace).\n\nTools:\n- ingest_documents: load the case pack (first step only).\n- transcribe_scans: transcribe scanned pages that have no text layer. Must happen before extraction of those documents.\n- extract_facts: extract facts with verified quotes. With no arguments it processes all un-extracted documents.\n  With doc_ids AND fields it does ONE focused re-extraction (use it when a field has only unanchored values, or after a search found likely evidence).\n- search_documents: deterministic search of every page, ONLY for a MISSING minimum criterion. Give criterion = one of identifiable_patient, identifiable_reporter, suspect_product, adverse_event.\n- reconcile: detect conflicts, gaps, minimum criteria, seriousness candidates. Run it whenever facts changed.\n- suggest_meddra: suggest MedDRA terms (human selects).\n- compute_clock: compute regulatory deadlines.\n- draft_narrative: write the narrative from usable facts only (conflicts/gaps are stated by templates).\n- verify_narrative: check every pending sentence (rules first, then an independent model).\n- redraft_sentences: redraft only blocked sentences (give sentence_ids).\n- draft_followup_queries: draft follow-up questions for open gaps/conflicts (a human approves; nothing is sent).\n- request_human_review: hand over to the reviewer when automatic work is done.\n- stop: nothing useful left to do.\n\nRules you must follow:\n1. Never decide which of two conflicting values is correct, and never decide causality, expectedness, reportability or case validity.\n2. Before treating a minimum criterion as missing, search for it; if the search finds hits, do one focused extraction on those documents.\n3. If a field has only unanchored values, try one focused re-extraction on that document.\n4. After any drafting or redrafting, verify. Redraft only blocked sentences.\n5. Reconcile again whenever facts changed (for example after a follow-up reply or a focused extraction).\n6. Conflicts are decided ONLY by a human or by a site reply. Do not search or re-extract to \"resolve\" a conflict: draft a follow-up query and hand over.\n7. Missing information that is not a minimum criterion (e.g. dechallenge) is a gap",
+          "input": "CASE LIT-PMC8638419 | version 1 | status processing\n- D1 article.txt [literature_article, v1, 6 page(s)]: extracted\nFacts: {'anchored': 27, 'unanchored': 2, 'conflicting': 0, 'confirmed_by_human': 0}\nFields with ONLY unanchored values (quote not found in source): ['event_onset_date', 'frequency']\nReconciled for current version and facts: False\nMedDRA suggested for this version: False; clock computed for this version: False\nNarrative: not drafted\nRecent steps:\n  1. ingest_documents  -> ingested 1 document(s): ['D1']; documents with untranscribed scanned pages: none\n  2. extract_facts  -> extracted from ['D1']: 27 anchored; unanchored=['frequency@D1', 'event_onset_date@D1']\n\nTools the policy allows right now (anything else is blocked): extract_facts focused (doc_ids from ['D1'] + fields), reconcile\n\nChoose the single next action.",
+          "output": "{\"reason\": \"Fields event_onset_date and frequency have only unanchored values; perform focused extraction on D1 for those fields.\", \"tool\": \"extract_facts\", \"doc_ids\": [\"D1\"], \"fields\": [\"event_onset_date\", \"frequency\"], \"criterion\": \"\", \"sentence_ids\": []}"
+        },
+        {
+          "step": 3,
+          "role": "extract",
+          "model": "gemini:gemini-3.5-flash-lite",
+          "secs": 4.32,
+          "instructions": "You extract adverse-event case facts from ONE clinical document for a pharmacovigilance safety case.\n\nRules:\n1. Extract only facts that are explicitly stated in this document. Never infer, guess or use outside knowledge.\n2. For every fact return:\n   - field: one of the listed field keys\n   - value: the value as stated (keep units and dates exactly as written)\n   - quote: the SHORTEST verbatim span from the document that contains the value. Copy it character for character. Do not paraphrase, fix typos or join text from different places.\n   - page: the page number shown as <<PAGE n>>\n3. If the same field is stated more than once with different values, return each one separately with its own quote.\n4. If a field is not stated, do not return it. Missing information is important and must stay missing.\n5. Repeatable fields (relevant_labs, concomitant_meds, treatment_given, relevant_history, seriousness_criteria) may appear several times.\n6. Field meanings that are easy to misread:\n   - reporter_name_or_role / reporter_type: the person who REPORTS this case (the author or signatory of the document, e.g. the investigator who signs a clinic note). Someone the text merely mentions (e.g. \"called the study nurse\", \"showed my daughter\") is NOT the reporter.\n   - start_date: only a date stated as the start of the suspect drug (\"started on ...\"). A diary line saying a tablet was taken on some day is not a start date.\n   - stop_date / action_taken: the action taken with the suspect drug BECAUSE OF the event, as stated by the treating team (withdrawn, interrupted, dose reduced, unchanged). A single missed dose noted in a diary is not an action taken.\n   - event_onset_date: the date the adverse event UNDER REPORT first appeared (including its first signs). Do not return onset dates of other, unrelated symptoms. If the document gives more than one date for the onset of that event, return each one separately.\n7. Several drugs: for dose, route, frequency, indication, start_date, stop_date, action_taken, dechallenge and rechallenge set \"drug\" to the name of the drug the value belongs to (leave \"drug\" empty for other fields). Never attach one drug's dose or indication to another drug.\n8. event_verbatim: return each distinct adverse event separately, each with its own quote.\n9. Return only the fields listed below; other fields are not taken from this type of document.\n",
+          "input": "Document: article.txt (type: literature_article)\n\nFields to extract:\n- event_onset_date: Date the adverse event started\n- frequency: Dosing frequency\n\nDocument text:\n<<PAGE 1>>\nA case of complete atrioventricular block with extremely high blood concentration of azelnidipine.\nJournal of pharmaceutical health care and sciences (2021). Ide N, Mochizuki A, Kagawa Y, Ito M.\nLicense: cc by | PMC8638419 | doi:10.1186/s40780-021-00230-x\n\nA case of complete atrioventricular block with extremely high blood concentration of azelnidipine\n\nAbstract\nAzelnidipine, a dihydropyridine calcium channel blocker (CCB), has less adverse effects (e.g. hot flushes and reflex tachycardia) compared to other dihydropyridine CCBs. Azelnidipine has been reported to reduce heart rate as opposed to inducing tachycardia. No evidence of bradycardia or complete atrioventricular block (CAVB) with azelnidipine treatment has been reported.\nIn the present study, a 92-year-old woman was diagnosed with CAVB while taking azelnidipine and simvastatin for an extended period of time, and referred to our medical center. It was thought that the CAVB may have been an adverse effect of azelnidipine treatment. Specifically, it was considered that in this patient, one of the causes might be the concomitant use of simvastatin inhibiting the metabolism of azelnidipine by cytochrome P450 enzyme 3A4. Consequently, it was suggested to the patient’s physician that the patient’s serum azelnidipine levels be measured and treatment with azelnidipine and simvastatin be discontinued. The patient’s serum concentration of azelnidipine at the time of her visit to our center was 63.4 ng/mL, higher than the normal acceptable level. There was no occurrence of CAVB for 4 weeks, to present, following discontinuation of azelnidipine and simvastatin treatment.\nAzelnidipine has a different mechanism of action that other CCBs. In very rare cases, it may cause CAVB when combined with CYP3A4 inhibitors. If a patient taking azelnidipine is diagnosed with CAVB, physicians should suspect that the condition may be an adverse effect of azelnidipine and should consider discontinuing azelnidipine. And, in the elderly, it is necessary to avoid concomitant use of CYP3A4 inhibitors.\nKeywords: Azelnidipine, Adverse events, Calcium channel blocker, Complete atrioventricular block, Drug interaction, Simvastatin\n\n<<PAGE 2>>\nBackground\nAll calcium channel blockers (CCBs) commonly block the L-type calcium ion channel. The main therapeutic effects of CCBs include vasodilation of coronary and peripheral arteries, negative inotropic effects, and a decrease in heart rate and atrioventricular conduction [1, 2]. There are 3 categories of CCBs: dihydropyridines, benzothiazepines, and phenylalkylamines. Benzothiazepine CCBs (e.g., diltiazem) and phenylalkylamine CCBs (e.g., verapamil) are more selective for the myocardium than for vascular smooth muscle. Therefore, these CCBs are characterized by a weak antihypertensive effect and a strong negative inotropic effect, which may cause bradycardia and atrioventricular block. Dihydropyridine CCBs have strong vasodilator actions and are often used to treat hypertension. However, rapid vasodilation can cause adverse effect such as hot flushes, headache, and reflex tachycardia. Azelnidipine, classified as a dihydropyridine CCB, has a higher lipophilicity compared to other CCBs, resulting in higher affinity with vascular tissue and prolonged distribution in the tissue [3–5]. Therefore, its antihypertensive effects are mild, duration of its activities long, and a single dose daily can control blood pressure for 24 h [4, 6, 7]. In addition, azelnidipine has few adverse effects such as hot flushes and headaches. Whilst benzothiazepine and phenylalkylamine CCBs may result in bradycardia and atrioventricular block, dihydropyridine CCBs rarely cause such adverse effects, as shown in vivo [1, 2]. Rather, dihydropyridine CCBs generally trigger reflex tachycardia. Unlike other dihydropyridine CCBs, azelnidipine does not increase heart rate, but rather decreases it [4, 5, 7–9]. To the best of the authors’ knowledge, there have been no previous case reports of complete atrioventricular block (CAVB) with azelnidipine treatment. The present case report is one of an elderly patient who had been taking azelnidipine for a long time and had suspected CAVB, which she thought may be an adverse event associated with azelnidipine treatment.\n\n<<PAGE 3>>\nCase presentation\nThe patient was a 92-year-old woman who regularly saw her private physician and was being treated for hypertension, hyperlipidemia and chronic gastritis with azelnidipine 16 mg/day, simvastatin 5 mg/day, famotidine 20 mg/day, irsogladine maleate 4 mg/day and mosapride citrate hydrate 15 mg/day. Her medications had not been changed in over a decade, and she had never been diagnosed with CAVB. She complained of dyspnea and palpitation, and was consequently examined by her private physician (Day 1). She was prescribed furosemide 20 mg/day, spironolactone 25 mg/day and cibenzoline 100 mg/day. Three days later (Day 4), the patient was diagnosed with CAVB by electrocardiogram (ECG), and referred to our medical center by her private physician. When she arrived at our medical center, her blood pressure was 159/66 mmHg, and her heart rate was 44 beats/min. The patient’s ECG upon arrival at our center is shown in Fig. 1 and laboratory data is shown in Table 1. The patient was immediately hospitalized and underwent surgery for implantation of a temporary pacemaker, and intravenous furosemide treatment commenced. Oral administration of furosemide, spironolactone and cibenzoline was discontinued, however all other oral medications, including azelnidipine, continued. Three days after admission (Day 7), the patient returned to a normal sinus rhythm and the symptoms of dyspnea resolved. The temporary pacemaker was removed and intravenous furosemide discontinued. After removal of the temporary pacemaker, ECG examina",
+          "output": "{\"facts\": [{\"field\": \"frequency\", \"value\": \"daily\", \"quote\": \"daily\", \"page\": 2, \"drug\": \"azelnidipine\"}, {\"field\": \"frequency\", \"value\": \"16 mg/day\", \"quote\": \"16 mg/day\", \"page\": 3, \"drug\": \"azelnidipine\"}, {\"field\": \"event_onset_date\", \"value\": \"Day 4\", \"quote\": \"Three days later (Day 4), the patient was diagnosed with CAVB\", \"page\": 3, \"drug\": \"\"}, {\"field\": \"frequency\", \"value\": \"5 mg/day\", \"quote\": \"5 mg/day\", \"page\": 3, \"drug\": \"simvastatin\"}, {\"field\": \"frequency\", \"value\": \"20 mg/day\", \"quote\": \"20 mg/day\", \"page\": 3, \"drug\": \"famotidine\"}, {\"field\": \"frequency\", \"value\": \"4 mg/day\", \"quote\": \"4 mg/day\", \"page\": 3, \"drug\": \"irsogladine maleate\"}, {\"field\": \"frequency\", \"value\": \"15 mg/day\", \"quote\": \"15 mg/day\", \"page\": 3, \"drug\": \"mosapride citrate hydrate\"}, {\"field\": \"frequency\", \"value\": \"20 mg/day\", \"quote\": \"20 mg/day\", \"page\": 3, \"drug\": \"furosemide\"}, {\"field\": \"frequency\", \"value\": \"25 mg/day\", \"quote\": \"25 mg/day\", \"page\": 3, \"drug\": \"spironolactone\"}, {\"field\": \"frequency\", \"value\": \"100 mg/day\", \"quote\": \"100 mg/day\", \"page\": 3, \"drug\": \"cibenzoline\"}, {\"field\": \"event_onset_date\", \"value\": \"Day 34\", \"quote\": \"Three weeks after discharge from the hospital, she was again diagnosed by her private physician with CAVB and was again referred to our hospital (Day 34).\", \"page\": 3, \"drug\": \"\"}]}"
+        }
+      ],
+      "changes": {
+        "facts proven": [
+          "F30 frequency = daily [azelnidipine]",
+          "F31 frequency = 16 mg/day [azelnidipine]",
+          "F33 frequency = 5 mg/day [simvastatin]",
+          "F34 frequency = 20 mg/day [famotidine]",
+          "F35 frequency = 4 mg/day [irsogladine maleate]",
+          "F36 frequency = 15 mg/day [mosapride citrate hydrate]",
+          "F37 frequency = 20 mg/day [furosemide]",
+          "F38 frequency = 25 mg/day [spironolactone]",
+          "F39 frequency = 100 mg/day [cibenzoline]"
+        ],
+        "rejected by code": [
+          "F32 event_onset_date = Day 4: value 'Day 4' not supported by quote 'Three days later (Day 4), the patient was diagnosed with CAVB'",
+          "F40 event_onset_date = Day 34: value 'Day 34' not supported by quote 'Three weeks after discharge from the hospital, she was again diagnosed by her pr'"
+        ]
+      }
+    },
+    {
+      "step": 4,
+      "ts": "2026-10-28T07:47:47.502622Z",
+      "planner": "llm",
+      "reason": "Run reconciliation to detect conflicts, gaps, and minimum criteria after focused extraction.",
+      "tool": "reconcile",
+      "args": {},
+      "allowed": true,
+      "result_summary": "conflicts(unresolved)=['frequency']; open gaps=['event_onset_date', 'start_date', 'conflict:frequency']; missing minimum criteria=none; seriousness candidates=['hospitalisation']",
+      "duration_s": 2.31,
+      "planner_input": "CASE LIT-PMC8638419 | version 1 | status processing\n- D1 article.txt [literature_article, v1, 6 page(s)]: extracted, focused re-extractions used 1/1\nFacts: {'anchored': 36, 'unanchored': 4, 'conflicting': 0, 'confirmed_by_human': 0}\nFields with ONLY unanchored values (quote not found in source): ['event_onset_date']\nReconciled for current version and facts: False\nMedDRA suggested for this version: False; clock computed for this version: False\nNarrative: not drafted\nRecent steps:\n  1. ingest_documents  -> ingested 1 document(s): ['D1']; documents with untranscribed scanned pages: none\n  2. extract_facts  -> extracted from ['D1']: 27 anchored; unanchored=['frequency@D1', 'event_onset_date@D1']\n  3. extract_facts {'doc_ids': ['D1'], 'fields': ['event_onset_date', 'frequency']} -> extracted from ['D1']: 9 anchored; unanchored=['event_onset_date@D1', 'event_onset_date@D1']\n\nTools the rulebook allows now: reconcile",
+      "calls": [
+        {
+          "step": 4,
+          "role": "planner",
+          "model": "groq:openai/gpt-oss-20b",
+          "secs": 0.61,
+          "instructions": "You are the SafetyTrace orchestrator for SERIOUS clinical-trial adverse-event cases.\nGoal: bring the case to a state where a qualified human reviewer can verify it quickly and safely.\n\nYou never see documents. You see a case summary and choose ONE next tool. Explain your reason in one short sentence (shown to the reviewer as the agent trace).\n\nTools:\n- ingest_documents: load the case pack (first step only).\n- transcribe_scans: transcribe scanned pages that have no text layer. Must happen before extraction of those documents.\n- extract_facts: extract facts with verified quotes. With no arguments it processes all un-extracted documents.\n  With doc_ids AND fields it does ONE focused re-extraction (use it when a field has only unanchored values, or after a search found likely evidence).\n- search_documents: deterministic search of every page, ONLY for a MISSING minimum criterion. Give criterion = one of identifiable_patient, identifiable_reporter, suspect_product, adverse_event.\n- reconcile: detect conflicts, gaps, minimum criteria, seriousness candidates. Run it whenever facts changed.\n- suggest_meddra: suggest MedDRA terms (human selects).\n- compute_clock: compute regulatory deadlines.\n- draft_narrative: write the narrative from usable facts only (conflicts/gaps are stated by templates).\n- verify_narrative: check every pending sentence (rules first, then an independent model).\n- redraft_sentences: redraft only blocked sentences (give sentence_ids).\n- draft_followup_queries: draft follow-up questions for open gaps/conflicts (a human approves; nothing is sent).\n- request_human_review: hand over to the reviewer when automatic work is done.\n- stop: nothing useful left to do.\n\nRules you must follow:\n1. Never decide which of two conflicting values is correct, and never decide causality, expectedness, reportability or case validity.\n2. Before treating a minimum criterion as missing, search for it; if the search finds hits, do one focused extraction on those documents.\n3. If a field has only unanchored values, try one focused re-extraction on that document.\n4. After any drafting or redrafting, verify. Redraft only blocked sentences.\n5. Reconcile again whenever facts changed (for example after a follow-up reply or a focused extraction).\n6. Conflicts are decided ONLY by a human or by a site reply. Do not search or re-extract to \"resolve\" a conflict: draft a follow-up query and hand over.\n7. Missing information that is not a minimum criterion (e.g. dechallenge) is a gap",
+          "input": "CASE LIT-PMC8638419 | version 1 | status processing\n- D1 article.txt [literature_article, v1, 6 page(s)]: extracted, focused re-extractions used 1/1\nFacts: {'anchored': 36, 'unanchored': 4, 'conflicting': 0, 'confirmed_by_human': 0}\nFields with ONLY unanchored values (quote not found in source): ['event_onset_date']\nReconciled for current version and facts: False\nMedDRA suggested for this version: False; clock computed for this version: False\nNarrative: not drafted\nRecent steps:\n  1. ingest_documents  -> ingested 1 document(s): ['D1']; documents with untranscribed scanned pages: none\n  2. extract_facts  -> extracted from ['D1']: 27 anchored; unanchored=['frequency@D1', 'event_onset_date@D1']\n  3. extract_facts {'doc_ids': ['D1'], 'fields': ['event_onset_date', 'frequency']} -> extracted from ['D1']: 9 anchored; unanchored=['event_onset_date@D1', 'event_onset_date@D1']\n\nTools the policy allows right now (anything else is blocked): reconcile\n\nChoose the single next action.",
+          "output": "{\"tool\": \"reconcile\", \"doc_ids\": [], \"fields\": [], \"criterion\": \"\", \"sentence_ids\": [], \"reason\": \"Run reconciliation to detect conflicts, gaps, and minimum criteria after focused extraction.\"}"
+        },
+        {
+          "step": 4,
+          "role": "explain",
+          "model": "groq:openai/gpt-oss-20b",
+          "secs": 2.31,
+          "instructions": "You explain data conflicts in a pharmacovigilance case to a safety reviewer. One or two plain sentences per conflict. State what each source says. NEVER decide which value is correct.",
+          "input": "Conflicts:\n- field frequency: 'daily' in article.txt p.2 vs '16 mg/day' in article.txt p.3",
+          "output": "{\"explanations\": [{\"field\": \"frequency\", \"explanation\": \"Article.txt page 2 states the frequency as 'daily', while article.txt page 3 specifies the dosage as '16 mg/day'.\"}]}"
+        }
+      ],
+      "changes": {
+        "fact status changed": [
+          "F30 frequency: anchored -> conflicting",
+          "F31 frequency: anchored -> conflicting"
+        ],
+        "conflicts found": [
+          "C01 frequency: 16 mg/day vs once daily"
+        ],
+        "gaps opened": [
+          "G01 event_onset_date",
+          "G02 start_date",
+          "G03 conflict:frequency"
+        ],
+        "seriousness": [
+          "hospitalisation"
+        ],
+        "minimum criteria": [
+          "identifiable patient: present",
+          "identifiable reporter: present",
+          "suspect product: present",
+          "adverse event: present"
+        ]
+      }
+    },
+    {
+      "step": 5,
+      "ts": "2026-10-28T07:47:52.380355Z",
+      "planner": "llm",
+      "reason": "Open gaps exist for event_onset_date, start_date, and conflict:frequency; need follow-up queries.",
+      "tool": "draft_followup_queries",
+      "args": {},
+      "allowed": true,
+      "result_summary": "drafted 3 follow-up quer(ies) for ['event_onset_date', 'start_date', 'conflict:frequency'] (human approval required; never sent)",
+      "duration_s": 2.25,
+      "planner_input": "CASE LIT-PMC8638419 | version 1 | status processing\n- D1 article.txt [literature_article, v1, 6 page(s)]: extracted, focused re-extractions used 1/1\nFacts: {'anchored': 34, 'unanchored': 4, 'conflicting': 2, 'confirmed_by_human': 0}\nFields with ONLY unanchored values (quote not found in source): ['event_onset_date']\nReconciled for current version and facts: True\nMinimum criteria present: {'identifiable_patient': True, 'identifiable_reporter': True, 'suspect_product': True, 'adverse_event': True}\nConflict C01 on frequency: values ['16 mg/day', 'once daily']; resolution=None\nOpen gap G01 event_onset_date (required_for_serious); searched=False, search hits in none; query=none\nOpen gap G02 start_date (required_for_serious); searched=False, search hits in none; query=none\nOpen gap G03 conflict:frequency (conflict); searched=False, search hits in none; query=none\nSeriousness candidates: ['hospitalisation']\nMedDRA suggested for this version: False; clock computed for this version: False\nNarrative: not drafted\nRecent steps:\n  1. ingest_documents  -> ingested 1 document(s): ['D1']; documents with untranscribed scanned pages: none\n  2. extract_facts  -> extracted from ['D1']: 27 anchored; unanchored=['frequency@D1', 'event_onset_date@D1']\n  3. extract_facts {'doc_ids': ['D1'], 'fields': ['event_onset_date', 'frequency']} -> extracted from ['D1']: 9 anchored; unanchored=['event_onset_date@D1', 'event_onset_date@D1']\n  4. reconcile  -> conflicts(unresolved)=['frequency']; open gaps=['event_onset_date', 'start_date', 'conflict:frequency']; missing minimum criteria=none; seriousness candidates=[\n\nTools the rulebook allows now: suggest_meddra, compute_clock, draft_narrative, draft_followup_queries",
+      "calls": [
+        {
+          "step": 5,
+          "role": "planner",
+          "model": "groq:openai/gpt-oss-20b",
+          "secs": 2.57,
+          "instructions": "You are the SafetyTrace orchestrator for SERIOUS clinical-trial adverse-event cases.\nGoal: bring the case to a state where a qualified human reviewer can verify it quickly and safely.\n\nYou never see documents. You see a case summary and choose ONE next tool. Explain your reason in one short sentence (shown to the reviewer as the agent trace).\n\nTools:\n- ingest_documents: load the case pack (first step only).\n- transcribe_scans: transcribe scanned pages that have no text layer. Must happen before extraction of those documents.\n- extract_facts: extract facts with verified quotes. With no arguments it processes all un-extracted documents.\n  With doc_ids AND fields it does ONE focused re-extraction (use it when a field has only unanchored values, or after a search found likely evidence).\n- search_documents: deterministic search of every page, ONLY for a MISSING minimum criterion. Give criterion = one of identifiable_patient, identifiable_reporter, suspect_product, adverse_event.\n- reconcile: detect conflicts, gaps, minimum criteria, seriousness candidates. Run it whenever facts changed.\n- suggest_meddra: suggest MedDRA terms (human selects).\n- compute_clock: compute regulatory deadlines.\n- draft_narrative: write the narrative from usable facts only (conflicts/gaps are stated by templates).\n- verify_narrative: check every pending sentence (rules first, then an independent model).\n- redraft_sentences: redraft only blocked sentences (give sentence_ids).\n- draft_followup_queries: draft follow-up questions for open gaps/conflicts (a human approves; nothing is sent).\n- request_human_review: hand over to the reviewer when automatic work is done.\n- stop: nothing useful left to do.\n\nRules you must follow:\n1. Never decide which of two conflicting values is correct, and never decide causality, expectedness, reportability or case validity.\n2. Before treating a minimum criterion as missing, search for it; if the search finds hits, do one focused extraction on those documents.\n3. If a field has only unanchored values, try one focused re-extraction on that document.\n4. After any drafting or redrafting, verify. Redraft only blocked sentences.\n5. Reconcile again whenever facts changed (for example after a follow-up reply or a focused extraction).\n6. Conflicts are decided ONLY by a human or by a site reply. Do not search or re-extract to \"resolve\" a conflict: draft a follow-up query and hand over.\n7. Missing information that is not a minimum criterion (e.g. dechallenge) is a gap",
+          "input": "CASE LIT-PMC8638419 | version 1 | status processing\n- D1 article.txt [literature_article, v1, 6 page(s)]: extracted, focused re-extractions used 1/1\nFacts: {'anchored': 34, 'unanchored': 4, 'conflicting': 2, 'confirmed_by_human': 0}\nFields with ONLY unanchored values (quote not found in source): ['event_onset_date']\nReconciled for current version and facts: True\nMinimum criteria present: {'identifiable_patient': True, 'identifiable_reporter': True, 'suspect_product': True, 'adverse_event': True}\nConflict C01 on frequency: values ['16 mg/day', 'once daily']; resolution=None\nOpen gap G01 event_onset_date (required_for_serious); searched=False, search hits in none; query=none\nOpen gap G02 start_date (required_for_serious); searched=False, search hits in none; query=none\nOpen gap G03 conflict:frequency (conflict); searched=False, search hits in none; query=none\nSeriousness candidates: ['hospitalisation']\nMedDRA suggested for this version: False; clock computed for this version: False\nNarrative: not drafted\nRecent steps:\n  1. ingest_documents  -> ingested 1 document(s): ['D1']; documents with untranscribed scanned pages: none\n  2. extract_facts  -> extracted from ['D1']: 27 anchored; unanchored=['frequency@D1', 'event_onset_date@D1']\n  3. extract_facts {'doc_ids': ['D1'], 'fields': ['event_onset_date', 'frequency']} -> extracted from ['D1']: 9 anchored; unanchored=['event_onset_date@D1', 'event_onset_date@D1']\n  4. reconcile  -> conflicts(unresolved)=['frequency']; open gaps=['event_onset_date', 'start_date', 'conflict:frequency']; missing minimum criteria=none; seriousness candidates=[\n\nTools the policy allows right now (anything else is blocked): suggest_meddra, compute_clock, draft_narrative, draft_followup_queries\n\nChoose the single next action.",
+          "output": "{\"reason\": \"Open gaps exist for event_onset_date, start_date, and conflict:frequency; need follow-up queries.\", \"tool\": \"draft_followup_queries\", \"doc_ids\": [], \"fields\": [], \"criterion\": \"\", \"sentence_ids\": []}"
+        },
+        {
+          "step": 5,
+          "role": "followup",
+          "model": "groq:openai/gpt-oss-20b",
+          "secs": 2.25,
+          "instructions": "You draft short, specific, polite follow-up questions from a drug-safety team to a clinical-trial site. One question per item. Name the exact information needed and, for conflicts, quote both values and their sources. No speculation, no medical judgement.",
+          "input": "Items:\nG01: missing: event onset date\nG02: missing: start date of the suspect drug\nG03: conflicting dosing frequency: daily (article.txt) vs 16 mg/day (article.txt)",
+          "output": "{\"queries\": [{\"gap_id\": \"G01\", \"query\": \"Please provide the event onset date for the adverse event referenced in the report.\"}, {\"gap_id\": \"G02\", \"query\": \"Please provide the start date of the suspect drug administration for the patient in question.\"}, {\"gap_id\": \"G03\", \"query\": \"There is a conflict regarding dosing frequency: the article states 'daily' while another section states '16 mg/day'. Please clarify the correct dosing frequency and provide the source reference for each value.\"}]}"
+        }
+      ],
+      "changes": {
+        "questions drafted": [
+          "G01: Please provide the event onset date for the adverse event referenced in the report.",
+          "G02: Please provide the start date of the suspect drug administration for the patient in question.",
+          "G03: There is a conflict regarding dosing frequency: the article states 'daily' while another section states '16 mg/day'. Please clarify the correct dosing frequency and provide the source reference for ea"
+        ]
+      }
+    },
+    {
+      "step": 6,
+      "ts": "2026-10-28T07:47:59.894486Z",
+      "planner": "llm",
+      "reason": "MedDRA terms are needed before drafting the narrative; suggesting them now is the cheapest next step that unblocks narrative drafting.",
+      "tool": "suggest_meddra",
+      "args": {
+        "criterion": "suggest_meddra"
+      },
+      "allowed": true,
+      "result_summary": "MedDRA suggestions (demo vocabulary): 'complete atrioventricular block' -> Atrioventricular block complete",
+      "duration_s": 2.74,
+      "planner_input": "CASE LIT-PMC8638419 | version 1 | status processing\n- D1 article.txt [literature_article, v1, 6 page(s)]: extracted, focused re-extractions used 1/1\nFacts: {'anchored': 34, 'unanchored': 4, 'conflicting': 2, 'confirmed_by_human': 0}\nFields with ONLY unanchored values (quote not found in source): ['event_onset_date']\nReconciled for current version and facts: True\nMinimum criteria present: {'identifiable_patient': True, 'identifiable_reporter': True, 'suspect_product': True, 'adverse_event': True}\nConflict C01 on frequency: values ['16 mg/day', 'once daily']; resolution=None\nOpen gap G01 event_onset_date (required_for_serious); searched=False, search hits in none; query=drafted (waiting for a human to approve it; nothing more for the agent to do on this gap)\nOpen gap G02 start_date (required_for_serious); searched=False, search hits in none; query=drafted (waiting for a human to approve it; nothing more for the agent to do on this gap)\nOpen gap G03 conflict:frequency (conflict); searched=False, search hits in none; query=drafted (waiting for a human to approve it; nothing more for the agent to do on this gap)\nSeriousness candidates: ['hospitalisation']\nMedDRA suggested for this version: False; clock computed for this version: False\nNarrative: not drafted\nRecent steps:\n  1. ingest_documents  -> ingested 1 document(s): ['D1']; documents with untranscribed scanned pages: none\n  2. extract_facts  -> extracted from ['D1']: 27 anchored; unanchored=['frequency@D1', 'event_onset_date@D1']\n  3. extract_facts {'doc_ids': ['D1'], 'fields': ['event_onset_date', 'frequency']} -> extracted from ['D1']: 9 anchored; unanchored=['event_onset_date@D1', 'event_onset_date@D1']\n  4. reconcile  -> conflicts(unresolved)=['frequency']; open gaps=['event_onset_date', 'start_date', 'conflict:frequency']; missing minimum criteria=none; seriousness candidates=[\n  5. draft_followup_queries  -> drafted 3 follow-up quer(ies) for ['event_onset_date', 'start_date', 'conflict:frequency'] (human approval required; never sent)\n\nTools the rulebook allows now: suggest_meddra, compute_clock, draft_narrative",
+      "calls": [
+        {
+          "step": 6,
+          "role": "planner",
+          "model": "groq:qwen/qwen3.8-27b",
+          "secs": 3.12,
+          "instructions": "You are the SafetyTrace orchestrator for SERIOUS clinical-trial adverse-event cases.\nGoal: bring the case to a state where a qualified human reviewer can verify it quickly and safely.\n\nYou never see documents. You see a case summary and choose ONE next tool. Explain your reason in one short sentence (shown to the reviewer as the agent trace).\n\nTools:\n- ingest_documents: load the case pack (first step only).\n- transcribe_scans: transcribe scanned pages that have no text layer. Must happen before extraction of those documents.\n- extract_facts: extract facts with verified quotes. With no arguments it processes all un-extracted documents.\n  With doc_ids AND fields it does ONE focused re-extraction (use it when a field has only unanchored values, or after a search found likely evidence).\n- search_documents: deterministic search of every page, ONLY for a MISSING minimum criterion. Give criterion = one of identifiable_patient, identifiable_reporter, suspect_product, adverse_event.\n- reconcile: detect conflicts, gaps, minimum criteria, seriousness candidates. Run it whenever facts changed.\n- suggest_meddra: suggest MedDRA terms (human selects).\n- compute_clock: compute regulatory deadlines.\n- draft_narrative: write the narrative from usable facts only (conflicts/gaps are stated by templates).\n- verify_narrative: check every pending sentence (rules first, then an independent model).\n- redraft_sentences: redraft only blocked sentences (give sentence_ids).\n- draft_followup_queries: draft follow-up questions for open gaps/conflicts (a human approves; nothing is sent).\n- request_human_review: hand over to the reviewer when automatic work is done.\n- stop: nothing useful left to do.\n\nRules you must follow:\n1. Never decide which of two conflicting values is correct, and never decide causality, expectedness, reportability or case validity.\n2. Before treating a minimum criterion as missing, search for it; if the search finds hits, do one focused extraction on those documents.\n3. If a field has only unanchored values, try one focused re-extraction on that document.\n4. After any drafting or redrafting, verify. Redraft only blocked sentences.\n5. Reconcile again whenever facts changed (for example after a follow-up reply or a focused extraction).\n6. Conflicts are decided ONLY by a human or by a site reply. Do not search or re-extract to \"resolve\" a conflict: draft a follow-up query and hand over.\n7. Missing information that is not a minimum criterion (e.g. dechallenge) is a gap",
+          "input": "CASE LIT-PMC8638419 | version 1 | status processing\n- D1 article.txt [literature_article, v1, 6 page(s)]: extracted, focused re-extractions used 1/1\nFacts: {'anchored': 34, 'unanchored': 4, 'conflicting': 2, 'confirmed_by_human': 0}\nFields with ONLY unanchored values (quote not found in source): ['event_onset_date']\nReconciled for current version and facts: True\nMinimum criteria present: {'identifiable_patient': True, 'identifiable_reporter': True, 'suspect_product': True, 'adverse_event': True}\nConflict C01 on frequency: values ['16 mg/day', 'once daily']; resolution=None\nOpen gap G01 event_onset_date (required_for_serious); searched=False, search hits in none; query=drafted (waiting for a human to approve it; nothing more for the agent to do on this gap)\nOpen gap G02 start_date (required_for_serious); searched=False, search hits in none; query=drafted (waiting for a human to approve it; nothing more for the agent to do on this gap)\nOpen gap G03 conflict:frequency (conflict); searched=False, search hits in none; query=drafted (waiting for a human to approve it; nothing more for the agent to do on this gap)\nSeriousness candidates: ['hospitalisation']\nMedDRA suggested for this version: False; clock computed for this version: False\nNarrative: not drafted\nRecent steps:\n  1. ingest_documents  -> ingested 1 document(s): ['D1']; documents with untranscribed scanned pages: none\n  2. extract_facts  -> extracted from ['D1']: 27 anchored; unanchored=['frequency@D1', 'event_onset_date@D1']\n  3. extract_facts {'doc_ids': ['D1'], 'fields': ['event_onset_date', 'frequency']} -> extracted from ['D1']: 9 anchored; unanchored=['event_onset_date@D1', 'event_onset_date@D1']\n  4. reconcile  -> conflicts(unresolved)=['frequency']; open gaps=['event_onset_date', 'start_date', 'conflict:frequency']; missing minimum criteria=none; seriousness candidates=[\n  5. draft_followup_queries  -> drafted 3 follow-up quer(ies) for ['event_onset_date', 'start_date', 'conflict:frequency'] (human approval required; never sent)\n\nTools the policy allows right now (anything else is blocked): suggest_meddra, compute_clock, draft_narrative\n\nChoose the single next action.",
+          "output": "{\"criterion\": \"suggest_meddra\", \"doc_ids\": [], \"fields\": [], \"reason\": \"MedDRA terms are needed before drafting the narrative; suggesting them now is the cheapest next step that unblocks narrative drafting.\", \"sentence_ids\": [], \"tool\": \"suggest_meddra\"}"
+        },
+        {
+          "step": 6,
+          "role": "meddra_rerank",
+          "model": "groq:openai/gpt-oss-120b",
+          "secs": 2.57,
+          "instructions": "You suggest MedDRA Preferred Terms for an adverse-event verbatim. Choose ONLY from the candidate list. Return the 5 best candidates in order with a one-line rationale tied to the verbatim. Do not invent terms.",
+          "input": "Verbatim: complete atrioventricular block\nCandidates:\n- Atrioventricular block complete\n- Atrioventricular block\n- Atrioventricular block first degree\n- Atrioventricular block second degree\n- Neuromuscular block prolonged\n- Bundle branch block\n- Bundle branch block left\n- Dilatation ventricular\n- Ventricular fibrillation\n- Ventricular arrhythmia\n- Ventricular dysfunction\n- Ventricular hypertrophy\n- Ventricular tachycardia\n- Testicular atrophy\n- Left ventricular dilatation\n- Right ventricular dilatation\n- Right ventricular failure\n- Ventricular extrasystoles\n- Ventricular enlargement\n- Cardiac ventricular thrombosis",
+          "output": "{\"ranked\": [{\"pt\": \"Atrioventricular block complete\", \"rationale\": \"Exact match to the verbatim description of a complete AV block.\"}, {\"pt\": \"Atrioventricular block\", \"rationale\": \"General term encompassing all degrees of AV block, appropriate when the specific degree is known.\"}, {\"pt\": \"Bundle branch block\", \"rationale\": \"Related conduction disorder of the ventricles that may be reported alongside AV block.\"}, {\"pt\": \"Atrioventricular block second degree\", \"rationale\": \"Alternative AV block term; included as a close but less specific candidate.\"}, {\"pt\": \"Ventricular arrhythmia\", \"rationale\": \"Broad category of ventricular rhythm disturbances that could be considered when classifying AV block events.\"}]}"
+        }
+      ],
+      "changes": {
+        "MedDRA suggested": [
+          "F18 -> Atrioventricular block complete"
+        ]
+      }
+    },
+    {
+      "step": 7,
+      "ts": "2026-10-28T07:48:04.419414Z",
+      "planner": "llm",
+      "reason": "All required facts and gaps have been addressed; the next step is to draft the narrative.",
+      "tool": "draft_narrative",
+      "args": {},
+      "allowed": true,
+      "result_summary": "drafted 17 sentences (14 generated, 3 conflict/gap templates)",
+      "duration_s": 2.04,
+      "planner_input": "CASE LIT-PMC8638419 | version 1 | status processing\n- D1 article.txt [literature_article, v1, 6 page(s)]: extracted, focused re-extractions used 1/1\nFacts: {'anchored': 34, 'unanchored': 4, 'conflicting': 2, 'confirmed_by_human': 0}\nFields with ONLY unanchored values (quote not found in source): ['event_onset_date']\nReconciled for current version and facts: True\nMinimum criteria present: {'identifiable_patient': True, 'identifiable_reporter': True, 'suspect_product': True, 'adverse_event': True}\nConflict C01 on frequency: values ['16 mg/day', 'once daily']; resolution=None\nOpen gap G01 event_onset_date (required_for_serious); searched=False, search hits in none; query=drafted (waiting for a human to approve it; nothing more for the agent to do on this gap)\nOpen gap G02 start_date (required_for_serious); searched=False, search hits in none; query=drafted (waiting for a human to approve it; nothing more for the agent to do on this gap)\nOpen gap G03 conflict:frequency (conflict); searched=False, search hits in none; query=drafted (waiting for a human to approve it; nothing more for the agent to do on this gap)\nSeriousness candidates: ['hospitalisation']\nMedDRA suggested for this version: True; clock computed for this version: False\nNarrative: not drafted\nRecent steps:\n  1. ingest_documents  -> ingested 1 document(s): ['D1']; documents with untranscribed scanned pages: none\n  2. extract_facts  -> extracted from ['D1']: 27 anchored; unanchored=['frequency@D1', 'event_onset_date@D1']\n  3. extract_facts {'doc_ids': ['D1'], 'fields': ['event_onset_date', 'frequency']} -> extracted from ['D1']: 9 anchored; unanchored=['event_onset_date@D1', 'event_onset_date@D1']\n  4. reconcile  -> conflicts(unresolved)=['frequency']; open gaps=['event_onset_date', 'start_date', 'conflict:frequency']; missing minimum criteria=none; seriousness candidates=[\n  5. draft_followup_queries  -> drafted 3 follow-up quer(ies) for ['event_onset_date', 'start_date', 'conflict:frequency'] (human approval required; never sent)\n  6. suggest_meddra {'criterion': 'suggest_meddra'} -> MedDRA suggestions (demo vocabulary): 'complete atrioventricular block' -> Atrioventricular block complete\n\nTools the rulebook allows now: compute_clock, draft_narrative",
+      "calls": [
+        {
+          "step": 7,
+          "role": "planner",
+          "model": "groq:openai/gpt-oss-20b",
+          "secs": 1.78,
+          "instructions": "You are the SafetyTrace orchestrator for SERIOUS clinical-trial adverse-event cases.\nGoal: bring the case to a state where a qualified human reviewer can verify it quickly and safely.\n\nYou never see documents. You see a case summary and choose ONE next tool. Explain your reason in one short sentence (shown to the reviewer as the agent trace).\n\nTools:\n- ingest_documents: load the case pack (first step only).\n- transcribe_scans: transcribe scanned pages that have no text layer. Must happen before extraction of those documents.\n- extract_facts: extract facts with verified quotes. With no arguments it processes all un-extracted documents.\n  With doc_ids AND fields it does ONE focused re-extraction (use it when a field has only unanchored values, or after a search found likely evidence).\n- search_documents: deterministic search of every page, ONLY for a MISSING minimum criterion. Give criterion = one of identifiable_patient, identifiable_reporter, suspect_product, adverse_event.\n- reconcile: detect conflicts, gaps, minimum criteria, seriousness candidates. Run it whenever facts changed.\n- suggest_meddra: suggest MedDRA terms (human selects).\n- compute_clock: compute regulatory deadlines.\n- draft_narrative: write the narrative from usable facts only (conflicts/gaps are stated by templates).\n- verify_narrative: check every pending sentence (rules first, then an independent model).\n- redraft_sentences: redraft only blocked sentences (give sentence_ids).\n- draft_followup_queries: draft follow-up questions for open gaps/conflicts (a human approves; nothing is sent).\n- request_human_review: hand over to the reviewer when automatic work is done.\n- stop: nothing useful left to do.\n\nRules you must follow:\n1. Never decide which of two conflicting values is correct, and never decide causality, expectedness, reportability or case validity.\n2. Before treating a minimum criterion as missing, search for it; if the search finds hits, do one focused extraction on those documents.\n3. If a field has only unanchored values, try one focused re-extraction on that document.\n4. After any drafting or redrafting, verify. Redraft only blocked sentences.\n5. Reconcile again whenever facts changed (for example after a follow-up reply or a focused extraction).\n6. Conflicts are decided ONLY by a human or by a site reply. Do not search or re-extract to \"resolve\" a conflict: draft a follow-up query and hand over.\n7. Missing information that is not a minimum criterion (e.g. dechallenge) is a gap",
+          "input": "CASE LIT-PMC8638419 | version 1 | status processing\n- D1 article.txt [literature_article, v1, 6 page(s)]: extracted, focused re-extractions used 1/1\nFacts: {'anchored': 34, 'unanchored': 4, 'conflicting': 2, 'confirmed_by_human': 0}\nFields with ONLY unanchored values (quote not found in source): ['event_onset_date']\nReconciled for current version and facts: True\nMinimum criteria present: {'identifiable_patient': True, 'identifiable_reporter': True, 'suspect_product': True, 'adverse_event': True}\nConflict C01 on frequency: values ['16 mg/day', 'once daily']; resolution=None\nOpen gap G01 event_onset_date (required_for_serious); searched=False, search hits in none; query=drafted (waiting for a human to approve it; nothing more for the agent to do on this gap)\nOpen gap G02 start_date (required_for_serious); searched=False, search hits in none; query=drafted (waiting for a human to approve it; nothing more for the agent to do on this gap)\nOpen gap G03 conflict:frequency (conflict); searched=False, search hits in none; query=drafted (waiting for a human to approve it; nothing more for the agent to do on this gap)\nSeriousness candidates: ['hospitalisation']\nMedDRA suggested for this version: True; clock computed for this version: False\nNarrative: not drafted\nRecent steps:\n  1. ingest_documents  -> ingested 1 document(s): ['D1']; documents with untranscribed scanned pages: none\n  2. extract_facts  -> extracted from ['D1']: 27 anchored; unanchored=['frequency@D1', 'event_onset_date@D1']\n  3. extract_facts {'doc_ids': ['D1'], 'fields': ['event_onset_date', 'frequency']} -> extracted from ['D1']: 9 anchored; unanchored=['event_onset_date@D1', 'event_onset_date@D1']\n  4. reconcile  -> conflicts(unresolved)=['frequency']; open gaps=['event_onset_date', 'start_date', 'conflict:frequency']; missing minimum criteria=none; seriousness candidates=[\n  5. draft_followup_queries  -> drafted 3 follow-up quer(ies) for ['event_onset_date', 'start_date', 'conflict:frequency'] (human approval required; never sent)\n  6. suggest_meddra {'criterion': 'suggest_meddra'} -> MedDRA suggestions (demo vocabulary): 'complete atrioventricular block' -> Atrioventricular block complete\n\nTools the policy allows right now (anything else is blocked): compute_clock, draft_narrative\n\nChoose the single next action.",
+          "output": "{\"reason\": \"All required facts and gaps have been addressed; the next step is to draft the narrative.\", \"tool\": \"draft_narrative\", \"doc_ids\": [], \"fields\": [], \"criterion\": \"\", \"sentence_ids\": []}"
+        },
+        {
+          "step": 7,
+          "role": "draft",
+          "model": "gemini:gemini-3.5-flash-lite",
+          "secs": 2.04,
+          "instructions": "You write the case narrative for a serious adverse-event safety report, using ONLY the facts provided.\n\nRules:\n1. Every sentence must cite the IDs of the facts it uses in \"fact_ids\". A sentence with no fact is not allowed.\n2. Use only information in the facts. Do not add causes, diagnoses, interpretations, dates, doses or drugs that are not in the facts.\n3. Keep dates, doses and numbers exactly as written in the facts.\n4. Order: patient and study -> suspect drug -> event and onset -> seriousness -> labs -> treatment -> action taken -> dechallenge/rechallenge -> outcome -> concomitant medications -> the reporter's own causality assessment (if a fact states one) -> reporter.\n5. One idea per sentence. Plain, neutral, clinical English. No causality judgement of your own (you may report an investigator_causality fact as the reporter's assessment).\n6. Some fields are deliberately missing (conflicts or gaps are handled separately). Do not mention them.\n7. Facts tagged [drug: X] belong to drug X only. When there is more than one drug, name the drug in every sentence about a dose, route, frequency, indication, date or action, and never combine one drug's attributes with another drug's.\n",
+          "input": "Facts (id | field | value):\nF01 | reporter_name_or_role | NI\nF02 | reporter_type | investigator\nF03 | patient_age | 92\nF04 | patient_sex | female\nF05 | relevant_history | hypertension\nF06 | relevant_history | hyperlipidemia\nF07 | relevant_history | chronic gastritis\nF08 | drug_name | azelnidipine\nF09 | dose [drug: azelnidipine] | 16 mg/day\nF10 | route [drug: azelnidipine] | oral\nF12 | indication [drug: azelnidipine] | hypertension\nF13 | action_taken [drug: azelnidipine] | withdrawn\nF14 | drug_name | simvastatin\nF15 | dose [drug: simvastatin] | 5 mg/day\nF16 | indication [drug: simvastatin] | hyperlipidemia\nF17 | action_taken [drug: simvastatin] | withdrawn\nF18 | event_verbatim | complete atrioventricular block\nF20 | seriousness_criteria | hospitalisation\nF21 | outcome | recovered\nF22 | dechallenge [drug: azelnidipine] | positive\nF23 | treatment_given | temporary pacemaker\nF24 | treatment_given | furosemide\nF25 | relevant_labs | 63.4 ng/mL\nF26 | concomitant_meds | famotidine\nF27 | concomitant_meds | irsogladine maleate\nF28 | concomitant_meds | mosapride citrate hydrate\nF29 | investigator_causality | probable",
+          "output": "{\"sentences\": [{\"text\": \"The patient is a 92-year-old female with a history of hypertension, hyperlipidemia, and chronic gastritis.\", \"fact_ids\": [\"F03\", \"F04\", \"F05\", \"F06\", \"F07\"]}, {\"text\": \"Azelnidipine was administered orally at a dose of 16 mg/day for hypertension.\", \"fact_ids\": [\"F08\", \"F09\", \"F10\", \"F12\"]}, {\"text\": \"Simvastatin was administered at a dose of 5 mg/day for hyperlipidemia.\", \"fact_ids\": [\"F14\", \"F15\", \"F16\"]}, {\"text\": \"The patient experienced complete atrioventricular block.\", \"fact_ids\": [\"F18\"]}, {\"text\": \"The event resulted in hospitalisation.\", \"fact_ids\": [\"F20\"]}, {\"text\": \"Relevant laboratory findings showed 63.4 ng/mL.\", \"fact_ids\": [\"F25\"]}, {\"text\": \"Treatment given included temporary pacemaker and furosemide.\", \"fact_ids\": [\"F23\", \"F24\"]}, {\"text\": \"Action taken for azelnidipine was withdrawn.\", \"fact_ids\": [\"F13\"]}, {\"text\": \"Action taken for simvastatin was withdrawn.\", \"fact_ids\": [\"F17\"]}, {\"text\": \"Dechallenge for azelnidipine was positive.\", \"fact_ids\": [\"F22\"]}, {\"text\": \"The outcome for the event was recovered.\", \"fact_ids\": [\"F21\"]}, {\"text\": \"Concomitant medications included famotidine, irsogladine maleate, and mosapride citrate hydrate.\", \"fact_ids\": [\"F26\", \"F27\", \"F28\"]}, {\"text\": \"The investigator's causality assessment for the event was probable.\", \"fact_ids\": [\"F29\"]}, {\"text\": \"The reporter was an investigator.\", \"fact_ids\": [\"F02\"]}]}"
+        }
+      ],
+      "changes": {
+        "narrative written": [
+          "S01 (AI): The patient is a 92-year-old female with a history of hypertension, hyperlipidemia, and chronic gastritis.",
+          "S02 (AI): Azelnidipine was administered orally at a dose of 16 mg/day for hypertension.",
+          "S03 (AI): Simvastatin was administered at a dose of 5 mg/day for hyperlipidemia.",
+          "S04 (AI): The patient experienced complete atrioventricular block.",
+          "S05 (AI): The event resulted in hospitalisation.",
+          "S06 (AI): Relevant laboratory findings showed 63.4 ng/mL.",
+          "S07 (AI): Treatment given included temporary pacemaker and furosemide.",
+          "S08 (AI): Action taken for azelnidipine was withdrawn.",
+          "S09 (AI): Action taken for simvastatin was withdrawn.",
+          "S10 (AI): Dechallenge for azelnidipine was positive.",
+          "S11 (AI): The outcome for the event was recovered.",
+          "S12 (AI): Concomitant medications included famotidine, irsogladine maleate, and mosapride citrate hydrate.",
+          "S13 (AI): The investigator's causality assessment for the event was probable.",
+          "S14 (AI): The reporter was an investigator.",
+          "S15 (code template): The dosing frequency is reported inconsistently: daily (article.txt p.2) vs 16 mg/day (article.txt p.3); reviewer decision / site follow-up pending.",
+          "S16 (code template): Event onset date was not available in the source documents; follow-up requested.",
+          "S17 (code template): Start date of the suspect drug was not available in the source documents; follow-up requested."
+        ]
+      }
+    },
+    {
+      "step": 8,
+      "ts": "2026-10-28T07:48:09.578261Z",
+      "planner": "llm",
+      "reason": "Narrative v1 was just drafted (17 pending sentences); rule 4 requires verification immediately after drafting.",
+      "tool": "verify_narrative",
+      "args": {
+        "criterion": "verify_narrative"
+      },
+      "allowed": true,
+      "result_summary": "verification: {'supported': 17, 'flagged': 0, 'blocked': 0, 'pending': 0}",
+      "duration_s": 3.44,
+      "planner_input": "CASE LIT-PMC8638419 | version 1 | status processing\n- D1 article.txt [literature_article, v1, 6 page(s)]: extracted, focused re-extractions used 1/1\nFacts: {'anchored': 34, 'unanchored': 4, 'conflicting': 2, 'confirmed_by_human': 0}\nFields with ONLY unanchored values (quote not found in source): ['event_onset_date']\nReconciled for current version and facts: True\nMinimum criteria present: {'identifiable_patient': True, 'identifiable_reporter': True, 'suspect_product': True, 'adverse_event': True}\nConflict C01 on frequency: values ['16 mg/day', 'once daily']; resolution=None\nOpen gap G01 event_onset_date (required_for_serious); searched=False, search hits in none; query=drafted (waiting for a human to approve it; nothing more for the agent to do on this gap)\nOpen gap G02 start_date (required_for_serious); searched=False, search hits in none; query=drafted (waiting for a human to approve it; nothing more for the agent to do on this gap)\nOpen gap G03 conflict:frequency (conflict); searched=False, search hits in none; query=drafted (waiting for a human to approve it; nothing more for the agent to do on this gap)\nSeriousness candidates: ['hospitalisation']\nMedDRA suggested for this version: True; clock computed for this version: False\nNarrative v1: {'pending': 17, 'supported': 0, 'flagged': 0, 'blocked': 0}; stale=False; blocked=none\nRecent steps:\n  1. ingest_documents  -> ingested 1 document(s): ['D1']; documents with untranscribed scanned pages: none\n  2. extract_facts  -> extracted from ['D1']: 27 anchored; unanchored=['frequency@D1', 'event_onset_date@D1']\n  3. extract_facts {'doc_ids': ['D1'], 'fields': ['event_onset_date', 'frequency']} -> extracted from ['D1']: 9 anchored; unanchored=['event_onset_date@D1', 'event_onset_date@D1']\n  4. reconcile  -> conflicts(unresolved)=['frequency']; open gaps=['event_onset_date', 'start_date', 'conflict:frequency']; missing minimum criteria=none; seriousness candidates=[\n  5. draft_followup_queries  -> drafted 3 follow-up quer(ies) for ['event_onset_date', 'start_date', 'conflict:frequency'] (human approval required; never sent)\n  6. suggest_meddra {'criterion': 'suggest_meddra'} -> MedDRA suggestions (demo vocabulary): 'complete atrioventricular block' -> Atrioventricular block complete\n  7. draft_narrative  -> drafted 17 sentences (14 generated, 3 conflict/gap templates)\n\nTools the rulebook allows now: compute_clock, verify_narrative",
+      "calls": [
+        {
+          "step": 8,
+          "role": "planner",
+          "model": "groq:qwen/qwen3.8-27b",
+          "secs": 3.08,
+          "instructions": "You are the SafetyTrace orchestrator for SERIOUS clinical-trial adverse-event cases.\nGoal: bring the case to a state where a qualified human reviewer can verify it quickly and safely.\n\nYou never see documents. You see a case summary and choose ONE next tool. Explain your reason in one short sentence (shown to the reviewer as the agent trace).\n\nTools:\n- ingest_documents: load the case pack (first step only).\n- transcribe_scans: transcribe scanned pages that have no text layer. Must happen before extraction of those documents.\n- extract_facts: extract facts with verified quotes. With no arguments it processes all un-extracted documents.\n  With doc_ids AND fields it does ONE focused re-extraction (use it when a field has only unanchored values, or after a search found likely evidence).\n- search_documents: deterministic search of every page, ONLY for a MISSING minimum criterion. Give criterion = one of identifiable_patient, identifiable_reporter, suspect_product, adverse_event.\n- reconcile: detect conflicts, gaps, minimum criteria, seriousness candidates. Run it whenever facts changed.\n- suggest_meddra: suggest MedDRA terms (human selects).\n- compute_clock: compute regulatory deadlines.\n- draft_narrative: write the narrative from usable facts only (conflicts/gaps are stated by templates).\n- verify_narrative: check every pending sentence (rules first, then an independent model).\n- redraft_sentences: redraft only blocked sentences (give sentence_ids).\n- draft_followup_queries: draft follow-up questions for open gaps/conflicts (a human approves; nothing is sent).\n- request_human_review: hand over to the reviewer when automatic work is done.\n- stop: nothing useful left to do.\n\nRules you must follow:\n1. Never decide which of two conflicting values is correct, and never decide causality, expectedness, reportability or case validity.\n2. Before treating a minimum criterion as missing, search for it; if the search finds hits, do one focused extraction on those documents.\n3. If a field has only unanchored values, try one focused re-extraction on that document.\n4. After any drafting or redrafting, verify. Redraft only blocked sentences.\n5. Reconcile again whenever facts changed (for example after a follow-up reply or a focused extraction).\n6. Conflicts are decided ONLY by a human or by a site reply. Do not search or re-extract to \"resolve\" a conflict: draft a follow-up query and hand over.\n7. Missing information that is not a minimum criterion (e.g. dechallenge) is a gap",
+          "input": "CASE LIT-PMC8638419 | version 1 | status processing\n- D1 article.txt [literature_article, v1, 6 page(s)]: extracted, focused re-extractions used 1/1\nFacts: {'anchored': 34, 'unanchored': 4, 'conflicting': 2, 'confirmed_by_human': 0}\nFields with ONLY unanchored values (quote not found in source): ['event_onset_date']\nReconciled for current version and facts: True\nMinimum criteria present: {'identifiable_patient': True, 'identifiable_reporter': True, 'suspect_product': True, 'adverse_event': True}\nConflict C01 on frequency: values ['16 mg/day', 'once daily']; resolution=None\nOpen gap G01 event_onset_date (required_for_serious); searched=False, search hits in none; query=drafted (waiting for a human to approve it; nothing more for the agent to do on this gap)\nOpen gap G02 start_date (required_for_serious); searched=False, search hits in none; query=drafted (waiting for a human to approve it; nothing more for the agent to do on this gap)\nOpen gap G03 conflict:frequency (conflict); searched=False, search hits in none; query=drafted (waiting for a human to approve it; nothing more for the agent to do on this gap)\nSeriousness candidates: ['hospitalisation']\nMedDRA suggested for this version: True; clock computed for this version: False\nNarrative v1: {'pending': 17, 'supported': 0, 'flagged': 0, 'blocked': 0}; stale=False; blocked=none\nRecent steps:\n  1. ingest_documents  -> ingested 1 document(s): ['D1']; documents with untranscribed scanned pages: none\n  2. extract_facts  -> extracted from ['D1']: 27 anchored; unanchored=['frequency@D1', 'event_onset_date@D1']\n  3. extract_facts {'doc_ids': ['D1'], 'fields': ['event_onset_date', 'frequency']} -> extracted from ['D1']: 9 anchored; unanchored=['event_onset_date@D1', 'event_onset_date@D1']\n  4. reconcile  -> conflicts(unresolved)=['frequency']; open gaps=['event_onset_date', 'start_date', 'conflict:frequency']; missing minimum criteria=none; seriousness candidates=[\n  5. draft_followup_queries  -> drafted 3 follow-up quer(ies) for ['event_onset_date', 'start_date', 'conflict:frequency'] (human approval required; never sent)\n  6. suggest_meddra {'criterion': 'suggest_meddra'} -> MedDRA suggestions (demo vocabulary): 'complete atrioventricular block' -> Atrioventricular block complete\n  7. draft_narrative  -> drafted 17 sentences (14 generated, 3 conflict/gap templates)\n\nTools the policy allows right now (anything else is blocked): compute_clock, verify_narrative\n\nChoose the single next action.",
+          "output": "{\"criterion\": \"verify_narrative\", \"doc_ids\": [], \"fields\": [], \"reason\": \"Narrative v1 was just drafted (17 pending sentences); rule 4 requires verification immediately after drafting.\", \"sentence_ids\": [], \"tool\": \"verify_narrative\"}"
+        },
+        {
+          "step": 8,
+          "role": "verify",
+          "model": "groq:openai/gpt-oss-120b",
+          "secs": 3.44,
+          "instructions": "You are an independent checker for a drug-safety narrative. For each sentence decide if the quoted evidence fully supports it: 'supported' (every claim is in the evidence), 'unsupported' (some claim is not in the evidence) or 'contradicted' (the evidence says something different). Be strict. Give a short reason.",
+          "input": "S01: The patient is a 92-year-old female with a history of hypertension, hyperlipidemia, and chronic gastritis.\n  evidence:\n    [article.txt p.1] 92-year-old\n    [article.txt p.1] woman\n    [article.txt p.3] hypertension\n    [article.txt p.3] hyperlipidemia\n    [article.txt p.3] chronic gastritis\n\nS02: Azelnidipine was administered orally at a dose of 16 mg/day for hypertension.\n  evidence:\n    [article.txt p.3] azelnidipine\n    [article.txt p.3] (applies to drug: azelnidipine) 16 mg/day\n    [article.txt p.3] (applies to drug: azelnidipine) Oral administration\n    [article.txt p.3] (applies to drug: azelnidipine) hypertension\n\nS03: Simvastatin was administered at a dose of 5 mg/day for hyperlipidemia.\n  evidence:\n    [article.txt p.3] simvastatin\n    [article.txt p.3] (applies to drug: simvastatin) 5 mg/day\n    [article.txt p.3] (applies to drug: simvastatin) hyperlipidemia\n\nS04: The patient experienced complete atrioventricular block.\n  evidence:\n    [article.txt p.1] complete atrioventricular block\n\nS05: The event resulted in hospitalisation.\n  evidence:\n    [article.txt p.3] hospitalized\n\nS06: Relevant laboratory findings showed 63.4 ng/mL.\n  evidence:\n    [article.txt p.1] 63.4 ng/mL\n\nS07: Treatment given included temporary pacemaker and furosemide.\n  evidence:\n    [article.txt p.3] surgery for implantation of a temporary pacemaker\n    [article.txt p.3] intravenous furosemide treatment commenced\n\nS08: Action taken for azelnidipine was withdrawn.\n  evidence:\n    [article.txt p.3] (applies to drug: azelnidipine) discontinued\n\nS09: Action taken for simvastatin was withdrawn.\n  evidence:\n    [article.txt p.3] (applies to drug: simvastatin) discontinued\n\nS10: Dechallenge for azelnidipine was positive.\n  evidence:\n    [article.txt p.1] (applies to drug: azelnidipine) There was no occurrence of CAVB for 4 weeks, to present, following discontinuation of azelnidipine\n\nS11: The outcome for the event was recovered.\n  evidence:\n    [article.txt p.3] ECG showed no episode of CAVB \n\nS12: Concomitant medications included famotidine, irsogladine maleate, and mosapride citrate hydrate.\n  evidence:\n    [article.txt p.3] famotidine\n    [article.txt p.3] irsogladine maleate\n    [article.txt p.3] mosapride citrate hydrate\n\nS13: The investigator's causality assessment for the event was probable.\n  evidence:\n    [article.txt p.3] probable causal relationship\n\nS14: The reporter was an investigator.\n  evidence:\n    [article.txt p.5] NI and AM monitored the patients",
+          "output": "{\"results\": [{\"sentence_id\": \"S01\", \"verdict\": \"supported\", \"reason\": \"All demographic and medical history items are directly cited.\"}, {\"sentence_id\": \"S02\", \"verdict\": \"supported\", \"reason\": \"Dose, route, drug name, and indication are all present in the evidence.\"}, {\"sentence_id\": \"S03\", \"verdict\": \"supported\", \"reason\": \"Drug, dose, and indication are explicitly cited.\"}, {\"sentence_id\": \"S04\", \"verdict\": \"supported\", \"reason\": \"Complete atrioventricular block is directly mentioned.\"}, {\"sentence_id\": \"S05\", \"verdict\": \"supported\", \"reason\": \"Evidence states the patient was hospitalized.\"}, {\"sentence_id\": \"S06\", \"verdict\": \"supported\", \"reason\": \"Laboratory value 63.4 ng/mL is cited.\"}, {\"sentence_id\": \"S07\", \"verdict\": \"supported\", \"reason\": \"Both temporary pacemaker implantation and IV furosemide are documented.\"}, {\"sentence_id\": \"S08\", \"verdict\": \"supported\", \"reason\": \"Azelnidipine discontinuation is recorded.\"}, {\"sentence_id\": \"S09\", \"verdict\": \"supported\", \"reason\": \"Simvastatin discontinuation is recorded.\"}, {\"sentence_id\": \"S10\", \"verdict\": \"supported\", \"reason\": \"No recurrence of CAVB after stopping azelnidipine indicates a positive dechallenge.\"}, {\"sentence_id\": \"S11\", \"verdict\": \"supported\", \"reason\": \"ECG showing no CAVB episodes implies recovery.\"}, {\"sentence_id\": \"S12\", \"verdict\": \"supported\", \"reason\": \"All listed concomitant drugs are cited.\"}, {\"sentence_id\": \"S13\", \"verdict\": \"supported\", \"reason\": \"Evidence explicitly states a probable causal relationship.\"}, {\"sentence_id\": \"S14\", \"verdict\": \"supported\", \"reason\": \"The monitoring investigators are identified, matching the claim.\"}]}"
+        }
+      ],
+      "changes": {
+        "sentences checked": [
+          "S01 supported",
+          "S02 supported",
+          "S03 supported",
+          "S04 supported",
+          "S05 supported",
+          "S06 supported",
+          "S07 supported",
+          "S08 supported",
+          "S09 supported",
+          "S10 supported",
+          "S11 supported",
+          "S12 supported",
+          "S13 supported",
+          "S14 supported",
+          "S15 supported",
+          "S16 supported",
+          "S17 supported"
+        ]
+      }
+    },
+    {
+      "step": 9,
+      "ts": "2026-10-28T07:48:14.293864Z",
+      "planner": "llm",
+      "reason": "Narrative is fully verified, MedDRA suggested, follow-ups drafted; the only remaining automatic step is computing regulatory deadlines before handing over to the reviewer.",
+      "tool": "compute_clock",
+      "args": {
+        "criterion": "compute_clock"
+      },
+      "allowed": true,
+      "result_summary": "clock: Day 0 (receipt date) not found -- add it to compute deadlines.",
+      "duration_s": 0.0,
+      "planner_input": "CASE LIT-PMC8638419 | version 1 | status processing\n- D1 article.txt [literature_article, v1, 6 page(s)]: extracted, focused re-extractions used 1/1\nFacts: {'anchored': 34, 'unanchored': 4, 'conflicting': 2, 'confirmed_by_human': 0}\nFields with ONLY unanchored values (quote not found in source): ['event_onset_date']\nReconciled for current version and facts: True\nMinimum criteria present: {'identifiable_patient': True, 'identifiable_reporter': True, 'suspect_product': True, 'adverse_event': True}\nConflict C01 on frequency: values ['16 mg/day', 'once daily']; resolution=None\nOpen gap G01 event_onset_date (required_for_serious); searched=False, search hits in none; query=drafted (waiting for a human to approve it; nothing more for the agent to do on this gap)\nOpen gap G02 start_date (required_for_serious); searched=False, search hits in none; query=drafted (waiting for a human to approve it; nothing more for the agent to do on this gap)\nOpen gap G03 conflict:frequency (conflict); searched=False, search hits in none; query=drafted (waiting for a human to approve it; nothing more for the agent to do on this gap)\nSeriousness candidates: ['hospitalisation']\nMedDRA suggested for this version: True; clock computed for this version: False\nNarrative v1: {'pending': 0, 'supported': 17, 'flagged': 0, 'blocked': 0}; stale=False; blocked=none\nRecent steps:\n  1. ingest_documents  -> ingested 1 document(s): ['D1']; documents with untranscribed scanned pages: none\n  2. extract_facts  -> extracted from ['D1']: 27 anchored; unanchored=['frequency@D1', 'event_onset_date@D1']\n  3. extract_facts {'doc_ids': ['D1'], 'fields': ['event_onset_date', 'frequency']} -> extracted from ['D1']: 9 anchored; unanchored=['event_onset_date@D1', 'event_onset_date@D1']\n  4. reconcile  -> conflicts(unresolved)=['frequency']; open gaps=['event_onset_date', 'start_date', 'conflict:frequency']; missing minimum criteria=none; seriousness candidates=[\n  5. draft_followup_queries  -> drafted 3 follow-up quer(ies) for ['event_onset_date', 'start_date', 'conflict:frequency'] (human approval required; never sent)\n  6. suggest_meddra {'criterion': 'suggest_meddra'} -> MedDRA suggestions (demo vocabulary): 'complete atrioventricular block' -> Atrioventricular block complete\n  7. draft_narrative  -> drafted 17 sentences (14 generated, 3 conflict/gap templates)\n  8. verify_narrative {'criterion': 'verify_narrative'} -> verification: {'supported': 17, 'flagged': 0, 'blocked': 0, 'pending': 0}\n\nTools the rulebook allows now: compute_clock",
+      "calls": [
+        {
+          "step": 9,
+          "role": "planner",
+          "model": "groq:qwen/qwen3.8-27b",
+          "secs": 1.27,
+          "instructions": "You are the SafetyTrace orchestrator for SERIOUS clinical-trial adverse-event cases.\nGoal: bring the case to a state where a qualified human reviewer can verify it quickly and safely.\n\nYou never see documents. You see a case summary and choose ONE next tool. Explain your reason in one short sentence (shown to the reviewer as the agent trace).\n\nTools:\n- ingest_documents: load the case pack (first step only).\n- transcribe_scans: transcribe scanned pages that have no text layer. Must happen before extraction of those documents.\n- extract_facts: extract facts with verified quotes. With no arguments it processes all un-extracted documents.\n  With doc_ids AND fields it does ONE focused re-extraction (use it when a field has only unanchored values, or after a search found likely evidence).\n- search_documents: deterministic search of every page, ONLY for a MISSING minimum criterion. Give criterion = one of identifiable_patient, identifiable_reporter, suspect_product, adverse_event.\n- reconcile: detect conflicts, gaps, minimum criteria, seriousness candidates. Run it whenever facts changed.\n- suggest_meddra: suggest MedDRA terms (human selects).\n- compute_clock: compute regulatory deadlines.\n- draft_narrative: write the narrative from usable facts only (conflicts/gaps are stated by templates).\n- verify_narrative: check every pending sentence (rules first, then an independent model).\n- redraft_sentences: redraft only blocked sentences (give sentence_ids).\n- draft_followup_queries: draft follow-up questions for open gaps/conflicts (a human approves; nothing is sent).\n- request_human_review: hand over to the reviewer when automatic work is done.\n- stop: nothing useful left to do.\n\nRules you must follow:\n1. Never decide which of two conflicting values is correct, and never decide causality, expectedness, reportability or case validity.\n2. Before treating a minimum criterion as missing, search for it; if the search finds hits, do one focused extraction on those documents.\n3. If a field has only unanchored values, try one focused re-extraction on that document.\n4. After any drafting or redrafting, verify. Redraft only blocked sentences.\n5. Reconcile again whenever facts changed (for example after a follow-up reply or a focused extraction).\n6. Conflicts are decided ONLY by a human or by a site reply. Do not search or re-extract to \"resolve\" a conflict: draft a follow-up query and hand over.\n7. Missing information that is not a minimum criterion (e.g. dechallenge) is a gap",
+          "input": "CASE LIT-PMC8638419 | version 1 | status processing\n- D1 article.txt [literature_article, v1, 6 page(s)]: extracted, focused re-extractions used 1/1\nFacts: {'anchored': 34, 'unanchored': 4, 'conflicting': 2, 'confirmed_by_human': 0}\nFields with ONLY unanchored values (quote not found in source): ['event_onset_date']\nReconciled for current version and facts: True\nMinimum criteria present: {'identifiable_patient': True, 'identifiable_reporter': True, 'suspect_product': True, 'adverse_event': True}\nConflict C01 on frequency: values ['16 mg/day', 'once daily']; resolution=None\nOpen gap G01 event_onset_date (required_for_serious); searched=False, search hits in none; query=drafted (waiting for a human to approve it; nothing more for the agent to do on this gap)\nOpen gap G02 start_date (required_for_serious); searched=False, search hits in none; query=drafted (waiting for a human to approve it; nothing more for the agent to do on this gap)\nOpen gap G03 conflict:frequency (conflict); searched=False, search hits in none; query=drafted (waiting for a human to approve it; nothing more for the agent to do on this gap)\nSeriousness candidates: ['hospitalisation']\nMedDRA suggested for this version: True; clock computed for this version: False\nNarrative v1: {'pending': 0, 'supported': 17, 'flagged': 0, 'blocked': 0}; stale=False; blocked=none\nRecent steps:\n  1. ingest_documents  -> ingested 1 document(s): ['D1']; documents with untranscribed scanned pages: none\n  2. extract_facts  -> extracted from ['D1']: 27 anchored; unanchored=['frequency@D1', 'event_onset_date@D1']\n  3. extract_facts {'doc_ids': ['D1'], 'fields': ['event_onset_date', 'frequency']} -> extracted from ['D1']: 9 anchored; unanchored=['event_onset_date@D1', 'event_onset_date@D1']\n  4. reconcile  -> conflicts(unresolved)=['frequency']; open gaps=['event_onset_date', 'start_date', 'conflict:frequency']; missing minimum criteria=none; seriousness candidates=[\n  5. draft_followup_queries  -> drafted 3 follow-up quer(ies) for ['event_onset_date', 'start_date', 'conflict:frequency'] (human approval required; never sent)\n  6. suggest_meddra {'criterion': 'suggest_meddra'} -> MedDRA suggestions (demo vocabulary): 'complete atrioventricular block' -> Atrioventricular block complete\n  7. draft_narrative  -> drafted 17 sentences (14 generated, 3 conflict/gap templates)\n  8. verify_narrative {'criterion': 'verify_narrative'} -> verification: {'supported': 17, 'flagged': 0, 'blocked': 0, 'pending': 0}\n\nTools the policy allows right now (anything else is blocked): compute_clock\n\nChoose the single next action.",
+          "output": "{\"criterion\": \"compute_clock\", \"doc_ids\": [], \"fields\": [], \"reason\": \"Narrative is fully verified, MedDRA suggested, follow-ups drafted; the only remaining automatic step is computing regulatory deadlines before handing over to the reviewer.\", \"sentence_ids\": [], \"tool\": \"compute_clock\"}"
+        }
+      ],
+      "changes": {
+        "deadline": [
+          "Day 0 (receipt date) not found -- add it to compute deadlines."
+        ]
+      }
+    },
+    {
+      "step": 10,
+      "ts": "2026-10-28T07:48:16.605834Z",
+      "planner": "llm",
+      "reason": "All automated steps completed and only human approval remains for follow‑up queries and final review.",
+      "tool": "request_human_review",
+      "args": {},
+      "allowed": true,
+      "result_summary": "handed to reviewer with 6 task(s)",
+      "duration_s": 0.0,
+      "planner_input": "CASE LIT-PMC8638419 | version 1 | status processing\n- D1 article.txt [literature_article, v1, 6 page(s)]: extracted, focused re-extractions used 1/1\nFacts: {'anchored': 34, 'unanchored': 4, 'conflicting': 2, 'confirmed_by_human': 0}\nFields with ONLY unanchored values (quote not found in source): ['event_onset_date']\nReconciled for current version and facts: True\nMinimum criteria present: {'identifiable_patient': True, 'identifiable_reporter': True, 'suspect_product': True, 'adverse_event': True}\nConflict C01 on frequency: values ['16 mg/day', 'once daily']; resolution=None\nOpen gap G01 event_onset_date (required_for_serious); searched=False, search hits in none; query=drafted (waiting for a human to approve it; nothing more for the agent to do on this gap)\nOpen gap G02 start_date (required_for_serious); searched=False, search hits in none; query=drafted (waiting for a human to approve it; nothing more for the agent to do on this gap)\nOpen gap G03 conflict:frequency (conflict); searched=False, search hits in none; query=drafted (waiting for a human to approve it; nothing more for the agent to do on this gap)\nSeriousness candidates: ['hospitalisation']\nMedDRA suggested for this version: True; clock computed for this version: True\nNarrative v1: {'pending': 0, 'supported': 17, 'flagged': 0, 'blocked': 0}; stale=False; blocked=none\nRecent steps:\n  2. extract_facts  -> extracted from ['D1']: 27 anchored; unanchored=['frequency@D1', 'event_onset_date@D1']\n  3. extract_facts {'doc_ids': ['D1'], 'fields': ['event_onset_date', 'frequency']} -> extracted from ['D1']: 9 anchored; unanchored=['event_onset_date@D1', 'event_onset_date@D1']\n  4. reconcile  -> conflicts(unresolved)=['frequency']; open gaps=['event_onset_date', 'start_date', 'conflict:frequency']; missing minimum criteria=none; seriousness candidates=[\n  5. draft_followup_queries  -> drafted 3 follow-up quer(ies) for ['event_onset_date', 'start_date', 'conflict:frequency'] (human approval required; never sent)\n  6. suggest_meddra {'criterion': 'suggest_meddra'} -> MedDRA suggestions (demo vocabulary): 'complete atrioventricular block' -> Atrioventricular block complete\n  7. draft_narrative  -> drafted 17 sentences (14 generated, 3 conflict/gap templates)\n  8. verify_narrative {'criterion': 'verify_narrative'} -> verification: {'supported': 17, 'flagged': 0, 'blocked': 0, 'pending': 0}\n  9. compute_clock {'criterion': 'compute_clock'} -> clock: Day 0 (receipt date) not found -- add it to compute deadlines.\n\nTools the rulebook allows now: request_human_review",
+      "calls": [
+        {
+          "step": 10,
+          "role": "planner",
+          "model": "groq:openai/gpt-oss-20b",
+          "secs": 2.31,
+          "instructions": "You are the SafetyTrace orchestrator for SERIOUS clinical-trial adverse-event cases.\nGoal: bring the case to a state where a qualified human reviewer can verify it quickly and safely.\n\nYou never see documents. You see a case summary and choose ONE next tool. Explain your reason in one short sentence (shown to the reviewer as the agent trace).\n\nTools:\n- ingest_documents: load the case pack (first step only).\n- transcribe_scans: transcribe scanned pages that have no text layer. Must happen before extraction of those documents.\n- extract_facts: extract facts with verified quotes. With no arguments it processes all un-extracted documents.\n  With doc_ids AND fields it does ONE focused re-extraction (use it when a field has only unanchored values, or after a search found likely evidence).\n- search_documents: deterministic search of every page, ONLY for a MISSING minimum criterion. Give criterion = one of identifiable_patient, identifiable_reporter, suspect_product, adverse_event.\n- reconcile: detect conflicts, gaps, minimum criteria, seriousness candidates. Run it whenever facts changed.\n- suggest_meddra: suggest MedDRA terms (human selects).\n- compute_clock: compute regulatory deadlines.\n- draft_narrative: write the narrative from usable facts only (conflicts/gaps are stated by templates).\n- verify_narrative: check every pending sentence (rules first, then an independent model).\n- redraft_sentences: redraft only blocked sentences (give sentence_ids).\n- draft_followup_queries: draft follow-up questions for open gaps/conflicts (a human approves; nothing is sent).\n- request_human_review: hand over to the reviewer when automatic work is done.\n- stop: nothing useful left to do.\n\nRules you must follow:\n1. Never decide which of two conflicting values is correct, and never decide causality, expectedness, reportability or case validity.\n2. Before treating a minimum criterion as missing, search for it; if the search finds hits, do one focused extraction on those documents.\n3. If a field has only unanchored values, try one focused re-extraction on that document.\n4. After any drafting or redrafting, verify. Redraft only blocked sentences.\n5. Reconcile again whenever facts changed (for example after a follow-up reply or a focused extraction).\n6. Conflicts are decided ONLY by a human or by a site reply. Do not search or re-extract to \"resolve\" a conflict: draft a follow-up query and hand over.\n7. Missing information that is not a minimum criterion (e.g. dechallenge) is a gap",
+          "input": "CASE LIT-PMC8638419 | version 1 | status processing\n- D1 article.txt [literature_article, v1, 6 page(s)]: extracted, focused re-extractions used 1/1\nFacts: {'anchored': 34, 'unanchored': 4, 'conflicting': 2, 'confirmed_by_human': 0}\nFields with ONLY unanchored values (quote not found in source): ['event_onset_date']\nReconciled for current version and facts: True\nMinimum criteria present: {'identifiable_patient': True, 'identifiable_reporter': True, 'suspect_product': True, 'adverse_event': True}\nConflict C01 on frequency: values ['16 mg/day', 'once daily']; resolution=None\nOpen gap G01 event_onset_date (required_for_serious); searched=False, search hits in none; query=drafted (waiting for a human to approve it; nothing more for the agent to do on this gap)\nOpen gap G02 start_date (required_for_serious); searched=False, search hits in none; query=drafted (waiting for a human to approve it; nothing more for the agent to do on this gap)\nOpen gap G03 conflict:frequency (conflict); searched=False, search hits in none; query=drafted (waiting for a human to approve it; nothing more for the agent to do on this gap)\nSeriousness candidates: ['hospitalisation']\nMedDRA suggested for this version: True; clock computed for this version: True\nNarrative v1: {'pending': 0, 'supported': 17, 'flagged': 0, 'blocked': 0}; stale=False; blocked=none\nRecent steps:\n  2. extract_facts  -> extracted from ['D1']: 27 anchored; unanchored=['frequency@D1', 'event_onset_date@D1']\n  3. extract_facts {'doc_ids': ['D1'], 'fields': ['event_onset_date', 'frequency']} -> extracted from ['D1']: 9 anchored; unanchored=['event_onset_date@D1', 'event_onset_date@D1']\n  4. reconcile  -> conflicts(unresolved)=['frequency']; open gaps=['event_onset_date', 'start_date', 'conflict:frequency']; missing minimum criteria=none; seriousness candidates=[\n  5. draft_followup_queries  -> drafted 3 follow-up quer(ies) for ['event_onset_date', 'start_date', 'conflict:frequency'] (human approval required; never sent)\n  6. suggest_meddra {'criterion': 'suggest_meddra'} -> MedDRA suggestions (demo vocabulary): 'complete atrioventricular block' -> Atrioventricular block complete\n  7. draft_narrative  -> drafted 17 sentences (14 generated, 3 conflict/gap templates)\n  8. verify_narrative {'criterion': 'verify_narrative'} -> verification: {'supported': 17, 'flagged': 0, 'blocked': 0, 'pending': 0}\n  9. compute_clock {'criterion': 'compute_clock'} -> clock: Day 0 (receipt date) not found -- add it to compute deadlines.\n\nTools the policy allows right now (anything else is blocked): request_human_review\n\nChoose the single next action.",
+          "output": "{\"reason\": \"All automated steps completed and only human approval remains for follow‑up queries and final review.\", \"tool\": \"request_human_review\", \"doc_ids\": [], \"fields\": [], \"criterion\": \"\", \"sentence_ids\": []}"
+        }
+      ],
+      "changes": {
+        "to-do handed to the reviewer": [
+          "Resolve conflict on frequency (16 mg/day vs once daily)",
+          "Approve/edit follow-up query G01 (event_onset_date)",
+          "Approve/edit follow-up query G02 (start_date)",
+          "Approve/edit follow-up query G03 (conflict:frequency)",
+          "Record expectedness against the reference safety information",
+          "Select MedDRA terms and sign off when satisfied"
+        ],
+        "case status": [
+          "processing -> awaiting_human"
+        ]
+      }
+    }
+  ],
+  "usage": {
+    "requests": 17,
+    "prompt_tokens": 26080,
+    "completion_tokens": 5257,
+    "by_role": {
+      "planner": {
+        "requests": 10,
+        "prompt_tokens": 12812,
+        "completion_tokens": 1199
+      },
+      "extract": {
+        "requests": 2,
+        "prompt_tokens": 10743,
+        "completion_tokens": 2223
+      },
+      "explain": {
+        "requests": 1,
+        "prompt_tokens": 218,
+        "completion_tokens": 66
+      },
+      "followup": {
+        "requests": 1,
+        "prompt_tokens": 245,
+        "completion_tokens": 122
+      },
+      "meddra_rerank": {
+        "requests": 1,
+        "prompt_tokens": 353,
+        "completion_tokens": 435
+      },
+      "draft": {
+        "requests": 1,
+        "prompt_tokens": 754,
+        "completion_tokens": 589
+      },
+      "verify": {
+        "requests": 1,
+        "prompt_tokens": 955,
+        "completion_tokens": 623
+      }
+    },
+    "models": {
+      "planner": "groq:openai/gpt-oss-20b",
+      "extract": "gemini:gemini-3.5-flash-lite",
+      "explain": "groq:openai/gpt-oss-20b",
+      "followup": "groq:openai/gpt-oss-20b",
+      "meddra_rerank": "groq:openai/gpt-oss-120b",
+      "draft": "gemini:gemini-3.5-flash-lite",
+      "verify": "groq:openai/gpt-oss-120b"
+    },
+    "fallbacks": [
+      "planner: groq:openai/gpt-oss-20b -> groq:qwen/qwen3.8-27b",
+      "planner: groq:openai/gpt-oss-20b -> groq:openai/gpt-oss-120b",
+      "planner: groq:openai/gpt-oss-20b -> groq:qwen/qwen3.8-27b",
+      "planner: groq:openai/gpt-oss-20b -> groq:qwen/qwen3.8-27b",
+      "planner: groq:openai/gpt-oss-20b -> groq:qwen/qwen3.8-27b"
+    ]
+  },
+  "current_step": 10,
+  "llm_calls": []
+}

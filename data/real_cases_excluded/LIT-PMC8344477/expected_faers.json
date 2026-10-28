@@ -1,0 +1,202 @@
+{
+  "source": "FDA FAERS via openFDA (manufacturer-submitted literature ICSRs)",
+  "faers_report_ids": [
+    "20289198",
+    "20306650"
+  ],
+  "literature_reference": "Luitel P, Vais D, Gidron A. Successful Treatment of Persistent Coronavirus Disease 2019 Infection in a Patient with Hypogammaglobulinemia with REGN-COV2: A Case Report. Open Forum Infect Dis. 2021;8(8):ofab335 (1-3)",
+  "patient_age": [
+    [
+      "55",
+      "years"
+    ]
+  ],
+  "patient_sex": [
+    "male"
+  ],
+  "reporter_qualification": [
+    "other health professional"
+  ],
+  "seriousness": [
+    "hospitalisation",
+    "other medically important"
+  ],
+  "suspect_drugs": [
+    {
+      "key": "dexamethasone",
+      "names": [
+        "dexamethasone",
+        "dexamethasone 1.5 mg",
+        "dextenza",
+        "hemady",
+        "maxidex",
+        "ozurdex"
+      ],
+      "indication": [
+        "COVID-19 pneumonia",
+        "Mantle cell lymphoma"
+      ],
+      "dosage": [
+        "AS OFF-LABEL TREATMENT FOR COVID-19 PNEUMONIA",
+        "UNK"
+      ],
+      "action": [
+        "5",
+        "6"
+      ]
+    },
+    {
+      "key": "remdesivir",
+      "names": [
+        "remdesivir",
+        "veklury"
+      ],
+      "indication": [
+        "COVID-19 pneumonia"
+      ],
+      "dosage": [
+        "UNK"
+      ],
+      "action": [
+        "5"
+      ]
+    },
+    {
+      "key": "cytarabine",
+      "names": [
+        "cytarabine"
+      ],
+      "indication": [
+        "Mantle cell lymphoma"
+      ],
+      "dosage": [
+        "HIGH-DOSE (HYPER-CVAD REGIMEN)"
+      ],
+      "action": [
+        "6"
+      ]
+    },
+    {
+      "key": "doxorubicin",
+      "names": [
+        "doxorubicin",
+        "doxorubicin hydrochloride"
+      ],
+      "indication": [
+        "Mantle cell lymphoma"
+      ],
+      "dosage": [],
+      "action": [
+        "6"
+      ]
+    },
+    {
+      "key": "methotrexate",
+      "names": [
+        "jylamvo",
+        "methotrexate",
+        "methotrexate sodium",
+        "otrexup",
+        "rasuvo",
+        "trexall",
+        "xatmep"
+      ],
+      "indication": [
+        "Mantle cell lymphoma"
+      ],
+      "dosage": [
+        "HIGH-DOSE (HYPER-CVAD REGIMEN)"
+      ],
+      "action": [
+        "6"
+      ]
+    },
+    {
+      "key": "vincristine",
+      "names": [
+        "vincristine"
+      ],
+      "indication": [
+        "Mantle cell lymphoma"
+      ],
+      "dosage": [],
+      "action": [
+        "6"
+      ]
+    },
+    {
+      "key": "cyclophosphamide for injection",
+      "names": [
+        "cyclophosphamide",
+        "cyclophosphamide for injection",
+        "cyclophosphamide injection, solution",
+        "frindovyx"
+      ],
+      "indication": [
+        "Mantle cell lymphoma"
+      ],
+      "dosage": [
+        "HYPERFRACTIONATED"
+      ],
+      "action": [
+        "6"
+      ]
+    },
+    {
+      "key": "rituximab",
+      "names": [
+        "rituxan",
+        "rituximab"
+      ],
+      "indication": [
+        "Mantle cell lymphoma"
+      ],
+      "dosage": [
+        "MAINTENANCE THERAPY"
+      ],
+      "action": [
+        "6"
+      ]
+    },
+    {
+      "key": "regen-cov",
+      "names": [
+        "regen-cov"
+      ],
+      "indication": [
+        "COVID-19 pneumonia"
+      ],
+      "dosage": [],
+      "action": [
+        "6"
+      ]
+    }
+  ],
+  "reactions": [
+    {
+      "pt": "Condition aggravated",
+      "outcome": [
+        "unknown"
+      ]
+    },
+    {
+      "pt": "Hypogammaglobulinaemia",
+      "outcome": [
+        "unknown"
+      ]
+    },
+    {
+      "pt": "Covid-19 pneumonia",
+      "outcome": [
+        "recovered"
+      ]
+    },
+    {
+      "pt": "Off label use",
+      "outcome": [
+        "unknown"
+      ]
+    }
+  ],
+  "note": "FAERS public data has no narrative. Coding choices of the submitting company are a reference, not absolute truth."
+}

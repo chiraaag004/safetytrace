@@ -1,0 +1,85 @@
+{
+  "source": "FDA FAERS via openFDA (manufacturer-submitted literature ICSRs)",
+  "faers_report_ids": [
+    "20280135",
+    "20280136"
+  ],
+  "literature_reference": "Cirstoveanu C, Bizubac A, Mustea C, Manolache S, et.al. Antiproliferative therapy with sirolimus and propranolol for congenital vascular anomalies in newborns (Case reports). Experimental And Therapeutic Medicine. 2021;22(4):1097",
+  "patient_age": [],
+  "patient_sex": [
+    "female"
+  ],
+  "reporter_qualification": [
+    "other health professional"
+  ],
+  "seriousness": [
+    "hospitalisation"
+  ],
+  "suspect_drugs": [
+    {
+      "key": "sirolimus",
+      "names": [
+        "hyftor",
+        "sirolimus"
+      ],
+      "indication": [
+        "Product used for unknown indication"
+      ],
+      "dosage": [
+        "0.2 MILLIGRAM/SQ. METER",
+        "0.3 MILLIGRAM/SQ. METER",
+        "0.4 MILLIGRAM/SQ. METER",
+        "0.5 MILLIGRAM/SQ. METER",
+        "1 MILLIGRAM/SQ. METER"
+      ],
+      "action": [
+        "2"
+      ]
+    },
+    {
+      "key": "propranolol hydrochloride",
+      "names": [
+        "propranolol",
+        "propranolol hydrochloride"
+      ],
+      "indication": [
+        "Product used for unknown indication"
+      ],
+      "dosage": [
+        "0.5 MILLIGRAM/KILOGRAM, QD",
+        "1 MILLIGRAM/KILOGRAM, QD",
+        "3 MILLIGRAM/KILOGRAM, QD"
+      ],
+      "action": [
+        "3",
+        "5"
+      ]
+    },
+    {
+      "key": "methylprednisolone",
+      "names": [
+        "medrol",
+        "methylprednisolone",
+        "methylprednisolone sodium succinate"
+      ],
+      "indication": [
+        "Product used for unknown indication"
+      ],
+      "dosage": [
+        "2 MILLIGRAM/KILOGRAM, QD"
+      ],
+      "action": [
+        "5"
+      ]
+    }
+  ],
+  "reactions": [
+    {
+      "pt": "Hypertriglyceridaemia",
+      "outcome": [
+        "unknown"
+      ]
+    }
+  ],
+  "note": "FAERS public data has no narrative. Coding choices of the submitting company are a reference, not absolute truth."
+}

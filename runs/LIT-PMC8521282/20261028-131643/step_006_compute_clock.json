@@ -1,0 +1,832 @@
+{
+  "case_id": "LIT-PMC8521282",
+  "title": "REAL literature case: Guillain-Barré syndrome associated with inappropriate secretion of antidiuretic hormone following SARS-CoV-2 i",
+  "version": 1,
+  "region": "US/EU/India",
+  "documents": [
+    {
+      "doc_id": "D1",
+      "filename": "article.txt",
+      "rel_path": "documents/article.txt",
+      "doc_type": "literature_article",
+      "version": 1,
+      "pages": [
+        "Guillain-Barré syndrome associated with inappropriate secretion of antidiuretic hormone following SARS-CoV-2 infection: A case-report.\nClinical case reports (2021). Santoro C, Guerra T, D'Errico E, Fraddosio A, Lapenna F, Introna A, Trojano M.\nLicense: cc by-nc-nd | PMC8521282 | doi:10.1002/ccr3.4667\n\nGuillain‐Barré syndrome associated with inappropriate secretion of antidiuretic hormone following SARS‐CoV‐2 infection: A case‐report\n\nAbstract\nIn a system already preconditioned by previous damage, as results of the cytokine release syndrome complicating the COVID‐19 disease, a small trigger may be sufficient to develop a SIADH complicating a GBS, even without a poor outcome.\nKeywords: COVID‐19, Guillain‐Barré syndrome, long‐term complication, SIADH\n\nINTRODUCTION\nThe syndrome of inappropriate secretion of antidiuretic hormone (SIADH) is a complication of Guillain‐Barrè syndrome (GBS), associated with a worse prognosis. New‐onset euvolemic hyponatremia represents a risk factor for mortality in SARS‐CoV‐2 disease. GBS complicated by SIADH after recovering from COVID‐19 complicated by asymptomatic SIADH was reported.\nGuillain‐Barré syndrome (GBS) is the most frequent inflammatory polyradiculoneuropathy frequently associated with previous viral infections or vaccines. The syndrome of inappropriate secretion of antidiuretic hormone (SIADH) is a well‐recognized complication of GBS; it was generally associated with severe GBS and has been considered a negative prognostic factor. 1 The predominant clinical presentation of SARS‐CoV‐2 disease is the respiratory form, but a multisystemic involvement has been now well described. COVID‐19‐induced euvolemic hyponatremia occurs in 20% of hospitalized COVID‐19 patients and is associated to higher mortality and higher risk of sepsis. 2 Little is known about long‐term complications of COVID‐19. We report a case of GBS and symptomatic SIADH after six months from COVID‐19 interstitial pneumonia complicated by hyponatremia.",
+        "COVID COURSE AND CLINICAL COURSE\nIn April 2020, a 47‐year‐old Caucasian man tested positive for nasopharyngeal SARS‐CoV‐2 swab and was admitted to the Pneumology Unit. Diffuse interstitial‐like bilateral pneumonia was found and treatment with azithromycin, hydroxychloroquine sulfate, and enoxaparin were started. Due to worsening of respiratory performance, he required mechanical artificial ventilation. Considering the high interleukin‐6 (IL‐6) serum values, tocilizumab 8 mg/kg was administered. As the respiratory function improved, the patient was moved to a step‐down unit. His hospitalization was prolonged due to severe euvolemic hyponatremia (115 mg/ml), corrected with hypertonic saline IV over the course of three weeks. In November 2020, the patient complained a ten‐day‐lasting mild‐progressive lower limbs weakness, ataxia, urinary hesitation, and constipation. At the admission, the neurological examination showed sensory ataxia, reduced deep tendon reflexes at lower limbs and only mild strength reduction (MRC 4+ at feet dorsiflexion). Neither history of flu‐like episode nor vaccine was reported. Electrophysiological studies revealed acute sensorimotor demyelinating polyneuropathy (Figure 1A) and mild albumin‐cytologic dissociation (cerebrospinal‐fluid proteins 0.58 g/L) was found at cerebrospinal‐fluid examination, confirming the diagnosis of GBS. Cerebrospinal‐fluid SARS‐CoV‐2 polymerase chain reaction and serum anti‐ganglioside antibodies were negative. Human immunoglobulins intravenous (0.4 g/kg/day for 5 days) were promptly started, with steady‐progressive improvement of gait and lower limbs weakness. Furthermore, at admission a severe hyponatremia (102 mmol/L) with low plasma and high urinary osmolality was detected, prompting a SIADH diagnosis. Free thyroxine, thyroid stimulating hormone measurement and 9 am cortisol test were normal; IL‐6 serum levels were slightly elevated (14.5 pg/ml). He was first treated with fluid restriction and hypertonic saline IV, without benefits. Due to the persistent hyponatremia, the patient experienced brief repetitive episodes characterized by impaired awareness with behavioral arrest, followed by orofacial and sexual automatisms, treated with benzodiazepines. Considering the failure of first‐line hyponatremia therapy, tolvaptan 15 mg/daily was started. No further symptomatic seizures were described following hyponatremia correction. After 2 weeks from hospitalization, the neurographic findings improved (Figure 1B), as well as neurological examination. The sodium values remained normal after three months of tolvaptan therapy.",
+        "DISCUSSION\nHerein, we report a case of Guillain‐Barré syndrome associated with SIADH, after recent recovery from COVID‐19 interstitial pneumonia, complicated by hyponatremia. A Guillain‐Barré syndrome related to SARS‐CoV‐2 infection was defined when the onset of neurological symptoms is within 6 weeks of acute infection or SARS‐CoV‐2 RNA is detected in any sample and there is no evidence of other commonly associated causes of GBS. 3 Accordingly, we excluded an association between COVID‐19 and GBS in our patient.\nSIADH is best defined by euvolemic hyponatremia, low plasma, and high urinary osmolality and lack of evidence of other hyponatremic diseases. 4 Central nervous system disorders, pneumonia, and drugs may cause SIADH. New‐onset hyponatremia is a reported complication of COVID‐19 disease course 2 and recently guidelines for its treatment has been proposed. 5 On the other hand, a strong association between GBS and SIADH has been widely described: older age, need for ventilatory support, a longer duration of hospitalization and high mortality rates were more frequently observed in patients with GBS complicated by SIADH. 1 The median time to onset of hyponatremia is nine days after GBS diagnosis. 1 The patient developed a severe but asymptomatic three‐week‐lasting hyponatremia during COVID‐19 course and, again, experienced severe and symptomatic SIADH from the beginning of GBS course, requiring a 3‐month second‐line treatment regimen. Nevertheless, the symptomatic SIADH was not associated with a poor outcome of GBS.\nThe pathogenesis of SIADH in GBS has not been completely understood: abnormalities of peripheral autonomic afferent fibers arising from vascular stretch receptors or the increased renal tubular sensitivity to vasopressin have been proposed as possible mechanisms. 1 On the other hand, the SIADH associated with COVID‐19 could be related to cytokine release syndrome (CRS), 6 including IL‐6 whose high levels could induce a non‐osmotic release of vasopressin. 1 In a retrospective Italian study, 15 patients with new onset of COVID‐19 induced hyponatremia and abnormal IL‐6 serum levels were treated with tocilizumab (8 mg/kg) with a significant increase of sodium concentrations at 48 h. 7 To our best knowledge, there is still no evidence about the hyponatremia duration or its recurrence after COVID‐19 disease. In our case, the patient had developed a relapse of euvolemic hyponatremia 6 months after the onset of pneumonia; during the second hospitalization it was stricter, symptomatic, and resistant to first‐line treatment although it did not affect the course of polyneuropathy. In the present case, we could speculate that pathogenesis of SIADH is due to a double mechanism: on one hand an already altered sensitivity of the renal tubule and on the other a rekindling of the cytochemical inflammatory chain. We could hypothesize that in a system already preconditioned by previous damage, as results of the CRS complicating the COVID‐19 disease, a small trigger may be sufficient to develop a new autonomic dysfunction (for example SIADH‐like) even after a very long time. Longer follow‐up time and more cases are needed to fully understand long‐term damage due to COVID‐19 disease.\n\nETHICAL STANDARD\nInformed consent was obtained from the patient included in the study.\n\nCONFLICT OF INTEREST\nNothing to report.",
+        "AUTHOR CONTRIBUTIONS\nCS, TG, AI, and MT conceptualized the study, had full access to all data and take responsibility for the integrity of the data. FL interpreted neurophysiological data. AI, TG and CS contributed to the writing of the manuscript. All the authors contributed to the data interpretation and reviewed and approved the final version.\n\nSantoro C, Guerra T, D’Errico E, et al. Guillain‐Barré syndrome associated with inappropriate secretion of antidiuretic hormone following SARS‐CoV‐2 infection: A case‐report. Clin Case Rep. 2021;9:e04667. 10.1002/ccr3.4667\n\nDATA AVAILABILITY STATEMENT\nData sharing is not applicable to this article as no datasets were generated or analyzed during the current study.\n\nData Availability Statement\nData sharing is not applicable to this article as no datasets were generated or analyzed during the current study."
+      ],
+      "source_mode": "plain_text",
+      "ocr_confidence": null,
+      "scanned_pages": [],
+      "extracted": true,
+      "reextract_count": 0
+    }
+  ],
+  "facts": [
+    {
+      "fact_id": "F01",
+      "field": "patient_age",
+      "value": "47",
+      "normalized": "47",
+      "evidence": [
+        {
+          "doc_id": "D1",
+          "page": 2,
+          "char_start": 48,
+          "char_end": 61,
+          "quote": "a 47‐year‐old",
+          "match": "exact"
+        }
+      ],
+      "status": "anchored",
+      "extracted_by": "gemini:gemini-3.5-flash-lite:extract_v2",
+      "source_doc": "D1",
+      "drug": "",
+      "note": ""
+    },
+    {
+      "fact_id": "F02",
+      "field": "patient_sex",
+      "value": "male",
+      "normalized": "male",
+      "evidence": [
+        {
+          "doc_id": "D1",
+          "page": 2,
+          "char_start": 72,
+          "char_end": 75,
+          "quote": "man",
+          "match": "exact"
+        }
+      ],
+      "status": "anchored",
+      "extracted_by": "gemini:gemini-3.5-flash-lite:extract_v2",
+      "source_doc": "D1",
+      "drug": "",
+      "note": ""
+    },
+    {
+      "fact_id": "F03",
+      "field": "drug_name",
+      "value": "azithromycin",
+      "normalized": "azithromycin",
+      "evidence": [
+        {
+          "doc_id": "D1",
+          "page": 2,
+          "char_start": 243,
+          "char_end": 255,
+          "quote": "azithromycin",
+          "match": "exact"
+        }
+      ],
+      "status": "anchored",
+      "extracted_by": "gemini:gemini-3.5-flash-lite:extract_v2",
+      "source_doc": "D1",
+      "drug": "",
+      "note": ""
+    },
+    {
+      "fact_id": "F04",
+      "field": "drug_name",
+      "value": "hydroxychloroquine sulfate",
+      "normalized": "hydroxychloroquine",
+      "evidence": [
+        {
+          "doc_id": "D1",
+          "page": 2,
+          "char_start": 257,
+          "char_end": 283,
+          "quote": "hydroxychloroquine sulfate",
+          "match": "exact"
+        }
+      ],
+      "status": "anchored",
+      "extracted_by": "gemini:gemini-3.5-flash-lite:extract_v2",
+      "source_doc": "D1",
+      "drug": "",
+      "note": ""
+    },
+    {
+      "fact_id": "F05",
+      "field": "drug_name",
+      "value": "enoxaparin",
+      "normalized": "enoxaparin",
+      "evidence": [
+        {
+          "doc_id": "D1",
+          "page": 2,
+          "char_start": 289,
+          "char_end": 299,
+          "quote": "enoxaparin",
+          "match": "exact"
+        }
+      ],
+      "status": "anchored",
+      "extracted_by": "gemini:gemini-3.5-flash-lite:extract_v2",
+      "source_doc": "D1",
+      "drug": "",
+      "note": ""
+    },
+    {
+      "fact_id": "F06",
+      "field": "drug_name",
+      "value": "tocilizumab",
+      "normalized": "tocilizumab",
+      "evidence": [
+        {
+          "doc_id": "D1",
+          "page": 2,
+          "char_start": 462,
+          "char_end": 473,
+          "quote": "tocilizumab",
+          "match": "exact"
+        }
+      ],
+      "status": "anchored",
+      "extracted_by": "gemini:gemini-3.5-flash-lite:extract_v2",
+      "source_doc": "D1",
+      "drug": "",
+      "note": ""
+    },
+    {
+      "fact_id": "F07",
+      "field": "dose",
+      "value": "8 mg/kg",
+      "normalized": "8 mg",
+      "evidence": [
+        {
+          "doc_id": "D1",
+          "page": 2,
+          "char_start": 474,
+          "char_end": 481,
+          "quote": "8 mg/kg",
+          "match": "exact"
+        }
+      ],
+      "status": "anchored",
+      "extracted_by": "gemini:gemini-3.5-flash-lite:extract_v2",
+      "source_doc": "D1",
+      "drug": "tocilizumab",
+      "note": ""
+    },
+    {
+      "fact_id": "F08",
+      "field": "drug_name",
+      "value": "Human immunoglobulins intravenous",
+      "normalized": "human",
+      "evidence": [
+        {
+          "doc_id": "D1",
+          "page": 2,
+          "char_start": 1484,
+          "char_end": 1517,
+          "quote": "Human immunoglobulins intravenous",
+          "match": "exact"
+        }
+      ],
+      "status": "anchored",
+      "extracted_by": "gemini:gemini-3.5-flash-lite:extract_v2",
+      "source_doc": "D1",
+      "drug": "",
+      "note": ""
+    },
+    {
+      "fact_id": "F09",
+      "field": "dose",
+      "value": "0.4 g/kg/day",
+      "normalized": "0.4 g",
+      "evidence": [
+        {
+          "doc_id": "D1",
+          "page": 2,
+          "char_start": 1519,
+          "char_end": 1531,
+          "quote": "0.4 g/kg/day",
+          "match": "exact"
+        }
+      ],
+      "status": "anchored",
+      "extracted_by": "gemini:gemini-3.5-flash-lite:extract_v2",
+      "source_doc": "D1",
+      "drug": "Human immunoglobulins intravenous",
+      "note": ""
+    },
+    {
+      "fact_id": "F10",
+      "field": "drug_name",
+      "value": "tolvaptan",
+      "normalized": "tolvaptan",
+      "evidence": [
+        {
+          "doc_id": "D1",
+          "page": 2,
+          "char_start": 2302,
+          "char_end": 2311,
+          "quote": "tolvaptan",
+          "match": "exact"
+        }
+      ],
+      "status": "anchored",
+      "extracted_by": "gemini:gemini-3.5-flash-lite:extract_v2",
+      "source_doc": "D1",
+      "drug": "",
+      "note": ""
+    },
+    {
+      "fact_id": "F11",
+      "field": "dose",
+      "value": "15 mg",
+      "normalized": "15 mg",
+      "evidence": [
+        {
+          "doc_id": "D1",
+          "page": 2,
+          "char_start": 654,
+          "char_end": 659,
+          "quote": "15 mg",
+          "match": "exact"
+        }
+      ],
+      "status": "anchored",
+      "extracted_by": "gemini:gemini-3.5-flash-lite:extract_v2",
+      "source_doc": "D1",
+      "drug": "tolvaptan",
+      "note": ""
+    },
+    {
+      "fact_id": "F12",
+      "field": "frequency",
+      "value": "daily",
+      "normalized": "once daily",
+      "evidence": [
+        {
+          "doc_id": "D1",
+          "page": 2,
+          "char_start": 2318,
+          "char_end": 2323,
+          "quote": "daily",
+          "match": "exact"
+        }
+      ],
+      "status": "anchored",
+      "extracted_by": "gemini:gemini-3.5-flash-lite:extract_v2",
+      "source_doc": "D1",
+      "drug": "tolvaptan",
+      "note": ""
+    },
+    {
+      "fact_id": "F13",
+      "field": "event_verbatim",
+      "value": "Guillain-Barré syndrome",
+      "normalized": "guillain-barré syndrome",
+      "evidence": [
+        {
+          "doc_id": "D1",
+          "page": 1,
+          "char_start": 303,
+          "char_end": 326,
+          "quote": "Guillain‐Barré syndrome",
+          "match": "exact"
+        }
+      ],
+      "status": "anchored",
+      "extracted_by": "gemini:gemini-3.5-flash-lite:extract_v2",
+      "source_doc": "D1",
+      "drug": "",
+      "note": ""
+    },
+    {
+      "fact_id": "F14",
+      "field": "event_verbatim",
+      "value": "syndrome of inappropriate secretion of antidiuretic hormone",
+      "normalized": "syndrome of inappropriate secretion of antidiuretic hormone",
+      "evidence": [],
+      "status": "unanchored",
+      "extracted_by": "gemini:gemini-3.5-flash-lite:extract_v2",
+      "source_doc": "D1",
+      "drug": "",
+      "note": "value 'syndrome of inappropriate secretion of antidiuretic hormone' not supported by quote 'SIADH'"
+    },
+    {
+      "fact_id": "F15",
+      "field": "reporter_name_or_role",
+      "value": "Santoro C, Guerra T, D'Errico E, Fraddosio A, Lapenna F, Introna A, Trojano M (article authors)",
+      "normalized": "santoro c, guerra t, d'errico e, fraddosio a, lapenna f, introna a, trojano m (article authors)",
+      "evidence": [
+        {
+          "doc_id": "D1",
+          "page": 1,
+          "char_start": 165,
+          "char_end": 242,
+          "quote": "Santoro C, Guerra T, D'Errico E, Fraddosio A, Lapenna F, Introna A, Trojano M",
+          "match": "exact"
+        }
+      ],
+      "status": "anchored",
+      "extracted_by": "gemini:gemini-3.5-flash-lite:extract_v2",
+      "source_doc": "D1",
+      "drug": "",
+      "note": ""
+    }
+  ],
+  "conflicts": [],
+  "gaps": [
+    {
+      "gap_id": "G01",
+      "field": "event_onset_date",
+      "severity": "required_for_serious",
+      "searched": false,
+      "search_hits": [],
+      "query_draft": "Please provide the event onset date for the adverse event reported.",
+      "query_status": "drafted",
+      "closed": false
+    },
+    {
+      "gap_id": "G02",
+      "field": "outcome",
+      "severity": "required_for_serious",
+      "searched": false,
+      "search_hits": [],
+      "query_draft": "Please provide the outcome of the event (e.g., resolved, ongoing, worsened, fatal).",
+      "query_status": "drafted",
+      "closed": false
+    },
+    {
+      "gap_id": "G03",
+      "field": "dechallenge",
+      "severity": "required_for_serious",
+      "searched": false,
+      "search_hits": [],
+      "query_draft": "Please provide dechallenge information: what happened after the suspect drug was stopped or reduced.",
+      "query_status": "drafted",
+      "closed": false
+    },
+    {
+      "gap_id": "G04",
+      "field": "start_date",
+      "severity": "required_for_serious",
+      "searched": false,
+      "search_hits": [],
+      "query_draft": "Please provide the start date of the suspect drug.",
+      "query_status": "drafted",
+      "closed": false
+    },
+    {
+      "gap_id": "G05",
+      "field": "action_taken",
+      "severity": "required_for_serious",
+      "searched": false,
+      "search_hits": [],
+      "query_draft": "Please provide the action taken with the suspect drug (e.g., discontinued, dose reduced, continued).",
+      "query_status": "drafted",
+      "closed": false
+    }
+  ],
+  "minimum_criteria": {
+    "identifiable_patient": true,
+    "identifiable_reporter": true,
+    "suspect_product": true,
+    "adverse_event": true
+  },
+  "seriousness_candidates": [],
+  "timeline_issues": [],
+  "meddra_suggestions": {
+    "F13": [
+      {
+        "pt": "Guillain-barre syndrome",
+        "rationale": "Exact match to the verbatim; the preferred term for this acute inflammatory demyelinating polyneuropathy."
+      },
+      {
+        "pt": "Cerebellar syndrome",
+        "rationale": "Neurological syndrome category; shares the word 'syndrome' and involves the nervous system, making it a plausible but less specific alternative."
+      },
+      {
+        "pt": "Locked-in syndrome",
+        "rationale": "Another severe neurological condition; included because it is a recognized syndrome affecting motor function, though unrelated to Guillain‑Barré."
+      },
+      {
+        "pt": "Compartment syndrome",
+        "rationale": "A medical syndrome that could be confused in reporting; listed as a secondary candidate due to the generic 'syndrome' suffix."
+      },
+      {
+        "pt": "Anticholinergic syndrome",
+        "rationale": "A systemic syndrome with neurological manifestations; selected as a fallback option when the exact term is unavailable."
+      }
+    ]
+  },
+  "selected_meddra": {},
+  "narrative": [],
+  "narrative_version": 0,
+  "clock": {
+    "day0": null,
+    "message": "Day 0 (receipt date) not found -- add it to compute deadlines."
+  },
+  "expectedness": "unknown",
+  "expectedness_by": "",
+  "causality": {},
+  "status": "processing",
+  "human_tasks": [],
+  "signed_off_by": null,
+  "reconciled_version": 1,
+  "reconciled_fact_count": 15,
+  "narrative_stale": true,
+  "followup_drafted_version": 1,
+  "meddra_done_version": 1,
+  "clock_done_version": 1,
+  "review_requested_at_step": -1,
+  "prefollowup": {},
+  "diff": [],
+  "audit": [
+    {
+      "ts": "2026-10-28T07:46:46.563421Z",
+      "actor": "tool:ingest",
+      "action": "document_added",
+      "details": {
+        "doc_id": "D1",
+        "filename": "article.txt",
+        "pages": 4,
+        "scanned": []
+      }
+    },
+    {
+      "ts": "2026-10-28T07:46:50.815337Z",
+      "actor": "tool:extract",
+      "action": "facts_extracted",
+      "details": {
+        "docs": [
+          "D1"
+        ],
+        "anchored": 14,
+        "unanchored": [],
+        "value_unsupported": [
+          "event_verbatim@D1"
+        ],
+        "focused": false,
+        "ignored_by_source_rules": []
+      }
+    },
+    {
+      "ts": "2026-10-28T07:46:51.551135Z",
+      "actor": "policy",
+      "action": "blocked",
+      "details": {
+        "tool": "extract_facts",
+        "reason": "these fields already have trusted values; a value rejected by the checks stays rejected"
+      }
+    },
+    {
+      "ts": "2026-10-28T07:46:51.561131Z",
+      "actor": "tool:reconcile",
+      "action": "reconciled",
+      "details": {
+        "conflicts": [],
+        "open_gaps": [
+          "event_onset_date",
+          "outcome",
+          "dechallenge",
+          "start_date",
+          "action_taken"
+        ],
+        "missing_minimum": [],
+        "seriousness": [],
+        "timeline": []
+      }
+    },
+    {
+      "ts": "2026-10-28T07:46:56.160177Z",
+      "actor": "tool:followup",
+      "action": "queries_drafted",
+      "details": {
+        "gaps": [
+          "G01",
+          "G02",
+          "G03",
+          "G04",
+          "G05"
+        ]
+      }
+    },
+    {
+      "ts": "2026-10-28T07:47:04.011365Z",
+      "actor": "tool:meddra",
+      "action": "suggested",
+      "details": {
+        "suggestions": {
+          "F13": [
+            "Guillain-barre syndrome",
+            "Cerebellar syndrome",
+            "Locked-in syndrome",
+            "Compartment syndrome",
+            "Anticholinergic syndrome"
+          ]
+        }
+      }
+    },
+    {
+      "ts": "2026-10-28T07:47:05.879831Z",
+      "actor": "tool:clock",
+      "action": "clock_computed",
+      "details": {
+        "clock": {
+          "day0": null,
+          "message": "Day 0 (receipt date) not found -- add it to compute deadlines."
+        }
+      }
+    }
+  ],
+  "trace": [
+    {
+      "step": 1,
+      "ts": "2026-10-28T07:46:45.198369Z",
+      "planner": "llm",
+      "reason": "No documents have been ingested yet; this is the mandatory first step.",
+      "tool": "ingest_documents",
+      "args": {},
+      "allowed": true,
+      "result_summary": "ingested 1 document(s): ['D1']; documents with untranscribed scanned pages: none",
+      "duration_s": 1.37,
+      "planner_input": "CASE LIT-PMC8521282 | version 1 | status processing\nDocuments: none ingested yet.\nReconciled for current version and facts: False\nMedDRA suggested for this version: False; clock computed for this version: False\nNarrative: not drafted\n\nTools the rulebook allows now: ingest_documents",
+      "calls": [
+        {
+          "step": 1,
+          "role": "planner",
+          "model": "groq:qwen/qwen3.8-27b",
+          "secs": 1.89,
+          "instructions": "You are the SafetyTrace orchestrator for SERIOUS clinical-trial adverse-event cases.\nGoal: bring the case to a state where a qualified human reviewer can verify it quickly and safely.\n\nYou never see documents. You see a case summary and choose ONE next tool. Explain your reason in one short sentence (shown to the reviewer as the agent trace).\n\nTools:\n- ingest_documents: load the case pack (first step only).\n- transcribe_scans: transcribe scanned pages that have no text layer. Must happen before extraction of those documents.\n- extract_facts: extract facts with verified quotes. With no arguments it processes all un-extracted documents.\n  With doc_ids AND fields it does ONE focused re-extraction (use it when a field has only unanchored values, or after a search found likely evidence).\n- search_documents: deterministic search of every page, ONLY for a MISSING minimum criterion. Give criterion = one of identifiable_patient, identifiable_reporter, suspect_product, adverse_event.\n- reconcile: detect conflicts, gaps, minimum criteria, seriousness candidates. Run it whenever facts changed.\n- suggest_meddra: suggest MedDRA terms (human selects).\n- compute_clock: compute regulatory deadlines.\n- draft_narrative: write the narrative from usable facts only (conflicts/gaps are stated by templates).\n- verify_narrative: check every pending sentence (rules first, then an independent model).\n- redraft_sentences: redraft only blocked sentences (give sentence_ids).\n- draft_followup_queries: draft follow-up questions for open gaps/conflicts (a human approves; nothing is sent).\n- request_human_review: hand over to the reviewer when automatic work is done.\n- stop: nothing useful left to do.\n\nRules you must follow:\n1. Never decide which of two conflicting values is correct, and never decide causality, expectedness, reportability or case validity.\n2. Before treating a minimum criterion as missing, search for it; if the search finds hits, do one focused extraction on those documents.\n3. If a field has only unanchored values, try one focused re-extraction on that document.\n4. After any drafting or redrafting, verify. Redraft only blocked sentences.\n5. Reconcile again whenever facts changed (for example after a follow-up reply or a focused extraction).\n6. Conflicts are decided ONLY by a human or by a site reply. Do not search or re-extract to \"resolve\" a conflict: draft a follow-up query and hand over.\n7. Missing information that is not a minimum criterion (e.g. dechallenge) is a gap",
+          "input": "CASE LIT-PMC8521282 | version 1 | status processing\nDocuments: none ingested yet.\nReconciled for current version and facts: False\nMedDRA suggested for this version: False; clock computed for this version: False\nNarrative: not drafted\n\nTools the policy allows right now (anything else is blocked): ingest_documents\n\nChoose the single next action.",
+          "output": "{\"criterion\": \"\", \"doc_ids\": [], \"fields\": [], \"reason\": \"No documents have been ingested yet; this is the mandatory first step.\", \"sentence_ids\": [], \"tool\": \"ingest_documents\"}"
+        }
+      ],
+      "changes": {
+        "documents loaded": [
+          "D1 article.txt: 4 page(s), plain text"
+        ]
+      }
+    },
+    {
+      "step": 2,
+      "ts": "2026-10-28T07:46:48.029411Z",
+      "planner": "llm",
+      "reason": "Document D1 is ingested but not yet extracted; extract_facts is the only allowed and necessary next step.",
+      "tool": "extract_facts",
+      "args": {},
+      "allowed": true,
+      "result_summary": "extracted from ['D1']: 14 anchored; unanchored=['event_verbatim@D1']",
+      "duration_s": 2.79,
+      "planner_input": "CASE LIT-PMC8521282 | version 1 | status processing\n- D1 article.txt [literature_article, v1, 4 page(s)]: NOT extracted\nReconciled for current version and facts: False\nMedDRA suggested for this version: False; clock computed for this version: False\nNarrative: not drafted\nRecent steps:\n  1. ingest_documents  -> ingested 1 document(s): ['D1']; documents with untranscribed scanned pages: none\n\nTools the rulebook allows now: extract_facts (all un-extracted documents)",
+      "calls": [
+        {
+          "step": 2,
+          "role": "planner",
+          "model": "groq:qwen/qwen3.8-27b",
+          "secs": 1.46,
+          "instructions": "You are the SafetyTrace orchestrator for SERIOUS clinical-trial adverse-event cases.\nGoal: bring the case to a state where a qualified human reviewer can verify it quickly and safely.\n\nYou never see documents. You see a case summary and choose ONE next tool. Explain your reason in one short sentence (shown to the reviewer as the agent trace).\n\nTools:\n- ingest_documents: load the case pack (first step only).\n- transcribe_scans: transcribe scanned pages that have no text layer. Must happen before extraction of those documents.\n- extract_facts: extract facts with verified quotes. With no arguments it processes all un-extracted documents.\n  With doc_ids AND fields it does ONE focused re-extraction (use it when a field has only unanchored values, or after a search found likely evidence).\n- search_documents: deterministic search of every page, ONLY for a MISSING minimum criterion. Give criterion = one of identifiable_patient, identifiable_reporter, suspect_product, adverse_event.\n- reconcile: detect conflicts, gaps, minimum criteria, seriousness candidates. Run it whenever facts changed.\n- suggest_meddra: suggest MedDRA terms (human selects).\n- compute_clock: compute regulatory deadlines.\n- draft_narrative: write the narrative from usable facts only (conflicts/gaps are stated by templates).\n- verify_narrative: check every pending sentence (rules first, then an independent model).\n- redraft_sentences: redraft only blocked sentences (give sentence_ids).\n- draft_followup_queries: draft follow-up questions for open gaps/conflicts (a human approves; nothing is sent).\n- request_human_review: hand over to the reviewer when automatic work is done.\n- stop: nothing useful left to do.\n\nRules you must follow:\n1. Never decide which of two conflicting values is correct, and never decide causality, expectedness, reportability or case validity.\n2. Before treating a minimum criterion as missing, search for it; if the search finds hits, do one focused extraction on those documents.\n3. If a field has only unanchored values, try one focused re-extraction on that document.\n4. After any drafting or redrafting, verify. Redraft only blocked sentences.\n5. Reconcile again whenever facts changed (for example after a follow-up reply or a focused extraction).\n6. Conflicts are decided ONLY by a human or by a site reply. Do not search or re-extract to \"resolve\" a conflict: draft a follow-up query and hand over.\n7. Missing information that is not a minimum criterion (e.g. dechallenge) is a gap",
+          "input": "CASE LIT-PMC8521282 | version 1 | status processing\n- D1 article.txt [literature_article, v1, 4 page(s)]: NOT extracted\nReconciled for current version and facts: False\nMedDRA suggested for this version: False; clock computed for this version: False\nNarrative: not drafted\nRecent steps:\n  1. ingest_documents  -> ingested 1 document(s): ['D1']; documents with untranscribed scanned pages: none\n\nTools the policy allows right now (anything else is blocked): extract_facts (all un-extracted documents)\n\nChoose the single next action.",
+          "output": "{\"criterion\": \"\", \"doc_ids\": [], \"fields\": [], \"reason\": \"Document D1 is ingested but not yet extracted; extract_facts is the only allowed and necessary next step.\", \"sentence_ids\": [], \"tool\": \"extract_facts\"}"
+        },
+        {
+          "step": 2,
+          "role": "extract",
+          "model": "gemini:gemini-3.5-flash-lite",
+          "secs": 2.77,
+          "instructions": "You extract adverse-event case facts from ONE clinical document for a pharmacovigilance safety case.\n\nRules:\n1. Extract only facts that are explicitly stated in this document. Never infer, guess or use outside knowledge.\n2. For every fact return:\n   - field: one of the listed field keys\n   - value: the value as stated (keep units and dates exactly as written)\n   - quote: the SHORTEST verbatim span from the document that contains the value. Copy it character for character. Do not paraphrase, fix typos or join text from different places.\n   - page: the page number shown as <<PAGE n>>\n3. If the same field is stated more than once with different values, return each one separately with its own quote.\n4. If a field is not stated, do not return it. Missing information is important and must stay missing.\n5. Repeatable fields (relevant_labs, concomitant_meds, treatment_given, relevant_history, seriousness_criteria) may appear several times.\n6. Field meanings that are easy to misread:\n   - reporter_name_or_role / reporter_type: the person who REPORTS this case (the author or signatory of the document, e.g. the investigator who signs a clinic note). Someone the text merely mentions (e.g. \"called the study nurse\", \"showed my daughter\") is NOT the reporter.\n   - start_date: only a date stated as the start of the suspect drug (\"started on ...\"). A diary line saying a tablet was taken on some day is not a start date.\n   - stop_date / action_taken: the action taken with the suspect drug BECAUSE OF the event, as stated by the treating team (withdrawn, interrupted, dose reduced, unchanged). A single missed dose noted in a diary is not an action taken.\n   - event_onset_date: the date the adverse event UNDER REPORT first appeared (including its first signs). Do not return onset dates of other, unrelated symptoms. If the document gives more than one date for the onset of that event, return each one separately.\n7. Several drugs: for dose, route, frequency, indication, start_date, stop_date, action_taken, dechallenge and rechallenge set \"drug\" to the name of the drug the value belongs to (leave \"drug\" empty for other fields). Never attach one drug's dose or indication to another drug.\n8. event_verbatim: return each distinct adverse event separately, each with its own quote.\n9. Return only the fields listed below; other fields are not taken from this type of document.\n",
+          "input": "Document: article.txt (type: literature_article)\n\nFields to extract:\n- study_id: Clinical study / protocol identifier\n- site_id: Investigator site identifier\n- subject_id: Study subject / patient identifier\n- reporter_name_or_role: Name or role of the person reporting the event (e.g. Dr. A. Mehta, investigator)\n- reporter_type: physician, investigator, pharmacist, nurse, patient or other\n- patient_initials: Patient initials\n- patient_age: Patient age in years\n- patient_sex: Patient sex\n- relevant_history: Relevant medical history\n- drug_name: Suspect (study) drug name\n- dose: Dose of the suspect drug with unit\n- route: Route of administration\n- frequency: Dosing frequency\n- start_date: Date the suspect drug was started\n- stop_date: Date of the LAST dose of the suspect drug (E2B convention). If a text gives both the date the drug was interrupted and the last-dose date, use the last-dose date\n- indication: The disease or condition the suspect drug was given for (e.g. 'atrial fibrillation'), not a phrase about the drug itself\n- action_taken: Action taken with the suspect drug (withdrawn, interrupted, unchanged, reduced)\n- event_verbatim: One adverse event as described in the source. Return EACH distinct event (diagnosis, complication, clinically significant abnormal finding) as a separate entry\n- event_onset_date: Date the adverse event started\n- event_end_date: Date the adverse event resolved\n- seriousness_criteria: Seriousness criterion stated or clearly described: death, life-threatening, hospitalisation (admitted, hospitalised, prolonged stay), disability, congenital anomaly, medically important (e.g. needed surgery to prevent permanent harm). Value = the category word; quote = the text that shows it\n- outcome: Outcome of the event (recovered, recovering, not recovered, fatal, unknown)\n- dechallenge: What happened to the event after the drug was stopped or reduced\n- rechallenge: Whether the drug was restarted and what happened\n- treatment_given: Treatment given for the adverse event\n- relevant_labs: Relevant laboratory result with value, unit and date\n- concomitant_meds: Concomitant medication\n- investigator_causality: The reporter's or investigator's own causality assessment of the suspect drug (e.g. 'related', 'probably related', 'not related'), only if the source states one\n\nDocument text:\n<<PAGE 1>>\nGuillain-Barré syndrome associated with inappropriate secretion of antidiuretic hormone following SARS-CoV-2 infection: A case-report.\nClinical case reports (2021). Santoro C, Guerra T, D'Errico E, Fraddosio A, Lapenna F, Introna A, Trojano M.\nLicense: cc by-nc-nd | PMC8521282 | doi:10.1002/ccr3.4667\n\nGuillain‐Barré syndrome associated with inappropriate secretion of antidiuretic hormone following SARS‐CoV‐2 infection: A case‐report\n\nAbstract\nIn a system already preconditioned by previous damage, as results of the cytokine release syndrome complicating the COVID‐19 disease, a small trigger may be sufficient to develop a SIADH complicating a GBS, even without a poor outcome.\nKeywords: COVID‐19, Guillain‐Barré syndrome, long‐term complication, SIADH\n\nINTRODUCTION\nThe syndrome of inappropriate secretion of antidiuretic hormone (SIADH) is a complication of Guillain‐Barrè syndrome (GBS), associated with a worse prognosis. New‐onset euvolemic hyponatremia represents a risk factor for mortality in SARS‐CoV‐2 disease. GBS complicated by SIADH after recovering from COVID‐19 complicated by asymptomatic SIADH was reported.\nGuillain‐Barré syndrome (GBS) is the most frequent inflammatory polyradiculoneuropathy frequently associated with previous viral infections or vaccines. The syndrome of inappropriate secretion of antidiuretic hormone (SIADH) is a well‐recognized complication of GBS; it was generally associated with severe GBS and has been considered a negative prognostic factor. 1 The predominant clinical presentation of SARS‐CoV‐2 disease is the respiratory form, but a multisystemic involvement has been now well described. COVID‐19‐induced euvolemic hyponatremia occurs in 20% of hospitalized COVID‐19 patients and is associated to higher mortality and higher risk of sepsis. 2 Little is known about long‐term complications of COVID‐19. We report a case of GBS and symptomatic SIADH after six months from COVID‐19 interstitial pneumonia complicated by hyponatremia.\n\n<<PAGE 2>>\nCOVID COURSE AND CLINICAL COURSE\nIn April 2020, a 47‐year‐old Caucasian man tested positive for nasopharyngeal SARS‐CoV‐2 swab and was admitted to the Pneumology Unit. Diffuse interstitial‐like bilateral pneumonia was found and treatment with azithromycin, hydroxychloroquine sulfate, and enoxaparin were started. Due to worsening of respiratory performance, he required mechanical artificial ventilation. Considering the high interleukin‐6 (IL‐6) serum values, tocilizumab 8 mg/kg was administered. As the respiratory function improved, the patient was moved to a step‐down unit. His hospitalization was prolonged due to severe euvolemic hyponatremia (115 mg/ml), corrected with hypertonic saline IV over the course of three weeks. In November 2020, the patient complained a ten‐day‐lasting mild‐progressive lower limbs weakness, ataxia, urinary hesitation, and constipation. At the admission, the neurological examination showed sensory ataxia, reduced deep tendon reflexes at lower limbs and only mild strength reduction (MRC 4+ at feet dorsiflexion). Neither history of flu‐like episode nor vaccine was reported. Electrophysiological studies revealed acute sensorimotor demyelinating polyneuropathy (Figure 1A) and mild albumin‐cytologic dissociation (cerebrospinal‐fluid proteins 0.58 g/L) was found at cerebrospinal‐fluid examination, confirming the diagnosis of GBS. Cerebrospinal‐fluid SARS‐CoV‐2 polymerase chain reaction and serum anti‐ganglioside antibodies were negative. Human immunoglobulins intravenous (0.4 g/kg/day for 5 days) were promptly started, with steady‐progressive improvement of gait and lower limbs weakness. Furthermore, at adm",
+          "output": "{\"facts\": [{\"field\": \"patient_age\", \"value\": \"47\", \"quote\": \"a 47‐year‐old\", \"page\": 2, \"drug\": \"\"}, {\"field\": \"patient_sex\", \"value\": \"male\", \"quote\": \"man\", \"page\": 2, \"drug\": \"\"}, {\"field\": \"drug_name\", \"value\": \"azithromycin\", \"quote\": \"azithromycin\", \"page\": 2, \"drug\": \"azithromycin\"}, {\"field\": \"drug_name\", \"value\": \"hydroxychloroquine sulfate\", \"quote\": \"hydroxychloroquine sulfate\", \"page\": 2, \"drug\": \"hydroxychloroquine sulfate\"}, {\"field\": \"drug_name\", \"value\": \"enoxaparin\", \"quote\": \"enoxaparin\", \"page\": 2, \"drug\": \"enoxaparin\"}, {\"field\": \"drug_name\", \"value\": \"tocilizumab\", \"quote\": \"tocilizumab\", \"page\": 2, \"drug\": \"tocilizumab\"}, {\"field\": \"dose\", \"value\": \"8 mg/kg\", \"quote\": \"8 mg/kg\", \"page\": 2, \"drug\": \"tocilizumab\"}, {\"field\": \"drug_name\", \"value\": \"Human immunoglobulins intravenous\", \"quote\": \"Human immunoglobulins intravenous\", \"page\": 2, \"drug\": \"Human immunoglobulins intravenous\"}, {\"field\": \"dose\", \"value\": \"0.4 g/kg/day\", \"quote\": \"0.4 g/kg/day\", \"page\": 2, \"drug\": \"Human immunoglobulins intravenous\"}, {\"field\": \"drug_name\", \"value\": \"tolvaptan\", \"quote\": \"tolvaptan\", \"page\": 2, \"drug\": \"tolvaptan\"}, {\"field\": \"dose\", \"value\": \"15 mg\", \"quote\": \"15 mg\", \"page\": 2, \"drug\": \"tolvaptan\"}, {\"field\": \"frequency\", \"value\": \"daily\", \"quote\": \"daily\", \"page\": 2, \"drug\": \"tolvaptan\"}, {\"field\": \"event_verbatim\", \"value\": \"Guillain-Barré syndrome\", \"quote\": \"Guillain‐Barré syndrome\", \"page\": 2, \"drug\": \"\"}, {\"field\": \"event_verbatim\", \"value\": \"syndrome of inappropriate secretion of antidiuretic hormone\", \"quote\": \"SIADH\", \"page\": 2, \"drug\": \"\"}]}"
+        }
+      ],
+      "changes": {
+        "documents read": [
+          "D1 article.txt"
+        ],
+        "facts proven": [
+          "F01 patient_age = 47",
+          "F02 patient_sex = male",
+          "F03 drug_name = azithromycin",
+          "F04 drug_name = hydroxychloroquine sulfate",
+          "F05 drug_name = enoxaparin",
+          "F06 drug_name = tocilizumab",
+          "F07 dose = 8 mg/kg [tocilizumab]",
+          "F08 drug_name = Human immunoglobulins intravenous",
+          "F09 dose = 0.4 g/kg/day [Human immunoglobulins intravenous]",
+          "F10 drug_name = tolvaptan",
+          "F11 dose = 15 mg [tolvaptan]",
+          "F12 frequency = daily [tolvaptan]",
+          "F13 event_verbatim = Guillain-Barré syndrome",
+          "F15 reporter_name_or_role = Santoro C, Guerra T, D'Errico E, Fraddosio A, Lapenna F, Introna A, Trojano M (article authors)"
+        ],
+        "rejected by code": [
+          "F14 event_verbatim = syndrome of inappropriate secretion of antidiuretic hormone: value 'syndrome of inappropriate secretion of antidiuretic hormone' not supported by quote 'SIADH'"
+        ]
+      }
+    },
+    {
+      "step": 3,
+      "ts": "2026-10-28T07:46:51.551135Z",
+      "planner": "llm",
+      "reason": "The only unanchored fact is event_verbatim@D1; perform focused extraction to anchor it.",
+      "tool": "extract_facts",
+      "args": {
+        "doc_ids": [
+          "D1"
+        ],
+        "fields": [
+          "event_verbatim"
+        ]
+      },
+      "allowed": false,
+      "result_summary": "blocked by policy: these fields already have trusted values; a value rejected by the checks stays rejected",
+      "duration_s": 0.0,
+      "planner_input": "CASE LIT-PMC8521282 | version 1 | status processing\n- D1 article.txt [literature_article, v1, 4 page(s)]: extracted\nFacts: {'anchored': 14, 'unanchored': 1, 'conflicting': 0, 'confirmed_by_human': 0}\nReconciled for current version and facts: False\nMedDRA suggested for this version: False; clock computed for this version: False\nNarrative: not drafted\nRecent steps:\n  1. ingest_documents  -> ingested 1 document(s): ['D1']; documents with untranscribed scanned pages: none\n  2. extract_facts  -> extracted from ['D1']: 14 anchored; unanchored=['event_verbatim@D1']\n\nTools the rulebook allows now: extract_facts focused (doc_ids from ['D1'] + fields), reconcile",
+      "calls": [
+        {
+          "step": 3,
+          "role": "planner",
+          "model": "groq:openai/gpt-oss-20b",
+          "secs": 0.73,
+          "instructions": "You are the SafetyTrace orchestrator for SERIOUS clinical-trial adverse-event cases.\nGoal: bring the case to a state where a qualified human reviewer can verify it quickly and safely.\n\nYou never see documents. You see a case summary and choose ONE next tool. Explain your reason in one short sentence (shown to the reviewer as the agent trace).\n\nTools:\n- ingest_documents: load the case pack (first step only).\n- transcribe_scans: transcribe scanned pages that have no text layer. Must happen before extraction of those documents.\n- extract_facts: extract facts with verified quotes. With no arguments it processes all un-extracted documents.\n  With doc_ids AND fields it does ONE focused re-extraction (use it when a field has only unanchored values, or after a search found likely evidence).\n- search_documents: deterministic search of every page, ONLY for a MISSING minimum criterion. Give criterion = one of identifiable_patient, identifiable_reporter, suspect_product, adverse_event.\n- reconcile: detect conflicts, gaps, minimum criteria, seriousness candidates. Run it whenever facts changed.\n- suggest_meddra: suggest MedDRA terms (human selects).\n- compute_clock: compute regulatory deadlines.\n- draft_narrative: write the narrative from usable facts only (conflicts/gaps are stated by templates).\n- verify_narrative: check every pending sentence (rules first, then an independent model).\n- redraft_sentences: redraft only blocked sentences (give sentence_ids).\n- draft_followup_queries: draft follow-up questions for open gaps/conflicts (a human approves; nothing is sent).\n- request_human_review: hand over to the reviewer when automatic work is done.\n- stop: nothing useful left to do.\n\nRules you must follow:\n1. Never decide which of two conflicting values is correct, and never decide causality, expectedness, reportability or case validity.\n2. Before treating a minimum criterion as missing, search for it; if the search finds hits, do one focused extraction on those documents.\n3. If a field has only unanchored values, try one focused re-extraction on that document.\n4. After any drafting or redrafting, verify. Redraft only blocked sentences.\n5. Reconcile again whenever facts changed (for example after a follow-up reply or a focused extraction).\n6. Conflicts are decided ONLY by a human or by a site reply. Do not search or re-extract to \"resolve\" a conflict: draft a follow-up query and hand over.\n7. Missing information that is not a minimum criterion (e.g. dechallenge) is a gap",
+          "input": "CASE LIT-PMC8521282 | version 1 | status processing\n- D1 article.txt [literature_article, v1, 4 page(s)]: extracted\nFacts: {'anchored': 14, 'unanchored': 1, 'conflicting': 0, 'confirmed_by_human': 0}\nReconciled for current version and facts: False\nMedDRA suggested for this version: False; clock computed for this version: False\nNarrative: not drafted\nRecent steps:\n  1. ingest_documents  -> ingested 1 document(s): ['D1']; documents with untranscribed scanned pages: none\n  2. extract_facts  -> extracted from ['D1']: 14 anchored; unanchored=['event_verbatim@D1']\n\nTools the policy allows right now (anything else is blocked): extract_facts focused (doc_ids from ['D1'] + fields), reconcile\n\nChoose the single next action.",
+          "output": "{\"reason\": \"The only unanchored fact is event_verbatim@D1; perform focused extraction to anchor it.\", \"tool\": \"extract_facts\", \"doc_ids\": [\"D1\"], \"fields\": [\"event_verbatim\"], \"criterion\": \"\", \"sentence_ids\": []}"
+        }
+      ],
+      "changes": {}
+    },
+    {
+      "step": 4,
+      "ts": "2026-10-28T07:46:51.561131Z",
+      "planner": "rules-fallback",
+      "reason": "Facts changed: reconcile conflicts, gaps and minimum criteria.",
+      "tool": "reconcile",
+      "args": {},
+      "allowed": true,
+      "result_summary": "conflicts(unresolved)=none; open gaps=['event_onset_date', 'outcome', 'dechallenge', 'start_date', 'action_taken']; missing minimum criteria=none; seriousness candidates=none",
+      "duration_s": 0.0,
+      "planner_input": "CASE LIT-PMC8521282 | version 1 | status processing\n- D1 article.txt [literature_article, v1, 4 page(s)]: extracted\nFacts: {'anchored': 14, 'unanchored': 1, 'conflicting': 0, 'confirmed_by_human': 0}\nReconciled for current version and facts: False\nMedDRA suggested for this version: False; clock computed for this version: False\nNarrative: not drafted\nRecent steps:\n  1. ingest_documents  -> ingested 1 document(s): ['D1']; documents with untranscribed scanned pages: none\n  2. extract_facts  -> extracted from ['D1']: 14 anchored; unanchored=['event_verbatim@D1']\n  3. extract_facts {'doc_ids': ['D1'], 'fields': ['event_verbatim']} -> BLOCKED: blocked by policy: these fields already have trusted values; a value rejected by the checks stays rejected\n\nTools the rulebook allows now: extract_facts focused (doc_ids from ['D1'] + fields), reconcile",
+      "calls": [],
+      "changes": {
+        "gaps opened": [
+          "G01 event_onset_date",
+          "G02 outcome",
+          "G03 dechallenge",
+          "G04 start_date",
+          "G05 action_taken"
+        ],
+        "minimum criteria": [
+          "identifiable patient: present",
+          "identifiable reporter: present",
+          "suspect product: present",
+          "adverse event: present"
+        ]
+      }
+    },
+    {
+      "step": 5,
+      "ts": "2026-10-28T07:46:53.647002Z",
+      "planner": "llm",
+      "reason": "Open gaps exist for required serious criteria; need follow-up queries to fill them.",
+      "tool": "draft_followup_queries",
+      "args": {},
+      "allowed": true,
+      "result_summary": "drafted 5 follow-up quer(ies) for ['event_onset_date', 'outcome', 'dechallenge', 'start_date', 'action_taken'] (human approval required; never sent)",
+      "duration_s": 2.51,
+      "planner_input": "CASE LIT-PMC8521282 | version 1 | status processing\n- D1 article.txt [literature_article, v1, 4 page(s)]: extracted\nFacts: {'anchored': 14, 'unanchored': 1, 'conflicting': 0, 'confirmed_by_human': 0}\nReconciled for current version and facts: True\nMinimum criteria present: {'identifiable_patient': True, 'identifiable_reporter': True, 'suspect_product': True, 'adverse_event': True}\nOpen gap G01 event_onset_date (required_for_serious); searched=False, search hits in none; query=none\nOpen gap G02 outcome (required_for_serious); searched=False, search hits in none; query=none\nOpen gap G03 dechallenge (required_for_serious); searched=False, search hits in none; query=none\nOpen gap G04 start_date (required_for_serious); searched=False, search hits in none; query=none\nOpen gap G05 action_taken (required_for_serious); searched=False, search hits in none; query=none\nMedDRA suggested for this version: False; clock computed for this version: False\nNarrative: not drafted\nRecent steps:\n  1. ingest_documents  -> ingested 1 document(s): ['D1']; documents with untranscribed scanned pages: none\n  2. extract_facts  -> extracted from ['D1']: 14 anchored; unanchored=['event_verbatim@D1']\n  3. extract_facts {'doc_ids': ['D1'], 'fields': ['event_verbatim']} -> BLOCKED: blocked by policy: these fields already have trusted values; a value rejected by the checks stays rejected\n  4. reconcile  -> conflicts(unresolved)=none; open gaps=['event_onset_date', 'outcome', 'dechallenge', 'start_date', 'action_taken']; missing minimum criteria=none; seriousness c\n\nTools the rulebook allows now: extract_facts focused (doc_ids from ['D1'] + fields), suggest_meddra, compute_clock, draft_narrative, draft_followup_queries",
+      "calls": [
+        {
+          "step": 5,
+          "role": "planner",
+          "model": "groq:openai/gpt-oss-20b",
+          "secs": 2.08,
+          "instructions": "You are the SafetyTrace orchestrator for SERIOUS clinical-trial adverse-event cases.\nGoal: bring the case to a state where a qualified human reviewer can verify it quickly and safely.\n\nYou never see documents. You see a case summary and choose ONE next tool. Explain your reason in one short sentence (shown to the reviewer as the agent trace).\n\nTools:\n- ingest_documents: load the case pack (first step only).\n- transcribe_scans: transcribe scanned pages that have no text layer. Must happen before extraction of those documents.\n- extract_facts: extract facts with verified quotes. With no arguments it processes all un-extracted documents.\n  With doc_ids AND fields it does ONE focused re-extraction (use it when a field has only unanchored values, or after a search found likely evidence).\n- search_documents: deterministic search of every page, ONLY for a MISSING minimum criterion. Give criterion = one of identifiable_patient, identifiable_reporter, suspect_product, adverse_event.\n- reconcile: detect conflicts, gaps, minimum criteria, seriousness candidates. Run it whenever facts changed.\n- suggest_meddra: suggest MedDRA terms (human selects).\n- compute_clock: compute regulatory deadlines.\n- draft_narrative: write the narrative from usable facts only (conflicts/gaps are stated by templates).\n- verify_narrative: check every pending sentence (rules first, then an independent model).\n- redraft_sentences: redraft only blocked sentences (give sentence_ids).\n- draft_followup_queries: draft follow-up questions for open gaps/conflicts (a human approves; nothing is sent).\n- request_human_review: hand over to the reviewer when automatic work is done.\n- stop: nothing useful left to do.\n\nRules you must follow:\n1. Never decide which of two conflicting values is correct, and never decide causality, expectedness, reportability or case validity.\n2. Before treating a minimum criterion as missing, search for it; if the search finds hits, do one focused extraction on those documents.\n3. If a field has only unanchored values, try one focused re-extraction on that document.\n4. After any drafting or redrafting, verify. Redraft only blocked sentences.\n5. Reconcile again whenever facts changed (for example after a follow-up reply or a focused extraction).\n6. Conflicts are decided ONLY by a human or by a site reply. Do not search or re-extract to \"resolve\" a conflict: draft a follow-up query and hand over.\n7. Missing information that is not a minimum criterion (e.g. dechallenge) is a gap",
+          "input": "CASE LIT-PMC8521282 | version 1 | status processing\n- D1 article.txt [literature_article, v1, 4 page(s)]: extracted\nFacts: {'anchored': 14, 'unanchored': 1, 'conflicting': 0, 'confirmed_by_human': 0}\nReconciled for current version and facts: True\nMinimum criteria present: {'identifiable_patient': True, 'identifiable_reporter': True, 'suspect_product': True, 'adverse_event': True}\nOpen gap G01 event_onset_date (required_for_serious); searched=False, search hits in none; query=none\nOpen gap G02 outcome (required_for_serious); searched=False, search hits in none; query=none\nOpen gap G03 dechallenge (required_for_serious); searched=False, search hits in none; query=none\nOpen gap G04 start_date (required_for_serious); searched=False, search hits in none; query=none\nOpen gap G05 action_taken (required_for_serious); searched=False, search hits in none; query=none\nMedDRA suggested for this version: False; clock computed for this version: False\nNarrative: not drafted\nRecent steps:\n  1. ingest_documents  -> ingested 1 document(s): ['D1']; documents with untranscribed scanned pages: none\n  2. extract_facts  -> extracted from ['D1']: 14 anchored; unanchored=['event_verbatim@D1']\n  3. extract_facts {'doc_ids': ['D1'], 'fields': ['event_verbatim']} -> BLOCKED: blocked by policy: these fields already have trusted values; a value rejected by the checks stays rejected\n  4. reconcile  -> conflicts(unresolved)=none; open gaps=['event_onset_date', 'outcome', 'dechallenge', 'start_date', 'action_taken']; missing minimum criteria=none; seriousness c\n\nTools the policy allows right now (anything else is blocked): extract_facts focused (doc_ids from ['D1'] + fields), suggest_meddra, compute_clock, draft_narrative, draft_followup_queries\n\nChoose the single next action.",
+          "output": "{\"tool\": \"draft_followup_queries\", \"doc_ids\": [], \"fields\": [], \"criterion\": \"\", \"sentence_ids\": [], \"reason\": \"Open gaps exist for required serious criteria; need follow-up queries to fill them.\"}"
+        },
+        {
+          "step": 5,
+          "role": "followup",
+          "model": "groq:openai/gpt-oss-20b",
+          "secs": 2.51,
+          "instructions": "You draft short, specific, polite follow-up questions from a drug-safety team to a clinical-trial site. One question per item. Name the exact information needed and, for conflicts, quote both values and their sources. No speculation, no medical judgement.",
+          "input": "Items:\nG01: missing: event onset date\nG02: missing: event outcome\nG03: missing: dechallenge information (what happened after the drug was stopped or reduced)\nG04: missing: start date of the suspect drug\nG05: missing: action taken with the suspect drug",
+          "output": "{\"queries\": [{\"gap_id\": \"G01\", \"query\": \"Please provide the event onset date for the adverse event reported.\"}, {\"gap_id\": \"G02\", \"query\": \"Please provide the outcome of the event (e.g., resolved, ongoing, worsened, fatal).\"}, {\"gap_id\": \"G03\", \"query\": \"Please provide dechallenge information: what happened after the suspect drug was stopped or reduced.\"}, {\"gap_id\": \"G04\", \"query\": \"Please provide the start date of the suspect drug.\"}, {\"gap_id\": \"G05\", \"query\": \"Please provide the action taken with the suspect drug (e.g., discontinued, dose reduced, continued).\"}]}"
+        }
+      ],
+      "changes": {
+        "questions drafted": [
+          "G01: Please provide the event onset date for the adverse event reported.",
+          "G02: Please provide the outcome of the event (e.g., resolved, ongoing, worsened, fatal).",
+          "G03: Please provide dechallenge information: what happened after the suspect drug was stopped or reduced.",
+          "G04: Please provide the start date of the suspect drug.",
+          "G05: Please provide the action taken with the suspect drug (e.g., discontinued, dose reduced, continued)."
+        ]
+      }
+    },
+    {
+      "step": 6,
+      "ts": "2026-10-28T07:47:01.303389Z",
+      "planner": "llm",
+      "reason": "MedDRA terms are needed before drafting the narrative so it can reference standardized event terminology.",
+      "tool": "suggest_meddra",
+      "args": {
+        "criterion": "suggest_meddra"
+      },
+      "allowed": true,
+      "result_summary": "MedDRA suggestions (demo vocabulary): 'Guillain-Barré syndrome' -> Guillain-barre syndrome",
+      "duration_s": 2.71,
+      "planner_input": "CASE LIT-PMC8521282 | version 1 | status processing\n- D1 article.txt [literature_article, v1, 4 page(s)]: extracted\nFacts: {'anchored': 14, 'unanchored': 1, 'conflicting': 0, 'confirmed_by_human': 0}\nReconciled for current version and facts: True\nMinimum criteria present: {'identifiable_patient': True, 'identifiable_reporter': True, 'suspect_product': True, 'adverse_event': True}\nOpen gap G01 event_onset_date (required_for_serious); searched=False, search hits in none; query=drafted (waiting for a human to approve it; nothing more for the agent to do on this gap)\nOpen gap G02 outcome (required_for_serious); searched=False, search hits in none; query=drafted (waiting for a human to approve it; nothing more for the agent to do on this gap)\nOpen gap G03 dechallenge (required_for_serious); searched=False, search hits in none; query=drafted (waiting for a human to approve it; nothing more for the agent to do on this gap)\nOpen gap G04 start_date (required_for_serious); searched=False, search hits in none; query=drafted (waiting for a human to approve it; nothing more for the agent to do on this gap)\nOpen gap G05 action_taken (required_for_serious); searched=False, search hits in none; query=drafted (waiting for a human to approve it; nothing more for the agent to do on this gap)\nMedDRA suggested for this version: False; clock computed for this version: False\nNarrative: not drafted\nRecent steps:\n  1. ingest_documents  -> ingested 1 document(s): ['D1']; documents with untranscribed scanned pages: none\n  2. extract_facts  -> extracted from ['D1']: 14 anchored; unanchored=['event_verbatim@D1']\n  3. extract_facts {'doc_ids': ['D1'], 'fields': ['event_verbatim']} -> BLOCKED: blocked by policy: these fields already have trusted values; a value rejected by the checks stays rejected\n  4. reconcile  -> conflicts(unresolved)=none; open gaps=['event_onset_date', 'outcome', 'dechallenge', 'start_date', 'action_taken']; missing minimum criteria=none; seriousness c\n  5. draft_followup_queries  -> drafted 5 follow-up quer(ies) for ['event_onset_date', 'outcome', 'dechallenge', 'start_date', 'action_taken'] (human approval required; never sent)\n\nTools the rulebook allows now: extract_facts focused (doc_ids from ['D1'] + fields), suggest_meddra, compute_clock, draft_narrative",
+      "calls": [
+        {
+          "step": 6,
+          "role": "planner",
+          "model": "groq:qwen/qwen3.8-27b",
+          "secs": 3.23,
+          "instructions": "You are the SafetyTrace orchestrator for SERIOUS clinical-trial adverse-event cases.\nGoal: bring the case to a state where a qualified human reviewer can verify it quickly and safely.\n\nYou never see documents. You see a case summary and choose ONE next tool. Explain your reason in one short sentence (shown to the reviewer as the agent trace).\n\nTools:\n- ingest_documents: load the case pack (first step only).\n- transcribe_scans: transcribe scanned pages that have no text layer. Must happen before extraction of those documents.\n- extract_facts: extract facts with verified quotes. With no arguments it processes all un-extracted documents.\n  With doc_ids AND fields it does ONE focused re-extraction (use it when a field has only unanchored values, or after a search found likely evidence).\n- search_documents: deterministic search of every page, ONLY for a MISSING minimum criterion. Give criterion = one of identifiable_patient, identifiable_reporter, suspect_product, adverse_event.\n- reconcile: detect conflicts, gaps, minimum criteria, seriousness candidates. Run it whenever facts changed.\n- suggest_meddra: suggest MedDRA terms (human selects).\n- compute_clock: compute regulatory deadlines.\n- draft_narrative: write the narrative from usable facts only (conflicts/gaps are stated by templates).\n- verify_narrative: check every pending sentence (rules first, then an independent model).\n- redraft_sentences: redraft only blocked sentences (give sentence_ids).\n- draft_followup_queries: draft follow-up questions for open gaps/conflicts (a human approves; nothing is sent).\n- request_human_review: hand over to the reviewer when automatic work is done.\n- stop: nothing useful left to do.\n\nRules you must follow:\n1. Never decide which of two conflicting values is correct, and never decide causality, expectedness, reportability or case validity.\n2. Before treating a minimum criterion as missing, search for it; if the search finds hits, do one focused extraction on those documents.\n3. If a field has only unanchored values, try one focused re-extraction on that document.\n4. After any drafting or redrafting, verify. Redraft only blocked sentences.\n5. Reconcile again whenever facts changed (for example after a follow-up reply or a focused extraction).\n6. Conflicts are decided ONLY by a human or by a site reply. Do not search or re-extract to \"resolve\" a conflict: draft a follow-up query and hand over.\n7. Missing information that is not a minimum criterion (e.g. dechallenge) is a gap",
+          "input": "CASE LIT-PMC8521282 | version 1 | status processing\n- D1 article.txt [literature_article, v1, 4 page(s)]: extracted\nFacts: {'anchored': 14, 'unanchored': 1, 'conflicting': 0, 'confirmed_by_human': 0}\nReconciled for current version and facts: True\nMinimum criteria present: {'identifiable_patient': True, 'identifiable_reporter': True, 'suspect_product': True, 'adverse_event': True}\nOpen gap G01 event_onset_date (required_for_serious); searched=False, search hits in none; query=drafted (waiting for a human to approve it; nothing more for the agent to do on this gap)\nOpen gap G02 outcome (required_for_serious); searched=False, search hits in none; query=drafted (waiting for a human to approve it; nothing more for the agent to do on this gap)\nOpen gap G03 dechallenge (required_for_serious); searched=False, search hits in none; query=drafted (waiting for a human to approve it; nothing more for the agent to do on this gap)\nOpen gap G04 start_date (required_for_serious); searched=False, search hits in none; query=drafted (waiting for a human to approve it; nothing more for the agent to do on this gap)\nOpen gap G05 action_taken (required_for_serious); searched=False, search hits in none; query=drafted (waiting for a human to approve it; nothing more for the agent to do on this gap)\nMedDRA suggested for this version: False; clock computed for this version: False\nNarrative: not drafted\nRecent steps:\n  1. ingest_documents  -> ingested 1 document(s): ['D1']; documents with untranscribed scanned pages: none\n  2. extract_facts  -> extracted from ['D1']: 14 anchored; unanchored=['event_verbatim@D1']\n  3. extract_facts {'doc_ids': ['D1'], 'fields': ['event_verbatim']} -> BLOCKED: blocked by policy: these fields already have trusted values; a value rejected by the checks stays rejected\n  4. reconcile  -> conflicts(unresolved)=none; open gaps=['event_onset_date', 'outcome', 'dechallenge', 'start_date', 'action_taken']; missing minimum criteria=none; seriousness c\n  5. draft_followup_queries  -> drafted 5 follow-up quer(ies) for ['event_onset_date', 'outcome', 'dechallenge', 'start_date', 'action_taken'] (human approval required; never sent)\n\nTools the policy allows right now (anything else is blocked): extract_facts focused (doc_ids from ['D1'] + fields), suggest_meddra, compute_clock, draft_narrative\n\nChoose the single next action.",
+          "output": "{\"criterion\": \"suggest_meddra\", \"doc_ids\": [], \"fields\": [], \"reason\": \"MedDRA terms are needed before drafting the narrative so it can reference standardized event terminology.\", \"sentence_ids\": [], \"tool\": \"suggest_meddra\"}"
+        },
+        {
+          "step": 6,
+          "role": "meddra_rerank",
+          "model": "groq:openai/gpt-oss-120b",
+          "secs": 2.53,
+          "instructions": "You suggest MedDRA Preferred Terms for an adverse-event verbatim. Choose ONLY from the candidate list. Return the 5 best candidates in order with a one-line rationale tied to the verbatim. Do not invent terms.",
+          "input": "Verbatim: Guillain-Barré syndrome\nCandidates:\n- Guillain-barre syndrome\n- Brash syndrome\n- Crest syndrome\n- Kounis syndrome\n- Brugada syndrome\n- Burnout syndrome\n- Fanconi syndrome\n- Locked-in syndrome\n- Cerebellar syndrome\n- Cardiorenal syndrome\n- Cholinergic syndrome\n- Dandy-walker syndrome\n- Lupus-like syndrome\n- Anticholinergic syndrome\n- Compartment syndrome\n- Engraftment syndrome\n- Hepatorenal syndrome\n- Cytomegalovirus syndrome\n- Antiphospholipid syndrome\n- Hypereosinophilic syndrome",
+          "output": "{\"ranked\": [{\"pt\": \"Guillain-barre syndrome\", \"rationale\": \"Exact match to the verbatim; the preferred term for this acute inflammatory demyelinating polyneuropathy.\"}, {\"pt\": \"Cerebellar syndrome\", \"rationale\": \"Neurological syndrome category; shares the word 'syndrome' and involves the nervous system, making it a plausible but less specific alternative.\"}, {\"pt\": \"Locked-in syndrome\", \"rationale\": \"Another severe neurological condition; included because it is a recognized syndrome affecting motor function, though unrelated to Guillain‑Barré.\"}, {\"pt\": \"Compartment syndrome\", \"rationale\": \"A medical syndrome that could be confused in reporting; listed as a secondary candidate due to the generic 'syndrome' suffix.\"}, {\"pt\": \"Anticholinergic syndrome\", \"rationale\": \"A systemic syndrome with neurological manifestations; selected as a fallback option when the exact term is unavailable.\"}]}"
+        }
+      ],
+      "changes": {
+        "MedDRA suggested": [
+          "F13 -> Guillain-barre syndrome"
+        ]
+      }
+    },
+    {
+      "step": 7,
+      "ts": "2026-10-28T07:47:05.879831Z",
+      "planner": "llm",
+      "reason": "Compute regulatory deadlines now that facts are extracted and gaps are identified.",
+      "tool": "compute_clock",
+      "args": {},
+      "allowed": true,
+      "result_summary": "clock: Day 0 (receipt date) not found -- add it to compute deadlines.",
+      "duration_s": 0.0,
+      "planner_input": "CASE LIT-PMC8521282 | version 1 | status processing\n- D1 article.txt [literature_article, v1, 4 page(s)]: extracted\nFacts: {'anchored': 14, 'unanchored': 1, 'conflicting': 0, 'confirmed_by_human': 0}\nReconciled for current version and facts: True\nMinimum criteria present: {'identifiable_patient': True, 'identifiable_reporter': True, 'suspect_product': True, 'adverse_event': True}\nOpen gap G01 event_onset_date (required_for_serious); searched=False, search hits in none; query=drafted (waiting for a human to approve it; nothing more for the agent to do on this gap)\nOpen gap G02 outcome (required_for_serious); searched=False, search hits in none; query=drafted (waiting for a human to approve it; nothing more for the agent to do on this gap)\nOpen gap G03 dechallenge (required_for_serious); searched=False, search hits in none; query=drafted (waiting for a human to approve it; nothing more for the agent to do on this gap)\nOpen gap G04 start_date (required_for_serious); searched=False, search hits in none; query=drafted (waiting for a human to approve it; nothing more for the agent to do on this gap)\nOpen gap G05 action_taken (required_for_serious); searched=False, search hits in none; query=drafted (waiting for a human to approve it; nothing more for the agent to do on this gap)\nMedDRA suggested for this version: True; clock computed for this version: False\nNarrative: not drafted\nRecent steps:\n  1. ingest_documents  -> ingested 1 document(s): ['D1']; documents with untranscribed scanned pages: none\n  2. extract_facts  -> extracted from ['D1']: 14 anchored; unanchored=['event_verbatim@D1']\n  3. extract_facts {'doc_ids': ['D1'], 'fields': ['event_verbatim']} -> BLOCKED: blocked by policy: these fields already have trusted values; a value rejected by the checks stays rejected\n  4. reconcile  -> conflicts(unresolved)=none; open gaps=['event_onset_date', 'outcome', 'dechallenge', 'start_date', 'action_taken']; missing minimum criteria=none; seriousness c\n  5. draft_followup_queries  -> drafted 5 follow-up quer(ies) for ['event_onset_date', 'outcome', 'dechallenge', 'start_date', 'action_taken'] (human approval required; never sent)\n  6. suggest_meddra {'criterion': 'suggest_meddra'} -> MedDRA suggestions (demo vocabulary): 'Guillain-Barré syndrome' -> Guillain-barre syndrome\n\nTools the rulebook allows now: extract_facts focused (doc_ids from ['D1'] + fields), compute_clock, draft_narrative",
+      "calls": [
+        {
+          "step": 7,
+          "role": "planner",
+          "model": "groq:openai/gpt-oss-20b",
+          "secs": 1.86,
+          "instructions": "You are the SafetyTrace orchestrator for SERIOUS clinical-trial adverse-event cases.\nGoal: bring the case to a state where a qualified human reviewer can verify it quickly and safely.\n\nYou never see documents. You see a case summary and choose ONE next tool. Explain your reason in one short sentence (shown to the reviewer as the agent trace).\n\nTools:\n- ingest_documents: load the case pack (first step only).\n- transcribe_scans: transcribe scanned pages that have no text layer. Must happen before extraction of those documents.\n- extract_facts: extract facts with verified quotes. With no arguments it processes all un-extracted documents.\n  With doc_ids AND fields it does ONE focused re-extraction (use it when a field has only unanchored values, or after a search found likely evidence).\n- search_documents: deterministic search of every page, ONLY for a MISSING minimum criterion. Give criterion = one of identifiable_patient, identifiable_reporter, suspect_product, adverse_event.\n- reconcile: detect conflicts, gaps, minimum criteria, seriousness candidates. Run it whenever facts changed.\n- suggest_meddra: suggest MedDRA terms (human selects).\n- compute_clock: compute regulatory deadlines.\n- draft_narrative: write the narrative from usable facts only (conflicts/gaps are stated by templates).\n- verify_narrative: check every pending sentence (rules first, then an independent model).\n- redraft_sentences: redraft only blocked sentences (give sentence_ids).\n- draft_followup_queries: draft follow-up questions for open gaps/conflicts (a human approves; nothing is sent).\n- request_human_review: hand over to the reviewer when automatic work is done.\n- stop: nothing useful left to do.\n\nRules you must follow:\n1. Never decide which of two conflicting values is correct, and never decide causality, expectedness, reportability or case validity.\n2. Before treating a minimum criterion as missing, search for it; if the search finds hits, do one focused extraction on those documents.\n3. If a field has only unanchored values, try one focused re-extraction on that document.\n4. After any drafting or redrafting, verify. Redraft only blocked sentences.\n5. Reconcile again whenever facts changed (for example after a follow-up reply or a focused extraction).\n6. Conflicts are decided ONLY by a human or by a site reply. Do not search or re-extract to \"resolve\" a conflict: draft a follow-up query and hand over.\n7. Missing information that is not a minimum criterion (e.g. dechallenge) is a gap",
+          "input": "CASE LIT-PMC8521282 | version 1 | status processing\n- D1 article.txt [literature_article, v1, 4 page(s)]: extracted\nFacts: {'anchored': 14, 'unanchored': 1, 'conflicting': 0, 'confirmed_by_human': 0}\nReconciled for current version and facts: True\nMinimum criteria present: {'identifiable_patient': True, 'identifiable_reporter': True, 'suspect_product': True, 'adverse_event': True}\nOpen gap G01 event_onset_date (required_for_serious); searched=False, search hits in none; query=drafted (waiting for a human to approve it; nothing more for the agent to do on this gap)\nOpen gap G02 outcome (required_for_serious); searched=False, search hits in none; query=drafted (waiting for a human to approve it; nothing more for the agent to do on this gap)\nOpen gap G03 dechallenge (required_for_serious); searched=False, search hits in none; query=drafted (waiting for a human to approve it; nothing more for the agent to do on this gap)\nOpen gap G04 start_date (required_for_serious); searched=False, search hits in none; query=drafted (waiting for a human to approve it; nothing more for the agent to do on this gap)\nOpen gap G05 action_taken (required_for_serious); searched=False, search hits in none; query=drafted (waiting for a human to approve it; nothing more for the agent to do on this gap)\nMedDRA suggested for this version: True; clock computed for this version: False\nNarrative: not drafted\nRecent steps:\n  1. ingest_documents  -> ingested 1 document(s): ['D1']; documents with untranscribed scanned pages: none\n  2. extract_facts  -> extracted from ['D1']: 14 anchored; unanchored=['event_verbatim@D1']\n  3. extract_facts {'doc_ids': ['D1'], 'fields': ['event_verbatim']} -> BLOCKED: blocked by policy: these fields already have trusted values; a value rejected by the checks stays rejected\n  4. reconcile  -> conflicts(unresolved)=none; open gaps=['event_onset_date', 'outcome', 'dechallenge', 'start_date', 'action_taken']; missing minimum criteria=none; seriousness c\n  5. draft_followup_queries  -> drafted 5 follow-up quer(ies) for ['event_onset_date', 'outcome', 'dechallenge', 'start_date', 'action_taken'] (human approval required; never sent)\n  6. suggest_meddra {'criterion': 'suggest_meddra'} -> MedDRA suggestions (demo vocabulary): 'Guillain-Barré syndrome' -> Guillain-barre syndrome\n\nTools the policy allows right now (anything else is blocked): extract_facts focused (doc_ids from ['D1'] + fields), compute_clock, draft_narrative\n\nChoose the single next action.",
+          "output": "{\"reason\": \"Compute regulatory deadlines now that facts are extracted and gaps are identified.\", \"tool\": \"compute_clock\", \"doc_ids\": [], \"fields\": [], \"criterion\": \"\", \"sentence_ids\": []}"
+        }
+      ],
+      "changes": {
+        "deadline": [
+          "Day 0 (receipt date) not found -- add it to compute deadlines."
+        ]
+      }
+    }
+  ],
+  "usage": {
+    "requests": 9,
+    "prompt_tokens": 10983,
+    "completion_tokens": 2080,
+    "by_role": {
+      "planner": {
+        "requests": 6,
+        "prompt_tokens": 7015,
+        "completion_tokens": 764
+      },
+      "extract": {
+        "requests": 1,
+        "prompt_tokens": 3377,
+        "completion_tokens": 802
+      },
+      "followup": {
+        "requests": 1,
+        "prompt_tokens": 262,
+        "completion_tokens": 155
+      },
+      "meddra_rerank": {
+        "requests": 1,
+        "prompt_tokens": 329,
+        "completion_tokens": 359
+      }
+    },
+    "models": {
+      "planner": "groq:openai/gpt-oss-20b",
+      "extract": "gemini:gemini-3.5-flash-lite",
+      "followup": "groq:openai/gpt-oss-20b",
+      "meddra_rerank": "groq:openai/gpt-oss-120b"
+    },
+    "fallbacks": [
+      "planner: groq:openai/gpt-oss-20b -> groq:qwen/qwen3.8-27b",
+      "planner: groq:openai/gpt-oss-20b -> groq:qwen/qwen3.8-27b",
+      "planner: groq:openai/gpt-oss-20b -> groq:qwen/qwen3.8-27b"
+    ]
+  },
+  "current_step": 7,
+  "llm_calls": []
+}

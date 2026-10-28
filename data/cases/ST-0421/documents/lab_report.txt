@@ -1,0 +1,14 @@
+CENTRAL LABORATORY REPORT
+Study: HPX-202    Subject: 211-0042    Site: 211
+Sample collected: 06-Apr-2026 08:15
+
+Biochemistry
+ALT 312 U/L (ref 7-56) CRITICAL HIGH
+AST 198 U/L (ref 10-40) HIGH
+Total bilirubin 0.9 mg/dL (ref 0.3-1.2)
+ALP 102 U/L (ref 44-147)
+=== PAGE BREAK ===
+Comments
+Critical value telephoned to site on 06-Apr-2026 10:02.
+
+Results reviewed and reported to sponsor by: Dr. Rohan Iyer, Sub-Investigator, Site 211

@@ -1,0 +1,13 @@
+.env
+__pycache__/
+*.pyc
+.pytest_cache/
+.llm_cache/
+# saved runs ARE committed so the hosted demo opens finished cases instantly
+logs/*
+!logs/.gitkeep
+eval/results/*
+!eval/results/.gitkeep
+.venv/
+venv/
+.DS_Store

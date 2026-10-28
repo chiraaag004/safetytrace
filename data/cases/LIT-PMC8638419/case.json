@@ -1,0 +1,22 @@
+{
+  "case_id": "LIT-PMC8638419",
+  "title": "REAL literature case: A case of complete atrioventricular block with extremely high blood concentration of azelnidipine.",
+  "region": "US/EU/India",
+  "documents": [
+    {
+      "path": "documents/article.txt",
+      "doc_type": "literature_article"
+    }
+  ],
+  "followups": [],
+  "real": true,
+  "source": {
+    "pmcid": "PMC8638419",
+    "doi": "10.1186/s40780-021-00230-x",
+    "license": "cc by",
+    "url": "https://europepmc.org/article/PMC/8638419"
+  },
+  "designed_to_show": [
+    "real published case: extraction + MedDRA + seriousness vs the manufacturer's FAERS ICSR"
+  ]
+}

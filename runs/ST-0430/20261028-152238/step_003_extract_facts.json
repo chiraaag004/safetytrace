@@ -1,0 +1,1172 @@
+{
+  "case_id": "ST-0430",
+  "title": "Scanned physician note (image-only PDF) - OCR path",
+  "version": 1,
+  "region": "US/EU/India",
+  "documents": [
+    {
+      "doc_id": "D1",
+      "filename": "physician_note_scanned.pdf",
+      "rel_path": "documents/physician_note_scanned.pdf",
+      "doc_type": "physician_note",
+      "version": 1,
+      "pages": [
+        "SITE 104 - INVESTIGATOR CLINICAL NOTE (UNSCHEDULED VISIT)\nStudy: SFT-301 (Velorantib in moderate-to-severe plaque psoriasis)\nSite: 104, Mumbai\nSubject ID: 104-0217 Initials: R.K. Age:54 years Sex: Female\nVisit date: 16-Mar-2026\nMedical history: Hypertension, controlled on amlodipine 5 mg once daily. No known drug allergies.\nStudy treatment: Velorantib 50 mg orally once daily, started on 02-Mar-2026.\nPresenting complaint: Subject attended an unscheduled visit with a widespread itchy rash.\nRash first noted on 14-Mar-2026 according to the subject at today's visit.\nOn examination: erythematous maculopapular rash, grade 3, on trunk and arms, covering\napproximately 40% of body surface area. No mucosal Involvement. Temperature 37.9 C.",
+        "Assessment and plan\nEvent: generalised maculopapular rash, CTCAE grade 3.\nThe subject was admitted to hospital on 16-Mar-2026 for observation and IV management.\nSeriousness: hospitalisation.\nStudy drug interrupted on 16-Mar-2026 (last dose 15-Mar-2026).\nTreatment: IV methylprednisolone 40 mg daily and oral cetirizine 10 mg once daily.\nOutcome at time of report: not yet recovered.\nInvestigator: Dr. Anjali Mehta, Principal Investigator, Site 104\nReceived by sponsor drug safety: 16-Mar-2026"
+      ],
+      "source_mode": "ocr_scan",
+      "ocr_confidence": 94.6,
+      "scanned_pages": [],
+      "extracted": true,
+      "reextract_count": 0
+    },
+    {
+      "doc_id": "D2",
+      "filename": "patient_diary.txt",
+      "rel_path": "documents/patient_diary.txt",
+      "doc_type": "patient_diary",
+      "version": 1,
+      "pages": [
+        "PATIENT DIARY - Study SFT-301 - Subject 104-0217\nWeek 2\n\n10 Mar 2026: Took tablet in the morning with breakfast. Felt fine.\n11 Mar 2026: Took tablet. Mild headache in the evening, went away after rest.\n12 Mar 2026: Took tablet. Itchy red spots started on my stomach in the evening.\n13 Mar 2026: Took tablet. Spots spreading to arms, very itchy, could not sleep well.\n14 Mar 2026: Took tablet. Rash worse, showed my daughter. Called the study nurse.\n15 Mar 2026: Took tablet. Rash on chest, back and both arms. Feeling feverish.\n16 Mar 2026: Did not take tablet. Went to the hospital clinic as the nurse told me."
+      ],
+      "source_mode": "plain_text",
+      "ocr_confidence": null,
+      "scanned_pages": [],
+      "extracted": true,
+      "reextract_count": 0
+    },
+    {
+      "doc_id": "D3",
+      "filename": "lab_report.txt",
+      "rel_path": "documents/lab_report.txt",
+      "doc_type": "lab_report",
+      "version": 1,
+      "pages": [
+        "CENTRAL LABORATORY REPORT\nStudy: SFT-301    Subject: 104-0217    Site: 104\nSample collected: 16-Mar-2026 09:40\n\nHaematology\nEosinophils 1.2 x10^9/L (ref 0.0-0.5) HIGH\nWBC 9.8 x10^9/L (ref 4.0-11.0)\nHaemoglobin 12.9 g/dL (ref 12.0-15.5)\n\nBiochemistry\nALT 38 U/L (ref 7-56)\nCreatinine 0.8 mg/dL (ref 0.6-1.1)\n\nComment: Eosinophilia noted. Liver and renal function within normal limits."
+      ],
+      "source_mode": "plain_text",
+      "ocr_confidence": null,
+      "scanned_pages": [],
+      "extracted": true,
+      "reextract_count": 1
+    }
+  ],
+  "facts": [
+    {
+      "fact_id": "F01",
+      "field": "study_id",
+      "value": "SFT-301",
+      "normalized": "sft-301",
+      "evidence": [
+        {
+          "doc_id": "D1",
+          "page": 1,
+          "char_start": 65,
+          "char_end": 72,
+          "quote": "SFT-301",
+          "match": "exact"
+        },
+        {
+          "doc_id": "D2",
+          "page": 1,
+          "char_start": 22,
+          "char_end": 29,
+          "quote": "SFT-301",
+          "match": "exact"
+        },
+        {
+          "doc_id": "D3",
+          "page": 1,
+          "char_start": 33,
+          "char_end": 40,
+          "quote": "SFT-301",
+          "match": "exact"
+        }
+      ],
+      "status": "anchored",
+      "extracted_by": "gemini:gemini-3.5-flash-lite:extract_v2",
+      "source_doc": "D1",
+      "drug": "",
+      "note": ""
+    },
+    {
+      "fact_id": "F02",
+      "field": "site_id",
+      "value": "104",
+      "normalized": "104",
+      "evidence": [
+        {
+          "doc_id": "D1",
+          "page": 1,
+          "char_start": 5,
+          "char_end": 8,
+          "quote": "104",
+          "match": "exact"
+        },
+        {
+          "doc_id": "D3",
+          "page": 1,
+          "char_start": 53,
+          "char_end": 56,
+          "quote": "104",
+          "match": "exact"
+        }
+      ],
+      "status": "anchored",
+      "extracted_by": "gemini:gemini-3.5-flash-lite:extract_v2",
+      "source_doc": "D1",
+      "drug": "",
+      "note": ""
+    },
+    {
+      "fact_id": "F03",
+      "field": "subject_id",
+      "value": "104-0217",
+      "normalized": "104-0217",
+      "evidence": [
+        {
+          "doc_id": "D1",
+          "page": 1,
+          "char_start": 155,
+          "char_end": 163,
+          "quote": "104-0217",
+          "match": "exact"
+        },
+        {
+          "doc_id": "D2",
+          "page": 1,
+          "char_start": 40,
+          "char_end": 48,
+          "quote": "104-0217",
+          "match": "exact"
+        },
+        {
+          "doc_id": "D3",
+          "page": 1,
+          "char_start": 53,
+          "char_end": 61,
+          "quote": "104-0217",
+          "match": "exact"
+        }
+      ],
+      "status": "anchored",
+      "extracted_by": "gemini:gemini-3.5-flash-lite:extract_v2",
+      "source_doc": "D1",
+      "drug": "",
+      "note": ""
+    },
+    {
+      "fact_id": "F04",
+      "field": "case_receipt_date",
+      "value": "16-Mar-2026",
+      "normalized": "2026-03-16",
+      "evidence": [
+        {
+          "doc_id": "D1",
+          "page": 2,
+          "char_start": 114,
+          "char_end": 125,
+          "quote": "16-Mar-2026",
+          "match": "exact"
+        }
+      ],
+      "status": "anchored",
+      "extracted_by": "gemini:gemini-3.5-flash-lite:extract_v2",
+      "source_doc": "D1",
+      "drug": "",
+      "note": ""
+    },
+    {
+      "fact_id": "F05",
+      "field": "reporter_name_or_role",
+      "value": "Dr. Anjali Mehta",
+      "normalized": "dr. anjali mehta",
+      "evidence": [
+        {
+          "doc_id": "D1",
+          "page": 2,
+          "char_start": 397,
+          "char_end": 413,
+          "quote": "Dr. Anjali Mehta",
+          "match": "exact"
+        }
+      ],
+      "status": "anchored",
+      "extracted_by": "gemini:gemini-3.5-flash-lite:extract_v2",
+      "source_doc": "D1",
+      "drug": "",
+      "note": ""
+    },
+    {
+      "fact_id": "F06",
+      "field": "reporter_type",
+      "value": "investigator",
+      "normalized": "investigator",
+      "evidence": [
+        {
+          "doc_id": "D1",
+          "page": 2,
+          "char_start": 415,
+          "char_end": 437,
+          "quote": "Principal Investigator",
+          "match": "exact"
+        }
+      ],
+      "status": "anchored",
+      "extracted_by": "gemini:gemini-3.5-flash-lite:extract_v2",
+      "source_doc": "D1",
+      "drug": "",
+      "note": ""
+    },
+    {
+      "fact_id": "F07",
+      "field": "patient_initials",
+      "value": "R.K.",
+      "normalized": "r.k.",
+      "evidence": [
+        {
+          "doc_id": "D1",
+          "page": 1,
+          "char_start": 174,
+          "char_end": 178,
+          "quote": "R.K.",
+          "match": "exact"
+        }
+      ],
+      "status": "anchored",
+      "extracted_by": "gemini:gemini-3.5-flash-lite:extract_v2",
+      "source_doc": "D1",
+      "drug": "",
+      "note": ""
+    },
+    {
+      "fact_id": "F08",
+      "field": "patient_age",
+      "value": "54",
+      "normalized": "54",
+      "evidence": [
+        {
+          "doc_id": "D1",
+          "page": 1,
+          "char_start": 183,
+          "char_end": 191,
+          "quote": "54 years",
+          "match": "exact"
+        }
+      ],
+      "status": "anchored",
+      "extracted_by": "gemini:gemini-3.5-flash-lite:extract_v2",
+      "source_doc": "D1",
+      "drug": "",
+      "note": ""
+    },
+    {
+      "fact_id": "F09",
+      "field": "patient_sex",
+      "value": "Female",
+      "normalized": "female",
+      "evidence": [
+        {
+          "doc_id": "D1",
+          "page": 1,
+          "char_start": 197,
+          "char_end": 203,
+          "quote": "Female",
+          "match": "exact"
+        }
+      ],
+      "status": "anchored",
+      "extracted_by": "gemini:gemini-3.5-flash-lite:extract_v2",
+      "source_doc": "D1",
+      "drug": "",
+      "note": ""
+    },
+    {
+      "fact_id": "F10",
+      "field": "relevant_history",
+      "value": "Hypertension, controlled on amlodipine 5 mg once daily.",
+      "normalized": "hypertension, controlled on amlodipine 5 mg once daily.",
+      "evidence": [
+        {
+          "doc_id": "D1",
+          "page": 1,
+          "char_start": 245,
+          "char_end": 300,
+          "quote": "Hypertension, controlled on amlodipine 5 mg once daily.",
+          "match": "exact"
+        }
+      ],
+      "status": "anchored",
+      "extracted_by": "gemini:gemini-3.5-flash-lite:extract_v2",
+      "source_doc": "D1",
+      "drug": "",
+      "note": ""
+    },
+    {
+      "fact_id": "F11",
+      "field": "drug_name",
+      "value": "Velorantib",
+      "normalized": "velorantib",
+      "evidence": [
+        {
+          "doc_id": "D1",
+          "page": 1,
+          "char_start": 74,
+          "char_end": 84,
+          "quote": "Velorantib",
+          "match": "exact"
+        }
+      ],
+      "status": "anchored",
+      "extracted_by": "gemini:gemini-3.5-flash-lite:extract_v2",
+      "source_doc": "D1",
+      "drug": "",
+      "note": ""
+    },
+    {
+      "fact_id": "F12",
+      "field": "dose",
+      "value": "50 mg",
+      "normalized": "50 mg",
+      "evidence": [
+        {
+          "doc_id": "D1",
+          "page": 1,
+          "char_start": 354,
+          "char_end": 359,
+          "quote": "50 mg",
+          "match": "exact"
+        }
+      ],
+      "status": "anchored",
+      "extracted_by": "gemini:gemini-3.5-flash-lite:extract_v2",
+      "source_doc": "D1",
+      "drug": "Velorantib",
+      "note": ""
+    },
+    {
+      "fact_id": "F13",
+      "field": "route",
+      "value": "orally",
+      "normalized": "oral",
+      "evidence": [
+        {
+          "doc_id": "D1",
+          "page": 1,
+          "char_start": 360,
+          "char_end": 366,
+          "quote": "orally",
+          "match": "exact"
+        }
+      ],
+      "status": "anchored",
+      "extracted_by": "gemini:gemini-3.5-flash-lite:extract_v2",
+      "source_doc": "D1",
+      "drug": "Velorantib",
+      "note": ""
+    },
+    {
+      "fact_id": "F14",
+      "field": "frequency",
+      "value": "once daily",
+      "normalized": "once daily",
+      "evidence": [
+        {
+          "doc_id": "D1",
+          "page": 1,
+          "char_start": 289,
+          "char_end": 299,
+          "quote": "once daily",
+          "match": "exact"
+        }
+      ],
+      "status": "anchored",
+      "extracted_by": "gemini:gemini-3.5-flash-lite:extract_v2",
+      "source_doc": "D1",
+      "drug": "Velorantib",
+      "note": ""
+    },
+    {
+      "fact_id": "F15",
+      "field": "start_date",
+      "value": "02-Mar-2026",
+      "normalized": "2026-03-02",
+      "evidence": [
+        {
+          "doc_id": "D1",
+          "page": 1,
+          "char_start": 390,
+          "char_end": 401,
+          "quote": "02-Mar-2026",
+          "match": "exact"
+        }
+      ],
+      "status": "anchored",
+      "extracted_by": "gemini:gemini-3.5-flash-lite:extract_v2",
+      "source_doc": "D1",
+      "drug": "Velorantib",
+      "note": ""
+    },
+    {
+      "fact_id": "F16",
+      "field": "stop_date",
+      "value": "15-Mar-2026",
+      "normalized": "2026-03-15",
+      "evidence": [
+        {
+          "doc_id": "D1",
+          "page": 2,
+          "char_start": 240,
+          "char_end": 251,
+          "quote": "15-Mar-2026",
+          "match": "exact"
+        }
+      ],
+      "status": "anchored",
+      "extracted_by": "gemini:gemini-3.5-flash-lite:extract_v2",
+      "source_doc": "D1",
+      "drug": "Velorantib",
+      "note": ""
+    },
+    {
+      "fact_id": "F17",
+      "field": "indication",
+      "value": "moderate-to-severe plaque psoriasis",
+      "normalized": "moderate-to-severe plaque psoriasis",
+      "evidence": [
+        {
+          "doc_id": "D1",
+          "page": 1,
+          "char_start": 88,
+          "char_end": 123,
+          "quote": "moderate-to-severe plaque psoriasis",
+          "match": "exact"
+        }
+      ],
+      "status": "anchored",
+      "extracted_by": "gemini:gemini-3.5-flash-lite:extract_v2",
+      "source_doc": "D1",
+      "drug": "Velorantib",
+      "note": ""
+    },
+    {
+      "fact_id": "F18",
+      "field": "action_taken",
+      "value": "interrupted",
+      "normalized": "interrupted",
+      "evidence": [
+        {
+          "doc_id": "D1",
+          "page": 2,
+          "char_start": 202,
+          "char_end": 213,
+          "quote": "interrupted",
+          "match": "exact"
+        }
+      ],
+      "status": "anchored",
+      "extracted_by": "gemini:gemini-3.5-flash-lite:extract_v2",
+      "source_doc": "D1",
+      "drug": "Velorantib",
+      "note": ""
+    },
+    {
+      "fact_id": "F19",
+      "field": "event_verbatim",
+      "value": "widespread itchy rash",
+      "normalized": "widespread itchy rash",
+      "evidence": [
+        {
+          "doc_id": "D1",
+          "page": 1,
+          "char_start": 470,
+          "char_end": 491,
+          "quote": "widespread itchy rash",
+          "match": "exact"
+        }
+      ],
+      "status": "anchored",
+      "extracted_by": "gemini:gemini-3.5-flash-lite:extract_v2",
+      "source_doc": "D1",
+      "drug": "",
+      "note": ""
+    },
+    {
+      "fact_id": "F20",
+      "field": "event_onset_date",
+      "value": "14-Mar-2026",
+      "normalized": "2026-03-14",
+      "evidence": [
+        {
+          "doc_id": "D1",
+          "page": 1,
+          "char_start": 513,
+          "char_end": 524,
+          "quote": "14-Mar-2026",
+          "match": "exact"
+        }
+      ],
+      "status": "anchored",
+      "extracted_by": "gemini:gemini-3.5-flash-lite:extract_v2",
+      "source_doc": "D1",
+      "drug": "",
+      "note": ""
+    },
+    {
+      "fact_id": "F21",
+      "field": "seriousness_criteria",
+      "value": "hospitalisation",
+      "normalized": "hospitalisation",
+      "evidence": [
+        {
+          "doc_id": "D1",
+          "page": 2,
+          "char_start": 174,
+          "char_end": 189,
+          "quote": "hospitalisation",
+          "match": "exact"
+        }
+      ],
+      "status": "anchored",
+      "extracted_by": "gemini:gemini-3.5-flash-lite:extract_v2",
+      "source_doc": "D1",
+      "drug": "",
+      "note": ""
+    },
+    {
+      "fact_id": "F22",
+      "field": "outcome",
+      "value": "not yet recovered",
+      "normalized": "not recovered",
+      "evidence": [
+        {
+          "doc_id": "D1",
+          "page": 2,
+          "char_start": 364,
+          "char_end": 381,
+          "quote": "not yet recovered",
+          "match": "exact"
+        }
+      ],
+      "status": "anchored",
+      "extracted_by": "gemini:gemini-3.5-flash-lite:extract_v2",
+      "source_doc": "D1",
+      "drug": "",
+      "note": ""
+    },
+    {
+      "fact_id": "F23",
+      "field": "treatment_given",
+      "value": "IV methylprednisolone 40 mg daily",
+      "normalized": "iv methylprednisolone 40 mg daily",
+      "evidence": [
+        {
+          "doc_id": "D1",
+          "page": 2,
+          "char_start": 265,
+          "char_end": 298,
+          "quote": "IV methylprednisolone 40 mg daily",
+          "match": "exact"
+        }
+      ],
+      "status": "anchored",
+      "extracted_by": "gemini:gemini-3.5-flash-lite:extract_v2",
+      "source_doc": "D1",
+      "drug": "",
+      "note": ""
+    },
+    {
+      "fact_id": "F24",
+      "field": "treatment_given",
+      "value": "oral cetirizine 10 mg once daily",
+      "normalized": "oral cetirizine 10 mg once daily",
+      "evidence": [
+        {
+          "doc_id": "D1",
+          "page": 2,
+          "char_start": 303,
+          "char_end": 335,
+          "quote": "oral cetirizine 10 mg once daily",
+          "match": "exact"
+        }
+      ],
+      "status": "anchored",
+      "extracted_by": "gemini:gemini-3.5-flash-lite:extract_v2",
+      "source_doc": "D1",
+      "drug": "",
+      "note": ""
+    },
+    {
+      "fact_id": "F25",
+      "field": "concomitant_meds",
+      "value": "amlodipine 5 mg once daily",
+      "normalized": "amlodipine 5 mg once daily",
+      "evidence": [
+        {
+          "doc_id": "D1",
+          "page": 1,
+          "char_start": 273,
+          "char_end": 299,
+          "quote": "amlodipine 5 mg once daily",
+          "match": "exact"
+        }
+      ],
+      "status": "anchored",
+      "extracted_by": "gemini:gemini-3.5-flash-lite:extract_v2",
+      "source_doc": "D1",
+      "drug": "",
+      "note": ""
+    },
+    {
+      "fact_id": "F26",
+      "field": "event_verbatim",
+      "value": "Itchy red spots",
+      "normalized": "itchy red spots",
+      "evidence": [
+        {
+          "doc_id": "D2",
+          "page": 1,
+          "char_start": 228,
+          "char_end": 243,
+          "quote": "Itchy red spots",
+          "match": "exact"
+        }
+      ],
+      "status": "anchored",
+      "extracted_by": "gemini:gemini-3.5-flash-lite:extract_v2",
+      "source_doc": "D2",
+      "drug": "",
+      "note": ""
+    },
+    {
+      "fact_id": "F27",
+      "field": "event_onset_date",
+      "value": "12 Mar 2026",
+      "normalized": "2026-03-12",
+      "evidence": [
+        {
+          "doc_id": "D2",
+          "page": 1,
+          "char_start": 202,
+          "char_end": 213,
+          "quote": "12 Mar 2026",
+          "match": "exact"
+        }
+      ],
+      "status": "anchored",
+      "extracted_by": "gemini:gemini-3.5-flash-lite:extract_v2",
+      "source_doc": "D2",
+      "drug": "",
+      "note": ""
+    },
+    {
+      "fact_id": "F28",
+      "field": "relevant_labs",
+      "value": "Eosinophils 1.2 x10^9/L (ref 0.0-0.5) HIGH 16-Mar-2026",
+      "normalized": "eosinophils 1.2 x10^9/l (ref 0.0-0.5) high 16-mar-2026",
+      "evidence": [],
+      "status": "unanchored",
+      "extracted_by": "gemini:gemini-3.5-flash-lite:extract_v2",
+      "source_doc": "D3",
+      "drug": "",
+      "note": "value 'Eosinophils 1.2 x10^9/L (ref 0.0-0.5) HIGH 16-Mar-2026' not supported by quote 'Eosinophils 1.2 x10^9/L (ref 0.0-0.5) HIGH'"
+    },
+    {
+      "fact_id": "F29",
+      "field": "relevant_labs",
+      "value": "WBC 9.8 x10^9/L (ref 4.0-11.0) 16-Mar-2026",
+      "normalized": "wbc 9.8 x10^9/l (ref 4.0-11.0) 16-mar-2026",
+      "evidence": [],
+      "status": "unanchored",
+      "extracted_by": "gemini:gemini-3.5-flash-lite:extract_v2",
+      "source_doc": "D3",
+      "drug": "",
+      "note": "value 'WBC 9.8 x10^9/L (ref 4.0-11.0) 16-Mar-2026' not supported by quote 'WBC 9.8 x10^9/L (ref 4.0-11.0)'"
+    },
+    {
+      "fact_id": "F30",
+      "field": "relevant_labs",
+      "value": "Haemoglobin 12.9 g/dL (ref 12.0-15.5) 16-Mar-2026",
+      "normalized": "haemoglobin 12.9 g/dl (ref 12.0-15.5) 16-mar-2026",
+      "evidence": [],
+      "status": "unanchored",
+      "extracted_by": "gemini:gemini-3.5-flash-lite:extract_v2",
+      "source_doc": "D3",
+      "drug": "",
+      "note": "value 'Haemoglobin 12.9 g/dL (ref 12.0-15.5) 16-Mar-2026' not supported by quote 'Haemoglobin 12.9 g/dL (ref 12.0-15.5)'"
+    },
+    {
+      "fact_id": "F31",
+      "field": "relevant_labs",
+      "value": "ALT 38 U/L (ref 7-56) 16-Mar-2026",
+      "normalized": "alt 38 u/l (ref 7-56) 16-mar-2026",
+      "evidence": [],
+      "status": "unanchored",
+      "extracted_by": "gemini:gemini-3.5-flash-lite:extract_v2",
+      "source_doc": "D3",
+      "drug": "",
+      "note": "value 'ALT 38 U/L (ref 7-56) 16-Mar-2026' not supported by quote 'ALT 38 U/L (ref 7-56)'"
+    },
+    {
+      "fact_id": "F32",
+      "field": "relevant_labs",
+      "value": "Creatinine 0.8 mg/dL (ref 0.6-1.1) 16-Mar-2026",
+      "normalized": "creatinine 0.8 mg/dl (ref 0.6-1.1) 16-mar-2026",
+      "evidence": [],
+      "status": "unanchored",
+      "extracted_by": "gemini:gemini-3.5-flash-lite:extract_v2",
+      "source_doc": "D3",
+      "drug": "",
+      "note": "value 'Creatinine 0.8 mg/dL (ref 0.6-1.1) 16-Mar-2026' not supported by quote 'Creatinine 0.8 mg/dL (ref 0.6-1.1)'"
+    },
+    {
+      "fact_id": "F33",
+      "field": "relevant_labs",
+      "value": "Eosinophils 1.2 x10^9/L (ref 0.0-0.5) HIGH",
+      "normalized": "eosinophils 1.2 x10^9/l (ref 0.0-0.5) high",
+      "evidence": [
+        {
+          "doc_id": "D3",
+          "page": 1,
+          "char_start": 124,
+          "char_end": 166,
+          "quote": "Eosinophils 1.2 x10^9/L (ref 0.0-0.5) HIGH",
+          "match": "exact"
+        }
+      ],
+      "status": "anchored",
+      "extracted_by": "gemini:gemini-3.5-flash-lite:extract_v2",
+      "source_doc": "D3",
+      "drug": "",
+      "note": ""
+    },
+    {
+      "fact_id": "F34",
+      "field": "relevant_labs",
+      "value": "WBC 9.8 x10^9/L (ref 4.0-11.0)",
+      "normalized": "wbc 9.8 x10^9/l (ref 4.0-11.0)",
+      "evidence": [
+        {
+          "doc_id": "D3",
+          "page": 1,
+          "char_start": 167,
+          "char_end": 197,
+          "quote": "WBC 9.8 x10^9/L (ref 4.0-11.0)",
+          "match": "exact"
+        }
+      ],
+      "status": "anchored",
+      "extracted_by": "gemini:gemini-3.5-flash-lite:extract_v2",
+      "source_doc": "D3",
+      "drug": "",
+      "note": ""
+    },
+    {
+      "fact_id": "F35",
+      "field": "relevant_labs",
+      "value": "Haemoglobin 12.9 g/dL (ref 12.0-15.5)",
+      "normalized": "haemoglobin 12.9 g/dl (ref 12.0-15.5)",
+      "evidence": [
+        {
+          "doc_id": "D3",
+          "page": 1,
+          "char_start": 198,
+          "char_end": 235,
+          "quote": "Haemoglobin 12.9 g/dL (ref 12.0-15.5)",
+          "match": "exact"
+        }
+      ],
+      "status": "anchored",
+      "extracted_by": "gemini:gemini-3.5-flash-lite:extract_v2",
+      "source_doc": "D3",
+      "drug": "",
+      "note": ""
+    },
+    {
+      "fact_id": "F36",
+      "field": "relevant_labs",
+      "value": "ALT 38 U/L (ref 7-56)",
+      "normalized": "alt 38 u/l (ref 7-56)",
+      "evidence": [
+        {
+          "doc_id": "D3",
+          "page": 1,
+          "char_start": 250,
+          "char_end": 271,
+          "quote": "ALT 38 U/L (ref 7-56)",
+          "match": "exact"
+        }
+      ],
+      "status": "anchored",
+      "extracted_by": "gemini:gemini-3.5-flash-lite:extract_v2",
+      "source_doc": "D3",
+      "drug": "",
+      "note": ""
+    },
+    {
+      "fact_id": "F37",
+      "field": "relevant_labs",
+      "value": "Creatinine 0.8 mg/dL (ref 0.6-1.1)",
+      "normalized": "creatinine 0.8 mg/dl (ref 0.6-1.1)",
+      "evidence": [
+        {
+          "doc_id": "D3",
+          "page": 1,
+          "char_start": 272,
+          "char_end": 306,
+          "quote": "Creatinine 0.8 mg/dL (ref 0.6-1.1)",
+          "match": "exact"
+        }
+      ],
+      "status": "anchored",
+      "extracted_by": "gemini:gemini-3.5-flash-lite:extract_v2",
+      "source_doc": "D3",
+      "drug": "",
+      "note": ""
+    }
+  ],
+  "conflicts": [],
+  "gaps": [],
+  "minimum_criteria": {},
+  "seriousness_candidates": [],
+  "timeline_issues": [],
+  "meddra_suggestions": {},
+  "selected_meddra": {},
+  "narrative": [],
+  "narrative_version": 0,
+  "clock": {},
+  "expectedness": "unknown",
+  "expectedness_by": "",
+  "causality": {},
+  "status": "processing",
+  "human_tasks": [],
+  "signed_off_by": null,
+  "reconciled_version": 0,
+  "reconciled_fact_count": -1,
+  "narrative_stale": true,
+  "followup_drafted_version": 0,
+  "meddra_done_version": 0,
+  "clock_done_version": 0,
+  "review_requested_at_step": -1,
+  "prefollowup": {},
+  "diff": [],
+  "audit": [
+    {
+      "ts": "2026-10-28T09:52:42.538439Z",
+      "actor": "tool:ingest",
+      "action": "document_added",
+      "details": {
+        "doc_id": "D1",
+        "filename": "physician_note_scanned.pdf",
+        "pages": 2,
+        "scanned": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "ts": "2026-10-28T09:52:42.542440Z",
+      "actor": "tool:ingest",
+      "action": "document_added",
+      "details": {
+        "doc_id": "D2",
+        "filename": "patient_diary.txt",
+        "pages": 1,
+        "scanned": []
+      }
+    },
+    {
+      "ts": "2026-10-28T09:52:42.546439Z",
+      "actor": "tool:ingest",
+      "action": "document_added",
+      "details": {
+        "doc_id": "D3",
+        "filename": "lab_report.txt",
+        "pages": 1,
+        "scanned": []
+      }
+    },
+    {
+      "ts": "2026-10-28T09:53:02.151267Z",
+      "actor": "tool:transcribe",
+      "action": "pages_transcribed",
+      "details": {
+        "pages": [
+          "D1p1",
+          "D1p2"
+        ],
+        "routes": [
+          "D1p1: tesseract (confidence 94)",
+          "D1p2: tesseract (confidence 95)"
+        ]
+      }
+    },
+    {
+      "ts": "2026-10-28T09:53:25.924474Z",
+      "actor": "tool:extract",
+      "action": "facts_extracted",
+      "details": {
+        "docs": [
+          "D1",
+          "D2",
+          "D3"
+        ],
+        "anchored": 32,
+        "unanchored": [],
+        "value_unsupported": [
+          "relevant_labs@D3",
+          "relevant_labs@D3",
+          "relevant_labs@D3",
+          "relevant_labs@D3",
+          "relevant_labs@D3"
+        ],
+        "focused": false,
+        "ignored_by_source_rules": []
+      }
+    },
+    {
+      "ts": "2026-10-28T09:53:29.500622Z",
+      "actor": "tool:extract",
+      "action": "facts_extracted",
+      "details": {
+        "docs": [
+          "D3"
+        ],
+        "anchored": 5,
+        "unanchored": [],
+        "value_unsupported": [],
+        "focused": true,
+        "ignored_by_source_rules": [
+          "study_id@D3",
+          "site_id@D3",
+          "subject_id@D3"
+        ]
+      }
+    }
+  ],
+  "trace": [
+    {
+      "step": 1,
+      "ts": "2026-10-28T09:52:41.446304Z",
+      "planner": "llm",
+      "reason": "No documents have been ingested yet, so we must load the case pack first.",
+      "tool": "ingest_documents",
+      "args": {},
+      "allowed": true,
+      "result_summary": "ingested 3 document(s): ['D1', 'D2', 'D3']; documents with untranscribed scanned pages: ['D1']",
+      "duration_s": 1.1,
+      "planner_input": "CASE ST-0430 | version 1 | status processing\nDocuments: none ingested yet.\nReconciled for current version and facts: False\nMedDRA suggested for this version: False; clock computed for this version: False\nNarrative: not drafted\n\nTools the rulebook allows now: ingest_documents",
+      "calls": [
+        {
+          "step": 1,
+          "role": "planner",
+          "model": "groq:openai/gpt-oss-20b",
+          "secs": 1.36,
+          "instructions": "You are the SafetyTrace orchestrator for SERIOUS clinical-trial adverse-event cases.\nGoal: bring the case to a state where a qualified human reviewer can verify it quickly and safely.\n\nYou never see documents. You see a case summary and choose ONE next tool. Explain your reason in one short sentence (shown to the reviewer as the agent trace).\n\nTools:\n- ingest_documents: load the case pack (first step only).\n- transcribe_scans: transcribe scanned pages that have no text layer. Must happen before extraction of those documents.\n- extract_facts: extract facts with verified quotes. With no arguments it processes all un-extracted documents.\n  With doc_ids AND fields it does ONE focused re-extraction (use it when a field has only unanchored values, or after a search found likely evidence).\n- search_documents: deterministic search of every page, ONLY for a MISSING minimum criterion. Give criterion = one of identifiable_patient, identifiable_reporter, suspect_product, adverse_event.\n- reconcile: detect conflicts, gaps, minimum criteria, seriousness candidates. Run it whenever facts changed.\n- suggest_meddra: suggest MedDRA terms (human selects).\n- compute_clock: compute regulatory deadlines.\n- draft_narrative: write the narrative from usable facts only (conflicts/gaps are stated by templates).\n- verify_narrative: check every pending sentence (rules first, then an independent model).\n- redraft_sentences: redraft only blocked sentences (give sentence_ids).\n- draft_followup_queries: draft follow-up questions for open gaps/conflicts (a human approves; nothing is sent).\n- request_human_review: hand over to the reviewer when automatic work is done.\n- stop: nothing useful left to do.\n\nRules you must follow:\n1. Never decide which of two conflicting values is correct, and never decide causality, expectedness, reportability or case validity.\n2. Before treating a minimum criterion as missing, search for it; if the search finds hits, do one focused extraction on those documents.\n3. If a field has only unanchored values, try one focused re-extraction on that document.\n4. After any drafting or redrafting, verify. Redraft only blocked sentences.\n5. Reconcile again whenever facts changed (for example after a follow-up reply or a focused extraction).\n6. Conflicts are decided ONLY by a human or by a site reply. Do not search or re-extract to \"resolve\" a conflict: draft a follow-up query and hand over.\n7. Missing information that is not a minimum criterion (e.g. dechallenge) is a gap",
+          "input": "CASE ST-0430 | version 1 | status processing\nDocuments: none ingested yet.\nReconciled for current version and facts: False\nMedDRA suggested for this version: False; clock computed for this version: False\nNarrative: not drafted\n\nTools the policy allows right now (anything else is blocked): ingest_documents\n\nChoose the single next action.",
+          "output": "{\"reason\": \"No documents have been ingested yet, so we must load the case pack first.\", \"tool\": \"ingest_documents\", \"doc_ids\": [], \"fields\": [], \"criterion\": \"\", \"sentence_ids\": []}"
+        }
+      ],
+      "changes": {
+        "documents loaded": [
+          "D1 physician_note_scanned.pdf: 2 page(s), pending transcription",
+          "D2 patient_diary.txt: 1 page(s), plain text",
+          "D3 lab_report.txt: 1 page(s), plain text"
+        ]
+      }
+    },
+    {
+      "step": 2,
+      "ts": "2026-10-28T09:52:43.138207Z",
+      "planner": "llm",
+      "reason": "Need to transcribe scanned pages before extracting facts",
+      "tool": "transcribe_scans",
+      "args": {
+        "doc_ids": [
+          "D1"
+        ]
+      },
+      "allowed": true,
+      "result_summary": "transcribed 2 page(s): D1p1: tesseract (confidence 94); D1p2: tesseract (confidence 95)",
+      "duration_s": 20.14,
+      "planner_input": "CASE ST-0430 | version 1 | status processing\n- D1 physician_note_scanned.pdf [physician_note, v1, 2 page(s)]: UNTRANSCRIBED scanned pages [1, 2], NOT extracted\n- D2 patient_diary.txt [patient_diary, v1, 1 page(s)]: NOT extracted\n- D3 lab_report.txt [lab_report, v1, 1 page(s)]: NOT extracted\nReconciled for current version and facts: False\nMedDRA suggested for this version: False; clock computed for this version: False\nNarrative: not drafted\nRecent steps:\n  1. ingest_documents  -> ingested 3 document(s): ['D1', 'D2', 'D3']; documents with untranscribed scanned pages: ['D1']\n\nTools the rulebook allows now: transcribe_scans, extract_facts (all un-extracted documents)",
+      "calls": [
+        {
+          "step": 2,
+          "role": "planner",
+          "model": "groq:openai/gpt-oss-20b",
+          "secs": 0.58,
+          "instructions": "You are the SafetyTrace orchestrator for SERIOUS clinical-trial adverse-event cases.\nGoal: bring the case to a state where a qualified human reviewer can verify it quickly and safely.\n\nYou never see documents. You see a case summary and choose ONE next tool. Explain your reason in one short sentence (shown to the reviewer as the agent trace).\n\nTools:\n- ingest_documents: load the case pack (first step only).\n- transcribe_scans: transcribe scanned pages that have no text layer. Must happen before extraction of those documents.\n- extract_facts: extract facts with verified quotes. With no arguments it processes all un-extracted documents.\n  With doc_ids AND fields it does ONE focused re-extraction (use it when a field has only unanchored values, or after a search found likely evidence).\n- search_documents: deterministic search of every page, ONLY for a MISSING minimum criterion. Give criterion = one of identifiable_patient, identifiable_reporter, suspect_product, adverse_event.\n- reconcile: detect conflicts, gaps, minimum criteria, seriousness candidates. Run it whenever facts changed.\n- suggest_meddra: suggest MedDRA terms (human selects).\n- compute_clock: compute regulatory deadlines.\n- draft_narrative: write the narrative from usable facts only (conflicts/gaps are stated by templates).\n- verify_narrative: check every pending sentence (rules first, then an independent model).\n- redraft_sentences: redraft only blocked sentences (give sentence_ids).\n- draft_followup_queries: draft follow-up questions for open gaps/conflicts (a human approves; nothing is sent).\n- request_human_review: hand over to the reviewer when automatic work is done.\n- stop: nothing useful left to do.\n\nRules you must follow:\n1. Never decide which of two conflicting values is correct, and never decide causality, expectedness, reportability or case validity.\n2. Before treating a minimum criterion as missing, search for it; if the search finds hits, do one focused extraction on those documents.\n3. If a field has only unanchored values, try one focused re-extraction on that document.\n4. After any drafting or redrafting, verify. Redraft only blocked sentences.\n5. Reconcile again whenever facts changed (for example after a follow-up reply or a focused extraction).\n6. Conflicts are decided ONLY by a human or by a site reply. Do not search or re-extract to \"resolve\" a conflict: draft a follow-up query and hand over.\n7. Missing information that is not a minimum criterion (e.g. dechallenge) is a gap",
+          "input": "CASE ST-0430 | version 1 | status processing\n- D1 physician_note_scanned.pdf [physician_note, v1, 2 page(s)]: UNTRANSCRIBED scanned pages [1, 2], NOT extracted\n- D2 patient_diary.txt [patient_diary, v1, 1 page(s)]: NOT extracted\n- D3 lab_report.txt [lab_report, v1, 1 page(s)]: NOT extracted\nReconciled for current version and facts: False\nMedDRA suggested for this version: False; clock computed for this version: False\nNarrative: not drafted\nRecent steps:\n  1. ingest_documents  -> ingested 3 document(s): ['D1', 'D2', 'D3']; documents with untranscribed scanned pages: ['D1']\n\nTools the policy allows right now (anything else is blocked): transcribe_scans, extract_facts (all un-extracted documents)\n\nChoose the single next action.",
+          "output": "{\"reason\": \"Need to transcribe scanned pages before extracting facts\", \"tool\": \"transcribe_scans\", \"doc_ids\": [\"D1\"], \"fields\": [], \"criterion\": \"\", \"sentence_ids\": []}"
+        }
+      ],
+      "changes": {}
+    },
+    {
+      "step": 3,
+      "ts": "2026-10-28T09:53:04.664859Z",
+      "planner": "llm",
+      "reason": "All documents are now transcribed and ready for fact extraction.",
+      "tool": "extract_facts",
+      "args": {},
+      "allowed": true,
+      "result_summary": "extracted from ['D1', 'D2', 'D3']: 32 anchored; unanchored=['relevant_labs@D3', 'relevant_labs@D3', 'relevant_labs@D3', 'relevant_labs@D3', 'relevant_labs@D3']",
+      "duration_s": 21.26,
+      "planner_input": "CASE ST-0430 | version 1 | status processing\n- D1 physician_note_scanned.pdf [physician_note, v1, 2 page(s)]: NOT extracted\n- D2 patient_diary.txt [patient_diary, v1, 1 page(s)]: NOT extracted\n- D3 lab_report.txt [lab_report, v1, 1 page(s)]: NOT extracted\nReconciled for current version and facts: False\nMedDRA suggested for this version: False; clock computed for this version: False\nNarrative: not drafted\nRecent steps:\n  1. ingest_documents  -> ingested 3 document(s): ['D1', 'D2', 'D3']; documents with untranscribed scanned pages: ['D1']\n  2. transcribe_scans {'doc_ids': ['D1']} -> transcribed 2 page(s): D1p1: tesseract (confidence 94); D1p2: tesseract (confidence 95)\n\nTools the rulebook allows now: extract_facts (all un-extracted documents)",
+      "calls": [
+        {
+          "step": 3,
+          "role": "planner",
+          "model": "groq:openai/gpt-oss-20b",
+          "secs": 0.49,
+          "instructions": "You are the SafetyTrace orchestrator for SERIOUS clinical-trial adverse-event cases.\nGoal: bring the case to a state where a qualified human reviewer can verify it quickly and safely.\n\nYou never see documents. You see a case summary and choose ONE next tool. Explain your reason in one short sentence (shown to the reviewer as the agent trace).\n\nTools:\n- ingest_documents: load the case pack (first step only).\n- transcribe_scans: transcribe scanned pages that have no text layer. Must happen before extraction of those documents.\n- extract_facts: extract facts with verified quotes. With no arguments it processes all un-extracted documents.\n  With doc_ids AND fields it does ONE focused re-extraction (use it when a field has only unanchored values, or after a search found likely evidence).\n- search_documents: deterministic search of every page, ONLY for a MISSING minimum criterion. Give criterion = one of identifiable_patient, identifiable_reporter, suspect_product, adverse_event.\n- reconcile: detect conflicts, gaps, minimum criteria, seriousness candidates. Run it whenever facts changed.\n- suggest_meddra: suggest MedDRA terms (human selects).\n- compute_clock: compute regulatory deadlines.\n- draft_narrative: write the narrative from usable facts only (conflicts/gaps are stated by templates).\n- verify_narrative: check every pending sentence (rules first, then an independent model).\n- redraft_sentences: redraft only blocked sentences (give sentence_ids).\n- draft_followup_queries: draft follow-up questions for open gaps/conflicts (a human approves; nothing is sent).\n- request_human_review: hand over to the reviewer when automatic work is done.\n- stop: nothing useful left to do.\n\nRules you must follow:\n1. Never decide which of two conflicting values is correct, and never decide causality, expectedness, reportability or case validity.\n2. Before treating a minimum criterion as missing, search for it; if the search finds hits, do one focused extraction on those documents.\n3. If a field has only unanchored values, try one focused re-extraction on that document.\n4. After any drafting or redrafting, verify. Redraft only blocked sentences.\n5. Reconcile again whenever facts changed (for example after a follow-up reply or a focused extraction).\n6. Conflicts are decided ONLY by a human or by a site reply. Do not search or re-extract to \"resolve\" a conflict: draft a follow-up query and hand over.\n7. Missing information that is not a minimum criterion (e.g. dechallenge) is a gap",
+          "input": "CASE ST-0430 | version 1 | status processing\n- D1 physician_note_scanned.pdf [physician_note, v1, 2 page(s)]: NOT extracted\n- D2 patient_diary.txt [patient_diary, v1, 1 page(s)]: NOT extracted\n- D3 lab_report.txt [lab_report, v1, 1 page(s)]: NOT extracted\nReconciled for current version and facts: False\nMedDRA suggested for this version: False; clock computed for this version: False\nNarrative: not drafted\nRecent steps:\n  1. ingest_documents  -> ingested 3 document(s): ['D1', 'D2', 'D3']; documents with untranscribed scanned pages: ['D1']\n  2. transcribe_scans {'doc_ids': ['D1']} -> transcribed 2 page(s): D1p1: tesseract (confidence 94); D1p2: tesseract (confidence 95)\n\nTools the policy allows right now (anything else is blocked): extract_facts (all un-extracted documents)\n\nChoose the single next action.",
+          "output": "{\"reason\": \"All documents are now transcribed and ready for fact extraction.\", \"tool\": \"extract_facts\", \"doc_ids\": [], \"fields\": [], \"criterion\": \"\", \"sentence_ids\": []}"
+        },
+        {
+          "step": 3,
+          "role": "extract",
+          "model": "gemini:gemini-3.5-flash-lite",
+          "secs": 4.58,
+          "instructions": "You extract adverse-event case facts from ONE clinical document for a pharmacovigilance safety case.\n\nRules:\n1. Extract only facts that are explicitly stated in this document. Never infer, guess or use outside knowledge.\n2. For every fact return:\n   - field: one of the listed field keys\n   - value: the value as stated (keep units and dates exactly as written)\n   - quote: the SHORTEST verbatim span from the document that contains the value. Copy it character for character. Do not paraphrase, fix typos or join text from different places.\n   - page: the page number shown as <<PAGE n>>\n3. If the same field is stated more than once with different values, return each one separately with its own quote.\n4. If a field is not stated, do not return it. Missing information is important and must stay missing.\n5. Repeatable fields (relevant_labs, concomitant_meds, treatment_given, relevant_history, seriousness_criteria) may appear several times.\n6. Field meanings that are easy to misread:\n   - reporter_name_or_role / reporter_type: the person who REPORTS this case (the author or signatory of the document, e.g. the investigator who signs a clinic note). Someone the text merely mentions (e.g. \"called the study nurse\", \"showed my daughter\") is NOT the reporter.\n   - start_date: only a date stated as the start of the suspect drug (\"started on ...\"). A diary line saying a tablet was taken on some day is not a start date.\n   - stop_date / action_taken: the action taken with the suspect drug BECAUSE OF the event, as stated by the treating team (withdrawn, interrupted, dose reduced, unchanged). A single missed dose noted in a diary is not an action taken.\n   - event_onset_date: the date the adverse event UNDER REPORT first appeared (including its first signs). Do not return onset dates of other, unrelated symptoms. If the document gives more than one date for the onset of that event, return each one separately.\n7. Several drugs: for dose, route, frequency, indication, start_date, stop_date, action_taken, dechallenge and rechallenge set \"drug\" to the name of the drug the value belongs to (leave \"drug\" empty for other fields). Never attach one drug's dose or indication to another drug.\n8. event_verbatim: return each distinct adverse event separately, each with its own quote.\n9. Return only the fields listed below; other fields are not taken from this type of document.\n",
+          "input": "Document: physician_note_scanned.pdf (type: physician_note)\n\nFields to extract:\n- study_id: Clinical study / protocol identifier\n- site_id: Investigator site identifier\n- subject_id: Study subject / patient identifier\n- case_receipt_date: Date the sponsor first received the report (Day 0)\n- reporter_name_or_role: Name or role of the person reporting the event (e.g. Dr. A. Mehta, investigator)\n- reporter_type: physician, investigator, pharmacist, nurse, patient or other\n- patient_initials: Patient initials\n- patient_age: Patient age in years\n- patient_sex: Patient sex\n- relevant_history: Relevant medical history\n- drug_name: Suspect (study) drug name\n- dose: Dose of the suspect drug with unit\n- route: Route of administration\n- frequency: Dosing frequency\n- start_date: Date the suspect drug was started\n- stop_date: Date of the LAST dose of the suspect drug (E2B convention). If a text gives both the date the drug was interrupted and the last-dose date, use the last-dose date\n- indication: The disease or condition the suspect drug was given for (e.g. 'atrial fibrillation'), not a phrase about the drug itself\n- action_taken: Action taken with the suspect drug (withdrawn, interrupted, unchanged, reduced)\n- event_verbatim: One adverse event as described in the source. Return EACH distinct event (diagnosis, complication, clinically significant abnormal finding) as a separate entry\n- event_onset_date: Date the adverse event started\n- event_end_date: Date the adverse event resolved\n- seriousness_criteria: Seriousness criterion stated or clearly described: death, life-threatening, hospitalisation (admitted, hospitalised, prolonged stay), disability, congenital anomaly, medically important (e.g. needed surgery to prevent permanent harm). Value = the category word; quote = the text that shows it\n- outcome: Outcome of the event (recovered, recovering, not recovered, fatal, unknown)\n- dechallenge: What happened to the event after the drug was stopped or reduced\n- rechallenge: Whether the drug was restarted and what happened\n- treatment_given: Treatment given for the adverse event\n- relevant_labs: Relevant laboratory result with value, unit and date\n- concomitant_meds: Concomitant medication\n- investigator_causality: The reporter's or investigator's own causality assessment of the suspect drug (e.g. 'related', 'probably related', 'not related'), only if the source states one\n\nDocument text:\n<<PAGE 1>>\nSITE 104 - INVESTIGATOR CLINICAL NOTE (UNSCHEDULED VISIT)\nStudy: SFT-301 (Velorantib in moderate-to-severe plaque psoriasis)\nSite: 104, Mumbai\nSubject ID: 104-0217 Initials: R.K. Age:54 years Sex: Female\nVisit date: 16-Mar-2026\nMedical history: Hypertension, controlled on amlodipine 5 mg once daily. No known drug allergies.\nStudy treatment: Velorantib 50 mg orally once daily, started on 02-Mar-2026.\nPresenting complaint: Subject attended an unscheduled visit with a widespread itchy rash.\nRash first noted on 14-Mar-2026 according to the subject at today's visit.\nOn examination: erythematous maculopapular rash, grade 3, on trunk and arms, covering\napproximately 40% of body surface area. No mucosal Involvement. Temperature 37.9 C.\n\n<<PAGE 2>>\nAssessment and plan\nEvent: generalised maculopapular rash, CTCAE grade 3.\nThe subject was admitted to hospital on 16-Mar-2026 for observation and IV management.\nSeriousness: hospitalisation.\nStudy drug interrupted on 16-Mar-2026 (last dose 15-Mar-2026).\nTreatment: IV methylprednisolone 40 mg daily and oral cetirizine 10 mg once daily.\nOutcome at time of report: not yet recovered.\nInvestigator: Dr. Anjali Mehta, Principal Investigator, Site 104\nReceived by sponsor drug safety: 16-Mar-2026",
+          "output": "{\"facts\": [{\"field\": \"study_id\", \"value\": \"SFT-301\", \"quote\": \"SFT-301\", \"page\": 1, \"drug\": \"\"}, {\"field\": \"site_id\", \"value\": \"104\", \"quote\": \"104\", \"page\": 1, \"drug\": \"\"}, {\"field\": \"subject_id\", \"value\": \"104-0217\", \"quote\": \"104-0217\", \"page\": 1, \"drug\": \"\"}, {\"field\": \"case_receipt_date\", \"value\": \"16-Mar-2026\", \"quote\": \"16-Mar-2026\", \"page\": 2, \"drug\": \"\"}, {\"field\": \"reporter_name_or_role\", \"value\": \"Dr. Anjali Mehta\", \"quote\": \"Dr. Anjali Mehta\", \"page\": 2, \"drug\": \"\"}, {\"field\": \"reporter_type\", \"value\": \"investigator\", \"quote\": \"Principal Investigator\", \"page\": 2, \"drug\": \"\"}, {\"field\": \"patient_initials\", \"value\": \"R.K.\", \"quote\": \"R.K.\", \"page\": 1, \"drug\": \"\"}, {\"field\": \"patient_age\", \"value\": \"54\", \"quote\": \"54 years\", \"page\": 1, \"drug\": \"\"}, {\"field\": \"patient_sex\", \"value\": \"Female\", \"quote\": \"Female\", \"page\": 1, \"drug\": \"\"}, {\"field\": \"relevant_history\", \"value\": \"Hypertension, controlled on amlodipine 5 mg once daily.\", \"quote\": \"Hypertension, controlled on amlodipine 5 mg once daily.\", \"page\": 1, \"drug\": \"\"}, {\"field\": \"drug_name\", \"value\": \"Velorantib\", \"quote\": \"Velorantib\", \"page\": 1, \"drug\": \"Velorantib\"}, {\"field\": \"dose\", \"value\": \"50 mg\", \"quote\": \"50 mg\", \"page\": 1, \"drug\": \"Velorantib\"}, {\"field\": \"route\", \"value\": \"orally\", \"quote\": \"orally\", \"page\": 1, \"drug\": \"Velorantib\"}, {\"field\": \"frequency\", \"value\": \"once daily\", \"quote\": \"once daily\", \"page\": 1, \"drug\": \"Velorantib\"}, {\"field\": \"start_date\", \"value\": \"02-Mar-2026\", \"quote\": \"02-Mar-2026\", \"page\": 1, \"drug\": \"Velorantib\"}, {\"field\": \"stop_date\", \"value\": \"15-Mar-2026\", \"quote\": \"15-Mar-2026\", \"page\": 2, \"drug\": \"Velorantib\"}, {\"field\": \"indication\", \"value\": \"moderate-to-severe plaque psoriasis\", \"quote\": \"moderate-to-severe plaque psoriasis\", \"page\": 1, \"drug\": \"Velorantib\"}, {\"field\": \"action_taken\", \"value\": \"interrupted\", \"quote\": \"interrupted\", \"page\": 2, \"drug\": \"Velorantib\"}, {\"field\": \"event_verbatim\", \"value\": \"widespread itchy rash\", \"quote\": \"widespread itchy rash\", \"page\": 1, \"drug\": \"\"}, {\"field\": \"event_onset_date\", \"value\": \"14-Mar-2026\", \"quote\": \"14-Mar-2026\", \"page\": 1, \"drug\": \"\"}, {\"field\": \"seriousness_criteria\", \"value\": \"hospitalisation\", \"quote\": \"hospitalisation\", \"page\": 2, \"drug\": \"\"}, {\"field\": \"outcome\", \"value\": \"not yet recovered\", \"quote\": \"not yet recovered\", \"page\": 2, \"drug\": \"\"}, {\"field\": \"treatment_given\", \"value\": \"IV methylprednisolone 40 mg daily\", \"quote\": \"IV methylprednisolone 40 mg daily\", \"page\": 2, \"drug\": \"\"}, {\"field\": \"treatment_given\", \"value\": \"oral cetirizine 10 mg once daily\", \"quote\": \"oral cetirizine 10 mg once daily\", \"page\": 2, \"drug\": \"\"}, {\"field\": \"concomitant_meds\", \"value\": \"amlodipine 5 mg once daily\", \"quote\": \"amlodipine 5 mg once daily\", \"page\": 1, \"drug\": \"\"}]}"
+        },
+        {
+          "step": 3,
+          "role": "extract",
+          "model": "gemini:gemini-3.5-flash-lite",
+          "secs": 2.63,
+          "instructions": "You extract adverse-event case facts from ONE clinical document for a pharmacovigilance safety case.\n\nRules:\n1. Extract only facts that are explicitly stated in this document. Never infer, guess or use outside knowledge.\n2. For every fact return:\n   - field: one of the listed field keys\n   - value: the value as stated (keep units and dates exactly as written)\n   - quote: the SHORTEST verbatim span from the document that contains the value. Copy it character for character. Do not paraphrase, fix typos or join text from different places.\n   - page: the page number shown as <<PAGE n>>\n3. If the same field is stated more than once with different values, return each one separately with its own quote.\n4. If a field is not stated, do not return it. Missing information is important and must stay missing.\n5. Repeatable fields (relevant_labs, concomitant_meds, treatment_given, relevant_history, seriousness_criteria) may appear several times.\n6. Field meanings that are easy to misread:\n   - reporter_name_or_role / reporter_type: the person who REPORTS this case (the author or signatory of the document, e.g. the investigator who signs a clinic note). Someone the text merely mentions (e.g. \"called the study nurse\", \"showed my daughter\") is NOT the reporter.\n   - start_date: only a date stated as the start of the suspect drug (\"started on ...\"). A diary line saying a tablet was taken on some day is not a start date.\n   - stop_date / action_taken: the action taken with the suspect drug BECAUSE OF the event, as stated by the treating team (withdrawn, interrupted, dose reduced, unchanged). A single missed dose noted in a diary is not an action taken.\n   - event_onset_date: the date the adverse event UNDER REPORT first appeared (including its first signs). Do not return onset dates of other, unrelated symptoms. If the document gives more than one date for the onset of that event, return each one separately.\n7. Several drugs: for dose, route, frequency, indication, start_date, stop_date, action_taken, dechallenge and rechallenge set \"drug\" to the name of the drug the value belongs to (leave \"drug\" empty for other fields). Never attach one drug's dose or indication to another drug.\n8. event_verbatim: return each distinct adverse event separately, each with its own quote.\n9. Return only the fields listed below; other fields are not taken from this type of document.\n",
+          "input": "Case context: the adverse event under report is described in the clinician's documents as: 'widespread itchy rash'. Use this only to decide which event onset/end dates belong to the reported event. Extract facts only from the document below.\n\nDocument: patient_diary.txt (type: patient_diary)\n\nFields to extract:\n- study_id: Clinical study / protocol identifier\n- subject_id: Study subject / patient identifier\n- patient_initials: Patient initials\n- patient_age: Patient age in years\n- patient_sex: Patient sex\n- relevant_history: Relevant medical history\n- drug_name: Suspect (study) drug name\n- dose: Dose of the suspect drug with unit\n- route: Route of administration\n- frequency: Dosing frequency\n- event_verbatim: One adverse event as described in the source. Return EACH distinct event (diagnosis, complication, clinically significant abnormal finding) as a separate entry\n- event_onset_date: Date the adverse event started\n- event_end_date: Date the adverse event resolved\n- treatment_given: Treatment given for the adverse event\n- relevant_labs: Relevant laboratory result with value, unit and date\n- concomitant_meds: Concomitant medication\n\nDocument text:\n<<PAGE 1>>\nPATIENT DIARY - Study SFT-301 - Subject 104-0217\nWeek 2\n\n10 Mar 2026: Took tablet in the morning with breakfast. Felt fine.\n11 Mar 2026: Took tablet. Mild headache in the evening, went away after rest.\n12 Mar 2026: Took tablet. Itchy red spots started on my stomach in the evening.\n13 Mar 2026: Took tablet. Spots spreading to arms, very itchy, could not sleep well.\n14 Mar 2026: Took tablet. Rash worse, showed my daughter. Called the study nurse.\n15 Mar 2026: Took tablet. Rash on chest, back and both arms. Feeling feverish.\n16 Mar 2026: Did not take tablet. Went to the hospital clinic as the nurse told me.",
+          "output": "{\"facts\": [{\"field\": \"study_id\", \"value\": \"SFT-301\", \"quote\": \"SFT-301\", \"page\": 1, \"drug\": \"\"}, {\"field\": \"subject_id\", \"value\": \"104-0217\", \"quote\": \"104-0217\", \"page\": 1, \"drug\": \"\"}, {\"field\": \"event_verbatim\", \"value\": \"Itchy red spots\", \"quote\": \"Itchy red spots\", \"page\": 1, \"drug\": \"\"}, {\"field\": \"event_onset_date\", \"value\": \"12 Mar 2026\", \"quote\": \"12 Mar 2026\", \"page\": 1, \"drug\": \"\"}]}"
+        },
+        {
+          "step": 3,
+          "role": "extract",
+          "model": "gemini:gemini-3.5-flash-lite",
+          "secs": 12.27,
+          "instructions": "You extract adverse-event case facts from ONE clinical document for a pharmacovigilance safety case.\n\nRules:\n1. Extract only facts that are explicitly stated in this document. Never infer, guess or use outside knowledge.\n2. For every fact return:\n   - field: one of the listed field keys\n   - value: the value as stated (keep units and dates exactly as written)\n   - quote: the SHORTEST verbatim span from the document that contains the value. Copy it character for character. Do not paraphrase, fix typos or join text from different places.\n   - page: the page number shown as <<PAGE n>>\n3. If the same field is stated more than once with different values, return each one separately with its own quote.\n4. If a field is not stated, do not return it. Missing information is important and must stay missing.\n5. Repeatable fields (relevant_labs, concomitant_meds, treatment_given, relevant_history, seriousness_criteria) may appear several times.\n6. Field meanings that are easy to misread:\n   - reporter_name_or_role / reporter_type: the person who REPORTS this case (the author or signatory of the document, e.g. the investigator who signs a clinic note). Someone the text merely mentions (e.g. \"called the study nurse\", \"showed my daughter\") is NOT the reporter.\n   - start_date: only a date stated as the start of the suspect drug (\"started on ...\"). A diary line saying a tablet was taken on some day is not a start date.\n   - stop_date / action_taken: the action taken with the suspect drug BECAUSE OF the event, as stated by the treating team (withdrawn, interrupted, dose reduced, unchanged). A single missed dose noted in a diary is not an action taken.\n   - event_onset_date: the date the adverse event UNDER REPORT first appeared (including its first signs). Do not return onset dates of other, unrelated symptoms. If the document gives more than one date for the onset of that event, return each one separately.\n7. Several drugs: for dose, route, frequency, indication, start_date, stop_date, action_taken, dechallenge and rechallenge set \"drug\" to the name of the drug the value belongs to (leave \"drug\" empty for other fields). Never attach one drug's dose or indication to another drug.\n8. event_verbatim: return each distinct adverse event separately, each with its own quote.\n9. Return only the fields listed below; other fields are not taken from this type of document.\n",
+          "input": "Case context: the adverse event under report is described in the clinician's documents as: 'widespread itchy rash'. Use this only to decide which event onset/end dates belong to the reported event. Extract facts only from the document below.\n\nDocument: lab_report.txt (type: lab_report)\n\nFields to extract:\n- study_id: Clinical study / protocol identifier\n- site_id: Investigator site identifier\n- subject_id: Study subject / patient identifier\n- reporter_name_or_role: Name or role of the person reporting the event (e.g. Dr. A. Mehta, investigator)\n- reporter_type: physician, investigator, pharmacist, nurse, patient or other\n- patient_initials: Patient initials\n- patient_age: Patient age in years\n- patient_sex: Patient sex\n- relevant_history: Relevant medical history\n- drug_name: Suspect (study) drug name\n- indication: The disease or condition the suspect drug was given for (e.g. 'atrial fibrillation'), not a phrase about the drug itself\n- event_verbatim: One adverse event as described in the source. Return EACH distinct event (diagnosis, complication, clinically significant abnormal finding) as a separate entry\n- relevant_labs: Relevant laboratory result with value, unit and date\n- concomitant_meds: Concomitant medication\n\nDocument text:\n<<PAGE 1>>\nCENTRAL LABORATORY REPORT\nStudy: SFT-301    Subject: 104-0217    Site: 104\nSample collected: 16-Mar-2026 09:40\n\nHaematology\nEosinophils 1.2 x10^9/L (ref 0.0-0.5) HIGH\nWBC 9.8 x10^9/L (ref 4.0-11.0)\nHaemoglobin 12.9 g/dL (ref 12.0-15.5)\n\nBiochemistry\nALT 38 U/L (ref 7-56)\nCreatinine 0.8 mg/dL (ref 0.6-1.1)\n\nComment: Eosinophilia noted. Liver and renal function within normal limits.",
+          "output": "{\"facts\": [{\"field\": \"study_id\", \"value\": \"SFT-301\", \"quote\": \"SFT-301\", \"page\": 1, \"drug\": \"\"}, {\"field\": \"subject_id\", \"value\": \"104-0217\", \"quote\": \"104-0217\", \"page\": 1, \"drug\": \"\"}, {\"field\": \"site_id\", \"value\": \"104\", \"quote\": \"104\", \"page\": 1, \"drug\": \"\"}, {\"field\": \"relevant_labs\", \"value\": \"Eosinophils 1.2 x10^9/L (ref 0.0-0.5) HIGH 16-Mar-2026\", \"quote\": \"Eosinophils 1.2 x10^9/L (ref 0.0-0.5) HIGH\", \"page\": 1, \"drug\": \"\"}, {\"field\": \"relevant_labs\", \"value\": \"WBC 9.8 x10^9/L (ref 4.0-11.0) 16-Mar-2026\", \"quote\": \"WBC 9.8 x10^9/L (ref 4.0-11.0)\", \"page\": 1, \"drug\": \"\"}, {\"field\": \"relevant_labs\", \"value\": \"Haemoglobin 12.9 g/dL (ref 12.0-15.5) 16-Mar-2026\", \"quote\": \"Haemoglobin 12.9 g/dL (ref 12.0-15.5)\", \"page\": 1, \"drug\": \"\"}, {\"field\": \"relevant_labs\", \"value\": \"ALT 38 U/L (ref 7-56) 16-Mar-2026\", \"quote\": \"ALT 38 U/L (ref 7-56)\", \"page\": 1, \"drug\": \"\"}, {\"field\": \"relevant_labs\", \"value\": \"Creatinine 0.8 mg/dL (ref 0.6-1.1) 16-Mar-2026\", \"quote\": \"Creatinine 0.8 mg/dL (ref 0.6-1.1)\", \"page\": 1, \"drug\": \"\"}]}"
+        }
+      ],
+      "changes": {
+        "documents read": [
+          "D1 physician_note_scanned.pdf",
+          "D2 patient_diary.txt",
+          "D3 lab_report.txt"
+        ],
+        "facts proven": [
+          "F01 study_id = SFT-301",
+          "F02 site_id = 104",
+          "F03 subject_id = 104-0217",
+          "F04 case_receipt_date = 16-Mar-2026",
+          "F05 reporter_name_or_role = Dr. Anjali Mehta",
+          "F06 reporter_type = investigator",
+          "F07 patient_initials = R.K.",
+          "F08 patient_age = 54",
+          "F09 patient_sex = Female",
+          "F10 relevant_history = Hypertension, controlled on amlodipine 5 mg once daily.",
+          "F11 drug_name = Velorantib",
+          "F12 dose = 50 mg [Velorantib]",
+          "F13 route = orally [Velorantib]",
+          "F14 frequency = once daily [Velorantib]",
+          "F15 start_date = 02-Mar-2026 [Velorantib]",
+          "F16 stop_date = 15-Mar-2026 [Velorantib]",
+          "F17 indication = moderate-to-severe plaque psoriasis [Velorantib]",
+          "F18 action_taken = interrupted [Velorantib]",
+          "F19 event_verbatim = widespread itchy rash",
+          "F20 event_onset_date = 14-Mar-2026",
+          "F21 seriousness_criteria = hospitalisation",
+          "F22 outcome = not yet recovered",
+          "F23 treatment_given = IV methylprednisolone 40 mg daily",
+          "F24 treatment_given = oral cetirizine 10 mg once daily",
+          "F25 concomitant_meds = amlodipine 5 mg once daily",
+          "F26 event_verbatim = Itchy red spots",
+          "F27 event_onset_date = 12 Mar 2026"
+        ],
+        "rejected by code": [
+          "F28 relevant_labs = Eosinophils 1.2 x10^9/L (ref 0.0-0.5) HIGH 16-Mar-2026: value 'Eosinophils 1.2 x10^9/L (ref 0.0-0.5) HIGH 16-Mar-2026' not supported by quote 'Eosinophils 1.2 x10^9/L (ref 0.0-",
+          "F29 relevant_labs = WBC 9.8 x10^9/L (ref 4.0-11.0) 16-Mar-2026: value 'WBC 9.8 x10^9/L (ref 4.0-11.0) 16-Mar-2026' not supported by quote 'WBC 9.8 x10^9/L (ref 4.0-11.0)'",
+          "F30 relevant_labs = Haemoglobin 12.9 g/dL (ref 12.0-15.5) 16-Mar-2026: value 'Haemoglobin 12.9 g/dL (ref 12.0-15.5) 16-Mar-2026' not supported by quote 'Haemoglobin 12.9 g/dL (ref 12.0-15.5)'",
+          "F31 relevant_labs = ALT 38 U/L (ref 7-56) 16-Mar-2026: value 'ALT 38 U/L (ref 7-56) 16-Mar-2026' not supported by quote 'ALT 38 U/L (ref 7-56)'",
+          "F32 relevant_labs = Creatinine 0.8 mg/dL (ref 0.6-1.1) 16-Mar-2026: value 'Creatinine 0.8 mg/dL (ref 0.6-1.1) 16-Mar-2026' not supported by quote 'Creatinine 0.8 mg/dL (ref 0.6-1.1)'"
+        ]
+      }
+    },
+    {
+      "step": 4,
+      "ts": "2026-10-28T09:53:26.966897Z",
+      "planner": "llm",
+      "reason": "Focused extraction to anchor the unanchored relevant_labs values",
+      "tool": "extract_facts",
+      "args": {
+        "doc_ids": [
+          "D3"
+        ],
+        "fields": [
+          "relevant_labs"
+        ]
+      },
+      "allowed": true,
+      "result_summary": "extracted from ['D3']: 5 anchored; unanchored=none; ignored (field not accepted from this document type)=['study_id@D3', 'site_id@D3', 'subject_id@D3']",
+      "duration_s": 2.53,
+      "planner_input": "CASE ST-0430 | version 1 | status processing\n- D1 physician_note_scanned.pdf [physician_note, v1, 2 page(s)]: extracted\n- D2 patient_diary.txt [patient_diary, v1, 1 page(s)]: extracted\n- D3 lab_report.txt [lab_report, v1, 1 page(s)]: extracted\nFacts: {'anchored': 27, 'unanchored': 5, 'conflicting': 0, 'confirmed_by_human': 0}\nFields with ONLY unanchored values (quote not found in source): ['relevant_labs']\nReconciled for current version and facts: False\nMedDRA suggested for this version: False; clock computed for this version: False\nNarrative: not drafted\nRecent steps:\n  1. ingest_documents  -> ingested 3 document(s): ['D1', 'D2', 'D3']; documents with untranscribed scanned pages: ['D1']\n  2. transcribe_scans {'doc_ids': ['D1']} -> transcribed 2 page(s): D1p1: tesseract (confidence 94); D1p2: tesseract (confidence 95)\n  3. extract_facts  -> extracted from ['D1', 'D2', 'D3']: 32 anchored; unanchored=['relevant_labs@D3', 'relevant_labs@D3', 'relevant_labs@D3', 'relevant_labs@D3', 'relevant_labs@D3']\n\nTools the rulebook allows now: extract_facts focused (doc_ids from ['D1', 'D2', 'D3'] + fields), reconcile",
+      "calls": [
+        {
+          "step": 4,
+          "role": "planner",
+          "model": "groq:openai/gpt-oss-20b",
+          "secs": 1.03,
+          "instructions": "You are the SafetyTrace orchestrator for SERIOUS clinical-trial adverse-event cases.\nGoal: bring the case to a state where a qualified human reviewer can verify it quickly and safely.\n\nYou never see documents. You see a case summary and choose ONE next tool. Explain your reason in one short sentence (shown to the reviewer as the agent trace).\n\nTools:\n- ingest_documents: load the case pack (first step only).\n- transcribe_scans: transcribe scanned pages that have no text layer. Must happen before extraction of those documents.\n- extract_facts: extract facts with verified quotes. With no arguments it processes all un-extracted documents.\n  With doc_ids AND fields it does ONE focused re-extraction (use it when a field has only unanchored values, or after a search found likely evidence).\n- search_documents: deterministic search of every page, ONLY for a MISSING minimum criterion. Give criterion = one of identifiable_patient, identifiable_reporter, suspect_product, adverse_event.\n- reconcile: detect conflicts, gaps, minimum criteria, seriousness candidates. Run it whenever facts changed.\n- suggest_meddra: suggest MedDRA terms (human selects).\n- compute_clock: compute regulatory deadlines.\n- draft_narrative: write the narrative from usable facts only (conflicts/gaps are stated by templates).\n- verify_narrative: check every pending sentence (rules first, then an independent model).\n- redraft_sentences: redraft only blocked sentences (give sentence_ids).\n- draft_followup_queries: draft follow-up questions for open gaps/conflicts (a human approves; nothing is sent).\n- request_human_review: hand over to the reviewer when automatic work is done.\n- stop: nothing useful left to do.\n\nRules you must follow:\n1. Never decide which of two conflicting values is correct, and never decide causality, expectedness, reportability or case validity.\n2. Before treating a minimum criterion as missing, search for it; if the search finds hits, do one focused extraction on those documents.\n3. If a field has only unanchored values, try one focused re-extraction on that document.\n4. After any drafting or redrafting, verify. Redraft only blocked sentences.\n5. Reconcile again whenever facts changed (for example after a follow-up reply or a focused extraction).\n6. Conflicts are decided ONLY by a human or by a site reply. Do not search or re-extract to \"resolve\" a conflict: draft a follow-up query and hand over.\n7. Missing information that is not a minimum criterion (e.g. dechallenge) is a gap",
+          "input": "CASE ST-0430 | version 1 | status processing\n- D1 physician_note_scanned.pdf [physician_note, v1, 2 page(s)]: extracted\n- D2 patient_diary.txt [patient_diary, v1, 1 page(s)]: extracted\n- D3 lab_report.txt [lab_report, v1, 1 page(s)]: extracted\nFacts: {'anchored': 27, 'unanchored': 5, 'conflicting': 0, 'confirmed_by_human': 0}\nFields with ONLY unanchored values (quote not found in source): ['relevant_labs']\nReconciled for current version and facts: False\nMedDRA suggested for this version: False; clock computed for this version: False\nNarrative: not drafted\nRecent steps:\n  1. ingest_documents  -> ingested 3 document(s): ['D1', 'D2', 'D3']; documents with untranscribed scanned pages: ['D1']\n  2. transcribe_scans {'doc_ids': ['D1']} -> transcribed 2 page(s): D1p1: tesseract (confidence 94); D1p2: tesseract (confidence 95)\n  3. extract_facts  -> extracted from ['D1', 'D2', 'D3']: 32 anchored; unanchored=['relevant_labs@D3', 'relevant_labs@D3', 'relevant_labs@D3', 'relevant_labs@D3', 'relevant_labs@D3']\n\nTools the policy allows right now (anything else is blocked): extract_facts focused (doc_ids from ['D1', 'D2', 'D3'] + fields), reconcile\n\nChoose the single next action.",
+          "output": "{\"reason\": \"Focused extraction to anchor the unanchored relevant_labs values\", \"tool\": \"extract_facts\", \"doc_ids\": [\"D3\"], \"fields\": [\"relevant_labs\"], \"criterion\": \"\", \"sentence_ids\": []}"
+        },
+        {
+          "step": 4,
+          "role": "extract",
+          "model": "gemini:gemini-3.5-flash-lite",
+          "secs": 2.53,
+          "instructions": "You extract adverse-event case facts from ONE clinical document for a pharmacovigilance safety case.\n\nRules:\n1. Extract only facts that are explicitly stated in this document. Never infer, guess or use outside knowledge.\n2. For every fact return:\n   - field: one of the listed field keys\n   - value: the value as stated (keep units and dates exactly as written)\n   - quote: the SHORTEST verbatim span from the document that contains the value. Copy it character for character. Do not paraphrase, fix typos or join text from different places.\n   - page: the page number shown as <<PAGE n>>\n3. If the same field is stated more than once with different values, return each one separately with its own quote.\n4. If a field is not stated, do not return it. Missing information is important and must stay missing.\n5. Repeatable fields (relevant_labs, concomitant_meds, treatment_given, relevant_history, seriousness_criteria) may appear several times.\n6. Field meanings that are easy to misread:\n   - reporter_name_or_role / reporter_type: the person who REPORTS this case (the author or signatory of the document, e.g. the investigator who signs a clinic note). Someone the text merely mentions (e.g. \"called the study nurse\", \"showed my daughter\") is NOT the reporter.\n   - start_date: only a date stated as the start of the suspect drug (\"started on ...\"). A diary line saying a tablet was taken on some day is not a start date.\n   - stop_date / action_taken: the action taken with the suspect drug BECAUSE OF the event, as stated by the treating team (withdrawn, interrupted, dose reduced, unchanged). A single missed dose noted in a diary is not an action taken.\n   - event_onset_date: the date the adverse event UNDER REPORT first appeared (including its first signs). Do not return onset dates of other, unrelated symptoms. If the document gives more than one date for the onset of that event, return each one separately.\n7. Several drugs: for dose, route, frequency, indication, start_date, stop_date, action_taken, dechallenge and rechallenge set \"drug\" to the name of the drug the value belongs to (leave \"drug\" empty for other fields). Never attach one drug's dose or indication to another drug.\n8. event_verbatim: return each distinct adverse event separately, each with its own quote.\n9. Return only the fields listed below; other fields are not taken from this type of document.\n",
+          "input": "Case context: the adverse event under report is described in the clinician's documents as: 'widespread itchy rash'. Use this only to decide which event onset/end dates belong to the reported event. Extract facts only from the document below.\n\nDocument: lab_report.txt (type: lab_report)\n\nFields to extract:\n- relevant_labs: Relevant laboratory result with value, unit and date\n\nDocument text:\n<<PAGE 1>>\nCENTRAL LABORATORY REPORT\nStudy: SFT-301    Subject: 104-0217    Site: 104\nSample collected: 16-Mar-2026 09:40\n\nHaematology\nEosinophils 1.2 x10^9/L (ref 0.0-0.5) HIGH\nWBC 9.8 x10^9/L (ref 4.0-11.0)\nHaemoglobin 12.9 g/dL (ref 12.0-15.5)\n\nBiochemistry\nALT 38 U/L (ref 7-56)\nCreatinine 0.8 mg/dL (ref 0.6-1.1)\n\nComment: Eosinophilia noted. Liver and renal function within normal limits.",
+          "output": "{\"facts\": [{\"field\": \"study_id\", \"value\": \"SFT-301\", \"quote\": \"Study: SFT-301\", \"page\": 1, \"drug\": \"\"}, {\"field\": \"site_id\", \"value\": \"104\", \"quote\": \"Site: 104\", \"page\": 1, \"drug\": \"\"}, {\"field\": \"subject_id\", \"value\": \"104-0217\", \"quote\": \"Subject: 104-0217\", \"page\": 1, \"drug\": \"\"}, {\"field\": \"relevant_labs\", \"value\": \"Eosinophils 1.2 x10^9/L (ref 0.0-0.5) HIGH\", \"quote\": \"Eosinophils 1.2 x10^9/L (ref 0.0-0.5) HIGH\", \"page\": 1, \"drug\": \"\"}, {\"field\": \"relevant_labs\", \"value\": \"WBC 9.8 x10^9/L (ref 4.0-11.0)\", \"quote\": \"WBC 9.8 x10^9/L (ref 4.0-11.0)\", \"page\": 1, \"drug\": \"\"}, {\"field\": \"relevant_labs\", \"value\": \"Haemoglobin 12.9 g/dL (ref 12.0-15.5)\", \"quote\": \"Haemoglobin 12.9 g/dL (ref 12.0-15.5)\", \"page\": 1, \"drug\": \"\"}, {\"field\": \"relevant_labs\", \"value\": \"ALT 38 U/L (ref 7-56)\", \"quote\": \"ALT 38 U/L (ref 7-56)\", \"page\": 1, \"drug\": \"\"}, {\"field\": \"relevant_labs\", \"value\": \"Creatinine 0.8 mg/dL (ref 0.6-1.1)\", \"quote\": \"Creatinine 0.8 mg/dL (ref 0.6-1.1)\", \"page\": 1, \"drug\": \"\"}]}"
+        }
+      ],
+      "changes": {
+        "facts proven": [
+          "F33 relevant_labs = Eosinophils 1.2 x10^9/L (ref 0.0-0.5) HIGH",
+          "F34 relevant_labs = WBC 9.8 x10^9/L (ref 4.0-11.0)",
+          "F35 relevant_labs = Haemoglobin 12.9 g/dL (ref 12.0-15.5)",
+          "F36 relevant_labs = ALT 38 U/L (ref 7-56)",
+          "F37 relevant_labs = Creatinine 0.8 mg/dL (ref 0.6-1.1)"
+        ]
+      }
+    }
+  ],
+  "usage": {
+    "requests": 8,
+    "prompt_tokens": 10053,
+    "completion_tokens": 3211,
+    "by_role": {
+      "planner": {
+        "requests": 4,
+        "prompt_tokens": 4481,
+        "completion_tokens": 261
+      },
+      "extract": {
+        "requests": 4,
+        "prompt_tokens": 5572,
+        "completion_tokens": 2950
+      }
+    },
+    "models": {
+      "planner": "groq:openai/gpt-oss-20b",
+      "extract": "gemini:gemini-3.5-flash-lite"
+    }
+  },
+  "current_step": 4,
+  "llm_calls": []
+}

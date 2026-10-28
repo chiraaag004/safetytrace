@@ -1,0 +1,22 @@
+{
+  "case_id": "LIT-PMC8500653",
+  "title": "REAL literature case: Rectal mixed adenoneuroendocrine carcinoma: Case report.",
+  "region": "US/EU/India",
+  "documents": [
+    {
+      "path": "documents/article.txt",
+      "doc_type": "literature_article"
+    }
+  ],
+  "followups": [],
+  "real": true,
+  "source": {
+    "pmcid": "PMC8500653",
+    "doi": "10.1097/md.0000000000027348",
+    "license": "cc by",
+    "url": "https://europepmc.org/article/PMC/8500653"
+  },
+  "designed_to_show": [
+    "real published case: extraction + MedDRA + seriousness vs the manufacturer's FAERS ICSR"
+  ]
+}

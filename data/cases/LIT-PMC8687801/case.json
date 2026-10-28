@@ -1,0 +1,22 @@
+{
+  "case_id": "LIT-PMC8687801",
+  "title": "REAL literature case: A Case of Limb-Threatening Hematoma in a Patient Taking Citalopram and Apixaban Concurrently.",
+  "region": "US/EU/India",
+  "documents": [
+    {
+      "path": "documents/article.txt",
+      "doc_type": "literature_article"
+    }
+  ],
+  "followups": [],
+  "real": true,
+  "source": {
+    "pmcid": "PMC8687801",
+    "doi": "10.7759/cureus.19771",
+    "license": "cc by",
+    "url": "https://europepmc.org/article/PMC/8687801"
+  },
+  "designed_to_show": [
+    "real published case: extraction + MedDRA + seriousness vs the manufacturer's FAERS ICSR"
+  ]
+}
