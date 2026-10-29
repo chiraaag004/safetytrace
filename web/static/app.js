@@ -19,7 +19,7 @@ const who = () => $("#who").value.trim() || "Reviewer";
 
 /* ---------------------------------------------------------------- boot */
 async function boot() {
-  document.documentElement.dataset.theme = store.get("theme", "dim");
+  document.documentElement.dataset.theme = store.get("theme", "light");
   $("#who").value = store.get("who", "Reviewer");
   $("#who").addEventListener("change", () => store.set("who", who()));
   const themeLabel = () => { $("#themeBtn").textContent = document.documentElement.dataset.theme === "light" ? "Dim" : "Light"; };
