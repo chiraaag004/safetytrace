@@ -455,3 +455,10 @@ pre.io{border-radius:10px;background:var(--surface)}
 .rail button.on[data-v="decide"]{box-shadow:inset 3px 0 0 var(--c-human)}
 .rail button.on[data-v="agent"]{box-shadow:inset 3px 0 0 var(--c-agent)}
 .rail button.on[data-v="export"]{box-shadow:inset 3px 0 0 var(--c-record)}
+/* light theme: neutral white rail instead of navy */
+:root[data-theme="light"]{--rail-bg:#FFFFFF; --rail-ink:#636B76; --rail-on:#F1EEE8}
+:root[data-theme="light"] .rail{border-right:1px solid var(--line-soft)}
+:root[data-theme="light"] .rail button:hover{background:#F7F5F0;color:var(--ink)}
+:root[data-theme="light"] .rail button.on,:root[data-theme="light"] .rail button.on[data-v]{color:var(--ink);box-shadow:none}
+:root[data-theme="light"] .rail button.on b{color:var(--brand)}
+:root[data-theme="light"] .rail .key{border-top-color:var(--line-soft)}
