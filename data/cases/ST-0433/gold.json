@@ -1,0 +1,227 @@
+{
+  "case_id": "ST-0433",
+  "facts": [
+    {
+      "field": "study_id",
+      "value": "SFT-301",
+      "doc": "physician_note.txt",
+      "page": 1,
+      "quote": "Study: SFT-301"
+    },
+    {
+      "field": "site_id",
+      "value": "107",
+      "doc": "physician_note.txt",
+      "page": 1,
+      "quote": "Site: 107, Pune"
+    },
+    {
+      "field": "subject_id",
+      "value": "107-0098",
+      "doc": "physician_note.txt",
+      "page": 1,
+      "quote": "Subject ID: 107-0098"
+    },
+    {
+      "field": "patient_initials",
+      "value": "S.P.",
+      "doc": "physician_note.txt",
+      "page": 1,
+      "quote": "Initials: S.P."
+    },
+    {
+      "field": "patient_age",
+      "value": "47",
+      "doc": "physician_note.txt",
+      "page": 1,
+      "quote": "Age: 47 years"
+    },
+    {
+      "field": "patient_sex",
+      "value": "Male",
+      "doc": "physician_note.txt",
+      "page": 1,
+      "quote": "Sex: Male"
+    },
+    {
+      "field": "relevant_history",
+      "value": "none",
+      "doc": "physician_note.txt",
+      "page": 1,
+      "quote": "No relevant medical history"
+    },
+    {
+      "field": "drug_name",
+      "value": "Velorantib",
+      "doc": "physician_note.txt",
+      "page": 1,
+      "quote": "Velorantib 50 mg orally once daily"
+    },
+    {
+      "field": "dose",
+      "value": "50 mg",
+      "doc": "physician_note.txt",
+      "page": 1,
+      "quote": "Velorantib 50 mg orally once daily"
+    },
+    {
+      "field": "route",
+      "value": "orally",
+      "doc": "physician_note.txt",
+      "page": 1,
+      "quote": "Velorantib 50 mg orally once daily"
+    },
+    {
+      "field": "frequency",
+      "value": "once daily",
+      "doc": "physician_note.txt",
+      "page": 1,
+      "quote": "Velorantib 50 mg orally once daily"
+    },
+    {
+      "field": "indication",
+      "value": "moderate-to-severe plaque psoriasis",
+      "doc": "physician_note.txt",
+      "page": 1,
+      "quote": "Velorantib in moderate-to-severe plaque psoriasis"
+    },
+    {
+      "field": "start_date",
+      "value": "09-Mar-2026",
+      "doc": "physician_note.txt",
+      "page": 1,
+      "quote": "started on 09-Mar-2026"
+    },
+    {
+      "field": "event_verbatim",
+      "value": "neutropenia, CTCAE grade 3",
+      "doc": "physician_note.txt",
+      "page": 1,
+      "quote": "Event: neutropenia, CTCAE grade 3"
+    },
+    {
+      "field": "event_onset_date",
+      "value": "06-Apr-2026",
+      "doc": "physician_note.txt",
+      "page": 1,
+      "quote": "neutropenia first detected on 06-Apr-2026"
+    },
+    {
+      "field": "seriousness_criteria",
+      "value": "hospitalisation",
+      "doc": "physician_note.txt",
+      "page": 2,
+      "quote": "Seriousness: hospitalisation."
+    },
+    {
+      "field": "action_taken",
+      "value": "drug withdrawn",
+      "doc": "physician_note.txt",
+      "page": 2,
+      "quote": "Study drug withdrawn on 06-Apr-2026"
+    },
+    {
+      "field": "stop_date",
+      "value": "05-Apr-2026",
+      "doc": "physician_note.txt",
+      "page": 2,
+      "quote": "last dose 05-Apr-2026"
+    },
+    {
+      "field": "treatment_given",
+      "value": "no specific treatment; daily blood counts",
+      "doc": "physician_note.txt",
+      "page": 2,
+      "quote": "no specific treatment given; daily blood counts"
+    },
+    {
+      "field": "dechallenge",
+      "value": "positive: neutrophil count returned to normal within 6 days after withdrawal",
+      "doc": "physician_note.txt",
+      "page": 2,
+      "quote": "neutrophil count returned to normal within 6 days after the study drug was withdrawn. Dechallenge positive."
+    },
+    {
+      "field": "rechallenge",
+      "value": "not restarted",
+      "doc": "physician_note.txt",
+      "page": 2,
+      "quote": "study drug has not been restarted"
+    },
+    {
+      "field": "outcome",
+      "value": "recovered",
+      "doc": "physician_note.txt",
+      "page": 2,
+      "quote": "Outcome: recovered on 12-Apr-2026."
+    },
+    {
+      "field": "event_end_date",
+      "value": "12-Apr-2026",
+      "doc": "physician_note.txt",
+      "page": 2,
+      "quote": "recovered on 12-Apr-2026"
+    },
+    {
+      "field": "investigator_causality",
+      "value": "probably related",
+      "doc": "physician_note.txt",
+      "page": 2,
+      "quote": "the investigator assesses the neutropenia as probably related to Velorantib"
+    },
+    {
+      "field": "reporter_name_or_role",
+      "value": "Dr. Sameer Joshi, Principal Investigator",
+      "doc": "physician_note.txt",
+      "page": 2,
+      "quote": "Dr. Sameer Joshi, Principal Investigator, Site 107"
+    },
+    {
+      "field": "reporter_type",
+      "value": "investigator",
+      "doc": "physician_note.txt",
+      "page": 2,
+      "quote": "Investigator: Dr. Sameer Joshi, Principal Investigator"
+    },
+    {
+      "field": "case_receipt_date",
+      "value": "13-Apr-2026",
+      "doc": "physician_note.txt",
+      "page": 2,
+      "quote": "Received by sponsor drug safety: 13-Apr-2026"
+    },
+    {
+      "field": "subject_id",
+      "value": "107-0098",
+      "doc": "lab_report.txt",
+      "page": 1,
+      "quote": "Subject: 107-0098"
+    },
+    {
+      "field": "relevant_labs",
+      "value": "Absolute neutrophil count 0.8 x10^9/L (ref 1.8-7.5) LOW",
+      "doc": "lab_report.txt",
+      "page": 1,
+      "quote": "Absolute neutrophil count 0.8 x10^9/L (ref 1.8-7.5) LOW"
+    },
+    {
+      "field": "relevant_labs",
+      "value": "WBC 2.6 x10^9/L (ref 4.0-11.0) LOW",
+      "doc": "lab_report.txt",
+      "page": 1,
+      "quote": "WBC 2.6 x10^9/L (ref 4.0-11.0) LOW"
+    }
+  ],
+  "expected": {
+    "initial": {
+      "conflicts": [],
+      "open_gaps_include": [],
+      "missing_minimum_criteria": [],
+      "seriousness": [
+        "hospitalisation"
+      ]
+    }
+  },
+  "meddra_expected_pt": "Neutropenia",
+  "seeded_critical_errors": []
+}

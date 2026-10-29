@@ -1,0 +1,27 @@
+{
+  "case_id": "ST-0433",
+  "title": "Grade 3 neutropenia on Velorantib - clean case, nothing missing (best case)",
+  "region": "US/EU/India",
+  "demo_today": "2026-04-14",
+  "documents": [
+    {
+      "path": "documents/physician_note.txt",
+      "doc_type": "physician_note"
+    },
+    {
+      "path": "documents/lab_report.txt",
+      "doc_type": "lab_report"
+    }
+  ],
+  "followups": [],
+  "designed_to_show": [
+    "best case: documents agree, nothing missing, no questions for the site",
+    "expectedness: listed in the RSI (Neutropenia), so expected",
+    "the reviewer only confirms: MedDRA, expectedness, causality, sign-off"
+  ],
+  "synthetic": true,
+  "reference_safety_info": {
+    "path": "reference/velorantib_IB_RSI.txt",
+    "label": "Velorantib Investigator's Brochure ed. 4, Section 7.3 (RSI)"
+  }
+}

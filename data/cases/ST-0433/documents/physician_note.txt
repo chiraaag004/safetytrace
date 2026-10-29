@@ -1,0 +1,26 @@
+SITE 107 - INVESTIGATOR SERIOUS ADVERSE EVENT NOTE
+Study: SFT-301 (Velorantib in moderate-to-severe plaque psoriasis)
+Site: 107, Pune
+Subject ID: 107-0098    Initials: S.P.    Age: 47 years    Sex: Male
+Visit date: 06-Apr-2026
+
+Medical history: No relevant medical history. No concomitant medications.
+
+Study treatment: Velorantib 50 mg orally once daily, started on 09-Mar-2026.
+
+Presenting complaint: Routine week-4 blood test showed a low neutrophil count.
+Event onset: neutropenia first detected on 06-Apr-2026 at the scheduled visit.
+Event: neutropenia, CTCAE grade 3. No fever and no signs of infection.
+=== PAGE BREAK ===
+Assessment and plan
+The subject was admitted to hospital on 06-Apr-2026 for observation and protective isolation.
+Seriousness: hospitalisation.
+Study drug withdrawn on 06-Apr-2026 (last dose 05-Apr-2026).
+Treatment: no specific treatment given; daily blood counts.
+Dechallenge: neutrophil count returned to normal within 6 days after the study drug was withdrawn. Dechallenge positive.
+Rechallenge: study drug has not been restarted.
+Outcome: recovered on 12-Apr-2026. The subject was discharged from hospital on 12-Apr-2026.
+Causality: the investigator assesses the neutropenia as probably related to Velorantib.
+
+Investigator: Dr. Sameer Joshi, Principal Investigator, Site 107
+Received by sponsor drug safety: 13-Apr-2026

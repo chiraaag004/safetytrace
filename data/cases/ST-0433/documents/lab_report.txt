@@ -1,0 +1,11 @@
+CENTRAL LABORATORY REPORT
+Study: SFT-301    Subject: 107-0098    Site: 107
+Sample collected: 06-Apr-2026 08:15
+
+Haematology
+Absolute neutrophil count 0.8 x10^9/L (ref 1.8-7.5) LOW
+WBC 2.6 x10^9/L (ref 4.0-11.0) LOW
+Haemoglobin 14.1 g/dL (ref 13.0-17.0)
+Platelets 231 x10^9/L (ref 150-400)
+
+Comment: Isolated neutropenia. Haemoglobin and platelets within normal limits.
