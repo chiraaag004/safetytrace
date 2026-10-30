@@ -6,7 +6,7 @@
 <title>SafetyTrace</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Geist:wght@400;500;600;700&family=Geist+Mono:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Serif:ital,wght@0,400;0,500;1,400&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="/static/style.css?v=11">
+<link rel="stylesheet" href="/static/style.css?v=12">
 </head>
 <body>
 <header class="top">
@@ -33,6 +33,7 @@
     <button data-v="agent" title="What the agent did, step by step"><b>⟳</b><span>Agent</span></button>
     <button data-v="report" title="The final output document (printable)"><b>▣</b><span>Report</span></button>
     <button data-v="export" title="Exports and audit log"><b>⇩</b><span>Export</span></button>
+    <button data-v="how" title="Architecture: one agent, twelve tools, the checks, and what only a person decides"><b>ⓘ</b><span>How it works</span></button>
     <div class="key" aria-label="Colour key">
       <i style="--k:var(--c-input)">Source</i><i style="--k:var(--c-output)">AI draft</i><i style="--k:var(--c-proof)">Proof</i>
       <i style="--k:var(--c-human)">You</i><i style="--k:var(--c-agent)">Agent</i><i style="--k:var(--c-record)">Record</i>
@@ -41,6 +42,7 @@
   <main id="main"><div class="empty">Loading cases…</div></main>
 </div>
 <div id="toast" class="toast" role="status" aria-live="polite"></div>
-<script src="/static/app.js?v=11"></script>
+<script src="/static/how.js?v=12"></script>
+<script src="/static/app.js?v=12"></script>
 </body>
 </html>

@@ -124,6 +124,7 @@ function go(v, ref) {
   if (ref) setTimeout(() => { const el = document.getElementById("ref-" + ref); if (el) el.scrollIntoView({block: "nearest"}); }, 50);
 }
 function renderView() {
+  if (VIEW === "how") return vHow();   // static explainer: works before any run
   if (!V) return;
   if (V.running && !V.docs.length) {   // first run: show the steps as they happen
     $("#main").innerHTML = `<div class="live"><h2>The agent is working on ${esc(V.case.id)}</h2><ol>${V.live.map(x =>
